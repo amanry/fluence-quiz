@@ -150,8 +150,8 @@ const HindiEnglishQuiz = () => {
     const urlParams = new URLSearchParams(window.location.search);
     const student = urlParams.get('student') || '1'; // Default to student 1
     
-    // Load appropriate question file
-    const questionFile = `/questions-student${student}.json`;
+    // Load appropriate question file (relative path)
+    const questionFile = `questions-student${student}.json`;
     
     fetch(questionFile)
       .then(response => {
@@ -167,7 +167,7 @@ const HindiEnglishQuiz = () => {
       .catch(error => {
         console.error('Error loading questions:', error);
         // Fallback to default questions if student-specific file fails
-        fetch('/questions.json')
+        fetch('questions.json')
           .then(response => response.json())
           .then(data => {
             const shuffledQuestions = [...data].sort(() => Math.random() - 0.5).slice(0, 15);
