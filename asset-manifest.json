@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fluence-quiz/static/css/main.032d41b6.css",
-    "main.js": "/fluence-quiz/static/js/main.649dafb8.js",
+    "main.css": "/fluence-quiz/static/css/main.abc159fa.css",
+    "main.js": "/fluence-quiz/static/js/main.38b3b42e.js",
     "static/js/239.36639259.chunk.js": "/fluence-quiz/static/js/239.36639259.chunk.js",
     "static/js/453.0db79ab9.chunk.js": "/fluence-quiz/static/js/453.0db79ab9.chunk.js",
     "index.html": "/fluence-quiz/index.html",
-    "main.032d41b6.css.map": "/fluence-quiz/static/css/main.032d41b6.css.map",
-    "main.649dafb8.js.map": "/fluence-quiz/static/js/main.649dafb8.js.map",
+    "main.abc159fa.css.map": "/fluence-quiz/static/css/main.abc159fa.css.map",
+    "main.38b3b42e.js.map": "/fluence-quiz/static/js/main.38b3b42e.js.map",
     "239.36639259.chunk.js.map": "/fluence-quiz/static/js/239.36639259.chunk.js.map",
     "453.0db79ab9.chunk.js.map": "/fluence-quiz/static/js/453.0db79ab9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.032d41b6.css",
-    "static/js/main.649dafb8.js"
+    "static/css/main.abc159fa.css",
+    "static/js/main.38b3b42e.js"
   ]
 }
