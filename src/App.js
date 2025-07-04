@@ -378,60 +378,55 @@ const HindiEnglishQuiz = () => {
     }
   }, [voice]);
 
-  // Enhanced speak function with all controls
-  function speak(text) {
+  // SVG Speaker Icon
+  const SpeakerIcon = (props) => (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={props.className || "w-7 h-7"} {...props}>
+      <polygon points="11 5 6 9H2v6h4l5 4V5z" />
+      <path d="M19 5a9 9 0 0 1 0 14" />
+      <path d="M15 9a3 3 0 0 1 0 6" />
+    </svg>
+  );
+  // SVG Turtle Icon
+  const TurtleIcon = (props) => (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={props.className || "w-7 h-7"} {...props}>
+      <ellipse cx="12" cy="12" rx="8" ry="5" />
+      <circle cx="4" cy="12" r="1.5" />
+      <circle cx="20" cy="12" r="1.5" />
+      <path d="M8 17c0 1.5 2 2 4 2s4-.5 4-2" />
+      <path d="M6 7c.5-2 3-3 6-3s5.5 1 6 3" />
+    </svg>
+  );
+
+  // Helper to auto-select voice
+  function getVoiceForText(text, voices) {
+    // Simple check: if text contains Devanagari, use Hindi
+    const hindiChar = /[\u0900-\u097F]/;
+    if (hindiChar.test(text)) {
+      return voices.find(v => v.lang && v.lang.startsWith('hi')) || voices[0];
+    }
+    // Otherwise, prefer English
+    return voices.find(v => v.lang && v.lang.startsWith('en')) || voices[0];
+  }
+
+  // Update speak function to accept rate and auto-select voice
+  function speak(text, customRate = 1) {
     if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel(); // Stop any previous speech
+      window.speechSynthesis.cancel();
       const utter = new window.SpeechSynthesisUtterance(text);
-      utter.voice = voice;
-      utter.pitch = pitch;
-      utter.rate = rate;
-      utter.volume = volume;
-      utter.lang = 'en-US'; // or 'hi-IN' for Hindi
-      
+      const selectedVoice = getVoiceForText(text, voices);
+      utter.voice = selectedVoice;
+      utter.pitch = 1;
+      utter.rate = customRate;
+      utter.volume = 1;
+      utter.lang = selectedVoice?.lang || 'en-US';
       utter.onstart = () => setIsSpeaking(true);
       utter.onend = () => setIsSpeaking(false);
       utter.onpause = () => setIsPaused(true);
       utter.onresume = () => setIsPaused(false);
-      
       utteranceRef.current = utter;
       window.speechSynthesis.speak(utter);
     }
   }
-
-  // Auto-speak on question change
-  useEffect(() => {
-    if (gameState === 'playing' && questions.length > 0 && currentQuestion < questions.length) {
-      speak(questions[currentQuestion].question);
-    }
-  }, [currentQuestion, gameState, voice, pitch, rate, volume]);
-
-  // Speech control functions
-  const handlePlay = () => {
-    if (questions.length > 0 && currentQuestion < questions.length) {
-      speak(questions[currentQuestion].question);
-    }
-  };
-
-  const handlePause = () => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.pause();
-    }
-  };
-
-  const handleResume = () => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.resume();
-    }
-  };
-
-  const handleStop = () => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      setIsSpeaking(false);
-      setIsPaused(false);
-    }
-  };
 
   if (gameState === 'menu') {
     return (
@@ -593,88 +588,22 @@ const HindiEnglishQuiz = () => {
               <p className="text-white text-2xl font-bold mb-6 leading-relaxed">
                 {questions[currentQuestion].question}
               </p>
-              
-              {/* Text-to-Speech Controls */}
-              <div className="bg-white/5 rounded-lg p-4 mb-4">
-                <div className="flex flex-wrap justify-center items-center gap-4 mb-3">
-                  <button
-                    onClick={handlePlay}
-                    className="bg-green-500 hover:bg-green-600 text-white px-3 py-1 rounded-lg text-sm font-medium transition-colors"
-                  >
-                    {isPaused ? 'Resume' : 'Play'}
-                  </button>
-                  <button
-                    onClick={handlePause}
-                    className="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-1 rounded-lg text-sm font-medium transition-colors"
-                  >
-                    Pause
-                  </button>
-                  <button
-                    onClick={handleStop}
-                    className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-medium transition-colors"
-                  >
-                    Stop
-                  </button>
-                  {isSpeaking && (
-                    <span className="text-green-400 text-sm animate-pulse">Speaking...</span>
-                  )}
-                </div>
-                
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs">
-                  <div>
-                    <label className="text-white/80 block mb-1">Voice:</label>
-                    <select
-                      value={voice?.name || ''}
-                      onChange={(e) => setVoice(voices.find(v => v.name === e.target.value))}
-                      className="w-full bg-white/10 text-white rounded px-2 py-1 border border-white/20"
-                    >
-                      {voices.map(v => (
-                        <option key={v.name} value={v.name} className="bg-gray-800">
-                          {v.name} ({v.lang})
-                        </option>
-                      ))}
-                    </select>
-                  </div>
-                  
-                  <div>
-                    <label className="text-white/80 block mb-1">Pitch: {pitch}</label>
-                    <input
-                      type="range"
-                      min="0.5"
-                      max="2"
-                      step="0.1"
-                      value={pitch}
-                      onChange={(e) => setPitch(Number(e.target.value))}
-                      className="w-full"
-                    />
-                  </div>
-                  
-                  <div>
-                    <label className="text-white/80 block mb-1">Speed: {rate}</label>
-                    <input
-                      type="range"
-                      min="0.5"
-                      max="2"
-                      step="0.1"
-                      value={rate}
-                      onChange={(e) => setRate(Number(e.target.value))}
-                      className="w-full"
-                    />
-                  </div>
-                  
-                  <div>
-                    <label className="text-white/80 block mb-1">Volume: {volume}</label>
-                    <input
-                      type="range"
-                      min="0"
-                      max="1"
-                      step="0.1"
-                      value={volume}
-                      onChange={(e) => setVolume(Number(e.target.value))}
-                      className="w-full"
-                    />
-                  </div>
-                </div>
+              {/* Minimal TTS Controls */}
+              <div className="flex justify-center gap-6 mb-4">
+                <button
+                  aria-label="Replay at normal speed"
+                  className="hover:bg-white/20 rounded-full p-2 transition-colors"
+                  onClick={() => speak(questions[currentQuestion].question, 1)}
+                >
+                  <SpeakerIcon className="w-8 h-8 text-blue-300" />
+                </button>
+                <button
+                  aria-label="Replay at slow speed"
+                  className="hover:bg-white/20 rounded-full p-2 transition-colors"
+                  onClick={() => speak(questions[currentQuestion].question, 0.6)}
+                >
+                  <TurtleIcon className="w-8 h-8 text-green-400" />
+                </button>
               </div>
               
               {showPowerUpEffect && (
