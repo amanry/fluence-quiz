@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluence-quiz/static/css/main.c0607cd4.css",
+    "main.js": "/fluence-quiz/static/js/main.0cd81caf.js",
+    "static/js/453.0db79ab9.chunk.js": "/fluence-quiz/static/js/453.0db79ab9.chunk.js",
+    "index.html": "/fluence-quiz/index.html",
+    "main.c0607cd4.css.map": "/fluence-quiz/static/css/main.c0607cd4.css.map",
+    "main.0cd81caf.js.map": "/fluence-quiz/static/js/main.0cd81caf.js.map",
+    "453.0db79ab9.chunk.js.map": "/fluence-quiz/static/js/453.0db79ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0607cd4.css",
+    "static/js/main.0cd81caf.js"
+  ]
+}
