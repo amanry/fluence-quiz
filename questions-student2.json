@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "correct": "Jupiter",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ]
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "correct": "William Shakespeare",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen", 
+      "Mark Twain"
+    ]
+  }
+] 
