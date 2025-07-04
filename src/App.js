@@ -19,8 +19,18 @@ const HindiEnglishQuiz = () => {
   const [powerUps, setPowerUps] = useState({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
   const [showPowerUpEffect, setShowPowerUpEffect] = useState('');
   
+  // Text-to-Speech states
+  const [voice, setVoice] = useState(null);
+  const [voices, setVoices] = useState([]);
+  const [pitch, setPitch] = useState(1);
+  const [rate, setRate] = useState(1);
+  const [volume, setVolume] = useState(1);
+  const [isPaused, setIsPaused] = useState(false);
+  const [isSpeaking, setIsSpeaking] = useState(false);
+  
   const timerRef = useRef(null);
   const backgroundMusicRef = useRef(null);
+  const utteranceRef = useRef(null);
 
   // Quiz questions data
   const quizData = [
@@ -326,6 +336,76 @@ const HindiEnglishQuiz = () => {
     return { rating: "💪 KEEP TRYING!", color: "text-red-400" };
   };
 
+  // Load available voices
+  useEffect(() => {
+    if ('speechSynthesis' in window) {
+      const loadVoices = () => {
+        const allVoices = window.speechSynthesis.getVoices();
+        setVoices(allVoices);
+        if (allVoices.length > 0 && !voice) {
+          setVoice(allVoices[0]);
+        }
+      };
+      loadVoices();
+      window.speechSynthesis.onvoiceschanged = loadVoices;
+    }
+  }, [voice]);
+
+  // Enhanced speak function with all controls
+  function speak(text) {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel(); // Stop any previous speech
+      const utter = new window.SpeechSynthesisUtterance(text);
+      utter.voice = voice;
+      utter.pitch = pitch;
+      utter.rate = rate;
+      utter.volume = volume;
+      utter.lang = 'en-US'; // or 'hi-IN' for Hindi
+      
+      utter.onstart = () => setIsSpeaking(true);
+      utter.onend = () => setIsSpeaking(false);
+      utter.onpause = () => setIsPaused(true);
+      utter.onresume = () => setIsPaused(false);
+      
+      utteranceRef.current = utter;
+      window.speechSynthesis.speak(utter);
+    }
+  }
+
+  // Auto-speak on question change
+  useEffect(() => {
+    if (gameState === 'playing' && questions.length > 0 && currentQuestion < questions.length) {
+      speak(questions[currentQuestion].question);
+    }
+  }, [currentQuestion, gameState, voice, pitch, rate, volume]);
+
+  // Speech control functions
+  const handlePlay = () => {
+    if (questions.length > 0 && currentQuestion < questions.length) {
+      speak(questions[currentQuestion].question);
+    }
+  };
+
+  const handlePause = () => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.pause();
+    }
+  };
+
+  const handleResume = () => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.resume();
+    }
+  };
+
+  const handleStop = () => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      setIsSpeaking(false);
+      setIsPaused(false);
+    }
+  };
+
   if (gameState === 'menu') {
     return (
       <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 flex items-center justify-center p-4">
@@ -486,6 +566,89 @@ const HindiEnglishQuiz = () => {
               <p className="text-white text-2xl font-bold mb-6 leading-relaxed">
                 {questions[currentQuestion].question}
               </p>
+              
+              {/* Text-to-Speech Controls */}
+              <div className="bg-white/5 rounded-lg p-4 mb-4">
+                <div className="flex flex-wrap justify-center items-center gap-4 mb-3">
+                  <button
+                    onClick={handlePlay}
+                    className="bg-green-500 hover:bg-green-600 text-white px-3 py-1 rounded-lg text-sm font-medium transition-colors"
+                  >
+                    {isPaused ? 'Resume' : 'Play'}
+                  </button>
+                  <button
+                    onClick={handlePause}
+                    className="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-1 rounded-lg text-sm font-medium transition-colors"
+                  >
+                    Pause
+                  </button>
+                  <button
+                    onClick={handleStop}
+                    className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-medium transition-colors"
+                  >
+                    Stop
+                  </button>
+                  {isSpeaking && (
+                    <span className="text-green-400 text-sm animate-pulse">Speaking...</span>
+                  )}
+                </div>
+                
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs">
+                  <div>
+                    <label className="text-white/80 block mb-1">Voice:</label>
+                    <select
+                      value={voice?.name || ''}
+                      onChange={(e) => setVoice(voices.find(v => v.name === e.target.value))}
+                      className="w-full bg-white/10 text-white rounded px-2 py-1 border border-white/20"
+                    >
+                      {voices.map(v => (
+                        <option key={v.name} value={v.name} className="bg-gray-800">
+                          {v.name} ({v.lang})
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+                  
+                  <div>
+                    <label className="text-white/80 block mb-1">Pitch: {pitch}</label>
+                    <input
+                      type="range"
+                      min="0.5"
+                      max="2"
+                      step="0.1"
+                      value={pitch}
+                      onChange={(e) => setPitch(Number(e.target.value))}
+                      className="w-full"
+                    />
+                  </div>
+                  
+                  <div>
+                    <label className="text-white/80 block mb-1">Speed: {rate}</label>
+                    <input
+                      type="range"
+                      min="0.5"
+                      max="2"
+                      step="0.1"
+                      value={rate}
+                      onChange={(e) => setRate(Number(e.target.value))}
+                      className="w-full"
+                    />
+                  </div>
+                  
+                  <div>
+                    <label className="text-white/80 block mb-1">Volume: {volume}</label>
+                    <input
+                      type="range"
+                      min="0"
+                      max="1"
+                      step="0.1"
+                      value={volume}
+                      onChange={(e) => setVolume(Number(e.target.value))}
+                      className="w-full"
+                    />
+                  </div>
+                </div>
+              </div>
               
               {showPowerUpEffect && (
                 <div className="absolute inset-0 flex items-center justify-center">
