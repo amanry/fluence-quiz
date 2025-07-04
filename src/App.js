@@ -144,12 +144,39 @@ const HindiEnglishQuiz = () => {
   const [questions, setQuestions] = useState([]);
   const [currentOptions, setCurrentOptions] = useState([]);
 
+  // Fetch questions from JSON file based on student parameter
   useEffect(() => {
-    fetch('/questions.json')
-      .then(res => res.json())
+    // Get student parameter from URL (e.g., ?student=1, ?student=2, ?student=3)
+    const urlParams = new URLSearchParams(window.location.search);
+    const student = urlParams.get('student') || '1'; // Default to student 1
+    
+    // Load appropriate question file
+    const questionFile = `/questions-student${student}.json`;
+    
+    fetch(questionFile)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(data => {
         const shuffledQuestions = [...data].sort(() => Math.random() - 0.5).slice(0, 15);
         setQuestions(shuffledQuestions);
+      })
+      .catch(error => {
+        console.error('Error loading questions:', error);
+        // Fallback to default questions if student-specific file fails
+        fetch('/questions.json')
+          .then(response => response.json())
+          .then(data => {
+            const shuffledQuestions = [...data].sort(() => Math.random() - 0.5).slice(0, 15);
+            setQuestions(shuffledQuestions);
+          })
+          .catch(fallbackError => {
+            console.error('Error loading fallback questions:', fallbackError);
+            setQuestions([]);
+          });
       });
   }, []);
 
