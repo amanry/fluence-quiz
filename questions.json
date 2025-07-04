@@ -1,12 +1,1002 @@
 [
-  {
-    "question": "What does \"to feel under the weather\" mean?",
-    "correct": "To feel slightly ill or sick",
-    "options": [
-      "To enjoy bad weather",
-      "To feel slightly ill or sick",
-      "To be outdoors in the rain",
-      "To forecast the weather"
-    ]
-  }
-]
+    {
+      "question": "कोई काम जो बहुत आसान हो।",
+      "correct": "Something that is very easy to do.",
+      "options": [
+        "A difficult task.",
+        "A piece of cake.",
+        "Something that is very easy to do.",
+        "A challenging problem."
+      ]
+    },
+    {
+      "question": "थोड़ा बीमार महसूस करना।",
+      "correct": "To feel slightly ill or sick.",
+      "options": [
+        "To feel very healthy.",
+        "To feel slightly ill or sick.",
+        "To be energetic.",
+        "To feel happy."
+      ]
+    },
+    {
+      "question": "बहुत महंगा होना।",
+      "correct": "To be very expensive.",
+      "options": [
+        "To be very cheap.",
+        "To be affordable.",
+        "To be very expensive.",
+        "To be reasonably priced."
+      ]
+    },
+    {
+      "question": "गंभीरता से पढ़ाई शुरू करना।",
+      "correct": "To begin to study in a serious and determined way.",
+      "options": [
+        "To stop studying.",
+        "To begin to study in a serious and determined way.",
+        "To take a break from studies.",
+        "To study casually."
+      ]
+    },
+    {
+      "question": "गलती से कोई रहस्य उजागर कर देना।",
+      "correct": "To reveal a secret carelessly or by mistake.",
+      "options": [
+        "To keep a secret.",
+        "To reveal a secret carelessly or by mistake.",
+        "To hide information.",
+        "To tell a secret intentionally."
+      ]
+    },
+    {
+      "question": "अब निर्णय लेने की बारी आपकी है।",
+      "correct": "It is now your turn to make a decision or take the next step.",
+      "options": [
+        "It is my decision now.",
+        "It is now your turn to make a decision or take the next step.",
+        "I will decide for you.",
+        "The decision is not yours."
+      ]
+    },
+    {
+      "question": "बहुत प्यारा व्यक्ति, आँखों का तारा।",
+      "correct": "A person who is cherished above all others.",
+      "options": [
+        "A person who is disliked.",
+        "A person who is ignored.",
+        "A person who is cherished above all others.",
+        "A person who is ordinary."
+      ]
+    },
+    {
+      "question": "बिल्कुल आखिरी समय पर।",
+      "correct": "At the very last minute.",
+      "options": [
+        "Very early.",
+        "On time.",
+        "At the very last minute.",
+        "In the middle of the task."
+      ]
+    },
+    {
+      "question": "आरामदायक और आसान जीवन।",
+      "correct": "A comfortable and easy situation or life.",
+      "options": [
+        "A difficult life.",
+        "A comfortable and easy situation or life.",
+        "A challenging situation.",
+        "A complicated life."
+      ]
+    },
+    {
+      "question": "घुमा-फिराकर बात करना।",
+      "correct": "To avoid talking about the main topic and speak in a roundabout way.",
+      "options": [
+        "To speak directly.",
+        "To avoid talking about the main topic and speak in a roundabout way.",
+        "To be clear and concise.",
+        "To address the issue directly."
+      ]
+    },
+    {
+      "question": "एक कठिन परिस्थिति का साहसपूर्वक सामना करना।",
+      "correct": "To face a difficult situation with courage.",
+      "options": [
+        "To avoid a difficult situation.",
+        "To give up easily.",
+        "To face a difficult situation with courage.",
+        "To run from problems."
+      ]
+    },
+    {
+      "question": "चुप्पी तोड़ना और बातचीत शुरू करना।",
+      "correct": "To say or do something to relieve tension and start a conversation.",
+      "options": [
+        "To remain silent.",
+        "To say or do something to relieve tension and start a conversation.",
+        "To make someone uncomfortable.",
+        "To end a conversation."
+      ]
+    },
+    {
+      "question": "देर रात तक काम करना या पढ़ना।",
+      "correct": "To work or study late into the night.",
+      "options": [
+        "To finish work early.",
+        "To work or study late into the night.",
+        "To relax in the evening.",
+        "To sleep early."
+      ]
+    },
+    {
+      "question": "जो हो चुका है उस पर दुखी होना।",
+      "correct": "To be unhappy about something that has happened and cannot be changed.",
+      "options": [
+        "To accept what happened.",
+        "To be unhappy about something that has happened and cannot be changed.",
+        "To find a solution.",
+        "To move on from the past."
+      ]
+    },
+    {
+      "question": "पैसे या मेहनत बचाने के लिए कोई काम गलत तरीके से करना।",
+      "correct": "To do something in the easiest or cheapest way, often by sacrificing quality.",
+      "options": [
+        "To do something with great quality.",
+        "To do something in the easiest or cheapest way, often by sacrificing quality.",
+        "To invest more effort.",
+        "To maintain high standards."
+      ]
+    },
+    {
+      "question": "अपने किए का परिणाम भुगतना।",
+      "correct": "To accept criticism or punishment for something you have done.",
+      "options": [
+        "To avoid consequences.",
+        "To accept criticism or punishment for something you have done.",
+        "To blame others.",
+        "To escape responsibility."
+      ]
+    },
+    {
+      "question": "एक कठिन समस्या या मुश्किल व्यक्ति।",
+      "correct": "A difficult problem to solve or a difficult person to understand.",
+      "options": [
+        "An easy problem.",
+        "A simple person.",
+        "A difficult problem to solve or a difficult person to understand.",
+        "A straightforward task."
+      ]
+    },
+    {
+      "question": "किसी प्रक्रिया या गतिविधि को शुरू करना।",
+      "correct": "To start a process or activity.",
+      "options": [
+        "To stop a process.",
+        "To end an activity.",
+        "To start a process or activity.",
+        "To delay a task."
+      ]
+    },
+    {
+      "question": "मज़ाक में किसी की टांग खींचना।",
+      "correct": "To joke with someone by telling them something that is not true.",
+      "options": [
+        "To praise someone.",
+        "To be serious with someone.",
+        "To joke with someone by telling them something that is not true.",
+        "To insult someone."
+      ]
+    },
+    {
+      "question": "किसी से पूरी तरह सहमत होना।",
+      "correct": "To agree with someone completely.",
+      "options": [
+        "To disagree with someone.",
+        "To have a different opinion.",
+        "To agree with someone completely.",
+        "To partially agree."
+      ]
+    },
+    {
+      "question": "बहुत कम, कभी-कभार ।",
+      "correct": "Very rarely.",
+      "options": [
+        "Very often.",
+        "Frequently.",
+        "Very rarely.",
+        "Always."
+      ]
+    },
+    {
+      "question": "जलती आग में घी डालना।",
+      "correct": "To make a bad situation even worse.",
+      "options": [
+        "To calm a situation.",
+        "To improve a situation.",
+        "To make a bad situation even worse.",
+        "To resolve a conflict."
+      ]
+    },
+    {
+      "question": "कोई निर्णय लेने से बचना, दुविधा में रहना।",
+      "correct": "To avoid making a decision or choosing a side.",
+      "options": [
+        "To make a quick decision.",
+        "To take a stand.",
+        "To avoid making a decision or choosing a side.",
+        "To be decisive."
+      ]
+    },
+    {
+      "question": "छोटी सी बात पर बतंगड़ बनाना।",
+      "correct": "A lot of unnecessary anger and worry about a matter that is not important.",
+      "options": [
+        "To calmly discuss a minor issue.",
+        "To trivialise a big problem.",
+        "A lot of unnecessary anger and worry about a matter that is not important.",
+        "To focus on important matters."
+      ]
+    },
+    {
+      "question": "किसी बात पर पूरी तरह से विश्वास न करना।",
+      "correct": "To not completely believe something that you are told.",
+      "options": [
+        "To believe everything.",
+        "To trust completely.",
+        "To not completely believe something that you are told.",
+        "To accept without question."
+      ]
+    },
+    {
+      "question": "राज खोल देना।",
+      "correct": "To tell a secret.",
+      "options": [
+        "To keep a secret.",
+        "To hide information.",
+        "To tell a secret.",
+        "To conceal facts."
+      ]
+    },
+    {
+      "question": "किसी की बात को अनसुना कर देना।",
+      "correct": "To ignore someone when they complain or ask for something.",
+      "options": [
+        "To listen carefully.",
+        "To respond to requests.",
+        "To ignore someone when they complain or ask for something.",
+        "To pay attention."
+      ]
+    },
+    {
+      "question": "बिल्कुल सही बात कहना।",
+      "correct": "To describe exactly what is causing a situation or problem.",
+      "options": [
+        "To speak incorrectly.",
+        "To mislead someone.",
+        "To describe exactly what is causing a situation or problem.",
+        "To make a wrong assessment."
+      ]
+    },
+    {
+      "question": "बहुत ज़्यादा खुश होना, सातवें आसमान पर होना।",
+      "correct": "To be extremely happy and joyful.",
+      "options": [
+        "To be sad.",
+        "To be extremely happy and joyful.",
+        "To be angry.",
+        "To be indifferent."
+      ]
+    },
+    {
+      "question": "छुपा हुआ वरदान, किसी बुरी चीज़ में कुछ अच्छा निकलना।",
+      "correct": "Something that seems bad or unlucky at first, but results in something good later on.",
+      "options": [
+        "Something that is always bad.",
+        "Something that only brings misfortune.",
+        "Something that seems bad or unlucky at first, but results in something good later on.",
+        "A negative outcome."
+      ]
+    },
+    {
+      "question": "अपेक्षा से अधिक मेहनत और प्रयास करना।",
+      "correct": "To make a special effort to do or achieve something.",
+      "options": [
+        "To do the bare minimum.",
+        "To make a special effort to do or achieve something.",
+        "To put in less effort.",
+        "To be lazy."
+      ]
+    },
+    {
+      "question": "एक व्यक्ति जो अपरिचित स्थिति में असहज महसूस करता है।",
+      "correct": "A person who feels uncomfortable because they are in an unfamiliar situation.",
+      "options": [
+        "A person who is confident in new situations.",
+        "A person who is comfortable everywhere.",
+        "A person who feels uncomfortable because they are in an unfamiliar situation.",
+        "A person who loves new challenges."
+      ]
+    },
+    {
+      "question": "किसी लक्ष्य को प्राप्त करने के लिए हर संभव प्रयास करना, कोई कसर नहीं छोड़ना।",
+      "correct": "To do everything possible to achieve a goal.",
+      "options": [
+        "To give up easily on a goal.",
+        "To do everything possible to achieve a goal.",
+        "To put in minimal effort.",
+        "To make no attempt."
+      ]
+    },
+    {
+      "question": "संक्षेप में बताना।",
+      "correct": "To tell something briefly, without giving all the details.",
+      "options": [
+        "To explain in detail.",
+        "To elaborate on a topic.",
+        "To tell something briefly, without giving all the details.",
+        "To provide extensive information."
+      ]
+    },
+    {
+      "question": "अचानक और अप्रत्याशित रूप से।",
+      "correct": "Suddenly and unexpectedly.",
+      "options": [
+        "As planned.",
+        "Gradually.",
+        "Suddenly and unexpectedly.",
+        "Predictably."
+      ]
+    },
+    {
+      "question": "किसी विचार पर अच्छी चर्चा करने के लिए उससे असहमत होने का नाटक करना।",
+      "correct": "To pretend to disagree with an idea in order to have a good discussion about it.",
+      "options": [
+        "To genuinely agree with an idea.",
+        "To avoid discussion.",
+        "To pretend to disagree with an idea in order to have a good discussion about it.",
+        "To unconditionally support an idea."
+      ]
+    },
+    {
+      "question": "कुछ गलत होने का शक होना, दाल में कुछ काला लगना।",
+      "correct": "To suspect that something is wrong or that someone is trying to deceive you.",
+      "options": [
+        "To trust completely.",
+        "To feel everything is normal.",
+        "To suspect that something is wrong or that someone is trying to deceive you.",
+        "To be certain everything is correct."
+      ]
+    },
+    {
+      "question": "किसी और के काम का श्रेय लेना।",
+      "correct": "To take credit for something someone else did or to do something before someone else gets the chance to.",
+      "options": [
+        "To give credit to others.",
+        "To acknowledge someone else's work.",
+        "To take credit for something someone else did or to do something before someone else gets the chance to.",
+        "To share praise."
+      ]
+    },
+    {
+      "question": "हार मान लेना।",
+      "correct": "To give up on something; to admit defeat.",
+      "options": [
+        "To continue fighting.",
+        "To persevere.",
+        "To give up on something; to admit defeat.",
+        "To keep trying."
+      ]
+    },
+    {
+      "question": "कठिन परिस्थिति में हिम्मत बनाए रखना।",
+      "correct": "To remain cheerful and brave in a difficult situation.",
+      "options": [
+        "To lose hope.",
+        "To become sad in a tough time.",
+        "To remain cheerful and brave in a difficult situation.",
+        "To give up easily."
+      ]
+    },
+    {
+      "question": "किसी काम को करने से पहले अचानक घबरा जाना।",
+      "correct": "To suddenly become too nervous or frightened to do something you had planned.",
+      "options": [
+        "To feel confident before a task.",
+        "To be excited about doing something.",
+        "To suddenly become too nervous or frightened to do something you had planned.",
+        "To be eager to proceed."
+      ]
+    },
+    {
+      "question": "किसी और के जैसी ही मुश्किल परिस्थिति में होना।",
+      "correct": "To be in the same difficult situation as someone else.",
+      "options": [
+        "To be in a better situation than others.",
+        "To be in a comfortable position.",
+        "To be in the same difficult situation as someone else.",
+        "To be unaffected by problems."
+      ]
+    },
+    {
+      "question": "ऊंट के मुंह में जीरा।",
+      "correct": "A very small amount compared to what is needed or expected.",
+      "options": [
+        "A large quantity.",
+        "More than enough.",
+        "A very small amount compared to what is needed or expected.",
+        "An adequate supply."
+      ]
+    },
+    {
+      "question": "बातों से ज़्यादा काम मायने रखता है।",
+      "correct": "What you do is more important and shows your true intentions more than what you say.",
+      "options": [
+        "Words are more important than actions.",
+        "What you do is more important and shows your true intentions more than what you say.",
+        "Promises are more important than deeds.",
+        "Saying is more impactful than doing."
+      ]
+    },
+    {
+      "question": "अपनी क्षमता से अधिक काम हाथ में लेना।",
+      "correct": "To try to do something that is too difficult or too much for you.",
+      "options": [
+        "To take on easy tasks.",
+        "To underestimate your abilities.",
+        "To try to do something that is too difficult or too much for you.",
+        "To take on fewer responsibilities."
+      ]
+    },
+    {
+      "question": "शुभकामनाएं देना।",
+      "correct": "A way to say \"good luck\" to someone, especially an actor or performer.",
+      "options": [
+        "To wish bad luck.",
+        "To criticize someone's performance.",
+        "A way to say \"good luck\" to someone, especially an actor or performer.",
+        "To give negative feedback."
+      ]
+    },
+    {
+      "question": "हर निराशा में एक आशा की किरण होती है।",
+      "correct": "Every difficult or sad situation has a comforting or more hopeful aspect, even though it may not be immediately apparent.",
+      "options": [
+        "Some situations are completely hopeless.",
+        "Every difficult or sad situation has a comforting or more hopeful aspect, even though it may not be immediately apparent.",
+        "Difficulties never lead to anything good.",
+        "There is no silver lining in bad times."
+      ]
+    },
+    {
+      "question": "नई जगह पर जम जाना या सहज हो जाना।",
+      "correct": "To become confident and comfortable in a new situation.",
+      "options": [
+        "To remain uncomfortable in a new place.",
+        "To struggle to adapt.",
+        "To become confident and comfortable in a new situation.",
+        "To never settle in."
+      ]
+    },
+    {
+      "question": "नियंत्रण से बाहर हो जाना।",
+      "correct": "To become difficult to control.",
+      "options": [
+        "To be easily managed.",
+        "To maintain control.",
+        "To become difficult to control.",
+        "To be under strict supervision."
+      ]
+    },
+    {
+      "question": "किसी विश्वसनीय स्रोत से सीधे जानकारी मिलना।",
+      "correct": "To hear information directly from the person who is most knowledgeable about it.",
+      "options": [
+        "To get information from unreliable sources.",
+        "To hear rumors.",
+        "To hear information directly from the person who is most knowledgeable about it.",
+        "To get information indirectly."
+      ]
+    },
+    {
+      "question": "लोकप्रिय या सफल हो रहे काम में शामिल हो जाना।",
+      "correct": "To join an activity or movement that has become popular or successful.",
+      "options": [
+        "To avoid popular trends.",
+        "To stick to unpopular activities.",
+        "To join an activity or movement that has become popular or successful.",
+        "To start a new unpopular trend."
+      ]
+    },
+    {
+      "question": "यह कोई बहुत मुश्किल काम नहीं है।",
+      "correct": "It is not difficult to understand.",
+      "options": [
+        "It's very complicated.",
+        "It's extremely hard to grasp.",
+        "It is not difficult to understand.",
+        "It requires advanced knowledge."
+      ]
+    },
+    {
+      "question": "एक बुरी स्थिति को और भी बदतर बना देना।",
+      "correct": "To make a bad situation even more difficult or unpleasant.",
+      "options": [
+        "To improve a situation.",
+        "To make a bad situation even more difficult or unpleasant.",
+        "To resolve a problem.",
+        "To alleviate stress."
+      ]
+    },
+    {
+      "question": "मेरे मतलब की चीज नहीं, मुझे पसंद नहीं।",
+      "correct": "Not something that you like or are interested in.",
+      "options": [
+        "Something I really enjoy.",
+        "Something that aligns with my interests.",
+        "Not something that you like or are interested in.",
+        "Something I am very fond of."
+      ]
+    },
+    {
+      "question": "बहुत होशियार और हर स्थिति के लिए तैयार रहना।",
+      "correct": "To be quick to understand and react to things; to be alert and competent.",
+      "options": [
+        "To be slow to understand.",
+        "To be unprepared for situations.",
+        "To be quick to understand and react to things; to be alert and competent.",
+        "To be oblivious."
+      ]
+    },
+    {
+      "question": "कुछ सुना-सुना सा लगना।",
+      "correct": "To sound familiar; you think you have heard it before.",
+      "options": [
+        "To be completely new.",
+        "To sound unfamiliar.",
+        "To sound familiar; you think you have heard it before.",
+        "To be unrecognizable."
+      ]
+    },
+    {
+      "question": "दोनों हाथों में लड्डू होना।",
+      "correct": "A situation in which you can enjoy the advantages of two very different things at the same time.",
+      "options": [
+        "A situation with no advantages.",
+        "A win-lose situation.",
+        "A situation in which you can enjoy the advantages of two very different things at the same time.",
+        "A dilemma."
+      ]
+    },
+    {
+      "question": "किसी को कुछ करने के लिए मनाना या मजबूर करना।",
+      "correct": "To persuade someone to do something they are reluctant to do.",
+      "options": [
+        "To discourage someone.",
+        "To allow someone to refuse.",
+        "To persuade someone to do something they are reluctant to do.",
+        "To stop someone from doing something."
+      ]
+    },
+    {
+      "question": "छुपे हुए वरदान की तरह।",
+      "correct": "Something that seems bad at first but results in something good.",
+      "options": [
+        "A completely bad outcome.",
+        "A negative event with no upside.",
+        "Something that seems bad at first but results in something good.",
+        "An unexpected problem."
+      ]
+    },
+    {
+      "question": "जले पर नमक छिड़कना",
+      "correct": "To make a bad situation even worse for someone.",
+      "options": [
+        "To offer comfort.",
+        "To improve a bad situation.",
+        "To make a bad situation even worse for someone.",
+        "To heal a wound."
+      ]
+    },
+    {
+      "question": "आज के लिए काम खत्म करना।",
+      "correct": "To decide to stop working on something for the day.",
+      "options": [
+        "To continue working for longer.",
+        "To start new work.",
+        "To decide to stop working on something for the day.",
+        "To work endlessly."
+      ]
+    },
+    {
+      "question": "मन का बोझ हल्का करना।",
+      "correct": "To tell someone about something that has been worrying you, so that you feel better.",
+      "options": [
+        "To keep worries to yourself.",
+        "To suppress emotions.",
+        "To tell someone about something that has been worrying you, so that you feel better.",
+        "To add to your burdens."
+      ]
+    },
+    {
+      "question": "नए सिरे से फिर से योजना बनाना।",
+      "correct": "To start planning something again because the first plan failed.",
+      "options": [
+        "To stick to the original plan.",
+        "To abandon a plan entirely.",
+        "To start planning something again because the first plan failed.",
+        "To implement a failed plan."
+      ]
+    },
+    {
+      "question": "हिम्मत न हारना, डटे रहना।",
+      "correct": "To not give up, to persevere through a difficult situation.",
+      "options": [
+        "To give up easily.",
+        "To surrender.",
+        "To not give up, to persevere through a difficult situation.",
+        "To retreat from challenges."
+      ]
+    },
+    {
+      "question": "गुस्से या उत्तेजना में बिना सोचे-समझे कुछ कह देना या कर देना।",
+      "correct": "To say or do something suddenly without thinking because you are angry or excited.",
+      "options": [
+        "To act thoughtfully and calmly.",
+        "To suppress emotions.",
+        "To say or do something suddenly without thinking because you are angry or excited.",
+        "To plan every action."
+      ]
+    },
+    {
+      "question": "एक हाथ से ताली नहीं बजती।",
+      "correct": "Both people involved in a difficult situation are equally responsible for it.",
+      "options": [
+        "Only one person is responsible for a problem.",
+        "It is always one-sided.",
+        "Both people involved in a difficult situation are equally responsible for it.",
+        "One person can solve a conflict alone."
+      ]
+    },
+    {
+      "question": "बिना सोचे-समझे किसी नतीजे पर पहुंचना।",
+      "correct": "To make a decision about something too quickly, without knowing all the facts.",
+      "options": [
+        "To consider all facts before deciding.",
+        "To be patient in decision-making.",
+        "To make a decision about something too quickly, without knowing all the facts.",
+        "To wait for complete information."
+      ]
+    },
+    {
+      "question": "किसी बुरी चीज़ को दूर रखना।",
+      "correct": "To prevent something dangerous or unpleasant from happening or from coming too close.",
+      "options": [
+        "To invite danger.",
+        "To ignore risks.",
+        "To prevent something dangerous or unpleasant from happening or from coming too close.",
+        "To allow problems to approach."
+      ]
+    },
+    {
+      "question": "किसी चीज़ को बहुत अच्छी तरह से जानना।",
+      "correct": "To know something very well.",
+      "options": [
+        "To know something superficially.",
+        "To be unfamiliar with something.",
+        "To know something very well.",
+        "To have limited knowledge."
+      ]
+    },
+    {
+      "question": "गड़े मुर्दे न उखाड़ना।",
+      "correct": "To avoid restarting a conflict or argument; to leave a situation as it is.",
+      "options": [
+        "To bring up old issues.",
+        "To re-ignite past conflicts.",
+        "To avoid restarting a conflict or argument; to leave a situation as it is.",
+        "To dwell on old problems."
+      ]
+    },
+    {
+      "question": "मुसीबत में होना।",
+      "correct": "To be in a difficult situation or in trouble.",
+      "options": [
+        "To be in a favorable position.",
+        "To be problem-free.",
+        "To be in a difficult situation or in trouble.",
+        "To be at ease."
+      ]
+    },
+    {
+      "question": "कुछ भी करने से पहले अच्छी तरह सोच लो।",
+      "correct": "You should think carefully about the possible consequences before you do something.",
+      "options": [
+        "Act impulsively.",
+        "Jump into action without thought.",
+        "You should think carefully about the possible consequences before you do something.",
+        "Don't consider outcomes."
+      ]
+    },
+    {
+      "question": "मौका गंवा देना।",
+      "correct": "To lose an opportunity to do something by being slow to act.",
+      "options": [
+        "To seize an opportunity.",
+        "To act quickly.",
+        "To lose an opportunity to do something by being slow to act.",
+        "To create opportunities."
+      ]
+    },
+    {
+      "question": "यह पूछने का एक तरीका कि कोई क्या सोच रहा है।",
+      "correct": "A way of asking what someone is thinking about.",
+      "options": [
+        "A way of telling someone what to think.",
+        "A way of ignoring someone's thoughts.",
+        "A way of asking what someone is thinking about.",
+        "A way of imposing your thoughts."
+      ]
+    },
+    {
+      "question": "स्थिति के अनुसार काम करना।",
+      "correct": "To decide how to deal with a situation as it develops, rather than planning in advance.",
+      "options": [
+        "To strictly follow a pre-planned schedule.",
+        "To act without any thought.",
+        "To decide how to deal with a situation as it develops, rather than planning in advance.",
+        "To ignore the current situation."
+      ]
+    },
+    {
+      "question": "एक तस्वीर हज़ार शब्दों के बराबर होती है।",
+      "correct": "It is easier to show or understand something through a picture than through words.",
+      "options": [
+        "Words are always more effective than pictures.",
+        "A picture is only worth a few words.",
+        "It is easier to show or understand something through a picture than through words.",
+        "Pictures are often misleading."
+      ]
+    },
+    {
+      "question": "अपना सब कुछ एक ही चीज़ पर दांव पर लगाना।",
+      "correct": "To risk everything for one single plan or idea.",
+      "options": [
+        "To diversify risks.",
+        "To invest cautiously.",
+        "To risk everything for one single plan or idea.",
+        "To avoid any risk."
+      ]
+    },
+    {
+      "question": "किसी के रंग में भंग डालना।",
+      "correct": "To spoil someone's pleasure or plans.",
+      "options": [
+        "To enhance someone's joy.",
+        "To encourage someone's plans.",
+        "To spoil someone's pleasure or plans.",
+        "To help someone achieve their goals."
+      ]
+    },
+    {
+      "question": "किसी प्रस्ताव को विनम्रतापूर्वक बाद के लिए टालना।",
+      "correct": "To politely refuse an offer now, with the hope that you may accept it later.",
+      "options": [
+        "To accept an offer immediately.",
+        "To rudely decline an offer.",
+        "To politely refuse an offer now, with the hope that you may accept it later.",
+        "To never accept an offer."
+      ]
+    },
+    {
+      "question": "सहनशीलता की अंतिम सीमा।",
+      "correct": "The final problem in a series of problems that makes a situation unbearable.",
+      "options": [
+        "The beginning of a problem.",
+        "A minor inconvenience.",
+        "The final problem in a series of problems that makes a situation unbearable.",
+        "A solution to a problem."
+      ]
+    },
+    {
+      "question": "एक तीर से दो निशाने लगाना।",
+      "correct": "To achieve two things by doing a single action.",
+      "options": [
+        "To achieve one goal at a time.",
+        "To do multiple unrelated tasks.",
+        "To achieve two things by doing a single action.",
+        "To waste effort."
+      ]
+    },
+    {
+      "question": "किसी को जानबूझकर नजरअंदाज करना।",
+      "correct": "To intentionally ignore someone or treat them in an unfriendly way.",
+      "options": [
+        "To pay close attention to someone.",
+        "To be friendly and welcoming.",
+        "To intentionally ignore someone or treat them in an unfriendly way.",
+        "To engage with someone kindly."
+      ]
+    },
+    {
+      "question": "राई का पहाड़ बनाना।",
+      "correct": "To make a small problem seem like a big and important one.",
+      "options": [
+        "To downplay a serious issue.",
+        "To make a small problem seem like a big and important one.",
+        "To simplify complex matters.",
+        "To ignore minor issues."
+      ]
+    },
+    {
+      "question": "अज्ञानता में ही सुख है।",
+      "correct": "Sometimes it is better for you not to know all the facts about a situation.",
+      "options": [
+        "Knowledge always brings happiness.",
+        "It's always best to know everything.",
+        "Sometimes it is better for you not to know all the facts about a situation.",
+        "Ignorance leads to suffering."
+      ]
+    },
+    {
+      "question": "किसी को उसके बाहरी रूप से नहीं आंकना चाहिए।",
+      "correct": "You should not form an opinion about someone or something based on their outward appearance.",
+      "options": [
+        "Always judge based on appearance.",
+        "Appearance is the most important factor.",
+        "You should not form an opinion about someone or something based on their outward appearance.",
+        "First impressions are always accurate."
+      ]
+    },
+    {
+      "question": "एक ही बात पर सहमत होना।",
+      "correct": "To have the same understanding or to agree on something.",
+      "options": [
+        "To have conflicting views.",
+        "To disagree on a point.",
+        "To have the same understanding or to agree on something.",
+        "To have different interpretations."
+      ]
+    },
+    {
+      "question": "एक जैसे होना, बहुत मिलना-जुलना।",
+      "correct": "To be very similar, especially in appearance or interests.",
+      "options": [
+        "To be very different.",
+        "To have contrasting characteristics.",
+        "To be very similar, especially in appearance or interests.",
+        "To have unique traits."
+      ]
+    },
+    {
+      "question": "किसी चीज़ की असलियत उसे आज़माने के बाद ही पता चलती है।",
+      "correct": "You can only judge the quality of something after you have tried or experienced it.",
+      "options": [
+        "You can judge something by its appearance.",
+        "You know the quality before trying it.",
+        "You can only judge the quality of something after you have tried or experienced it.",
+        "Theoretical knowledge is enough for judgment."
+      ]
+    },
+    {
+      "question": "शैतान का नाम लिया और शैतान हाज़िर।",
+      "correct": "Said when a person you have just been talking about arrives unexpectedly.",
+      "options": [
+        "Said when someone is absent.",
+        "Said when a planned meeting occurs.",
+        "Said when a person you have just been talking about arrives unexpectedly.",
+        "Said when you miss someone."
+      ]
+    },
+    {
+      "question": "अब मौका हाथ से निकल चुका है।",
+      "correct": "It's too late; the opportunity has passed.",
+      "options": [
+        "There is still time for the opportunity.",
+        "The opportunity is just beginning.",
+        "It's too late; the opportunity has passed.",
+        "The opportunity is available indefinitely."
+      ]
+    },
+    {
+      "question": "जानबूझकर अनदेखी करना।",
+      "correct": "To pretend not to notice something that is wrong.",
+      "options": [
+        "To actively address an issue.",
+        "To bring attention to a problem.",
+        "To pretend not to notice something that is wrong.",
+        "To acknowledge wrongdoing."
+      ]
+    },
+    {
+      "question": "पुरानी बातें जिन्हें अब भुला दिया गया है।",
+      "correct": "Past problems or events that are now forgotten and no longer considered important.",
+      "options": [
+        "Recent and important issues.",
+        "Unresolved conflicts from the past.",
+        "Past problems or events that are now forgotten and no longer considered important.",
+        "Memories that are still relevant."
+      ]
+    },
+    {
+      "question": "अपनी भावनाओं को खुले तौर पर व्यक्त करना।",
+      "correct": "To make your feelings and emotions obvious to others.",
+      "options": [
+        "To hide your feelings.",
+        "To be secretive about emotions.",
+        "To make your feelings and emotions obvious to others.",
+        "To keep your emotions private."
+      ]
+    },
+    {
+      "question": "एक विवादास्पद या संवेदनशील मुद्दा।",
+      "correct": "A controversial issue or situation that is awkward or difficult to deal with.",
+      "options": [
+        "An easy and straightforward topic.",
+        "A universally accepted idea.",
+        "A controversial issue or situation that is awkward or difficult to deal with.",
+        "A simple matter."
+      ]
+    },
+    {
+      "question": "अपनी क्षमता से अधिक काम लेना।",
+      "correct": "To try to do a task that is too big or difficult.",
+      "options": [
+        "To take on a manageable task.",
+        "To work within your limits.",
+        "To try to do a task that is too big or difficult.",
+        "To delegate responsibilities."
+      ]
+    },
+    {
+      "question": "हर चमकती चीज़ सोना नहीं होती।",
+      "correct": "Things that look good on the outside may not be as valuable or good as they seem.",
+      "options": [
+        "Appearance always reflects value.",
+        "Everything that shines is precious.",
+        "Things that look good on the outside may not be as valuable or good as they seem.",
+        "Outer beauty guarantees inner quality."
+      ]
+    },
+    {
+      "question": "एक जैसे लोग एक साथ ही रहते हैं।",
+      "correct": "People who have similar characters or interests will often be found together.",
+      "options": [
+        "Opposites attract.",
+        "People with different interests often socialize.",
+        "People who have similar characters or interests will often be found together.",
+        "Diversity in friendships is common."
+      ]
+    },
+    {
+      "question": "बिना किसी परवाह के जोखिम उठाना।",
+      "correct": "To do something without worrying about the risk or negative results.",
+      "options": [
+        "To act cautiously.",
+        "To avoid all risks.",
+        "To do something without worrying about the risk or negative results.",
+        "To meticulously plan to avoid failure."
+      ]
+    },
+    {
+      "question": "सारी महफ़िल लूट लेना।",
+      "correct": "To attract the most attention and praise, especially when it is unexpected.",
+      "options": [
+        "To go unnoticed.",
+        "To receive minimal attention.",
+        "To attract the most attention and praise, especially when it is unexpected.",
+        "To share the spotlight equally."
+      ]
+    },
+    {
+      "question": "अत्यधिक जिज्ञासा मुसीबत में डाल सकती है।",
+      "correct": "Being too curious can lead you into trouble.",
+      "options": [
+        "Curiosity is always beneficial.",
+        "Lack of curiosity leads to problems.",
+        "Being too curious can lead you into trouble.",
+        "Always seek out all information."
+      ]
+    }
+  ]
