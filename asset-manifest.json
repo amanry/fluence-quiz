@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/fluence-quiz/static/css/main.b9b854c9.css",
-    "main.js": "/fluence-quiz/static/js/main.3d1ae7d4.js",
+    "main.js": "/fluence-quiz/static/js/main.a802e182.js",
     "static/js/239.36639259.chunk.js": "/fluence-quiz/static/js/239.36639259.chunk.js",
     "static/js/453.0db79ab9.chunk.js": "/fluence-quiz/static/js/453.0db79ab9.chunk.js",
     "index.html": "/fluence-quiz/index.html",
     "main.b9b854c9.css.map": "/fluence-quiz/static/css/main.b9b854c9.css.map",
-    "main.3d1ae7d4.js.map": "/fluence-quiz/static/js/main.3d1ae7d4.js.map",
+    "main.a802e182.js.map": "/fluence-quiz/static/js/main.a802e182.js.map",
     "239.36639259.chunk.js.map": "/fluence-quiz/static/js/239.36639259.chunk.js.map",
     "453.0db79ab9.chunk.js.map": "/fluence-quiz/static/js/453.0db79ab9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9b854c9.css",
-    "static/js/main.3d1ae7d4.js"
+    "static/js/main.a802e182.js"
   ]
 }
