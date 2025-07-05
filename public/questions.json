@@ -1,1002 +1,1304 @@
 [
-    {
-      "question": "कोई काम जो बहुत आसान हो।",
-      "correct": "Something that is very easy to do.",
-      "options": [
-        "A difficult task.",
-        "A piece of cake.",
-        "Something that is very easy to do.",
-        "A challenging problem."
-      ]
-    },
-    {
-      "question": "थोड़ा बीमार महसूस करना।",
-      "correct": "To feel slightly ill or sick.",
-      "options": [
-        "To feel very healthy.",
-        "To feel slightly ill or sick.",
-        "To be energetic.",
-        "To feel happy."
-      ]
-    },
-    {
-      "question": "बहुत महंगा होना।",
-      "correct": "To be very expensive.",
-      "options": [
-        "To be very cheap.",
-        "To be affordable.",
-        "To be very expensive.",
-        "To be reasonably priced."
-      ]
-    },
-    {
-      "question": "गंभीरता से पढ़ाई शुरू करना।",
-      "correct": "To begin to study in a serious and determined way.",
-      "options": [
-        "To stop studying.",
-        "To begin to study in a serious and determined way.",
-        "To take a break from studies.",
-        "To study casually."
-      ]
-    },
-    {
-      "question": "गलती से कोई रहस्य उजागर कर देना।",
-      "correct": "To reveal a secret carelessly or by mistake.",
-      "options": [
-        "To keep a secret.",
-        "To reveal a secret carelessly or by mistake.",
-        "To hide information.",
-        "To tell a secret intentionally."
-      ]
-    },
-    {
-      "question": "अब निर्णय लेने की बारी आपकी है।",
-      "correct": "It is now your turn to make a decision or take the next step.",
-      "options": [
-        "It is my decision now.",
-        "It is now your turn to make a decision or take the next step.",
-        "I will decide for you.",
-        "The decision is not yours."
-      ]
-    },
-    {
-      "question": "बहुत प्यारा व्यक्ति, आँखों का तारा।",
-      "correct": "A person who is cherished above all others.",
-      "options": [
-        "A person who is disliked.",
-        "A person who is ignored.",
-        "A person who is cherished above all others.",
-        "A person who is ordinary."
-      ]
-    },
-    {
-      "question": "बिल्कुल आखिरी समय पर।",
-      "correct": "At the very last minute.",
-      "options": [
-        "Very early.",
-        "On time.",
-        "At the very last minute.",
-        "In the middle of the task."
-      ]
-    },
-    {
-      "question": "आरामदायक और आसान जीवन।",
-      "correct": "A comfortable and easy situation or life.",
-      "options": [
-        "A difficult life.",
-        "A comfortable and easy situation or life.",
-        "A challenging situation.",
-        "A complicated life."
-      ]
-    },
-    {
-      "question": "घुमा-फिराकर बात करना।",
-      "correct": "To avoid talking about the main topic and speak in a roundabout way.",
-      "options": [
-        "To speak directly.",
-        "To avoid talking about the main topic and speak in a roundabout way.",
-        "To be clear and concise.",
-        "To address the issue directly."
-      ]
-    },
-    {
-      "question": "एक कठिन परिस्थिति का साहसपूर्वक सामना करना।",
-      "correct": "To face a difficult situation with courage.",
-      "options": [
-        "To avoid a difficult situation.",
-        "To give up easily.",
-        "To face a difficult situation with courage.",
-        "To run from problems."
-      ]
-    },
-    {
-      "question": "चुप्पी तोड़ना और बातचीत शुरू करना।",
-      "correct": "To say or do something to relieve tension and start a conversation.",
-      "options": [
-        "To remain silent.",
-        "To say or do something to relieve tension and start a conversation.",
-        "To make someone uncomfortable.",
-        "To end a conversation."
-      ]
-    },
-    {
-      "question": "देर रात तक काम करना या पढ़ना।",
-      "correct": "To work or study late into the night.",
-      "options": [
-        "To finish work early.",
-        "To work or study late into the night.",
-        "To relax in the evening.",
-        "To sleep early."
-      ]
-    },
-    {
-      "question": "जो हो चुका है उस पर दुखी होना।",
-      "correct": "To be unhappy about something that has happened and cannot be changed.",
-      "options": [
-        "To accept what happened.",
-        "To be unhappy about something that has happened and cannot be changed.",
-        "To find a solution.",
-        "To move on from the past."
-      ]
-    },
-    {
-      "question": "पैसे या मेहनत बचाने के लिए कोई काम गलत तरीके से करना।",
-      "correct": "To do something in the easiest or cheapest way, often by sacrificing quality.",
-      "options": [
-        "To do something with great quality.",
-        "To do something in the easiest or cheapest way, often by sacrificing quality.",
-        "To invest more effort.",
-        "To maintain high standards."
-      ]
-    },
-    {
-      "question": "अपने किए का परिणाम भुगतना।",
-      "correct": "To accept criticism or punishment for something you have done.",
-      "options": [
-        "To avoid consequences.",
-        "To accept criticism or punishment for something you have done.",
-        "To blame others.",
-        "To escape responsibility."
-      ]
-    },
-    {
-      "question": "एक कठिन समस्या या मुश्किल व्यक्ति।",
-      "correct": "A difficult problem to solve or a difficult person to understand.",
-      "options": [
-        "An easy problem.",
-        "A simple person.",
-        "A difficult problem to solve or a difficult person to understand.",
-        "A straightforward task."
-      ]
-    },
-    {
-      "question": "किसी प्रक्रिया या गतिविधि को शुरू करना।",
-      "correct": "To start a process or activity.",
-      "options": [
-        "To stop a process.",
-        "To end an activity.",
-        "To start a process or activity.",
-        "To delay a task."
-      ]
-    },
-    {
-      "question": "मज़ाक में किसी की टांग खींचना।",
-      "correct": "To joke with someone by telling them something that is not true.",
-      "options": [
-        "To praise someone.",
-        "To be serious with someone.",
-        "To joke with someone by telling them something that is not true.",
-        "To insult someone."
-      ]
-    },
-    {
-      "question": "किसी से पूरी तरह सहमत होना।",
-      "correct": "To agree with someone completely.",
-      "options": [
-        "To disagree with someone.",
-        "To have a different opinion.",
-        "To agree with someone completely.",
-        "To partially agree."
-      ]
-    },
-    {
-      "question": "बहुत कम, कभी-कभार ।",
-      "correct": "Very rarely.",
-      "options": [
-        "Very often.",
-        "Frequently.",
-        "Very rarely.",
-        "Always."
-      ]
-    },
-    {
-      "question": "जलती आग में घी डालना।",
-      "correct": "To make a bad situation even worse.",
-      "options": [
-        "To calm a situation.",
-        "To improve a situation.",
-        "To make a bad situation even worse.",
-        "To resolve a conflict."
-      ]
-    },
-    {
-      "question": "कोई निर्णय लेने से बचना, दुविधा में रहना।",
-      "correct": "To avoid making a decision or choosing a side.",
-      "options": [
-        "To make a quick decision.",
-        "To take a stand.",
-        "To avoid making a decision or choosing a side.",
-        "To be decisive."
-      ]
-    },
-    {
-      "question": "छोटी सी बात पर बतंगड़ बनाना।",
-      "correct": "A lot of unnecessary anger and worry about a matter that is not important.",
-      "options": [
-        "To calmly discuss a minor issue.",
-        "To trivialise a big problem.",
-        "A lot of unnecessary anger and worry about a matter that is not important.",
-        "To focus on important matters."
-      ]
-    },
-    {
-      "question": "किसी बात पर पूरी तरह से विश्वास न करना।",
-      "correct": "To not completely believe something that you are told.",
-      "options": [
-        "To believe everything.",
-        "To trust completely.",
-        "To not completely believe something that you are told.",
-        "To accept without question."
-      ]
-    },
-    {
-      "question": "राज खोल देना।",
-      "correct": "To tell a secret.",
-      "options": [
-        "To keep a secret.",
-        "To hide information.",
-        "To tell a secret.",
-        "To conceal facts."
-      ]
-    },
-    {
-      "question": "किसी की बात को अनसुना कर देना।",
-      "correct": "To ignore someone when they complain or ask for something.",
-      "options": [
-        "To listen carefully.",
-        "To respond to requests.",
-        "To ignore someone when they complain or ask for something.",
-        "To pay attention."
-      ]
-    },
-    {
-      "question": "बिल्कुल सही बात कहना।",
-      "correct": "To describe exactly what is causing a situation or problem.",
-      "options": [
-        "To speak incorrectly.",
-        "To mislead someone.",
-        "To describe exactly what is causing a situation or problem.",
-        "To make a wrong assessment."
-      ]
-    },
-    {
-      "question": "बहुत ज़्यादा खुश होना, सातवें आसमान पर होना।",
-      "correct": "To be extremely happy and joyful.",
-      "options": [
-        "To be sad.",
-        "To be extremely happy and joyful.",
-        "To be angry.",
-        "To be indifferent."
-      ]
-    },
-    {
-      "question": "छुपा हुआ वरदान, किसी बुरी चीज़ में कुछ अच्छा निकलना।",
-      "correct": "Something that seems bad or unlucky at first, but results in something good later on.",
-      "options": [
-        "Something that is always bad.",
-        "Something that only brings misfortune.",
-        "Something that seems bad or unlucky at first, but results in something good later on.",
-        "A negative outcome."
-      ]
-    },
-    {
-      "question": "अपेक्षा से अधिक मेहनत और प्रयास करना।",
-      "correct": "To make a special effort to do or achieve something.",
-      "options": [
-        "To do the bare minimum.",
-        "To make a special effort to do or achieve something.",
-        "To put in less effort.",
-        "To be lazy."
-      ]
-    },
-    {
-      "question": "एक व्यक्ति जो अपरिचित स्थिति में असहज महसूस करता है।",
-      "correct": "A person who feels uncomfortable because they are in an unfamiliar situation.",
-      "options": [
-        "A person who is confident in new situations.",
-        "A person who is comfortable everywhere.",
-        "A person who feels uncomfortable because they are in an unfamiliar situation.",
-        "A person who loves new challenges."
-      ]
-    },
-    {
-      "question": "किसी लक्ष्य को प्राप्त करने के लिए हर संभव प्रयास करना, कोई कसर नहीं छोड़ना।",
-      "correct": "To do everything possible to achieve a goal.",
-      "options": [
-        "To give up easily on a goal.",
-        "To do everything possible to achieve a goal.",
-        "To put in minimal effort.",
-        "To make no attempt."
-      ]
-    },
-    {
-      "question": "संक्षेप में बताना।",
-      "correct": "To tell something briefly, without giving all the details.",
-      "options": [
-        "To explain in detail.",
-        "To elaborate on a topic.",
-        "To tell something briefly, without giving all the details.",
-        "To provide extensive information."
-      ]
-    },
-    {
-      "question": "अचानक और अप्रत्याशित रूप से।",
-      "correct": "Suddenly and unexpectedly.",
-      "options": [
-        "As planned.",
-        "Gradually.",
-        "Suddenly and unexpectedly.",
-        "Predictably."
-      ]
-    },
-    {
-      "question": "किसी विचार पर अच्छी चर्चा करने के लिए उससे असहमत होने का नाटक करना।",
-      "correct": "To pretend to disagree with an idea in order to have a good discussion about it.",
-      "options": [
-        "To genuinely agree with an idea.",
-        "To avoid discussion.",
-        "To pretend to disagree with an idea in order to have a good discussion about it.",
-        "To unconditionally support an idea."
-      ]
-    },
-    {
-      "question": "कुछ गलत होने का शक होना, दाल में कुछ काला लगना।",
-      "correct": "To suspect that something is wrong or that someone is trying to deceive you.",
-      "options": [
-        "To trust completely.",
-        "To feel everything is normal.",
-        "To suspect that something is wrong or that someone is trying to deceive you.",
-        "To be certain everything is correct."
-      ]
-    },
-    {
-      "question": "किसी और के काम का श्रेय लेना।",
-      "correct": "To take credit for something someone else did or to do something before someone else gets the chance to.",
-      "options": [
-        "To give credit to others.",
-        "To acknowledge someone else's work.",
-        "To take credit for something someone else did or to do something before someone else gets the chance to.",
-        "To share praise."
-      ]
-    },
-    {
-      "question": "हार मान लेना।",
-      "correct": "To give up on something; to admit defeat.",
-      "options": [
-        "To continue fighting.",
-        "To persevere.",
-        "To give up on something; to admit defeat.",
-        "To keep trying."
-      ]
-    },
-    {
-      "question": "कठिन परिस्थिति में हिम्मत बनाए रखना।",
-      "correct": "To remain cheerful and brave in a difficult situation.",
-      "options": [
-        "To lose hope.",
-        "To become sad in a tough time.",
-        "To remain cheerful and brave in a difficult situation.",
-        "To give up easily."
-      ]
-    },
-    {
-      "question": "किसी काम को करने से पहले अचानक घबरा जाना।",
-      "correct": "To suddenly become too nervous or frightened to do something you had planned.",
-      "options": [
-        "To feel confident before a task.",
-        "To be excited about doing something.",
-        "To suddenly become too nervous or frightened to do something you had planned.",
-        "To be eager to proceed."
-      ]
-    },
-    {
-      "question": "किसी और के जैसी ही मुश्किल परिस्थिति में होना।",
-      "correct": "To be in the same difficult situation as someone else.",
-      "options": [
-        "To be in a better situation than others.",
-        "To be in a comfortable position.",
-        "To be in the same difficult situation as someone else.",
-        "To be unaffected by problems."
-      ]
-    },
-    {
-      "question": "ऊंट के मुंह में जीरा।",
-      "correct": "A very small amount compared to what is needed or expected.",
-      "options": [
-        "A large quantity.",
-        "More than enough.",
-        "A very small amount compared to what is needed or expected.",
-        "An adequate supply."
-      ]
-    },
-    {
-      "question": "बातों से ज़्यादा काम मायने रखता है।",
-      "correct": "What you do is more important and shows your true intentions more than what you say.",
-      "options": [
-        "Words are more important than actions.",
-        "What you do is more important and shows your true intentions more than what you say.",
-        "Promises are more important than deeds.",
-        "Saying is more impactful than doing."
-      ]
-    },
-    {
-      "question": "अपनी क्षमता से अधिक काम हाथ में लेना।",
-      "correct": "To try to do something that is too difficult or too much for you.",
-      "options": [
-        "To take on easy tasks.",
-        "To underestimate your abilities.",
-        "To try to do something that is too difficult or too much for you.",
-        "To take on fewer responsibilities."
-      ]
-    },
-    {
-      "question": "शुभकामनाएं देना।",
-      "correct": "A way to say \"good luck\" to someone, especially an actor or performer.",
-      "options": [
-        "To wish bad luck.",
-        "To criticize someone's performance.",
-        "A way to say \"good luck\" to someone, especially an actor or performer.",
-        "To give negative feedback."
-      ]
-    },
-    {
-      "question": "हर निराशा में एक आशा की किरण होती है।",
-      "correct": "Every difficult or sad situation has a comforting or more hopeful aspect, even though it may not be immediately apparent.",
-      "options": [
-        "Some situations are completely hopeless.",
-        "Every difficult or sad situation has a comforting or more hopeful aspect, even though it may not be immediately apparent.",
-        "Difficulties never lead to anything good.",
-        "There is no silver lining in bad times."
-      ]
-    },
-    {
-      "question": "नई जगह पर जम जाना या सहज हो जाना।",
-      "correct": "To become confident and comfortable in a new situation.",
-      "options": [
-        "To remain uncomfortable in a new place.",
-        "To struggle to adapt.",
-        "To become confident and comfortable in a new situation.",
-        "To never settle in."
-      ]
-    },
-    {
-      "question": "नियंत्रण से बाहर हो जाना।",
-      "correct": "To become difficult to control.",
-      "options": [
-        "To be easily managed.",
-        "To maintain control.",
-        "To become difficult to control.",
-        "To be under strict supervision."
-      ]
-    },
-    {
-      "question": "किसी विश्वसनीय स्रोत से सीधे जानकारी मिलना।",
-      "correct": "To hear information directly from the person who is most knowledgeable about it.",
-      "options": [
-        "To get information from unreliable sources.",
-        "To hear rumors.",
-        "To hear information directly from the person who is most knowledgeable about it.",
-        "To get information indirectly."
-      ]
-    },
-    {
-      "question": "लोकप्रिय या सफल हो रहे काम में शामिल हो जाना।",
-      "correct": "To join an activity or movement that has become popular or successful.",
-      "options": [
-        "To avoid popular trends.",
-        "To stick to unpopular activities.",
-        "To join an activity or movement that has become popular or successful.",
-        "To start a new unpopular trend."
-      ]
-    },
-    {
-      "question": "यह कोई बहुत मुश्किल काम नहीं है।",
-      "correct": "It is not difficult to understand.",
-      "options": [
-        "It's very complicated.",
-        "It's extremely hard to grasp.",
-        "It is not difficult to understand.",
-        "It requires advanced knowledge."
-      ]
-    },
-    {
-      "question": "एक बुरी स्थिति को और भी बदतर बना देना।",
-      "correct": "To make a bad situation even more difficult or unpleasant.",
-      "options": [
-        "To improve a situation.",
-        "To make a bad situation even more difficult or unpleasant.",
-        "To resolve a problem.",
-        "To alleviate stress."
-      ]
-    },
-    {
-      "question": "मेरे मतलब की चीज नहीं, मुझे पसंद नहीं।",
-      "correct": "Not something that you like or are interested in.",
-      "options": [
-        "Something I really enjoy.",
-        "Something that aligns with my interests.",
-        "Not something that you like or are interested in.",
-        "Something I am very fond of."
-      ]
-    },
-    {
-      "question": "बहुत होशियार और हर स्थिति के लिए तैयार रहना।",
-      "correct": "To be quick to understand and react to things; to be alert and competent.",
-      "options": [
-        "To be slow to understand.",
-        "To be unprepared for situations.",
-        "To be quick to understand and react to things; to be alert and competent.",
-        "To be oblivious."
-      ]
-    },
-    {
-      "question": "कुछ सुना-सुना सा लगना।",
-      "correct": "To sound familiar; you think you have heard it before.",
-      "options": [
-        "To be completely new.",
-        "To sound unfamiliar.",
-        "To sound familiar; you think you have heard it before.",
-        "To be unrecognizable."
-      ]
-    },
-    {
-      "question": "दोनों हाथों में लड्डू होना।",
-      "correct": "A situation in which you can enjoy the advantages of two very different things at the same time.",
-      "options": [
-        "A situation with no advantages.",
-        "A win-lose situation.",
-        "A situation in which you can enjoy the advantages of two very different things at the same time.",
-        "A dilemma."
-      ]
-    },
-    {
-      "question": "किसी को कुछ करने के लिए मनाना या मजबूर करना।",
-      "correct": "To persuade someone to do something they are reluctant to do.",
-      "options": [
-        "To discourage someone.",
-        "To allow someone to refuse.",
-        "To persuade someone to do something they are reluctant to do.",
-        "To stop someone from doing something."
-      ]
-    },
-    {
-      "question": "छुपे हुए वरदान की तरह।",
-      "correct": "Something that seems bad at first but results in something good.",
-      "options": [
-        "A completely bad outcome.",
-        "A negative event with no upside.",
-        "Something that seems bad at first but results in something good.",
-        "An unexpected problem."
-      ]
-    },
-    {
-      "question": "जले पर नमक छिड़कना",
-      "correct": "To make a bad situation even worse for someone.",
-      "options": [
-        "To offer comfort.",
-        "To improve a bad situation.",
-        "To make a bad situation even worse for someone.",
-        "To heal a wound."
-      ]
-    },
-    {
-      "question": "आज के लिए काम खत्म करना।",
-      "correct": "To decide to stop working on something for the day.",
-      "options": [
-        "To continue working for longer.",
-        "To start new work.",
-        "To decide to stop working on something for the day.",
-        "To work endlessly."
-      ]
-    },
-    {
-      "question": "मन का बोझ हल्का करना।",
-      "correct": "To tell someone about something that has been worrying you, so that you feel better.",
-      "options": [
-        "To keep worries to yourself.",
-        "To suppress emotions.",
-        "To tell someone about something that has been worrying you, so that you feel better.",
-        "To add to your burdens."
-      ]
-    },
-    {
-      "question": "नए सिरे से फिर से योजना बनाना।",
-      "correct": "To start planning something again because the first plan failed.",
-      "options": [
-        "To stick to the original plan.",
-        "To abandon a plan entirely.",
-        "To start planning something again because the first plan failed.",
-        "To implement a failed plan."
-      ]
-    },
-    {
-      "question": "हिम्मत न हारना, डटे रहना।",
-      "correct": "To not give up, to persevere through a difficult situation.",
-      "options": [
-        "To give up easily.",
-        "To surrender.",
-        "To not give up, to persevere through a difficult situation.",
-        "To retreat from challenges."
-      ]
-    },
-    {
-      "question": "गुस्से या उत्तेजना में बिना सोचे-समझे कुछ कह देना या कर देना।",
-      "correct": "To say or do something suddenly without thinking because you are angry or excited.",
-      "options": [
-        "To act thoughtfully and calmly.",
-        "To suppress emotions.",
-        "To say or do something suddenly without thinking because you are angry or excited.",
-        "To plan every action."
-      ]
-    },
-    {
-      "question": "एक हाथ से ताली नहीं बजती।",
-      "correct": "Both people involved in a difficult situation are equally responsible for it.",
-      "options": [
-        "Only one person is responsible for a problem.",
-        "It is always one-sided.",
-        "Both people involved in a difficult situation are equally responsible for it.",
-        "One person can solve a conflict alone."
-      ]
-    },
-    {
-      "question": "बिना सोचे-समझे किसी नतीजे पर पहुंचना।",
-      "correct": "To make a decision about something too quickly, without knowing all the facts.",
-      "options": [
-        "To consider all facts before deciding.",
-        "To be patient in decision-making.",
-        "To make a decision about something too quickly, without knowing all the facts.",
-        "To wait for complete information."
-      ]
-    },
-    {
-      "question": "किसी बुरी चीज़ को दूर रखना।",
-      "correct": "To prevent something dangerous or unpleasant from happening or from coming too close.",
-      "options": [
-        "To invite danger.",
-        "To ignore risks.",
-        "To prevent something dangerous or unpleasant from happening or from coming too close.",
-        "To allow problems to approach."
-      ]
-    },
-    {
-      "question": "किसी चीज़ को बहुत अच्छी तरह से जानना।",
-      "correct": "To know something very well.",
-      "options": [
-        "To know something superficially.",
-        "To be unfamiliar with something.",
-        "To know something very well.",
-        "To have limited knowledge."
-      ]
-    },
-    {
-      "question": "गड़े मुर्दे न उखाड़ना।",
-      "correct": "To avoid restarting a conflict or argument; to leave a situation as it is.",
-      "options": [
-        "To bring up old issues.",
-        "To re-ignite past conflicts.",
-        "To avoid restarting a conflict or argument; to leave a situation as it is.",
-        "To dwell on old problems."
-      ]
-    },
-    {
-      "question": "मुसीबत में होना।",
-      "correct": "To be in a difficult situation or in trouble.",
-      "options": [
-        "To be in a favorable position.",
-        "To be problem-free.",
-        "To be in a difficult situation or in trouble.",
-        "To be at ease."
-      ]
-    },
-    {
-      "question": "कुछ भी करने से पहले अच्छी तरह सोच लो।",
-      "correct": "You should think carefully about the possible consequences before you do something.",
-      "options": [
-        "Act impulsively.",
-        "Jump into action without thought.",
-        "You should think carefully about the possible consequences before you do something.",
-        "Don't consider outcomes."
-      ]
-    },
-    {
-      "question": "मौका गंवा देना।",
-      "correct": "To lose an opportunity to do something by being slow to act.",
-      "options": [
-        "To seize an opportunity.",
-        "To act quickly.",
-        "To lose an opportunity to do something by being slow to act.",
-        "To create opportunities."
-      ]
-    },
-    {
-      "question": "यह पूछने का एक तरीका कि कोई क्या सोच रहा है।",
-      "correct": "A way of asking what someone is thinking about.",
-      "options": [
-        "A way of telling someone what to think.",
-        "A way of ignoring someone's thoughts.",
-        "A way of asking what someone is thinking about.",
-        "A way of imposing your thoughts."
-      ]
-    },
-    {
-      "question": "स्थिति के अनुसार काम करना।",
-      "correct": "To decide how to deal with a situation as it develops, rather than planning in advance.",
-      "options": [
-        "To strictly follow a pre-planned schedule.",
-        "To act without any thought.",
-        "To decide how to deal with a situation as it develops, rather than planning in advance.",
-        "To ignore the current situation."
-      ]
-    },
-    {
-      "question": "एक तस्वीर हज़ार शब्दों के बराबर होती है।",
-      "correct": "It is easier to show or understand something through a picture than through words.",
-      "options": [
-        "Words are always more effective than pictures.",
-        "A picture is only worth a few words.",
-        "It is easier to show or understand something through a picture than through words.",
-        "Pictures are often misleading."
-      ]
-    },
-    {
-      "question": "अपना सब कुछ एक ही चीज़ पर दांव पर लगाना।",
-      "correct": "To risk everything for one single plan or idea.",
-      "options": [
-        "To diversify risks.",
-        "To invest cautiously.",
-        "To risk everything for one single plan or idea.",
-        "To avoid any risk."
-      ]
-    },
-    {
-      "question": "किसी के रंग में भंग डालना।",
-      "correct": "To spoil someone's pleasure or plans.",
-      "options": [
-        "To enhance someone's joy.",
-        "To encourage someone's plans.",
-        "To spoil someone's pleasure or plans.",
-        "To help someone achieve their goals."
-      ]
-    },
-    {
-      "question": "किसी प्रस्ताव को विनम्रतापूर्वक बाद के लिए टालना।",
-      "correct": "To politely refuse an offer now, with the hope that you may accept it later.",
-      "options": [
-        "To accept an offer immediately.",
-        "To rudely decline an offer.",
-        "To politely refuse an offer now, with the hope that you may accept it later.",
-        "To never accept an offer."
-      ]
-    },
-    {
-      "question": "सहनशीलता की अंतिम सीमा।",
-      "correct": "The final problem in a series of problems that makes a situation unbearable.",
-      "options": [
-        "The beginning of a problem.",
-        "A minor inconvenience.",
-        "The final problem in a series of problems that makes a situation unbearable.",
-        "A solution to a problem."
-      ]
-    },
-    {
-      "question": "एक तीर से दो निशाने लगाना।",
-      "correct": "To achieve two things by doing a single action.",
-      "options": [
-        "To achieve one goal at a time.",
-        "To do multiple unrelated tasks.",
-        "To achieve two things by doing a single action.",
-        "To waste effort."
-      ]
-    },
-    {
-      "question": "किसी को जानबूझकर नजरअंदाज करना।",
-      "correct": "To intentionally ignore someone or treat them in an unfriendly way.",
-      "options": [
-        "To pay close attention to someone.",
-        "To be friendly and welcoming.",
-        "To intentionally ignore someone or treat them in an unfriendly way.",
-        "To engage with someone kindly."
-      ]
-    },
-    {
-      "question": "राई का पहाड़ बनाना।",
-      "correct": "To make a small problem seem like a big and important one.",
-      "options": [
-        "To downplay a serious issue.",
-        "To make a small problem seem like a big and important one.",
-        "To simplify complex matters.",
-        "To ignore minor issues."
-      ]
-    },
-    {
-      "question": "अज्ञानता में ही सुख है।",
-      "correct": "Sometimes it is better for you not to know all the facts about a situation.",
-      "options": [
-        "Knowledge always brings happiness.",
-        "It's always best to know everything.",
-        "Sometimes it is better for you not to know all the facts about a situation.",
-        "Ignorance leads to suffering."
-      ]
-    },
-    {
-      "question": "किसी को उसके बाहरी रूप से नहीं आंकना चाहिए।",
-      "correct": "You should not form an opinion about someone or something based on their outward appearance.",
-      "options": [
-        "Always judge based on appearance.",
-        "Appearance is the most important factor.",
-        "You should not form an opinion about someone or something based on their outward appearance.",
-        "First impressions are always accurate."
-      ]
-    },
-    {
-      "question": "एक ही बात पर सहमत होना।",
-      "correct": "To have the same understanding or to agree on something.",
-      "options": [
-        "To have conflicting views.",
-        "To disagree on a point.",
-        "To have the same understanding or to agree on something.",
-        "To have different interpretations."
-      ]
-    },
-    {
-      "question": "एक जैसे होना, बहुत मिलना-जुलना।",
-      "correct": "To be very similar, especially in appearance or interests.",
-      "options": [
-        "To be very different.",
-        "To have contrasting characteristics.",
-        "To be very similar, especially in appearance or interests.",
-        "To have unique traits."
-      ]
-    },
-    {
-      "question": "किसी चीज़ की असलियत उसे आज़माने के बाद ही पता चलती है।",
-      "correct": "You can only judge the quality of something after you have tried or experienced it.",
-      "options": [
-        "You can judge something by its appearance.",
-        "You know the quality before trying it.",
-        "You can only judge the quality of something after you have tried or experienced it.",
-        "Theoretical knowledge is enough for judgment."
-      ]
-    },
-    {
-      "question": "शैतान का नाम लिया और शैतान हाज़िर।",
-      "correct": "Said when a person you have just been talking about arrives unexpectedly.",
-      "options": [
-        "Said when someone is absent.",
-        "Said when a planned meeting occurs.",
-        "Said when a person you have just been talking about arrives unexpectedly.",
-        "Said when you miss someone."
-      ]
-    },
-    {
-      "question": "अब मौका हाथ से निकल चुका है।",
-      "correct": "It's too late; the opportunity has passed.",
-      "options": [
-        "There is still time for the opportunity.",
-        "The opportunity is just beginning.",
-        "It's too late; the opportunity has passed.",
-        "The opportunity is available indefinitely."
-      ]
-    },
-    {
-      "question": "जानबूझकर अनदेखी करना।",
-      "correct": "To pretend not to notice something that is wrong.",
-      "options": [
-        "To actively address an issue.",
-        "To bring attention to a problem.",
-        "To pretend not to notice something that is wrong.",
-        "To acknowledge wrongdoing."
-      ]
-    },
-    {
-      "question": "पुरानी बातें जिन्हें अब भुला दिया गया है।",
-      "correct": "Past problems or events that are now forgotten and no longer considered important.",
-      "options": [
-        "Recent and important issues.",
-        "Unresolved conflicts from the past.",
-        "Past problems or events that are now forgotten and no longer considered important.",
-        "Memories that are still relevant."
-      ]
-    },
-    {
-      "question": "अपनी भावनाओं को खुले तौर पर व्यक्त करना।",
-      "correct": "To make your feelings and emotions obvious to others.",
-      "options": [
-        "To hide your feelings.",
-        "To be secretive about emotions.",
-        "To make your feelings and emotions obvious to others.",
-        "To keep your emotions private."
-      ]
-    },
-    {
-      "question": "एक विवादास्पद या संवेदनशील मुद्दा।",
-      "correct": "A controversial issue or situation that is awkward or difficult to deal with.",
-      "options": [
-        "An easy and straightforward topic.",
-        "A universally accepted idea.",
-        "A controversial issue or situation that is awkward or difficult to deal with.",
-        "A simple matter."
-      ]
-    },
-    {
-      "question": "अपनी क्षमता से अधिक काम लेना।",
-      "correct": "To try to do a task that is too big or difficult.",
-      "options": [
-        "To take on a manageable task.",
-        "To work within your limits.",
-        "To try to do a task that is too big or difficult.",
-        "To delegate responsibilities."
-      ]
-    },
-    {
-      "question": "हर चमकती चीज़ सोना नहीं होती।",
-      "correct": "Things that look good on the outside may not be as valuable or good as they seem.",
-      "options": [
-        "Appearance always reflects value.",
-        "Everything that shines is precious.",
-        "Things that look good on the outside may not be as valuable or good as they seem.",
-        "Outer beauty guarantees inner quality."
-      ]
-    },
-    {
-      "question": "एक जैसे लोग एक साथ ही रहते हैं।",
-      "correct": "People who have similar characters or interests will often be found together.",
-      "options": [
-        "Opposites attract.",
-        "People with different interests often socialize.",
-        "People who have similar characters or interests will often be found together.",
-        "Diversity in friendships is common."
-      ]
-    },
-    {
-      "question": "बिना किसी परवाह के जोखिम उठाना।",
-      "correct": "To do something without worrying about the risk or negative results.",
-      "options": [
-        "To act cautiously.",
-        "To avoid all risks.",
-        "To do something without worrying about the risk or negative results.",
-        "To meticulously plan to avoid failure."
-      ]
-    },
-    {
-      "question": "सारी महफ़िल लूट लेना।",
-      "correct": "To attract the most attention and praise, especially when it is unexpected.",
-      "options": [
-        "To go unnoticed.",
-        "To receive minimal attention.",
-        "To attract the most attention and praise, especially when it is unexpected.",
-        "To share the spotlight equally."
-      ]
-    },
-    {
-      "question": "अत्यधिक जिज्ञासा मुसीबत में डाल सकती है।",
-      "correct": "Being too curious can lead you into trouble.",
-      "options": [
-        "Curiosity is always beneficial.",
-        "Lack of curiosity leads to problems.",
-        "Being too curious can lead you into trouble.",
-        "Always seek out all information."
-      ]
-    }
-  ]
+  {
+    "question": "कपड़े सुखा दो।",
+    "correct": "Hang the clothes to dry.",
+    "options": [
+      "Put the clothes on dry.",
+      "Put the clothes to dry.",
+      "Dry the clothes.",
+      "Hang the clothes to dry."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "दिमाग से काम लो।",
+    "correct": "Use your brain.",
+    "options": [
+      "Use your mind.",
+      "Use your brain.",
+      "Work with your mind.",
+      "Think with your brain."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "बहाने मत बनाओ।",
+    "correct": "Don't make excuses.",
+    "options": [
+      "Don't make reasons.",
+      "Don't make excuses.",
+      "Don't create alibis.",
+      "Don't invent excuses."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "अँधेरा हो रहा है।",
+    "correct": "It’s getting dark.",
+    "options": [
+      "It is dark.",
+      "It is becoming dark.",
+      "It’s getting dark.",
+      "Darkness is falling."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "तुम डरपोक हो।",
+    "correct": "You are coward.",
+    "options": [
+      "You are fearful.",
+      "You are shy.",
+      "You are timid.",
+      "You are coward."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "मैं कल से काम शुरू करूँगा।",
+    "correct": "I will start working from tomorrow.",
+    "options": [
+      "I will start working from tomorrow.",
+      "I will begin work since tomorrow.",
+      "I will start work by tomorrow.",
+      "I will commence working tomorrow."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "मैं सुबह से पढ़ रहा हूँ।",
+    "correct": "I have been studying since morning.",
+    "options": [
+      "I am studying since morning.",
+      "I have been studying from morning.",
+      "I have been studying since morning.",
+      "I was studying since morning."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "उसने 5 रुपये में एक पैन खरीदा।",
+    "correct": "He bought a pen for Rs. 5.",
+    "options": [
+      "He bought a pen in Rs. 5.",
+      "He bought a pen with Rs. 5.",
+      "He bought a pen for Rs. 5.",
+      "He purchased a pen of Rs. 5."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "मैं आधे घंटे में निकलूँगा।",
+    "correct": "I will leave in half an hour.",
+    "options": [
+      "I will leave in half an hour.",
+      "I will depart within thirty minutes.",
+      "I will exit after half an hour.",
+      "I will be leaving in half an hour."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "ट्रेन समय पे पहुँचेगी।",
+    "correct": "This train will be on time.",
+    "options": [
+      "The train will arrive at time.",
+      "This train will reach on time.",
+      "The train will reach by time.",
+      "This train will be on time."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "मैं 4 बजे तक निकल जाऊँगा।",
+    "correct": "I will leave by 4 o’clock.",
+    "options": [
+      "I will leave till 4 o’clock.",
+      "I will leave until 4 o’clock.",
+      "I will leave by 4 o’clock.",
+      "I will be gone before 4 o’clock."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "समझदार को इशारा ही काफी होता है।",
+    "correct": "A word to wise is enough.",
+    "options": [
+      "A hint is enough for a wise man.",
+      "A word to wise is enough.",
+      "An indication is sufficient for the intelligent.",
+      "A wise person needs only a sign."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "यह कोई बच्चों का खेल नहीं है।",
+    "correct": "It’s not a child’s play.",
+    "options": [
+      "This is not a child's game.",
+      "It’s not a child’s play.",
+      "This is not for children to play.",
+      "It is not a game for kids."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "मुझे नींद आ रही है।",
+    "correct": "I am feeling sleepy.",
+    "options": [
+      "I am feeling sleep.",
+      "I am coming sleep.",
+      "I am feeling sleepy.",
+      "I feel like sleeping."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "इस बात को अपने तक ही रखना।",
+    "correct": "Keep this matter to yourself.",
+    "options": [
+      "Keep this matter to yourself.",
+      "Keep it up to yourself.",
+      "Keep it within you.",
+      "Keep this only for yourself."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "basic_phrases",
+    "complexity_score": 1
+  },
+  {
+    "question": "समय की नज़ाकत को समझो।",
+    "correct": "Understand the urgency of time.",
+    "options": [
+      "Understand the sensitivity of time.",
+      "Understand the urgency of time.",
+      "Understand the delicacy of time.",
+      "Realize the importance of time."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "वह हकला रहा था।",
+    "correct": "He was stuttering.",
+    "options": [
+      "He was mumbling.",
+      "He was stuttering.",
+      "He was stammering.",
+      "He was speaking haltingly."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "यह फायदे का सौदा नहीं है।",
+    "correct": "It’s not worthwhile.",
+    "options": [
+      "It's not a profitable deal.",
+      "It’s not worthwhile.",
+      "It's not a good bargain.",
+      "It's not advantageous."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "मैंने चैन की साँस ली।",
+    "correct": "I breathed a sigh of relief.",
+    "options": [
+      "I took a breath of peace.",
+      "I sighed in relief.",
+      "I took a sigh of relief.",
+      "I breathed a sigh of relief."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "तुम मेरे सबसे छोटे भाई हो।",
+    "correct": "You are my youngest brother.",
+    "options": [
+      "You are my smallest brother.",
+      "You are my younger brother.",
+      "You are my youngest brother.",
+      "You are my junior brother."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "मैं डरा हुआ था।",
+    "correct": "I was scared.",
+    "options": [
+      "I was scared.",
+      "I was in fear.",
+      "I felt fear.",
+      "I was fearing."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "मोबाइल टेबल पर रखा हुआ है।",
+    "correct": "The mobile is kept on the table.",
+    "options": [
+      "The mobile is lying on the table.",
+      "The mobile is placed on the table.",
+      "The mobile is kept on the table.",
+      "The mobile is on the table."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "वह सिगरेट पीने का आदी हो गया है।",
+    "correct": "He is addicted to smoking.",
+    "options": [
+      "He is habitual to smoking.",
+      "He is addicted to smoking.",
+      "He became addicted to cigarette.",
+      "He is used to smoke."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "तुम ऐसे क्यों हो?",
+    "correct": "Why are you like this?",
+    "options": [
+      "Why are you like this?",
+      "Why are you so?",
+      "Why are you acting so?",
+      "Why are you being like that?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "काम से जी मत चुराओ।",
+    "correct": "Don’t shirk the work.",
+    "options": [
+      "Don’t avoid work.",
+      "Don’t escape from work.",
+      "Don’t shirk the work.",
+      "Don’t run away from work."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "ऐसा कोई शब्द नहीं होता।",
+    "correct": "There is no such word.",
+    "options": [
+      "Such a word does not exist.",
+      "There is no such word.",
+      "There isn't any such word.",
+      "No such word is there."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "कान खोलकर सुन लो।",
+    "correct": "You better listen up.",
+    "options": [
+      "Listen with open ears.",
+      "Listen very carefully.",
+      "You better listen up.",
+      "Open your ears and listen."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "उसने ऐसा क्या कहा कि तुम्हें बुरा लग गया?",
+    "correct": "What did he say that made you feel bad?",
+    "options": [
+      "What did he say that made you feel bad?",
+      "What did he say to make you feel bad?",
+      "What did he say so you felt bad?",
+      "What did he say for you to feel bad?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "आजकल स्वार्थ का जमाना है।",
+    "correct": "Selfishness is common these days.",
+    "options": [
+      "It's an era of selfishness nowadays.",
+      "Selfishness is common these days.",
+      "The time is of self-interest these days.",
+      "Nowadays, selfishness prevails."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "इस दवाई ने मेरा दर्द कम कर दिया।",
+    "correct": "This medicine lessened my pain.",
+    "options": [
+      "This medicine decreased my pain.",
+      "This medicine reduced my pain.",
+      "This medicine lessened my pain.",
+      "This medicine minimized my pain."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "intermediate_phrases",
+    "complexity_score": 2
+  },
+  {
+    "question": "वह किसी भी बात को लंबा करके बताता है।",
+    "correct": "He elaborates his talks.",
+    "options": [
+      "He elaborates his talks.",
+      "He prolongs his talks.",
+      "He elongates his talks.",
+      "He stretches his talks."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "रोने की हिम्मत भी मत करना।",
+    "correct": "Don’t even dare to cry.",
+    "options": [
+      "Don’t even dare to cry.",
+      "Don't dare crying.",
+      "Don't you dare cry.",
+      "You dare not cry."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "आज कँपकँपाती ठंड है।",
+    "correct": "It's bone-chilling cold today.",
+    "options": [
+      "It’s shivering cold today.",
+      "It's trembling cold today.",
+      "It's bone-chilling cold today.",
+      "It's freezing cold today."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "पता है….",
+    "correct": "You know what…",
+    "options": [
+      "Do you know...?",
+      "You know what…",
+      "Guess what…",
+      "Did you know...?"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "क्या आप दिल्ली में रहे हो?",
+    "correct": "Have you lived in Delhi?",
+    "options": [
+      "Have you lived in Delhi?",
+      "Are you living in Delhi?",
+      "Did you stay in Delhi?",
+      "Were you in Delhi?"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "जो कुछ भी आप चूज़ करते हो, मेरा है।",
+    "correct": "Whatever you choose, is mine.",
+    "options": [
+      "Whatever you choose, is mine.",
+      "Everything you choose, is mine.",
+      "All that you select, is mine.",
+      "What you choose, it is mine."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "ये राम है, जो मेरे साथ था।",
+    "correct": "This is Ram, who was there with me.",
+    "options": [
+      "This is Ram, who was there with me.",
+      "This is Ram, that was with me.",
+      "This is Ram, he was with me.",
+      "This is Ram, which was with me."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "तुमने तबला बजाना कैसे सीखा?",
+    "correct": "How did you learn to play Tabla?",
+    "options": [
+      "How did you learn playing Tabla?",
+      "How did you learn to play Tabla?",
+      "How you learned to play Tabla?",
+      "How did you teach yourself Tabla?"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "बच्चे मुझे पढ़ने नहीं देते।",
+    "correct": "Children don’t let me study.",
+    "options": [
+      "Children don't allow me to study.",
+      "Children don’t let me study.",
+      "Children won't let me study.",
+      "Children are not letting me study."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "तुम न सोते हो न मुझे सोने देते हो।",
+    "correct": "You neither sleep nor let me sleep.",
+    "options": [
+      "You neither sleep nor let me sleep.",
+      "You don't sleep nor let me sleep.",
+      "You are not sleeping nor letting me sleep.",
+      "Neither you sleep nor let me sleep."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "अँधेरा हो रहा है।",
+    "correct": "It is getting dark.",
+    "options": [
+      "It is becoming dark.",
+      "It is getting dark.",
+      "Darkness is setting in.",
+      "It's growing dark."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "तुम्हें ढूंढ़ने में मुझे 5 मिनट लगे।",
+    "correct": "It took me 5 minutes to find you.",
+    "options": [
+      "I took 5 minutes to find you.",
+      "It took me 5 minutes to find you.",
+      "I spent 5 minutes finding you.",
+      "It made me take 5 minutes to find you."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मेरे घर के सामने तुम्हारा घर है।",
+    "correct": "Your house is opposite my house.",
+    "options": [
+      "Your house is in front of my house.",
+      "Your house is opposite my house.",
+      "Your house is facing my house.",
+      "Your house is located before my house."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैंने चाकू से केक काटा।",
+    "correct": "I cut the cake with a knife.",
+    "options": [
+      "I cut the cake by a knife.",
+      "I cut the cake through a knife.",
+      "I cut the cake with a knife.",
+      "I used a knife to cut the cake."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मेरा नाम लिस्ट में तुम्हारे नाम के नीचे है।",
+    "correct": "My name is below your name in the list.",
+    "options": [
+      "My name is under your name in the list.",
+      "My name is below your name in the list.",
+      "My name is beneath your name in the list.",
+      "My name is down your name in the list."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "वह मेरे खिलाफ उसे भड़का रहा है।",
+    "correct": "He is instigating him against me.",
+    "options": [
+      "He is inciting him against me.",
+      "He is provoking him against me.",
+      "He is instigating him against me.",
+      "He is turning him against me."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "उसने नीचे की ओर देखा।",
+    "correct": "He looked down.",
+    "options": [
+      "He looked down.",
+      "He looked downwards.",
+      "He saw down.",
+      "He viewed downwards."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "कार होना मेरी दिली इच्छा है।",
+    "correct": "Owning a car is my deep desire.",
+    "options": [
+      "To have a car is my heartfelt wish.",
+      "Having a car is my whole-hearted will.",
+      "Owning a car is my deep desire.",
+      "A car is my sincere desire."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "बेटे, दौड़ो मत ठोकर लग जायेगी।",
+    "correct": "Beta, don’t run, you will stumble.",
+    "options": [
+      "Son, don't run, you will fall.",
+      "Beta, don’t run, you will stumble.",
+      "Kid, don't run, you might get hurt.",
+      "Child, don't run, you will trip."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "रोहित को पीटा जा रहा था।",
+    "correct": "Rohit was being beaten.",
+    "options": [
+      "Rohit was being beaten.",
+      "Rohit was getting beaten.",
+      "Rohit was beaten.",
+      "Rohit was being hit."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "गेम कहीं जा नहीं रहा है, चिंता मत करो।",
+    "correct": "Game is not going anywhere, don’t worry!",
+    "options": [
+      "The game won't go anywhere, don't worry.",
+      "Game is not going anywhere, don’t worry!",
+      "Game is going nowhere, don’t worry!",
+      "The game is staying here, don't worry."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं किसके बारे में सोचता हूँ?",
+    "correct": "Who do I think about?",
+    "options": [
+      "Who do I think about?",
+      "About whom do I think?",
+      "Whom do I think about?",
+      "Whom I think about?"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "आँखें धोखा देती हैं।",
+    "correct": "Eyes can be misleading.",
+    "options": [
+      "Eyes are deceiving.",
+      "Eyes can be misleading.",
+      "Eyes are deceptive.",
+      "Eyes cheat."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "सीता ने कंपनी छोड़ी और चली गयी।",
+    "correct": "Seeta left the company and went away.",
+    "options": [
+      "Seeta left the company and went away.",
+      "Seeta left the company and went.",
+      "Seeta quitted the company and left.",
+      "Seeta resigned from the company and departed."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं 2 घंटे से ठंड से काँप रहा हूँ।",
+    "correct": "I have been shivering with cold for 2 hours.",
+    "options": [
+      "I am shivering with cold for 2 hours.",
+      "I have been shivering with cold for 2 hours.",
+      "I have been trembling with cold for 2 hours.",
+      "I am shaking due to cold for 2 hours."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "इस पेन के अलावा मेरे पास दो पेन हैं।",
+    "correct": "Besides this pen, I’ve two more pens.",
+    "options": [
+      "Apart from this pen, I have two more pens.",
+      "Besides this pen, I’ve two more pens.",
+      "In addition to this pen, I have two pens.",
+      "Excluding this pen, I have two pens."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "वह स्विमिंग पूल में गिरते गिरते बच गया।",
+    "correct": "He narrowly escaped falling into the swimming pool.",
+    "options": [
+      "He almost fell into the swimming pool.",
+      "He narrowly escaped falling into the swimming pool.",
+      "He was saved from falling into the swimming pool.",
+      "He nearly fell into the swimming pool."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "काश मैं एक लड़की होता!",
+    "correct": "I wish I were a girl!",
+    "options": [
+      "I wish I was a girl!",
+      "I wish I were a girl!",
+      "If only I was a girl!",
+      "Would that I were a girl!"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "उसकी आत्मा को शांति मिले!",
+    "correct": "May his soul rest in peace!",
+    "options": [
+      "May his soul rest in peace!",
+      "May his soul find peace!",
+      "Let his soul be in peace!",
+      "Hope his soul rests in peace!"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "कहीं नज़र न लगे।",
+    "correct": "Touch wood!",
+    "options": [
+      "Don't let evil eye fall.",
+      "May no evil eye be cast.",
+      "Touch wood!",
+      "Hope no bad luck comes."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं अपने बेटे को नहला रहा हूँ।",
+    "correct": "Both a and b.",
+    "options": [
+      "I am bathing my son.",
+      "I am giving a bath to my son.",
+      "Both a and b.",
+      "I am making my son bathe."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं आपको हँसा रहा हूँ।",
+    "correct": "I am making you laugh.",
+    "options": [
+      "I am making you laugh.",
+      "I am causing you to laugh.",
+      "I am entertaining you.",
+      "I am making you happy."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "उसने मेरी बात को उल्टा समझ लिया।",
+    "correct": "Both b and c.",
+    "options": [
+      "He misunderstood my words.",
+      "He took me otherwise.",
+      "He took me wrong.",
+      "Both b and c."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "यह आपके बच्चे के लिए अनुकूल माहौल नहीं है।",
+    "correct": "This is not a conducive environment for your child.",
+    "options": [
+      "This is not a good environment for your child.",
+      "This is not a favorable environment for your child.",
+      "This is not a conducive environment for your child.",
+      "This is an unsuitable environment for your child."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "चीजों को देखने का आपका नज़रिया/दृष्टिकोण आस पास के माहौल पर निर्भर करता है।",
+    "correct": "Your perspective to see things depends on your surroundings.",
+    "options": [
+      "Your outlook to see things depends on your surroundings.",
+      "Your perspective to see things depends on your surroundings.",
+      "Your viewpoint on things depends on your surroundings.",
+      "Your way of seeing things depends on the surrounding environment."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "आपने जो आरोप लगाये हैं, उसमें कितनी सच्चाई है, साबित करो।",
+    "correct": "Prove the veracity of your allegations.",
+    "options": [
+      "Prove the truth of your allegations.",
+      "Prove how true your allegations are.",
+      "Prove the veracity of your allegations.",
+      "Confirm the correctness of your allegations."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "उसे सताया गया ताकि वो उकसे और कोई गलती कर बैठे।",
+    "correct": "He was persecuted so as to provoke him and make him commit a mistake.",
+    "options": [
+      "He was harassed so he would provoke and make a mistake.",
+      "He was bothered so as to provoke him and make him commit a mistake.",
+      "He was persecuted so as to provoke him and make him commit a mistake.",
+      "He was tormented to make him angry and make a mistake."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "उसके चेहरे पर एक अजीब सी मुस्कुराहट थी मानो वो मुझे नीचा दिखा रहा हो।",
+    "correct": "There was a smirk on his face, as if he was looking down on me.",
+    "options": [
+      "There was a strange smile on his face as if he was looking down on me.",
+      "There was a peculiar grin on his face as if he was humiliating me.",
+      "There was a smirk on his face, as if he was looking down on me.",
+      "He had an odd smile on his face as if he was belittling me."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "पैसे के पीछे मत भागो। पैसा आपके पीछे भागेगा।",
+    "correct": "Don’t run after money. Money will run after you.",
+    "options": [
+      "Don't run behind money. Money will run after you.",
+      "Don’t run after money. Money will run after you.",
+      "Don't chase money. Money will chase you.",
+      "Don't pursue money. Money will pursue you."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "कमरे को साफ किया जा रहा था।",
+    "correct": "The room was being cleaned.",
+    "options": [
+      "The room was being cleaned.",
+      "The room was getting cleaned.",
+      "They were cleaning the room.",
+      "The room had been cleaned."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "तुम्हें सजा मिलनी चाहिए।",
+    "correct": "You deserve punishment.",
+    "options": [
+      "You should be punished.",
+      "You must be punished.",
+      "You deserve punishment.",
+      "You ought to be punished."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "तुम मुझे उससे लड़वा रहे हो।",
+    "correct": "Both a and b.",
+    "options": [
+      "You are getting me to fight him.",
+      "You are making me fight him.",
+      "Both a and b.",
+      "You are letting me fight him."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैंने बाल कटवाए।",
+    "correct": "I got my hair cut.",
+    "options": [
+      "I got my hair cut.",
+      "I cut my hair.",
+      "I got the hair cut.",
+      "I had my hair cut."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "इंसानियत नाम की भी कोई चीज़ होती है।",
+    "correct": "There is something called humanity too.",
+    "options": [
+      "There is something called humanity too.",
+      "There is also something named humanity.",
+      "Humanity is also a thing.",
+      "Even humanity exists."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "संसार में ज्ञान की कमी नहीं है।",
+    "correct": "There is no dearth of knowledge in this world.",
+    "options": [
+      "There is no lack of knowledge in this world.",
+      "There is no shortage of knowledge in this world.",
+      "There is no dearth of knowledge in this world.",
+      "Knowledge is not scarce in this world."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं जुबान का पक्का हूँ।",
+    "correct": "I am true to my word.",
+    "options": [
+      "I am firm on my word.",
+      "I always keep my words.",
+      "I am true to my word.",
+      "I am strong in my language."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "उसकी तबीयत ठीक नहीं है।",
+    "correct": "He is unwell.",
+    "options": [
+      "He is not well.",
+      "He is unwell.",
+      "He is suffering from an ailment.",
+      "Both b and c."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "यह एक अफवाह है।",
+    "correct": "Both a and b.",
+    "options": [
+      "This is a rumor.",
+      "This is in the air.",
+      "Both a and b.",
+      "This is a hearsay."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं थोड़ी देर बाद आऊँगा।",
+    "correct": "I will come after a while.",
+    "options": [
+      "I will come after some time.",
+      "I will come after a while.",
+      "I will arrive shortly.",
+      "I will come in a bit."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "गर्मियाँ आने वाली हैं।",
+    "correct": "The summers are around the corner.",
+    "options": [
+      "Summers are about to come.",
+      "The summers are around the corner.",
+      "The summers are nearing.",
+      "Summers are approaching."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "फिलहाल तुम यहाँ इंतज़ार करो।",
+    "correct": "For the time being, you wait here.",
+    "options": [
+      "For now, you wait here.",
+      "For the time being, you wait here.",
+      "Currently, you wait here.",
+      "At present, you wait here."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मुझे पैसे की सख्त ज़रूरत है।",
+    "correct": "I am in a dire need of money.",
+    "options": [
+      "I am in a dire need of money.",
+      "I have a strong need for money.",
+      "I seriously need money.",
+      "I am in urgent need of money."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "बातचीत से करीबी बढ़ती है।",
+    "correct": "Communication fosters closeness.",
+    "options": [
+      "Conversation increases closeness.",
+      "Conversation increases the proximity.",
+      "Talking enhances intimacy.",
+      "Communication fosters closeness."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैं जीवन के उतार-चढ़ाव से अवगत हूँ।",
+    "correct": "I am familiar with the ups and downs of life.",
+    "options": [
+      "I know the ups and downs of life.",
+      "I am familiar with the ups and downs of life.",
+      "I am aware of life's fluctuations.",
+      "I have experienced life's highs and lows."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मुझे डॉक्टर समझने की गलती मत करो।",
+    "correct": "Don’t mistake me for a Doctor.",
+    "options": [
+      "Don’t mistake me for a Doctor.",
+      "Don't confuse me with a Doctor.",
+      "Don't assume I am a Doctor.",
+      "Don't make the mistake of thinking I am a Doctor."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "भाग्य के सामने कोई नहीं टिक सकता।",
+    "correct": "Nobody can stand against fate.",
+    "options": [
+      "Nobody can stand against fate.",
+      "No one can stand before destiny.",
+      "Nobody can oppose fate.",
+      "No one can resist destiny."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "हमें इसके परिणामों के लिए तैयार रहना चाहिए।",
+    "correct": "We should be prepared for its outcomes.",
+    "options": [
+      "We should be ready for its results.",
+      "We should be prepared for its outcomes.",
+      "We should be ready for its consequences.",
+      "We must face its repercussions."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "अगर वो पैसे वापस न दे तो?",
+    "correct": "What if he doesn’t return the money?",
+    "options": [
+      "What if he doesn’t return the money?",
+      "What happens if he doesn't return the money?",
+      "What about if he doesn't return the money?",
+      "What if he did not return the money?"
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "मैंने बहुत कोशिश की पर सब बेकार।",
+    "correct": "I tried a lot but all in vain.",
+    "options": [
+      "I tried a lot but all was useless.",
+      "I tried a lot but all in vain.",
+      "I made many attempts but it was all for nothing.",
+      "I tried hard but it was all futile."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "यह आपकी दुआओं के कारण हुआ।",
+    "correct": "It happened due to your blessings.",
+    "options": [
+      "It happened due to your blessings.",
+      "It happened because of your good wishes.",
+      "It occurred because of your prayers.",
+      "This happened thanks to your good wishes."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "दिन ब दिन हालात खराब हो रहे हैं।",
+    "correct": "Things are getting worse day by day.",
+    "options": [
+      "Things are getting worse day by day.",
+      "Things are deteriorating day by day.",
+      "The situation is worsening day by day.",
+      "Conditions are becoming bad day by day."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "शिक्षा मेरे लिए व्यवसाय नहीं बल्कि आप तक पहुँचने का एक प्रयास है।",
+    "correct": "Education is not a business for me but an effort to reach you.",
+    "options": [
+      "Education is not a business for me but an effort to reach you.",
+      "Education is not a business for me but an endeavor to reach you.",
+      "Education is not just a business for me but an attempt to connect with you.",
+      "For me, education is not commerce but an attempt to approach you."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  },
+  {
+    "question": "तुम खामखा परेशान हो रहे हो।",
+    "correct": "You are worrying needlessly.",
+    "options": [
+      "You are getting upset unnecessarily.",
+      "You are stressed for no reason.",
+      "You are worrying needlessly.",
+      "You are getting troubled without cause."
+    ],
+    "difficulty": "difficult",
+    "questionType": "mcq",
+    "topic": "advanced_phrases",
+    "complexity_score": 3
+  }
+]
