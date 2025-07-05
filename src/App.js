@@ -1,20 +1,21 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { Play, Pause, Volume2, VolumeX, Star, Trophy, Target, Zap } from 'lucide-react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
+import { Volume2, VolumeX, Star, Trophy, Target, Share2, Calendar } from 'lucide-react';
 
 const HindiEnglishQuiz = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
   const [streak, setStreak] = useState(0);
   const [maxStreak, setMaxStreak] = useState(0);
+  const [highestScore, setHighestScore] = useState(0);
+  const [highestStreak, setHighestStreak] = useState(0);
   const [gameState, setGameState] = useState('menu'); // menu, playing, results
   const [selectedAnswer, setSelectedAnswer] = useState('');
   const [showResult, setShowResult] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(25);
+  const [timeLeft, setTimeLeft] = useState(60);
   const [isCorrect, setIsCorrect] = useState(false);
   const [musicEnabled, setMusicEnabled] = useState(true);
   const [sfxEnabled, setSfxEnabled] = useState(true);
   const [playerName, setPlayerName] = useState('');
-  const [showNameInput, setShowNameInput] = useState(false);
   const [lives, setLives] = useState(3);
   const [powerUps, setPowerUps] = useState({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
   const [showPowerUpEffect, setShowPowerUpEffect] = useState('');
@@ -28,241 +29,376 @@ const HindiEnglishQuiz = () => {
   const [isPaused, setIsPaused] = useState(false);
   const [isSpeaking, setIsSpeaking] = useState(false);
   
+  // New states for the requested features
+  const [quizUpdateDate, setQuizUpdateDate] = useState(null);
+  const [showShareSuccess, setShowShareSuccess] = useState(false);
+  
+  // Track if this is a student-specific quiz link
+  const [isStudentQuiz, setIsStudentQuiz] = useState(false);
+  // Track if we're in student quiz mode (after entering student name)
+  const [studentQuizMode, setStudentQuizMode] = useState(false);
+  
+  // Analytics tracking for AI-driven learning
+  const [userPerformance, setUserPerformance] = useState({
+    totalQuestions: 0,
+    correctAnswers: 0,
+    incorrectAnswers: 0,
+    questionHistory: [], // Track each question and user's answer
+    weakAreas: {}, // Track which idioms/phrases user struggles with
+    strongAreas: {}, // Track which idioms/phrases user excels at
+    difficultyProgression: [], // Track difficulty changes
+    currentDifficulty: 'easy', // Current difficulty level
+    difficultyStats: {
+      easy: { correct: 0, total: 0 },
+      medium: { correct: 0, total: 0 },
+      hard: { correct: 0, total: 0 }
+    },
+    sessionStats: {
+      currentSession: 0,
+      totalSessions: 0,
+      averageAccuracy: 0,
+      bestStreak: 0
+    }
+  });
+  
   const timerRef = useRef(null);
   const backgroundMusicRef = useRef(null);
   const utteranceRef = useRef(null);
 
-  // Quiz questions data
-  const quizData = [
-    { 
-      question: "What does \"to feel under the weather\" mean?", 
-      correct: "To feel slightly ill or sick", 
-      options: ["To enjoy bad weather", "To feel slightly ill or sick", "To be outdoors in the rain", "To forecast the weather"] 
-    },
-    { 
-      question: "If something \"costs an arm and a leg,\" what does that mean?", 
-      correct: "It's very expensive", 
-      options: ["It's very easy to obtain", "It's very painful to get", "It's very expensive", "It requires physical effort"] 
-    },
-    { 
-      question: "\"I have a big exam next week, so I need to ______ this weekend.\" Which idiom best fits here?", 
-      correct: "hit the books", 
-      options: ["let the cat out of the bag", "cost an arm and a leg", "hit the books", "break the ice"] 
-    },
-    { 
-      question: "What does it mean \"to let the cat out of the bag\"?", 
-      correct: "To reveal a secret carelessly or by mistake", 
-      options: ["To put a cat in a bag", "To reveal a secret carelessly or by mistake", "To free an animal", "To hide something important"] 
-    },
-    { 
-      question: "\"I have given you my advice; now the ______ is in your court.\"", 
-      correct: "ball", 
-      options: ["ball", "apple", "cat", "hand"] 
-    },
-    { 
-      question: "If someone is \"the apple of one's eye,\" what are they?", 
-      correct: "A person who is cherished above all others", 
-      options: ["A difficult person to understand", "A source of annoyance", "A person who is cherished above all others", "A sharp observer"] 
-    },
-    { 
-      question: "What does \"at the eleventh hour\" mean?", 
-      correct: "At the very last minute", 
-      options: ["Very early in the morning", "Precisely at 11:00 AM", "At the very last minute", "With plenty of time to spare"] 
-    },
-    { 
-      question: "\"Life is not always a _____; you have to work hard.\"", 
-      correct: "bed of roses", 
-      options: ["hard nut to crack", "bed of roses", "drop in the ocean", "storm in a teacup"] 
-    },
-    { 
-      question: "What does \"to beat around the bush\" imply?", 
-      correct: "To avoid talking about the main topic and speak in a roundabout way", 
-      options: ["To speak clearly and directly", "To avoid talking about the main topic and speak in a roundabout way", "To search for something in nature", "To talk about gardening"] 
-    },
-    { 
-      question: "If you \"bite the bullet,\" what are you doing?", 
-      correct: "Facing a difficult situation with courage", 
-      options: ["Eating something very hard", "Facing a difficult situation with courage", "Giving up easily", "Making a quick decision"] 
-    },
-    { 
-      question: "What is the meaning of \"to break the ice\"?", 
-      correct: "To say or do something to relieve tension and start a conversation", 
-      options: ["To cause an argument", "To make a situation more difficult", "To say or do something to relieve tension and start a conversation", "To destroy something cold"] 
-    },
-    { 
-      question: "\"She was ______ to prepare for her final exams.\"", 
-      correct: "burning the midnight oil", 
-      options: ["crying over spilt milk", "cutting corners", "burning the midnight oil", "facing the music"] 
-    },
-    { 
-      question: "What does \"to cry over spilt milk\" mean?", 
-      correct: "To be unhappy about something that has happened and cannot be changed", 
-      options: ["To be happy about a small accident", "To be unhappy about something that has happened and cannot be changed", "To regret drinking milk", "To clean up a mess"] 
-    },
-    { 
-      question: "If a company was \"cutting corners on safety procedures,\" what were they doing?", 
-      correct: "Doing something in the easiest or cheapest way, often by sacrificing quality", 
-      options: ["Improving safety standards", "Doing something in the easiest or cheapest way, often by sacrificing quality", "Investing heavily in safety", "Following all regulations strictly"] 
-    },
-    { 
-      question: "What does it mean \"to face the music\"?", 
-      correct: "To accept criticism or punishment for something you have done", 
-      options: ["To enjoy a concert", "To avoid responsibility", "To accept criticism or punishment for something you have done", "To play a musical instrument"] 
-    },
-    { 
-      question: "\"This math problem is a ______.\"", 
-      correct: "hard nut to crack", 
-      options: ["piece of cake", "bed of roses", "hard nut to crack", "blessing in disguise"] 
-    },
-    { 
-      question: "What does \"to get the ball rolling\" mean?", 
-      correct: "To start a process or activity", 
-      options: ["To stop a process", "To start a process or activity", "To play a game", "To wait for something to happen"] 
-    },
-    { 
-      question: "If you are \"pulling someone's leg,\" what are you doing?", 
-      correct: "Joking with someone by telling them something that is not true", 
-      options: ["Helping them stand up", "Seriously hurting them", "Joking with someone by telling them something that is not true", "Competing with them physically"] 
-    },
-    { 
-      question: "\"My brother and I don't always ______ on political issues.\"", 
-      correct: "see eye to eye", 
-      options: ["turn a deaf ear", "see eye to eye", "hit the nail on the head", "pull someone's leg"] 
-    },
-    { 
-      question: "What does \"once in a blue moon\" signify?", 
-      correct: "Very rarely", 
-      options: ["Very frequently", "Every night", "Very rarely", "During a full moon"] 
-    }
-  ];
-
-  // Generate multiple choice options for each question
-  const generateOptions = (question) => {
-    return question.options.sort(() => Math.random() - 0.5);
-  };
+  // Add error state for question loading
+  const [questionLoadError, setQuestionLoadError] = useState(null);
 
   const [questions, setQuestions] = useState([]);
   const [currentOptions, setCurrentOptions] = useState([]);
 
-  // Fetch questions from JSON file based on student parameter
+  // Load highest scores and user performance from localStorage on component mount
   useEffect(() => {
-    // Get student parameter from URL (e.g., ?student=1, ?student=2, ?student=3)
-    const urlParams = new URLSearchParams(window.location.search);
-    const student = urlParams.get('student') || '1'; // Default to student 1
+    const savedHighestScore = localStorage.getItem('highestScore');
+    const savedHighestStreak = localStorage.getItem('highestStreak');
+    const savedUserPerformance = localStorage.getItem('userPerformance');
     
-    // Load appropriate question file (relative path)
-    const questionFile = `questions-student${student}.json`;
+    if (savedHighestScore) setHighestScore(parseInt(savedHighestScore));
+    if (savedHighestStreak) setHighestStreak(parseInt(savedHighestStreak));
+    if (savedUserPerformance) {
+      try {
+        setUserPerformance(JSON.parse(savedUserPerformance));
+      } catch (e) {
+        console.error('Error parsing saved user performance:', e);
+      }
+    }
+  }, []);
+
+  // Simplify question loading - always load 20 questions
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const student = urlParams.get('student');
+    
+    // Check if we should auto-detect student based on name
+    let detectedStudent = null;
+    if (playerName) {
+      const nameLower = playerName.toLowerCase().trim();
+      if (nameLower === 'anaya') {
+        detectedStudent = '1';
+      } else if (nameLower === 'kavya') {
+        detectedStudent = '2';
+      } else if (nameLower === 'mamta') {
+        detectedStudent = '3';
+      }
+    }
+    
+    // Use detected student or URL parameter
+    const finalStudent = detectedStudent || student;
+    
+    if (finalStudent) {
+      setIsStudentQuiz(true);
+      setStudentQuizMode(true);
+      
+      // Update URL if we detected a student by name
+      if (detectedStudent && !student) {
+        const newUrl = new URL(window.location);
+        newUrl.searchParams.set('student', detectedStudent);
+        window.history.replaceState({}, '', newUrl);
+      }
+    }
+    
+    const questionFile = finalStudent ? `questions-student${finalStudent}.json` : 'questions.json';
+    
+    // Add a flag to prevent multiple simultaneous requests
+    let isMounted = true;
     
     fetch(questionFile)
       .then(response => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
+        const lastModified = response.headers.get('last-modified');
+        if (lastModified) {
+          setQuizUpdateDate(new Date(lastModified));
+        }
         return response.json();
       })
       .then(data => {
-        const shuffledQuestions = [...data].sort(() => Math.random() - 0.5).slice(0, 15);
+        if (!isMounted) return;
+        
+        // Always process and shuffle 20 questions
+        const processedQuestions = data.map((question, index) => ({
+          ...question,
+          id: question.id || index,
+        }));
+        const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 20);
         setQuestions(shuffledQuestions);
+        setQuestionLoadError(null);
       })
       .catch(error => {
+        if (!isMounted) return;
         console.error('Error loading questions:', error);
-        // Fallback to default questions if student-specific file fails
-        fetch('questions.json')
-          .then(response => response.json())
-          .then(data => {
-            const shuffledQuestions = [...data].sort(() => Math.random() - 0.5).slice(0, 15);
-            setQuestions(shuffledQuestions);
-          })
-          .catch(fallbackError => {
-            console.error('Error loading fallback questions:', fallbackError);
-            setQuestions([]);
-          });
+        setQuestionLoadError('Could not load quiz questions. Please check your link or try again later.');
+        setQuestions([]);
       });
-  }, []);
+      
+    return () => {
+      isMounted = false;
+    };
+  }, [playerName]); // Add playerName as dependency to re-run when name changes
 
+  // Fix options useEffect to only shuffle when currentQuestion changes
   useEffect(() => {
     if (questions.length > 0 && currentQuestion < questions.length) {
-      const options = generateOptions(questions[currentQuestion]);
-      setCurrentOptions(options);
+      const options = [...questions[currentQuestion].options];
+      setCurrentOptions(options.sort(() => Math.random() - 0.5));
     }
-  }, [currentQuestion, questions]);
+  }, [questions, currentQuestion]); // Depend on questions and currentQuestion
 
-  // Timer effect
+  // Update speak function to accept rate and auto-select voice - wrapped in useCallback
+  const speak = useCallback((text, customRate = 1) => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      const utter = new window.SpeechSynthesisUtterance(text);
+      const selectedVoice = getVoiceForText(text, voices);
+      utter.voice = selectedVoice;
+      utter.pitch = 1;
+      utter.rate = customRate;
+      utter.volume = 1;
+      utter.lang = selectedVoice?.lang || 'en-US';
+      utter.onstart = () => setIsSpeaking(true);
+      utter.onend = () => setIsSpeaking(false);
+      utter.onpause = () => setIsPaused(true);
+      utter.onresume = () => setIsPaused(false);
+      utteranceRef.current = utter;
+      window.speechSynthesis.speak(utter);
+    }
+  }, [voices]);
+
+  // Auto-speak when question changes - use ref to avoid infinite loops
+  const speakRef = useRef(speak);
+  speakRef.current = speak;
+
+  // Fix speak useEffect to only speak when currentQuestion changes
+  useEffect(() => {
+    if (questions.length > 0 && currentQuestion < questions.length && gameState === 'playing') {
+      speakRef.current(questions[currentQuestion].question, 1);
+    }
+  }, [currentQuestion, gameState]); // Only depend on currentQuestion and gameState
+
+  // Sound effects - wrapped in useCallback to prevent infinite loops
+  const playSound = useCallback((type) => {
+    if (!sfxEnabled) return;
+    // Sound effect logic here
+    console.log(`Playing ${type} sound`);
+  }, [sfxEnabled]);
+
+  // Move handleTimeUp here, before useEffect - wrapped in useCallback
+  const handleTimeUp = useCallback(() => {
+    setShowResult(true);
+    setIsCorrect(false);
+    setStreak(0);
+    setLives(prev => prev - 1);
+    playSound('wrong');
+    // Track timeout as incorrect answer for analytics
+    const currentQ = questions[currentQuestion];
+    if (currentQ) {
+      const questionKey = currentQ.question;
+      setUserPerformance(prev => {
+        const newHistory = [...prev.questionHistory, {
+          question: currentQ.question,
+          userAnswer: null,
+          correctAnswer: currentQ.correct,
+          isCorrect: false,
+          difficulty: currentQ.difficulty || 'easy',
+          masteryLevel: currentQ.masteryLevel || 0,
+          timestamp: new Date().toISOString(),
+          timeLeft: 0,
+          streak: 0
+        }];
+        const newWeakAreas = { ...prev.weakAreas };
+        newWeakAreas[questionKey] = (newWeakAreas[questionKey] || 0) + 1;
+        return {
+          ...prev,
+          totalQuestions: prev.totalQuestions + 1,
+          incorrectAnswers: prev.incorrectAnswers + 1,
+          questionHistory: newHistory,
+          weakAreas: newWeakAreas
+        };
+      });
+    }
+    setTimeout(() => {
+      if (currentQuestion + 1 < questions.length && lives > 1) {
+        // Use functional update to avoid dependency on nextQuestion
+        setCurrentQuestion(prev => prev + 1);
+        setTimeLeft(60);
+        setShowResult(false);
+        setSelectedAnswer('');
+      } else {
+        // Use functional update to avoid dependency on endGame
+        setGameState('results');
+        setShowResult(false);
+        setSelectedAnswer('');
+      }
+    }, 2000);
+  }, [currentQuestion, questions, lives, playSound]);
+
+  // Timer effect - use ref to avoid infinite loops
+  const handleTimeUpRef = useRef(handleTimeUp);
+  handleTimeUpRef.current = handleTimeUp;
+
   useEffect(() => {
     if (gameState === 'playing' && timeLeft > 0 && !showResult) {
       timerRef.current = setTimeout(() => {
         setTimeLeft(timeLeft - 1);
       }, 1000);
     } else if (timeLeft === 0 && !showResult) {
-      handleTimeUp();
+      handleTimeUpRef.current();
     }
-    
     return () => clearTimeout(timerRef.current);
   }, [timeLeft, gameState, showResult]);
 
-  // Sound effects
-  const playSound = (type) => {
-    if (!sfxEnabled) return;
+  // Simplify handleAnswerSelect - remove isProcessingAnswer logic
+  const handleAnswerSelect = (option) => {
+    if (showResult) return; // Prevent multiple answers
     
-    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-    const oscillator = audioContext.createOscillator();
-    const gainNode = audioContext.createGain();
+    const currentQ = questions[currentQuestion];
+    if (!currentQ) return;
     
-    oscillator.connect(gainNode);
-    gainNode.connect(audioContext.destination);
-    
-    switch (type) {
-      case 'correct':
-        oscillator.frequency.setValueAtTime(523.25, audioContext.currentTime); // C5
-        oscillator.frequency.setValueAtTime(659.25, audioContext.currentTime + 0.1); // E5
-        oscillator.frequency.setValueAtTime(783.99, audioContext.currentTime + 0.2); // G5
-        break;
-      case 'wrong':
-        oscillator.frequency.setValueAtTime(196, audioContext.currentTime); // G3
-        oscillator.frequency.setValueAtTime(174.61, audioContext.currentTime + 0.1); // F3
-        break;
-      case 'click':
-        oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
-        break;
-      case 'powerup':
-        oscillator.frequency.setValueAtTime(440, audioContext.currentTime);
-        oscillator.frequency.setValueAtTime(554.37, audioContext.currentTime + 0.1);
-        oscillator.frequency.setValueAtTime(659.25, audioContext.currentTime + 0.2);
-        break;
-    }
-    
-    gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
-    gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
-    
-    oscillator.start(audioContext.currentTime);
-    oscillator.stop(audioContext.currentTime + 0.3);
-  };
-
-  const handleAnswerSelect = (answer) => {
-    if (showResult) return;
-    
-    playSound('click');
-    setSelectedAnswer(answer);
+    setSelectedAnswer(option);
     setShowResult(true);
     
-    const correct = answer === questions[currentQuestion].correct;
-    setIsCorrect(correct);
+    const isCorrectAnswer = option === currentQ?.correct;
+    const timeBonus = Math.max(0, timeLeft - 5) * 2; // Bonus points for quick answers
+    const streakBonus = streak > 0 ? streak * 5 : 0;
     
-    if (correct) {
-      playSound('correct');
-      const points = timeLeft > 10 ? 100 : timeLeft > 5 ? 80 : 50;
-      const streakBonus = streak * 10;
-      setScore(score + points + streakBonus);
+    setIsCorrect(isCorrectAnswer);
+    
+    if (isCorrectAnswer) {
+      // Correct answer logic
+      const pointsEarned = 100 + timeBonus + streakBonus;
+      setScore(score + pointsEarned);
       setStreak(streak + 1);
       setMaxStreak(Math.max(maxStreak, streak + 1));
+      playSound('correct');
+      
+      // Update mastery level for this question
+      const newMasteryLevel = Math.min(5, (currentQ.masteryLevel || 0) + 1);
+      setQuestions(prev => prev.map(q => 
+        q.id === currentQ.id ? { ...q, masteryLevel: newMasteryLevel } : q
+      ));
+      
+      // Update user performance analytics
+      setUserPerformance(prev => {
+        const newHistory = [...prev.questionHistory, {
+          question: currentQ.question,
+          userAnswer: option,
+          correctAnswer: currentQ.correct,
+          isCorrect: true,
+          difficulty: currentQ.difficulty || 'easy',
+          masteryLevel: newMasteryLevel,
+          timestamp: new Date().toISOString(),
+          timeLeft,
+          streak: streak + 1,
+          pointsEarned
+        }];
+        
+        const newStrongAreas = { ...prev.strongAreas };
+        newStrongAreas[currentQ.question] = (newStrongAreas[currentQ.question] || 0) + 1;
+        
+        const newDifficultyStats = { ...prev.difficultyStats };
+        const difficulty = currentQ.difficulty || 'easy';
+        const newTotal = (newDifficultyStats[difficulty]?.total ?? 0) + 1;
+        newDifficultyStats[difficulty] = {
+          total: newTotal,
+          correct: (newDifficultyStats[difficulty]?.correct ?? 0) + 1
+        };
+        
+        return {
+          ...prev,
+          totalQuestions: prev.totalQuestions + 1,
+          correctAnswers: prev.correctAnswers + 1,
+          questionHistory: newHistory,
+          strongAreas: newStrongAreas,
+          difficultyStats: newDifficultyStats
+        };
+      });
+      
+      // Update highest score and streak if needed
+      if (score + pointsEarned > highestScore) {
+        setHighestScore(score + pointsEarned);
+        localStorage.setItem('highestScore', score + pointsEarned);
+      }
+      if (streak + 1 > highestStreak) {
+        setHighestStreak(streak + 1);
+        localStorage.setItem('highestStreak', streak + 1);
+      }
+      
     } else {
-      playSound('wrong');
-      setStreak(0);
+      // Incorrect answer logic
       setLives(lives - 1);
+      setStreak(0);
+      playSound('wrong');
+      
+      // Decrease mastery level for this question
+      const newMasteryLevel = Math.max(0, (currentQ.masteryLevel || 0) - 1);
+      setQuestions(prev => prev.map(q => 
+        q.id === currentQ.id ? { ...q, masteryLevel: newMasteryLevel } : q
+      ));
+      
+      // Update user performance analytics
+      setUserPerformance(prev => {
+        const newHistory = [...prev.questionHistory, {
+          question: currentQ.question,
+          userAnswer: option,
+          correctAnswer: currentQ.correct,
+          isCorrect: false,
+          difficulty: currentQ.difficulty || 'easy',
+          masteryLevel: newMasteryLevel,
+          timestamp: new Date().toISOString(),
+          timeLeft,
+          streak: 0
+        }];
+        
+        const newWeakAreas = { ...prev.weakAreas };
+        newWeakAreas[currentQ.question] = (newWeakAreas[currentQ.question] || 0) + 1;
+        
+        const newDifficultyStats = { ...prev.difficultyStats };
+        const difficulty = currentQ.difficulty || 'easy';
+        const newTotal = (newDifficultyStats[difficulty]?.total ?? 0) + 1;
+        newDifficultyStats[difficulty] = {
+          total: newTotal,
+          correct: (newDifficultyStats[difficulty]?.correct ?? 0)
+        };
+        
+        return {
+          ...prev,
+          totalQuestions: prev.totalQuestions + 1,
+          incorrectAnswers: prev.incorrectAnswers + 1,
+          questionHistory: newHistory,
+          weakAreas: newWeakAreas,
+          difficultyStats: newDifficultyStats
+        };
+      });
     }
     
+    // Schedule next question or end game
     setTimeout(() => {
-      if (currentQuestion + 1 < questions.length && lives > 0) {
+      if (currentQuestion + 1 < questions.length && lives > (isCorrectAnswer ? 0 : 1)) {
         nextQuestion();
       } else {
         endGame();
@@ -270,67 +406,207 @@ const HindiEnglishQuiz = () => {
     }, 2000);
   };
 
+  // Simplify nextQuestion function - just increment
   const nextQuestion = () => {
     setCurrentQuestion(currentQuestion + 1);
     setSelectedAnswer('');
     setShowResult(false);
-    setTimeLeft(25);
+    setTimeLeft(60);
   };
 
-  const handleTimeUp = () => {
-    setShowResult(true);
-    setIsCorrect(false);
-    setStreak(0);
-    setLives(lives - 1);
-    playSound('wrong');
+  // Generate performance insights and recommendations
+  const generateInsights = () => {
+    const { difficultyStats, questionHistory } = userPerformance;
     
-    setTimeout(() => {
-      if (currentQuestion + 1 < questions.length && lives > 0) {
-        nextQuestion();
-      } else {
-        endGame();
+    const insights = [];
+    const recommendations = [];
+    
+    // Analyze difficulty performance
+    const easyAccuracy = (difficultyStats.easy?.total > 0) ? (difficultyStats.easy?.correct / difficultyStats.easy.total) : 0;
+    const mediumAccuracy = (difficultyStats.medium?.total > 0) ? (difficultyStats.medium?.correct / difficultyStats.medium.total) : 0;
+    const hardAccuracy = (difficultyStats.hard?.total > 0) ? (difficultyStats.hard?.correct / difficultyStats.hard.total) : 0;
+    
+    // Difficulty insights
+    if (easyAccuracy >= 0.8 && (difficultyStats.easy?.total ?? 0) >= 5) {
+      insights.push("🎯 You're excelling at easy questions!");
+      recommendations.push("Try more medium difficulty questions to challenge yourself.");
+    }
+    
+    if (mediumAccuracy >= 0.7 && (difficultyStats.medium?.total ?? 0) >= 5) {
+      insights.push("🚀 Great progress on medium difficulty!");
+      recommendations.push("You're ready for harder challenges.");
+    }
+    
+    if (easyAccuracy < 0.6 && (difficultyStats.easy?.total ?? 0) >= 3) {
+      insights.push("📚 You might need more practice with basic concepts.");
+      recommendations.push("Focus on mastering fundamentals before moving up.");
+    }
+    
+    if (hardAccuracy < 0.4 && (difficultyStats.hard?.total ?? 0) >= 3) {
+      insights.push("💪 Hard questions are challenging - that's normal!");
+      recommendations.push("Practice more medium questions to build confidence.");
+    }
+    
+    // Spaced repetition insights
+    const dueForReview = questions.filter(q => 
+      q.nextReviewDate && new Date(q.nextReviewDate) <= new Date()
+    ).length;
+    
+    if (dueForReview > 0) {
+      insights.push(`⏰ You have ${dueForReview} questions due for review.`);
+      recommendations.push("Review these questions to maintain your progress.");
+    }
+    
+    // Mastery level insights
+    const masteredQuestions = questions.filter(q => q.masteryLevel >= 4).length;
+    const totalQuestions = questions.length;
+    const masteryPercentage = totalQuestions > 0 ? (masteredQuestions / totalQuestions * 100).toFixed(1) : 0;
+    
+    insights.push(`🏆 You've mastered ${masteryPercentage}% of the questions!`);
+    
+    if (masteryPercentage >= 80) {
+      recommendations.push("Excellent progress! Consider adding new questions to your study set.");
+    } else if (masteryPercentage >= 50) {
+      recommendations.push("Good progress! Keep practicing to reach mastery.");
+    } else {
+      recommendations.push("Keep practicing regularly to improve your mastery level.");
+    }
+    
+    return { insights, recommendations };
+  };
+
+  const generateAnalyticsReport = () => {
+    const { totalQuestions, correctAnswers, incorrectAnswers, weakAreas, strongAreas, questionHistory, difficultyStats } = userPerformance;
+    const accuracy = totalQuestions > 0 ? (correctAnswers / totalQuestions * 100).toFixed(1) : 0;
+    
+    // Get top weak areas (questions user got wrong most)
+    const topWeakAreas = Object.entries(weakAreas)
+      .sort(([,a], [,b]) => b - a)
+      .slice(0, 5)
+      .map(([question, count]) => ({ question, count }));
+    
+    // Get top strong areas (questions user got right most)
+    const topStrongAreas = Object.entries(strongAreas)
+      .sort(([,a], [,b]) => b - a)
+      .slice(0, 3)
+      .map(([question, count]) => ({ question, count }));
+    
+    // Calculate difficulty-based analytics
+    const difficultyAnalytics = {
+      easy: {
+        accuracy: (difficultyStats.easy?.total > 0) ? ((difficultyStats.easy?.correct / difficultyStats.easy.total) * 100).toFixed(1) : 0,
+        total: difficultyStats.easy?.total ?? 0,
+        correct: difficultyStats.easy?.correct ?? 0
+      },
+      medium: {
+        accuracy: (difficultyStats.medium?.total > 0) ? ((difficultyStats.medium?.correct / difficultyStats.medium.total) * 100).toFixed(1) : 0,
+        total: difficultyStats.medium?.total ?? 0,
+        correct: difficultyStats.medium?.correct ?? 0
+      },
+      hard: {
+        accuracy: (difficultyStats.hard?.total > 0) ? ((difficultyStats.hard?.correct / difficultyStats.hard.total) * 100).toFixed(1) : 0,
+        total: difficultyStats.hard?.total ?? 0,
+        correct: difficultyStats.hard?.correct ?? 0
       }
-    }, 2000);
+    };
+    
+    // Generate insights and recommendations
+    const { insights, recommendations } = generateInsights();
+    
+    return {
+      accuracy: parseFloat(accuracy),
+      totalQuestions,
+      correctAnswers,
+      incorrectAnswers,
+      topWeakAreas,
+      topStrongAreas,
+      difficultyAnalytics,
+      insights,
+      recommendations,
+      averageTimePerQuestion: questionHistory.length > 0 
+        ? questionHistory.reduce((sum, q) => sum + (60 - q.timeLeft), 0) / questionHistory.length 
+        : 0
+    };
   };
 
   const endGame = () => {
+    // Check and update highest score
+    if (score > highestScore) {
+      setHighestScore(score);
+      localStorage.setItem('highestScore', score.toString());
+    }
+    
+    // Check and update highest streak
+    if (maxStreak > highestStreak) {
+      setHighestStreak(maxStreak);
+      localStorage.setItem('highestStreak', maxStreak.toString());
+    }
+    
+    // Save user performance data for analytics
+    if (userPerformance.totalQuestions > 0) {
+      const performanceData = {
+        ...userPerformance,
+        sessionEndTime: new Date().toISOString(),
+        finalScore: score,
+        finalStreak: maxStreak
+      };
+      localStorage.setItem('userPerformance', JSON.stringify(performanceData));
+    }
+    
     setGameState('results');
   };
 
+  // Update startGame to remove unlimited mode logic
   const startGame = () => {
-    if (!playerName.trim()) {
-      setShowNameInput(true);
-      return;
-    }
     setGameState('playing');
     setCurrentQuestion(0);
     setScore(0);
     setStreak(0);
-    setTimeLeft(25);
+    setMaxStreak(0);
     setLives(3);
+    setTimeLeft(60);
+    setShowResult(false);
+    setSelectedAnswer('');
+    setIsCorrect(false);
     setPowerUps({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
+    setShowPowerUpEffect('');
   };
 
+  // Update restartGame to remove unlimited mode logic
   const restartGame = () => {
-    setGameState('menu');
+    setGameState('playing');
     setCurrentQuestion(0);
     setScore(0);
     setStreak(0);
     setMaxStreak(0);
-    setSelectedAnswer('');
-    setShowResult(false);
-    setTimeLeft(25);
     setLives(3);
+    setTimeLeft(60);
+    setShowResult(false);
+    setSelectedAnswer('');
+    setIsCorrect(false);
     setPowerUps({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
+    setShowPowerUpEffect('');
+  };
+
+  // Update startStudentQuiz to remove unlimited mode logic
+  const startStudentQuiz = () => {
+    setGameState('playing');
+    setCurrentQuestion(0);
+    setScore(0);
+    setStreak(0);
+    setMaxStreak(0);
+    setLives(3);
+    setTimeLeft(60);
+    setShowResult(false);
+    setSelectedAnswer('');
+    setIsCorrect(false);
+    setPowerUps({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
+    setShowPowerUpEffect('');
   };
 
   const powerUp = (type) => {
-    if (powerUps[type] <= 0) return;
-    
-    playSound('powerup');
-    setShowPowerUpEffect(type);
-    setTimeout(() => setShowPowerUpEffect(''), 1000);
-    
+    // Guard: do nothing if no current question
+    if (!questions[currentQuestion]) return;
     switch (type) {
       case 'skipQuestion':
         setPowerUps({ ...powerUps, skipQuestion: powerUps.skipQuestion - 1 });
@@ -342,15 +618,18 @@ const HindiEnglishQuiz = () => {
         break;
       case 'extraTime':
         setPowerUps({ ...powerUps, extraTime: powerUps.extraTime - 1 });
-        setTimeLeft(Math.min(timeLeft + 10, 25));
+        setTimeLeft(Math.min(timeLeft + 10, 60));
         break;
       case 'fiftyFifty':
         setPowerUps({ ...powerUps, fiftyFifty: powerUps.fiftyFifty - 1 });
-        const correctAnswer = questions[currentQuestion].correct;
+        const currentQ = questions[currentQuestion];
+        if (!currentQ) return;
+        const correctAnswer = currentQ.correct;
         const incorrectOptions = currentOptions.filter(opt => opt !== correctAnswer);
         const optionsToRemove = incorrectOptions.slice(0, 2);
         setCurrentOptions(currentOptions.filter(opt => !optionsToRemove.includes(opt)));
         break;
+      default: break;
     }
   };
 
@@ -361,6 +640,79 @@ const HindiEnglishQuiz = () => {
     if (percentage >= 70) return { rating: "🎯 GREAT JOB!", color: "text-green-400" };
     if (percentage >= 60) return { rating: "👍 GOOD WORK!", color: "text-purple-400" };
     return { rating: "💪 KEEP TRYING!", color: "text-red-400" };
+  };
+
+  // Share score function with screenshot
+  const shareScore = async () => {
+    try {
+      // Take screenshot of the results page
+      const resultsElement = document.querySelector('.bg-white\\/10.backdrop-blur-lg.rounded-3xl');
+      if (resultsElement) {
+        // Use html2canvas to capture the screenshot
+        const html2canvas = await import('html2canvas');
+        const canvas = await html2canvas.default(resultsElement, {
+          backgroundColor: null,
+          scale: 2,
+          useCORS: true,
+          allowTaint: true
+        });
+        
+        // Convert canvas to blob
+        canvas.toBlob(async (blob) => {
+          if (blob) {
+            const file = new File([blob], 'fluence-quiz-score.png', { type: 'image/png' });
+            
+            if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
+              // Share the screenshot file
+              await navigator.share({
+                title: 'Fluence Quiz Score',
+                text: `🎉 I scored ${score} points in the Fluence Quiz! Can you beat my score? 🏆`,
+                files: [file]
+              });
+            } else {
+              // Fallback: download the screenshot
+              const url = URL.createObjectURL(blob);
+              const a = document.createElement('a');
+              a.href = url;
+              a.download = 'fluence-quiz-score.png';
+              document.body.appendChild(a);
+              a.click();
+              document.body.removeChild(a);
+              URL.revokeObjectURL(url);
+              
+              setShowShareSuccess(true);
+              setTimeout(() => setShowShareSuccess(false), 3000);
+            }
+          }
+        }, 'image/png');
+      }
+    } catch (error) {
+      console.error('Error sharing screenshot:', error);
+      // Fallback to text sharing
+      const { rating } = getScoreRating();
+      const shareText = `🎉 I scored ${score} points on Fluence Quiz! ${rating} 
+      
+Questions: ${Math.min(currentQuestion + 1, questions.length)}/${questions.length}
+Max Streak: ${maxStreak} 🔥
+
+Try the quiz yourself!`;
+      
+      try {
+        if (navigator.share) {
+          await navigator.share({
+            title: 'My Fluence Quiz Score',
+            text: shareText,
+            url: window.location.href
+          });
+        } else {
+          await navigator.clipboard.writeText(shareText);
+          setShowShareSuccess(true);
+          setTimeout(() => setShowShareSuccess(false), 2000);
+        }
+      } catch (clipboardError) {
+        console.error('Error copying to clipboard:', clipboardError);
+      }
+    }
   };
 
   // Load available voices
@@ -378,25 +730,6 @@ const HindiEnglishQuiz = () => {
     }
   }, [voice]);
 
-  // SVG Speaker Icon
-  const SpeakerIcon = (props) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={props.className || "w-7 h-7"} {...props}>
-      <polygon points="11 5 6 9H2v6h4l5 4V5z" />
-      <path d="M19 5a9 9 0 0 1 0 14" />
-      <path d="M15 9a3 3 0 0 1 0 6" />
-    </svg>
-  );
-  // SVG Turtle Icon
-  const TurtleIcon = (props) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={props.className || "w-7 h-7"} {...props}>
-      <ellipse cx="12" cy="12" rx="8" ry="5" />
-      <circle cx="4" cy="12" r="1.5" />
-      <circle cx="20" cy="12" r="1.5" />
-      <path d="M8 17c0 1.5 2 2 4 2s4-.5 4-2" />
-      <path d="M6 7c.5-2 3-3 6-3s5.5 1 6 3" />
-    </svg>
-  );
-
   // Helper to auto-select voice
   function getVoiceForText(text, voices) {
     // Simple check: if text contains Devanagari, use Hindi
@@ -408,57 +741,140 @@ const HindiEnglishQuiz = () => {
     return voices.find(v => v.lang && v.lang.startsWith('en')) || voices[0];
   }
 
-  // Update speak function to accept rate and auto-select voice
-  function speak(text, customRate = 1) {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utter = new window.SpeechSynthesisUtterance(text);
-      const selectedVoice = getVoiceForText(text, voices);
-      utter.voice = selectedVoice;
-      utter.pitch = 1;
-      utter.rate = customRate;
-      utter.volume = 1;
-      utter.lang = selectedVoice?.lang || 'en-US';
-      utter.onstart = () => setIsSpeaking(true);
-      utter.onend = () => setIsSpeaking(false);
-      utter.onpause = () => setIsPaused(true);
-      utter.onresume = () => setIsPaused(false);
-      utteranceRef.current = utter;
-      window.speechSynthesis.speak(utter);
+  // Mastery persistence: load mastery from localStorage and merge into questions
+  useEffect(() => {
+    const masteryData = localStorage.getItem('fluenceQuizMastery');
+    if (masteryData) {
+      try {
+        const masteryMap = JSON.parse(masteryData);
+        setQuestions(prevQuestions => prevQuestions.map(q =>
+          masteryMap[q.id] ? { ...q, masteryLevel: masteryMap[q.id] } : q
+        ));
+      } catch {}
     }
-  }
+  }, [questions.length]);
+
+  // When updating masteryLevel, persist to localStorage
+  useEffect(() => {
+    if (questions.length > 0) {
+      const masteryMap = {};
+      questions.forEach(q => {
+        if (q.id !== undefined && q.masteryLevel !== undefined) {
+          masteryMap[q.id] = q.masteryLevel;
+        }
+      });
+      localStorage.setItem('fluenceQuizMastery', JSON.stringify(masteryMap));
+    }
+  }, [questions]);
 
   if (gameState === 'menu') {
+    // Show student quiz interface if in student quiz mode
+    if (studentQuizMode) {
+      return (
+        <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 flex items-center justify-center p-4">
+          <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 max-w-md w-full text-center shadow-2xl border border-white/20">
+            <div className="mb-8">
+              <h1 className="text-4xl font-bold text-white mb-2 animate-pulse flex items-center justify-center gap-2">
+                🎓 Student Quiz
+              </h1>
+              <p className="text-white/80 text-lg">Welcome, {playerName}!</p>
+            </div>
+            
+            {/* Show quiz update date for student users */}
+            {quizUpdateDate && (
+              <div className="mb-6 flex items-center justify-center gap-2 text-white/60 text-sm">
+                <Calendar className="w-4 h-4" />
+                <span>Quiz updated on: {quizUpdateDate.toLocaleDateString('en-GB')}</span>
+              </div>
+            )}
+            
+            {/* Show error if questions fail to load */}
+            {questionLoadError && (
+              <div className="mb-6 text-red-300 text-sm">{questionLoadError}</div>
+            )}
+            
+            <button
+              onClick={startStudentQuiz}
+              className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg mb-4"
+              disabled={!!questionLoadError || questions.length === 0}
+            >
+              START QUIZ
+            </button>
+            
+            <div className="flex justify-center gap-4 mt-6">
+              <button
+                onClick={() => setMusicEnabled(!musicEnabled)}
+                className="p-3 bg-white/20 rounded-full hover:bg-white/30 transition-colors"
+              >
+                {musicEnabled ? <Volume2 className="w-6 h-6 text-white" /> : <VolumeX className="w-6 h-6 text-white" />}
+              </button>
+              <button
+                onClick={() => setSfxEnabled(!sfxEnabled)}
+                className="p-3 bg-white/20 rounded-full hover:bg-white/30 transition-colors"
+              >
+                {sfxEnabled ? <Star className="w-6 h-6 text-white" /> : <Star className="w-6 h-6 text-white/50" />}
+              </button>
+            </div>
+          </div>
+        </div>
+      );
+    }
+    
+    // Regular menu interface
     return (
       <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 flex items-center justify-center p-4">
         <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 max-w-md w-full text-center shadow-2xl border border-white/20">
           <div className="mb-8">
             <h1 className="text-4xl font-bold text-white mb-2 animate-pulse flex items-center justify-center gap-2">
-              <Target className="w-8 h-8 text-pink-400 inline-block" /> English Idioms Quiz
+              <Target className="w-8 h-8 text-pink-400 inline-block" /> Fluence Quiz
             </h1>
-            <p className="text-white/80 text-lg">Test your knowledge of English idioms!</p>
+            <p className="text-white/80 text-lg">Test your knowledge!</p>
           </div>
           
-          {showNameInput ? (
-            <div className="mb-6">
-              <input
-                type="text"
-                placeholder="Enter your name"
-                value={playerName}
-                onChange={(e) => setPlayerName(e.target.value)}
-                className="w-full p-3 rounded-xl bg-white/20 text-white placeholder-white/60 border border-white/30 focus:outline-none focus:ring-2 focus:ring-white/50"
-                onKeyPress={(e) => e.key === 'Enter' && startGame()}
-              />
+          {/* Show personal records if they exist */}
+          {(highestScore > 0 || highestStreak > 0) && (
+            <div className="mb-6 bg-gradient-to-r from-yellow-500/10 to-orange-500/10 rounded-xl p-4 border border-yellow-400/20">
+              <h4 className="text-yellow-300 font-bold mb-2 text-sm">🏆 Your Records</h4>
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <p className="text-white/60 text-xs">Best Score</p>
+                  <p className="text-yellow-300 font-bold">{highestScore}</p>
+                </div>
+                <div>
+                  <p className="text-white/60 text-xs">Best Streak</p>
+                  <p className="text-yellow-300 font-bold">{highestStreak} 🔥</p>
+                </div>
+              </div>
             </div>
-          ) : null}
-          
+          )}
+          <div className="mb-6 space-y-4">
+            <input
+              type="text"
+              placeholder="Enter your name"
+              value={playerName}
+              onChange={(e) => setPlayerName(e.target.value)}
+              className="w-full p-3 rounded-xl bg-white/20 text-white placeholder-white/60 border border-white/30 focus:outline-none focus:ring-2 focus:ring-white/50"
+              onKeyPress={(e) => e.key === 'Enter' && (isStudentQuiz ? startStudentQuiz() : startGame())}
+            />
+            
+            {/* Show which student quiz is being taken */}
+            {isStudentQuiz && (
+              <div className="mt-2 flex items-center justify-center gap-2 text-blue-300 text-sm font-medium">
+                <span>🎓 Student Quiz</span>
+              </div>
+            )}
+            {/* Show error if questions fail to load */}
+            {questionLoadError && (
+              <div className="mt-4 text-red-300 text-sm">{questionLoadError}</div>
+            )}
+          </div>
           <button
-            onClick={startGame}
+            onClick={isStudentQuiz ? startStudentQuiz : startGame}
             className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg mb-4"
+            disabled={!playerName || !!questionLoadError || questions.length === 0}
           >
-            {playerName ? 'START GAME' : 'ENTER NAME TO START'}
+            START QUIZ
           </button>
-          
           <div className="flex justify-center gap-4 mt-6">
             <button
               onClick={() => setMusicEnabled(!musicEnabled)}
@@ -499,14 +915,103 @@ const HindiEnglishQuiz = () => {
               <p className="text-white">Max Streak: {maxStreak} 🔥</p>
               <p className="text-white">Questions Answered: {Math.min(currentQuestion + 1, questions.length)}/{questions.length}</p>
             </div>
+            
+            {/* Highest Records */}
+            <div className="bg-gradient-to-r from-yellow-500/20 to-orange-500/20 rounded-xl p-4 border border-yellow-400/30">
+              <h4 className="text-yellow-300 font-bold mb-2">🏆 Personal Records</h4>
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <p className="text-white/80 text-sm">Highest Score</p>
+                  <p className="text-yellow-300 font-bold text-lg">{highestScore}</p>
+                </div>
+                <div>
+                  <p className="text-white/80 text-sm">Highest Streak</p>
+                  <p className="text-yellow-300 font-bold text-lg">{highestStreak} 🔥</p>
+                </div>
+              </div>
+              {/* Show new record indicators */}
+              {score >= highestScore && score > 0 && (
+                <div className="mt-2 text-green-400 text-sm font-bold animate-pulse">
+                  🎉 New High Score!
+                </div>
+              )}
+              {maxStreak >= highestStreak && maxStreak > 0 && (
+                <div className="mt-1 text-green-400 text-sm font-bold animate-pulse">
+                  🔥 New Best Streak!
+                </div>
+              )}
+            </div>
+
+            {/* Performance Insights and Recommendations */}
+            <div className="bg-gradient-to-r from-purple-500/20 to-blue-500/20 rounded-xl p-4 border border-purple-400/30">
+              <h4 className="text-purple-300 font-bold mb-3">🧠 Learning Insights</h4>
+              {(() => {
+                const { insights, recommendations } = generateInsights();
+                return (
+                  <div className="space-y-3">
+                    {insights.length > 0 && (
+                      <div>
+                        <h5 className="text-white font-semibold mb-2">📊 Your Progress:</h5>
+                        <ul className="text-white/90 text-sm space-y-1">
+                          {insights.slice(0, 3).map((insight, index) => (
+                            <li key={index} className="flex items-start gap-2">
+                              <span>•</span>
+                              <span>{insight}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                    
+                    {recommendations.length > 0 && (
+                      <div>
+                        <h5 className="text-white font-semibold mb-2">💡 Recommendations:</h5>
+                        <ul className="text-white/90 text-sm space-y-1">
+                          {recommendations.slice(0, 2).map((rec, index) => (
+                            <li key={index} className="flex items-start gap-2">
+                              <span>•</span>
+                              <span>{rec}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                  </div>
+                );
+              })()}
+            </div>
           </div>
           
-          <button
-            onClick={restartGame}
-            className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg"
-          >
-            PLAY AGAIN
-          </button>
+          <div className="space-y-4">
+            <button
+              onClick={shareScore}
+              className="w-full bg-gradient-to-r from-purple-400 to-pink-500 text-white font-bold py-3 px-6 rounded-xl hover:from-purple-500 hover:to-pink-600 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center gap-2"
+            >
+              <Share2 className="w-5 h-5" />
+              SHARE SCORE
+            </button>
+            
+            <button
+              onClick={restartGame}
+              className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg"
+            >
+              PLAY AGAIN
+            </button>
+          </div>
+          
+          {/* Share Success Message */}
+          {showShareSuccess && (
+            <div className="mt-4 p-3 bg-green-500/20 border border-green-400/30 rounded-xl text-green-300 text-sm">
+              ✅ Screenshot saved! Check your downloads folder.
+            </div>
+          )}
+          
+          {/* Powered by Fluence Footer */}
+          <div className="mt-8 pt-4 border-t border-white/20">
+            <p className="text-white/40 text-sm text-center">
+              Powered by <span className="font-semibold text-white/60">Fluence</span>
+            </p>
+          </div>
         </div>
       </div>
     );
@@ -521,20 +1026,22 @@ const HindiEnglishQuiz = () => {
             <div className="flex items-center gap-4">
               <div className="text-white">
                 <span className="text-sm opacity-80">Score</span>
-                <div className="text-2xl font-bold">{score}</div>
+                <div className="text-xl font-bold">{score}</div>
               </div>
               <div className="text-white">
                 <span className="text-sm opacity-80">Streak</span>
-                <div className="text-2xl font-bold">{streak} 🔥</div>
+                <div className="text-xl font-bold">{streak} 🔥</div>
               </div>
               <div className="text-white">
                 <span className="text-sm opacity-80">Lives</span>
-                <div className="text-2xl">{'❤️'.repeat(Math.max(0, lives))}</div>
+                <div className="text-xl">{'❤️'.repeat(Math.max(0, lives))}</div>
               </div>
             </div>
             
             <div className="text-white text-right">
-              <div className="text-sm opacity-80">Question {currentQuestion + 1}/{questions.length}</div>
+              <div className="text-sm opacity-80">
+                Question {currentQuestion + 1}/{questions.length}
+              </div>
               <div className={`text-3xl font-bold ${timeLeft <= 5 ? 'text-red-400 animate-pulse' : ''}`}>{timeLeft}s</div>
             </div>
           </div>
@@ -542,7 +1049,6 @@ const HindiEnglishQuiz = () => {
 
         {/* Power-ups */}
         <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-4 mb-6 shadow-xl border border-white/20">
-          <h3 className="text-white font-bold mb-3">Power-ups</h3>
           <div className="flex gap-3">
             <button
               onClick={() => powerUp('skipQuestion')}
@@ -582,27 +1088,26 @@ const HindiEnglishQuiz = () => {
 
         {/* Question */}
         {questions.length > 0 && (
-          <div className="bg-white/10 backdrop-blur-lg rounded-2xl py-4 px-8 mb-6 shadow-xl border border-white/20">
+          <div className="bg-white/10 backdrop-blur-lg rounded-2xl py-4 px-3 mb-6 shadow-xl border border-white/20">
             <div className="text-center">
-              <h2 className="text-white text-sm opacity-80 mb-2">Choose the correct answer:</h2>
-              <p className="text-white text-2xl font-bold mb-6 leading-relaxed">
+              <p className="text-white text-2xl font-bold mb-3 leading-relaxed">
                 {questions[currentQuestion].question}
               </p>
               {/* Minimal TTS Controls */}
-              <div className="flex justify-center gap-6 mb-4">
+              <div className="flex justify-center gap-4 mb-2 items-center">
                 <button
                   aria-label="Replay at normal speed"
-                  className="hover:bg-white/20 rounded-full p-2 transition-colors"
+                  className="hover:bg-white/20 rounded-full p-2 transition-colors text-2xl"
                   onClick={() => speak(questions[currentQuestion].question, 1)}
                 >
-                  <SpeakerIcon className="w-8 h-8 text-blue-300" />
+                  🔊
                 </button>
                 <button
                   aria-label="Replay at slow speed"
-                  className="hover:bg-white/20 rounded-full p-2 transition-colors"
-                  onClick={() => speak(questions[currentQuestion].question, 0.6)}
+                  className="hover:bg-white/20 rounded-full p-2 transition-colors text-2xl"
+                  onClick={() => speak(questions[currentQuestion].question, 0.4)}
                 >
-                  <TurtleIcon className="w-8 h-8 text-green-400" />
+                  🐢
                 </button>
               </div>
               
@@ -619,7 +1124,7 @@ const HindiEnglishQuiz = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {currentOptions.map((option, index) => (
             <button
-              key={index}
+              key={`${currentQuestion}-${index}`}
               onClick={() => handleAnswerSelect(option)}
               disabled={showResult}
               className={`p-6 rounded-xl font-bold text-left transition-all duration-300 transform hover:scale-105 shadow-lg ${
@@ -627,8 +1132,10 @@ const HindiEnglishQuiz = () => {
                   ? option === questions[currentQuestion]?.correct
                     ? 'bg-green-500 text-white'
                     : option === selectedAnswer
-                    ? 'bg-red-500 text-white'
+                    ? 'bg-red-500 text-white lifted'
                     : 'bg-white/20 text-white/60'
+                  : selectedAnswer === option
+                  ? 'bg-white/20 text-white lifted'
                   : 'bg-white/20 text-white hover:bg-white/30'
               }`}
             >
