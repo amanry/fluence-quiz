@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fluence-quiz/static/css/main.bf68c482.css",
-    "main.js": "/fluence-quiz/static/js/main.1f36388b.js",
+    "main.css": "/fluence-quiz/static/css/main.e2174c4a.css",
+    "main.js": "/fluence-quiz/static/js/main.bca2018d.js",
     "static/js/239.36639259.chunk.js": "/fluence-quiz/static/js/239.36639259.chunk.js",
     "static/js/453.0db79ab9.chunk.js": "/fluence-quiz/static/js/453.0db79ab9.chunk.js",
     "index.html": "/fluence-quiz/index.html",
-    "main.bf68c482.css.map": "/fluence-quiz/static/css/main.bf68c482.css.map",
-    "main.1f36388b.js.map": "/fluence-quiz/static/js/main.1f36388b.js.map",
+    "main.e2174c4a.css.map": "/fluence-quiz/static/css/main.e2174c4a.css.map",
+    "main.bca2018d.js.map": "/fluence-quiz/static/js/main.bca2018d.js.map",
     "239.36639259.chunk.js.map": "/fluence-quiz/static/js/239.36639259.chunk.js.map",
     "453.0db79ab9.chunk.js.map": "/fluence-quiz/static/js/453.0db79ab9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf68c482.css",
-    "static/js/main.1f36388b.js"
+    "static/css/main.e2174c4a.css",
+    "static/js/main.bca2018d.js"
   ]
 }
