@@ -1,1304 +1,842 @@
 [
   {
-    "question": "कपड़े सुखा दो।",
-    "correct": "Hang the clothes to dry.",
+    "question": "Absorbed",
+    "correct": "completely focused on something (मग्न/लीन)",
     "options": [
-      "Put the clothes on dry.",
-      "Put the clothes to dry.",
-      "Dry the clothes.",
-      "Hang the clothes to dry."
+      "not interested (दिलचस्पी नहीं)",
+      "partially focused (आंशिक रूप से केंद्रित)",
+      "completely focused on something (मग्न/लीन)",
+      "distracted easily (आसानी से विचलित)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "दिमाग से काम लो।",
-    "correct": "Use your brain.",
+    "question": "Ancient",
+    "correct": "very old (प्राचीन)",
     "options": [
-      "Use your mind.",
-      "Use your brain.",
-      "Work with your mind.",
-      "Think with your brain."
+      "new and modern (नया और आधुनिक)",
+      "from the middle ages (मध्य युग से)",
+      "very old (प्राचीन)",
+      "recently built (हाल ही में बना)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "बहाने मत बनाओ।",
-    "correct": "Don't make excuses.",
+    "question": "Antagonist",
+    "correct": "the main enemy or opponent (विरोधी/खलनायक)",
     "options": [
-      "Don't make reasons.",
-      "Don't make excuses.",
-      "Don't create alibis.",
-      "Don't invent excuses."
+      "the main character (मुख्य पात्र)",
+      "a supportive friend (एक सहायक दोस्त)",
+      "the main enemy or opponent (विरोधी/खलनायक)",
+      "a neutral observer (एक तटस्थ दर्शक)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "अँधेरा हो रहा है।",
-    "correct": "It’s getting dark.",
+    "question": "Barely",
+    "correct": "hardly, almost not (मुश्किल से)",
     "options": [
-      "It is dark.",
-      "It is becoming dark.",
-      "It’s getting dark.",
-      "Darkness is falling."
+      "easily and clearly (आसानी से और स्पष्ट रूप से)",
+      "with great effort (बहुत प्रयास से)",
+      "hardly, almost not (मुश्किल से)",
+      "completely and fully (पूरी तरह से)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "तुम डरपोक हो।",
-    "correct": "You are coward.",
+    "question": "Bustling",
+    "correct": "full of activity (हलचल भरा)",
     "options": [
-      "You are fearful.",
-      "You are shy.",
-      "You are timid.",
-      "You are coward."
+      "quiet and peaceful (शांत और शांतिपूर्ण)",
+      "full of activity (हलचल भरा)",
+      "empty and deserted (खाली और सुनसान)",
+      "slow-moving (धीमी गति वाला)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "मैं कल से काम शुरू करूँगा।",
-    "correct": "I will start working from tomorrow.",
+    "question": "Captured",
+    "correct": "trapped or caught (कैद किया गया)",
     "options": [
-      "I will start working from tomorrow.",
-      "I will begin work since tomorrow.",
-      "I will start work by tomorrow.",
-      "I will commence working tomorrow."
+      "released or set free (रिहा या आज़ाद किया गया)",
+      "trapped or caught (कैद किया गया)",
+      "escaped successfully (सफलतापूर्वक भाग निकला)",
+      "observed from a distance (दूर से देखा गया)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "मैं सुबह से पढ़ रहा हूँ।",
-    "correct": "I have been studying since morning.",
+    "question": "Cerulean",
+    "correct": "a shade of blue (नीला रंग)",
     "options": [
-      "I am studying since morning.",
-      "I have been studying from morning.",
-      "I have been studying since morning.",
-      "I was studying since morning."
+      "a shade of green (हरा रंग)",
+      "a shade of red (लाल रंग)",
+      "a shade of blue (नीला रंग)",
+      "a shade of yellow (पीला रंग)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 2
+  },
+  {
+    "question": "Chaos",
+    "correct": "complete disorder (अराजकता)",
+    "options": [
+      "perfect order (पूर्ण व्यवस्था)",
+      "complete disorder (अराजकता)",
+      "a calm situation (एक शांत स्थिति)",
+      "a planned event (एक नियोजित घटना)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "उसने 5 रुपये में एक पैन खरीदा।",
-    "correct": "He bought a pen for Rs. 5.",
+    "question": "Communicate",
+    "correct": "to talk or share information (संवाद करना)",
     "options": [
-      "He bought a pen in Rs. 5.",
-      "He bought a pen with Rs. 5.",
-      "He bought a pen for Rs. 5.",
-      "He purchased a pen of Rs. 5."
+      "to keep silent (चुप रहना)",
+      "to hide information (जानकारी छिपाना)",
+      "to talk or share information (संवाद करना)",
+      "to listen only (केवल सुनना)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "मैं आधे घंटे में निकलूँगा।",
-    "correct": "I will leave in half an hour.",
+    "question": "Companion",
+    "correct": "friend who accompanies you (साथी)",
     "options": [
-      "I will leave in half an hour.",
-      "I will depart within thirty minutes.",
-      "I will exit after half an hour.",
-      "I will be leaving in half an hour."
+      "an enemy or foe (एक दुश्मन या शत्रु)",
+      "a distant acquaintance (एक दूर का परिचित)",
+      "friend who accompanies you (साथी)",
+      "someone who works alone (कोई अकेला काम करता है)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "ट्रेन समय पे पहुँचेगी।",
-    "correct": "This train will be on time.",
+    "question": "Contained",
+    "correct": "held within (समाहित)",
     "options": [
-      "The train will arrive at time.",
-      "This train will reach on time.",
-      "The train will reach by time.",
-      "This train will be on time."
+      "spread out (फैला हुआ)",
+      "released (मुक्त)",
+      "held within (समाहित)",
+      "overflowing (छलक रहा है)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "मैं 4 बजे तक निकल जाऊँगा।",
-    "correct": "I will leave by 4 o’clock.",
+    "question": "Devised",
+    "correct": "planned or invented (योजना बनाई)",
     "options": [
-      "I will leave till 4 o’clock.",
-      "I will leave until 4 o’clock.",
-      "I will leave by 4 o’clock.",
-      "I will be gone before 4 o’clock."
+      "destroyed or broken (नष्ट या टूटा हुआ)",
+      "followed instructions (निर्देशों का पालन किया)",
+      "planned or invented (योजना बनाई)",
+      "forgotten (भूला हुआ)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 2
+  },
+  {
+    "question": "Distraction",
+    "correct": "something that takes attention away (ध्यान भटकाना)",
+    "options": [
+      "something that helps focus (ध्यान केंद्रित करने में मदद करने वाला)",
+      "a clear goal (एक स्पष्ट लक्ष्य)",
+      "something that takes attention away (ध्यान भटकाना)",
+      "a source of concentration (एकाग्रता का स्रोत)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "समझदार को इशारा ही काफी होता है।",
-    "correct": "A word to wise is enough.",
+    "question": "Dull",
+    "correct": "not bright or shiny (फीका)",
     "options": [
-      "A hint is enough for a wise man.",
-      "A word to wise is enough.",
-      "An indication is sufficient for the intelligent.",
-      "A wise person needs only a sign."
+      "bright and vibrant (उज्ज्वल और जीवंत)",
+      "shimmering and sparkling (चमकदार और जगमगाता)",
+      "not bright or shiny (फीका)",
+      "very interesting (बहुत दिलचस्प)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "यह कोई बच्चों का खेल नहीं है।",
-    "correct": "It’s not a child’s play.",
+    "question": "Essence",
+    "correct": "the basic nature of something (सार/तत्व)",
     "options": [
-      "This is not a child's game.",
-      "It’s not a child’s play.",
-      "This is not for children to play.",
-      "It is not a game for kids."
+      "an external appearance (एक बाहरी उपस्थिति)",
+      "a minor detail (एक छोटी सी बात)",
+      "the basic nature of something (सार/तत्व)",
+      "a superficial aspect (एक सतही पहलू)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 2
+  },
+  {
+    "question": "Exploded",
+    "correct": "burst suddenly (फट गया)",
+    "options": [
+      "contracted slowly (धीरे-धीरे सिकुड़ गया)",
+      "burst suddenly (फट गया)",
+      "remained intact (अक्षुण्ण रहा)",
+      "deflated (हवा निकल गई)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "मुझे नींद आ रही है।",
-    "correct": "I am feeling sleepy.",
+    "question": "Extraordinary",
+    "correct": "very special or unusual (असाधारण)",
     "options": [
-      "I am feeling sleep.",
-      "I am coming sleep.",
-      "I am feeling sleepy.",
-      "I feel like sleeping."
+      "common and ordinary (सामान्य और साधारण)",
+      "very special or unusual (असाधारण)",
+      "boring and predictable (उबाऊ और अनुमानित)",
+      "standard or typical (मानक या विशिष्ट)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "इस बात को अपने तक ही रखना।",
-    "correct": "Keep this matter to yourself.",
+    "question": "Faded",
+    "correct": "lost color or brightness (मुरझाया हुआ)",
     "options": [
-      "Keep this matter to yourself.",
-      "Keep it up to yourself.",
-      "Keep it within you.",
-      "Keep this only for yourself."
+      "became more vibrant (अधिक जीवंत हो गया)",
+      "lost color or brightness (मुरझाया हुआ)",
+      "intensified in shade (छाया में तीव्र हुआ)",
+      "remained unchanged (अपरिवर्तित रहा)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "basic_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 1
   },
   {
-    "question": "समय की नज़ाकत को समझो।",
-    "correct": "Understand the urgency of time.",
+    "question": "Flourish",
+    "correct": "to grow well and be successful (फलना-फूलना)",
     "options": [
-      "Understand the sensitivity of time.",
-      "Understand the urgency of time.",
-      "Understand the delicacy of time.",
-      "Realize the importance of time."
+      "to decline or wither (गिरना या मुरझाना)",
+      "to struggle (संघर्ष करना)",
+      "to grow well and be successful (फलना-फूलना)",
+      "to remain stagnant (स्थिर रहना)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "वह हकला रहा था।",
-    "correct": "He was stuttering.",
+    "question": "Fragile",
+    "correct": "easily broken (नाजुक)",
     "options": [
-      "He was mumbling.",
-      "He was stuttering.",
-      "He was stammering.",
-      "He was speaking haltingly."
+      "strong and durable (मजबूत और टिकाऊ)",
+      "easily broken (नाजुक)",
+      "flexible and resilient (लचीला और लचीला)",
+      "heavy and solid (भारी और ठोस)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Guardian",
+    "correct": "protector (संरक्षक)",
+    "options": [
+      "an attacker (एक हमलावर)",
+      "a betrayer (एक धोखेबाज)",
+      "protector (संरक्षक)",
+      "a neutral party (एक तटस्थ पक्ष)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Greenhouse",
+    "correct": "glass house for growing plants (हरित गृह)",
+    "options": [
+      "a cold storage unit (एक ठंडा भंडारण इकाई)",
+      "a traditional house (एक पारंपरिक घर)",
+      "glass house for growing plants (हरित गृह)",
+      "an outdoor garden (एक बाहरी बगीचा)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Harmony",
+    "correct": "things working well together (सामंजस्य)",
+    "options": [
+      "conflict or disagreement (संघर्ष या असहमति)",
+      "disorder (अव्यवस्था)",
+      "things working well together (सामंजस्य)",
+      "separation (अलगाव)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Hoarded",
+    "correct": "collected and stored away (जमा किया)",
+    "options": [
+      "distributed widely (व्यापक रूप से वितरित)",
+      "wasted or spent freely (बर्बाद या स्वतंत्र रूप से खर्च किया)",
+      "collected and stored away (जमा किया)",
+      "shared generously (उदारता से साझा किया)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "यह फायदे का सौदा नहीं है।",
-    "correct": "It’s not worthwhile.",
+    "question": "Inherited",
+    "correct": "received from family (विरासत में मिला)",
     "options": [
-      "It's not a profitable deal.",
-      "It’s not worthwhile.",
-      "It's not a good bargain.",
-      "It's not advantageous."
+      "bought or purchased (खरीदा गया)",
+      "earned through hard work (कड़ी मेहनत से कमाया गया)",
+      "received from family (विरासत में मिला)",
+      "created or built (बनाया या निर्मित)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "मैंने चैन की साँस ली।",
-    "correct": "I breathed a sigh of relief.",
+    "question": "Investigation",
+    "correct": "careful search for information (जांच)",
     "options": [
-      "I took a breath of peace.",
-      "I sighed in relief.",
-      "I took a sigh of relief.",
-      "I breathed a sigh of relief."
+      "a casual observation (एक आकस्मिक अवलोकन)",
+      "a quick glance (एक सरसरी नज़र)",
+      "careful search for information (जांच)",
+      "a sudden discovery (एक अचानक खोज)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Journal",
+    "correct": "a book for writing personal thoughts (डायरी/पत्रिका)",
+    "options": [
+      "a textbook (एक पाठ्यपुस्तक)",
+      "a newspaper (एक अखबार)",
+      "a book for writing personal thoughts (डायरी/पत्रिका)",
+      "a recipe book (एक रेसिपी बुक)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Liberated",
+    "correct": "set free (मुक्त किया गया)",
+    "options": [
+      "imprisoned (कैद)",
+      "controlled (नियंत्रित)",
+      "set free (मुक्त किया गया)",
+      "restricted (प्रतिबंधित)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "तुम मेरे सबसे छोटे भाई हो।",
-    "correct": "You are my youngest brother.",
+    "question": "Lifeless",
+    "correct": "without life or energy (निर्जीव)",
     "options": [
-      "You are my smallest brother.",
-      "You are my younger brother.",
-      "You are my youngest brother.",
-      "You are my junior brother."
+      "full of vitality (जीवन शक्ति से भरा हुआ)",
+      "energetic (ऊर्जावान)",
+      "without life or energy (निर्जीव)",
+      "growing rapidly (तेजी से बढ़ रहा है)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Melodic",
+    "correct": "sweet sounding (मधुर)",
+    "options": [
+      "harsh and dissonant (कठोर और असंगत)",
+      "sweet sounding (मधुर)",
+      "noisy and chaotic (शोरगुल और अराजक)",
+      "unpleasant (अप्रिय)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Muffled",
+    "correct": "quiet and unclear (दबी हुई)",
+    "options": [
+      "loud and clear (जोर से और स्पष्ट)",
+      "quiet and unclear (दबी हुई)",
+      "sharp and distinct (तेज और विशिष्ट)",
+      "resonant (गुंजयमान)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "मैं डरा हुआ था।",
-    "correct": "I was scared.",
+    "question": "Mystery",
+    "correct": "something unknown or secret (रहस्य)",
     "options": [
-      "I was scared.",
-      "I was in fear.",
-      "I felt fear.",
-      "I was fearing."
+      "a clear fact (एक स्पष्ट तथ्य)",
+      "a solved puzzle (एक हल की हुई पहेली)",
+      "something unknown or secret (रहस्य)",
+      "an open secret (एक खुला रहस्य)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Pleaded",
+    "correct": "begged or requested earnestly (विनती की)",
+    "options": [
+      "demanded forcefully (जोर से मांग की)",
+      "begged or requested earnestly (विनती की)",
+      "ordered sternly (सख्ती से आदेश दिया)",
+      "refused politely (विनम्रता से मना कर दिया)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "मोबाइल टेबल पर रखा हुआ है।",
-    "correct": "The mobile is kept on the table.",
+    "question": "Possessed",
+    "correct": "owned or controlled (अधिकार में रखा)",
     "options": [
-      "The mobile is lying on the table.",
-      "The mobile is placed on the table.",
-      "The mobile is kept on the table.",
-      "The mobile is on the table."
+      "given away (दे दिया)",
+      "lacked or was without (कमी थी या बिना था)",
+      "owned or controlled (अधिकार में रखा)",
+      "lost (खो गया)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Pulsed",
+    "correct": "beat rhythmically (धड़का)",
+    "options": [
+      "remained still (स्थिर रहा)",
+      "beat rhythmically (धड़का)",
+      "stopped moving (चलना बंद कर दिया)",
+      "vibrated randomly (बेतरतीब ढंग से कंपन किया)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Renewed",
+    "correct": "made fresh again (नवीकृत)",
+    "options": [
+      "made old again (फिर से पुराना कर दिया)",
+      "made fresh again (नवीकृत)",
+      "destroyed (नष्ट कर दिया)",
+      "left as is (जैसा है वैसा ही छोड़ दिया)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "वह सिगरेट पीने का आदी हो गया है।",
-    "correct": "He is addicted to smoking.",
+    "question": "Rustled",
+    "correct": "made a soft sound (सरसराया)",
     "options": [
-      "He is habitual to smoking.",
-      "He is addicted to smoking.",
-      "He became addicted to cigarette.",
-      "He is used to smoke."
+      "made a loud noise (तेज आवाज की)",
+      "remained silent (शांत रहा)",
+      "made a soft sound (सरसराया)",
+      "cracked loudly (जोर से चटका)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "तुम ऐसे क्यों हो?",
-    "correct": "Why are you like this?",
+    "question": "Serenity",
+    "correct": "peacefulness (शांति)",
     "options": [
-      "Why are you like this?",
-      "Why are you so?",
-      "Why are you acting so?",
-      "Why are you being like that?"
+      "chaos and disorder (अराजकता और अव्यवस्था)",
+      "peacefulness (शांति)",
+      "agitation (आंदोलन)",
+      "excitement (उत्तेजना)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "काम से जी मत चुराओ।",
-    "correct": "Don’t shirk the work.",
+    "question": "Shimmering",
+    "correct": "shining with a soft light (चमकता हुआ)",
     "options": [
-      "Don’t avoid work.",
-      "Don’t escape from work.",
-      "Don’t shirk the work.",
-      "Don’t run away from work."
+      "dull and dark (फीका और अंधेरा)",
+      "shining with a soft light (चमकता हुआ)",
+      "not reflecting light (प्रकाश को प्रतिबिंबित नहीं करता)",
+      "constantly changing color (लगातार रंग बदल रहा है)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "ऐसा कोई शब्द नहीं होता।",
-    "correct": "There is no such word.",
+    "question": "Sparkled",
+    "correct": "shone brightly (चमके)",
     "options": [
-      "Such a word does not exist.",
-      "There is no such word.",
-      "There isn't any such word.",
-      "No such word is there."
+      "became dull (फीका पड़ गया)",
+      "shone brightly (चमके)",
+      "darkened (अंधेरा हो गया)",
+      "disappeared (गायब हो गया)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Symphony",
+    "correct": "beautiful music played together (संगीत समारोह)",
+    "options": [
+      "a single instrument playing (एक एकल वाद्य यंत्र बज रहा है)",
+      "a discordant noise (एक बेसुरी आवाज)",
+      "beautiful music played together (संगीत समारोह)",
+      "a silent performance (एक मूक प्रदर्शन)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "कान खोलकर सुन लो।",
-    "correct": "You better listen up.",
+    "question": "Trembled",
+    "correct": "shook with fear or excitement (कांपे)",
     "options": [
-      "Listen with open ears.",
-      "Listen very carefully.",
-      "You better listen up.",
-      "Open your ears and listen."
+      "stood still (स्थिर खड़ा रहा)",
+      "shook with fear or excitement (कांपे)",
+      "remained calm (शांत रहा)",
+      "moved smoothly (सुचारू रूप से चला)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Trapped",
+    "correct": "caught and unable to escape (फंसा हुआ)",
+    "options": [
+      "free to move (चलने के लिए स्वतंत्र)",
+      "caught and unable to escape (फंसा हुआ)",
+      "released (रिहा)",
+      "hiding (छिपा हुआ)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Vibrancy",
+    "correct": "brightness and energy (जीवंतता)",
+    "options": [
+      "dullness (फीकापन)",
+      "lack of energy (ऊर्जा की कमी)",
+      "brightness and energy (जीवंतता)",
+      "calmness (शांति)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "उसने ऐसा क्या कहा कि तुम्हें बुरा लग गया?",
-    "correct": "What did he say that made you feel bad?",
+    "question": "Vibrant",
+    "correct": "full of life and color (जीवंत)",
     "options": [
-      "What did he say that made you feel bad?",
-      "What did he say to make you feel bad?",
-      "What did he say so you felt bad?",
-      "What did he say for you to feel bad?"
+      "dull and lifeless (फीका और निर्जीव)",
+      "full of life and color (जीवंत)",
+      "pale and weak (पीला और कमजोर)",
+      "monochromatic (एक रंग का)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "आजकल स्वार्थ का जमाना है।",
-    "correct": "Selfishness is common these days.",
+    "question": "Violet",
+    "correct": "purple color (बैंगनी)",
     "options": [
-      "It's an era of selfishness nowadays.",
-      "Selfishness is common these days.",
-      "The time is of self-interest these days.",
-      "Nowadays, selfishness prevails."
+      "red color (लाल रंग)",
+      "blue color (नीला रंग)",
+      "purple color (बैंगनी)",
+      "green color (हरा रंग)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Whispered",
+    "correct": "spoke very softly (फुसफुसाया)",
+    "options": [
+      "shouted loudly (जोर से चिल्लाया)",
+      "spoke very softly (फुसफुसाया)",
+      "remained silent (शांत रहा)",
+      "sang loudly (जोर से गाया)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Wisdom",
+    "correct": "knowledge and good judgment (बुद्धिमत्ता)",
+    "options": [
+      "lack of understanding (समझ की कमी)",
+      "folly or foolishness (मूर्खता या नासमझी)",
+      "knowledge and good judgment (बुद्धिमत्ता)",
+      "ignorance (अज्ञान)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Heart raced",
+    "correct": "to be very excited or scared (दिल तेज़ी से धड़कना)",
+    "options": [
+      "to feel calm and relaxed (शांत और आरामदायक महसूस करना)",
+      "to be very excited or scared (दिल तेज़ी से धड़कना)",
+      "to have a slow heartbeat (धीमी धड़कन होना)",
+      "to feel indifferent (उदासीन महसूस करना)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Eyes lit up",
+    "correct": "to become excited or interested (आंखें चमकना)",
+    "options": [
+      "to feel sad or disappointed (दुखी या निराश महसूस करना)",
+      "to close one's eyes (अपनी आँखें बंद करना)",
+      "to become excited or interested (आंखें चमकना)",
+      "to show no emotion (कोई भावना नहीं दिखाना)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Made a difficult decision",
+    "correct": "chose something that was hard to decide (कठिन निर्णय लिया)",
+    "options": [
+      "made an easy choice (एक आसान विकल्प चुना)",
+      "avoided making a choice (विकल्प बनाने से बचा)",
+      "chose something that was hard to decide (कठिन निर्णय लिया)",
+      "made a quick decision without thought (बिना सोचे-समझे एक त्वरित निर्णय लिया)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
+    "complexity_score": 1
+  },
+  {
+    "question": "Snuck into",
+    "correct": "to enter secretly (चुपके से घुसना)",
+    "options": [
+      "to enter openly (खुलेआम प्रवेश करना)",
+      "to leave quietly (चुपचाप निकल जाना)",
+      "to enter secretly (चुपके से घुसना)",
+      "to be discovered entering (प्रवेश करते हुए पकड़ा जाना)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "इस दवाई ने मेरा दर्द कम कर दिया।",
-    "correct": "This medicine lessened my pain.",
+    "question": "Melted away",
+    "correct": "disappeared gradually (पिघल गया)",
     "options": [
-      "This medicine decreased my pain.",
-      "This medicine reduced my pain.",
-      "This medicine lessened my pain.",
-      "This medicine minimized my pain."
+      "appeared suddenly (अचानक प्रकट हुआ)",
+      "solidified (ठोस हो गया)",
+      "disappeared gradually (पिघल गया)",
+      "became stronger (मजबूत हो गया)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "intermediate_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 2
   },
   {
-    "question": "वह किसी भी बात को लंबा करके बताता है।",
-    "correct": "He elaborates his talks.",
+    "question": "Explosion of whispers",
+    "correct": "many soft voices at once (फुसफुसाहट का विस्फोट)",
     "options": [
-      "He elaborates his talks.",
-      "He prolongs his talks.",
-      "He elongates his talks.",
-      "He stretches his talks."
+      "a sudden loud sound (एक अचानक तेज आवाज)",
+      "complete silence (पूर्ण शांति)",
+      "many soft voices at once (फुसफुसाहट का विस्फोट)",
+      "a single clear voice (एक अकेली स्पष्ट आवाज)"
     ],
-    "difficulty": "difficult",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "advanced_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 3
   },
   {
-    "question": "रोने की हिम्मत भी मत करना।",
-    "correct": "Don’t even dare to cry.",
+    "question": "Dancing colors",
+    "correct": "colors moving beautifully (नाचते रंग)",
     "options": [
-      "Don’t even dare to cry.",
-      "Don't dare crying.",
-      "Don't you dare cry.",
-      "You dare not cry."
+      "static and dull colors (स्थिर और फीके रंग)",
+      "colors moving beautifully (नाचते रंग)",
+      "colors fading away (रंग फीके पड़ रहे हैं)",
+      "colors clashing harshly (रंग बुरी तरह से टकरा रहे हैं)"
     ],
-    "difficulty": "difficult",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "advanced_phrases",
+    "topic": "anaya_homework",
+    "complexity_score": 2
+  },
+  {
+    "question": "Shower of rainbow sparks",
+    "correct": "colorful sparks falling like rain (इंद्रधनुषी चिंगारियों की बारिश)",
+    "options": [
+      "a single bright flash (एकल तेज चमक)",
+      "dark and colorless drops (गहरे और रंगहीन बूंदें)",
+      "colorful sparks falling like rain (इंद्रधनुषी चिंगारियों की बारिश)",
+      "a steady stream of water (पानी की एक स्थिर धारा)"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "anaya_homework",
     "complexity_score": 3
   },
   {
-    "question": "आज कँपकँपाती ठंड है।",
-    "correct": "It's bone-chilling cold today.",
+    "question": "Magical realism",
+    "correct": "mixing magic with real life (जादुई यथार्थवाद)",
     "options": [
-      "It’s shivering cold today.",
-      "It's trembling cold today.",
-      "It's bone-chilling cold today.",
-      "It's freezing cold today."
+      "pure fantasy (शुद्ध कल्पना)",
+      "mixing magic with real life (जादुई यथार्थवाद)",
+      "a strict adherence to reality (यथार्थवाद का कड़ा पालन)",
+      "a purely scientific concept (एक विशुद्ध वैज्ञानिक अवधारणा)"
     ],
-    "difficulty": "difficult",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "advanced_phrases",
+    "topic": "anaya_homework",
     "complexity_score": 3
   },
   {
-    "question": "पता है….",
-    "correct": "You know what…",
+    "question": "Heart broke",
+    "correct": "to feel very sad (दिल टूटना)",
     "options": [
-      "Do you know...?",
-      "You know what…",
-      "Guess what…",
-      "Did you know...?"
+      "to feel immense joy (अत्यधिक खुशी महसूस करना)",
+      "to feel very sad (दिल टूटना)",
+      "to feel angry (गुस्सा महसूस करना)",
+      "to feel confused (भ्रमित महसूस करना)"
     ],
-    "difficulty": "difficult",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
+    "topic": "anaya_homework",
+    "complexity_score": 1
   },
   {
-    "question": "क्या आप दिल्ली में रहे हो?",
-    "correct": "Have you lived in Delhi?",
+    "question": "Courage to help",
+    "correct": "bravery to assist others (मदद करने का साहस)",
     "options": [
-      "Have you lived in Delhi?",
-      "Are you living in Delhi?",
-      "Did you stay in Delhi?",
-      "Were you in Delhi?"
+      "fear of assisting others (दूसरों की सहायता करने का डर)",
+      "reluctance to offer aid (सहायता देने में अनिच्छा)",
+      "bravery to assist others (मदद करने का साहस)",
+      "indifference towards others' needs (दूसरों की ज़रूरतों के प्रति उदासीनता)"
     ],
-    "difficulty": "difficult",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
+    "topic": "anaya_homework",
+    "complexity_score": 1
   },
   {
-    "question": "जो कुछ भी आप चूज़ करते हो, मेरा है।",
-    "correct": "Whatever you choose, is mine.",
+    "question": "Embrace uniqueness",
+    "correct": "to accept what makes you special (अनूठेपन को अपनाना)",
     "options": [
-      "Whatever you choose, is mine.",
-      "Everything you choose, is mine.",
-      "All that you select, is mine.",
-      "What you choose, it is mine."
+      "to conform to others (दूसरों के अनुरूप होना)",
+      "to hide one's individuality (अपनी विशिष्टता छिपाना)",
+      "to accept what makes you special (अनूठेपन को अपनाना)",
+      "to reject differences (मतभेदों को अस्वीकार करना)"
     ],
-    "difficulty": "difficult",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "ये राम है, जो मेरे साथ था।",
-    "correct": "This is Ram, who was there with me.",
-    "options": [
-      "This is Ram, who was there with me.",
-      "This is Ram, that was with me.",
-      "This is Ram, he was with me.",
-      "This is Ram, which was with me."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "तुमने तबला बजाना कैसे सीखा?",
-    "correct": "How did you learn to play Tabla?",
-    "options": [
-      "How did you learn playing Tabla?",
-      "How did you learn to play Tabla?",
-      "How you learned to play Tabla?",
-      "How did you teach yourself Tabla?"
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "बच्चे मुझे पढ़ने नहीं देते।",
-    "correct": "Children don’t let me study.",
-    "options": [
-      "Children don't allow me to study.",
-      "Children don’t let me study.",
-      "Children won't let me study.",
-      "Children are not letting me study."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "तुम न सोते हो न मुझे सोने देते हो।",
-    "correct": "You neither sleep nor let me sleep.",
-    "options": [
-      "You neither sleep nor let me sleep.",
-      "You don't sleep nor let me sleep.",
-      "You are not sleeping nor letting me sleep.",
-      "Neither you sleep nor let me sleep."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "अँधेरा हो रहा है।",
-    "correct": "It is getting dark.",
-    "options": [
-      "It is becoming dark.",
-      "It is getting dark.",
-      "Darkness is setting in.",
-      "It's growing dark."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "तुम्हें ढूंढ़ने में मुझे 5 मिनट लगे।",
-    "correct": "It took me 5 minutes to find you.",
-    "options": [
-      "I took 5 minutes to find you.",
-      "It took me 5 minutes to find you.",
-      "I spent 5 minutes finding you.",
-      "It made me take 5 minutes to find you."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मेरे घर के सामने तुम्हारा घर है।",
-    "correct": "Your house is opposite my house.",
-    "options": [
-      "Your house is in front of my house.",
-      "Your house is opposite my house.",
-      "Your house is facing my house.",
-      "Your house is located before my house."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैंने चाकू से केक काटा।",
-    "correct": "I cut the cake with a knife.",
-    "options": [
-      "I cut the cake by a knife.",
-      "I cut the cake through a knife.",
-      "I cut the cake with a knife.",
-      "I used a knife to cut the cake."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मेरा नाम लिस्ट में तुम्हारे नाम के नीचे है।",
-    "correct": "My name is below your name in the list.",
-    "options": [
-      "My name is under your name in the list.",
-      "My name is below your name in the list.",
-      "My name is beneath your name in the list.",
-      "My name is down your name in the list."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "वह मेरे खिलाफ उसे भड़का रहा है।",
-    "correct": "He is instigating him against me.",
-    "options": [
-      "He is inciting him against me.",
-      "He is provoking him against me.",
-      "He is instigating him against me.",
-      "He is turning him against me."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "उसने नीचे की ओर देखा।",
-    "correct": "He looked down.",
-    "options": [
-      "He looked down.",
-      "He looked downwards.",
-      "He saw down.",
-      "He viewed downwards."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "कार होना मेरी दिली इच्छा है।",
-    "correct": "Owning a car is my deep desire.",
-    "options": [
-      "To have a car is my heartfelt wish.",
-      "Having a car is my whole-hearted will.",
-      "Owning a car is my deep desire.",
-      "A car is my sincere desire."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "बेटे, दौड़ो मत ठोकर लग जायेगी।",
-    "correct": "Beta, don’t run, you will stumble.",
-    "options": [
-      "Son, don't run, you will fall.",
-      "Beta, don’t run, you will stumble.",
-      "Kid, don't run, you might get hurt.",
-      "Child, don't run, you will trip."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "रोहित को पीटा जा रहा था।",
-    "correct": "Rohit was being beaten.",
-    "options": [
-      "Rohit was being beaten.",
-      "Rohit was getting beaten.",
-      "Rohit was beaten.",
-      "Rohit was being hit."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "गेम कहीं जा नहीं रहा है, चिंता मत करो।",
-    "correct": "Game is not going anywhere, don’t worry!",
-    "options": [
-      "The game won't go anywhere, don't worry.",
-      "Game is not going anywhere, don’t worry!",
-      "Game is going nowhere, don’t worry!",
-      "The game is staying here, don't worry."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं किसके बारे में सोचता हूँ?",
-    "correct": "Who do I think about?",
-    "options": [
-      "Who do I think about?",
-      "About whom do I think?",
-      "Whom do I think about?",
-      "Whom I think about?"
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "आँखें धोखा देती हैं।",
-    "correct": "Eyes can be misleading.",
-    "options": [
-      "Eyes are deceiving.",
-      "Eyes can be misleading.",
-      "Eyes are deceptive.",
-      "Eyes cheat."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "सीता ने कंपनी छोड़ी और चली गयी।",
-    "correct": "Seeta left the company and went away.",
-    "options": [
-      "Seeta left the company and went away.",
-      "Seeta left the company and went.",
-      "Seeta quitted the company and left.",
-      "Seeta resigned from the company and departed."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं 2 घंटे से ठंड से काँप रहा हूँ।",
-    "correct": "I have been shivering with cold for 2 hours.",
-    "options": [
-      "I am shivering with cold for 2 hours.",
-      "I have been shivering with cold for 2 hours.",
-      "I have been trembling with cold for 2 hours.",
-      "I am shaking due to cold for 2 hours."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "इस पेन के अलावा मेरे पास दो पेन हैं।",
-    "correct": "Besides this pen, I’ve two more pens.",
-    "options": [
-      "Apart from this pen, I have two more pens.",
-      "Besides this pen, I’ve two more pens.",
-      "In addition to this pen, I have two pens.",
-      "Excluding this pen, I have two pens."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "वह स्विमिंग पूल में गिरते गिरते बच गया।",
-    "correct": "He narrowly escaped falling into the swimming pool.",
-    "options": [
-      "He almost fell into the swimming pool.",
-      "He narrowly escaped falling into the swimming pool.",
-      "He was saved from falling into the swimming pool.",
-      "He nearly fell into the swimming pool."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "काश मैं एक लड़की होता!",
-    "correct": "I wish I were a girl!",
-    "options": [
-      "I wish I was a girl!",
-      "I wish I were a girl!",
-      "If only I was a girl!",
-      "Would that I were a girl!"
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "उसकी आत्मा को शांति मिले!",
-    "correct": "May his soul rest in peace!",
-    "options": [
-      "May his soul rest in peace!",
-      "May his soul find peace!",
-      "Let his soul be in peace!",
-      "Hope his soul rests in peace!"
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "कहीं नज़र न लगे।",
-    "correct": "Touch wood!",
-    "options": [
-      "Don't let evil eye fall.",
-      "May no evil eye be cast.",
-      "Touch wood!",
-      "Hope no bad luck comes."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं अपने बेटे को नहला रहा हूँ।",
-    "correct": "Both a and b.",
-    "options": [
-      "I am bathing my son.",
-      "I am giving a bath to my son.",
-      "Both a and b.",
-      "I am making my son bathe."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं आपको हँसा रहा हूँ।",
-    "correct": "I am making you laugh.",
-    "options": [
-      "I am making you laugh.",
-      "I am causing you to laugh.",
-      "I am entertaining you.",
-      "I am making you happy."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "उसने मेरी बात को उल्टा समझ लिया।",
-    "correct": "Both b and c.",
-    "options": [
-      "He misunderstood my words.",
-      "He took me otherwise.",
-      "He took me wrong.",
-      "Both b and c."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "यह आपके बच्चे के लिए अनुकूल माहौल नहीं है।",
-    "correct": "This is not a conducive environment for your child.",
-    "options": [
-      "This is not a good environment for your child.",
-      "This is not a favorable environment for your child.",
-      "This is not a conducive environment for your child.",
-      "This is an unsuitable environment for your child."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "चीजों को देखने का आपका नज़रिया/दृष्टिकोण आस पास के माहौल पर निर्भर करता है।",
-    "correct": "Your perspective to see things depends on your surroundings.",
-    "options": [
-      "Your outlook to see things depends on your surroundings.",
-      "Your perspective to see things depends on your surroundings.",
-      "Your viewpoint on things depends on your surroundings.",
-      "Your way of seeing things depends on the surrounding environment."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "आपने जो आरोप लगाये हैं, उसमें कितनी सच्चाई है, साबित करो।",
-    "correct": "Prove the veracity of your allegations.",
-    "options": [
-      "Prove the truth of your allegations.",
-      "Prove how true your allegations are.",
-      "Prove the veracity of your allegations.",
-      "Confirm the correctness of your allegations."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "उसे सताया गया ताकि वो उकसे और कोई गलती कर बैठे।",
-    "correct": "He was persecuted so as to provoke him and make him commit a mistake.",
-    "options": [
-      "He was harassed so he would provoke and make a mistake.",
-      "He was bothered so as to provoke him and make him commit a mistake.",
-      "He was persecuted so as to provoke him and make him commit a mistake.",
-      "He was tormented to make him angry and make a mistake."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "उसके चेहरे पर एक अजीब सी मुस्कुराहट थी मानो वो मुझे नीचा दिखा रहा हो।",
-    "correct": "There was a smirk on his face, as if he was looking down on me.",
-    "options": [
-      "There was a strange smile on his face as if he was looking down on me.",
-      "There was a peculiar grin on his face as if he was humiliating me.",
-      "There was a smirk on his face, as if he was looking down on me.",
-      "He had an odd smile on his face as if he was belittling me."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "पैसे के पीछे मत भागो। पैसा आपके पीछे भागेगा।",
-    "correct": "Don’t run after money. Money will run after you.",
-    "options": [
-      "Don't run behind money. Money will run after you.",
-      "Don’t run after money. Money will run after you.",
-      "Don't chase money. Money will chase you.",
-      "Don't pursue money. Money will pursue you."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "कमरे को साफ किया जा रहा था।",
-    "correct": "The room was being cleaned.",
-    "options": [
-      "The room was being cleaned.",
-      "The room was getting cleaned.",
-      "They were cleaning the room.",
-      "The room had been cleaned."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "तुम्हें सजा मिलनी चाहिए।",
-    "correct": "You deserve punishment.",
-    "options": [
-      "You should be punished.",
-      "You must be punished.",
-      "You deserve punishment.",
-      "You ought to be punished."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "तुम मुझे उससे लड़वा रहे हो।",
-    "correct": "Both a and b.",
-    "options": [
-      "You are getting me to fight him.",
-      "You are making me fight him.",
-      "Both a and b.",
-      "You are letting me fight him."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैंने बाल कटवाए।",
-    "correct": "I got my hair cut.",
-    "options": [
-      "I got my hair cut.",
-      "I cut my hair.",
-      "I got the hair cut.",
-      "I had my hair cut."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "इंसानियत नाम की भी कोई चीज़ होती है।",
-    "correct": "There is something called humanity too.",
-    "options": [
-      "There is something called humanity too.",
-      "There is also something named humanity.",
-      "Humanity is also a thing.",
-      "Even humanity exists."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "संसार में ज्ञान की कमी नहीं है।",
-    "correct": "There is no dearth of knowledge in this world.",
-    "options": [
-      "There is no lack of knowledge in this world.",
-      "There is no shortage of knowledge in this world.",
-      "There is no dearth of knowledge in this world.",
-      "Knowledge is not scarce in this world."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं जुबान का पक्का हूँ।",
-    "correct": "I am true to my word.",
-    "options": [
-      "I am firm on my word.",
-      "I always keep my words.",
-      "I am true to my word.",
-      "I am strong in my language."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "उसकी तबीयत ठीक नहीं है।",
-    "correct": "He is unwell.",
-    "options": [
-      "He is not well.",
-      "He is unwell.",
-      "He is suffering from an ailment.",
-      "Both b and c."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "यह एक अफवाह है।",
-    "correct": "Both a and b.",
-    "options": [
-      "This is a rumor.",
-      "This is in the air.",
-      "Both a and b.",
-      "This is a hearsay."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं थोड़ी देर बाद आऊँगा।",
-    "correct": "I will come after a while.",
-    "options": [
-      "I will come after some time.",
-      "I will come after a while.",
-      "I will arrive shortly.",
-      "I will come in a bit."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "गर्मियाँ आने वाली हैं।",
-    "correct": "The summers are around the corner.",
-    "options": [
-      "Summers are about to come.",
-      "The summers are around the corner.",
-      "The summers are nearing.",
-      "Summers are approaching."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "फिलहाल तुम यहाँ इंतज़ार करो।",
-    "correct": "For the time being, you wait here.",
-    "options": [
-      "For now, you wait here.",
-      "For the time being, you wait here.",
-      "Currently, you wait here.",
-      "At present, you wait here."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मुझे पैसे की सख्त ज़रूरत है।",
-    "correct": "I am in a dire need of money.",
-    "options": [
-      "I am in a dire need of money.",
-      "I have a strong need for money.",
-      "I seriously need money.",
-      "I am in urgent need of money."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "बातचीत से करीबी बढ़ती है।",
-    "correct": "Communication fosters closeness.",
-    "options": [
-      "Conversation increases closeness.",
-      "Conversation increases the proximity.",
-      "Talking enhances intimacy.",
-      "Communication fosters closeness."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैं जीवन के उतार-चढ़ाव से अवगत हूँ।",
-    "correct": "I am familiar with the ups and downs of life.",
-    "options": [
-      "I know the ups and downs of life.",
-      "I am familiar with the ups and downs of life.",
-      "I am aware of life's fluctuations.",
-      "I have experienced life's highs and lows."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मुझे डॉक्टर समझने की गलती मत करो।",
-    "correct": "Don’t mistake me for a Doctor.",
-    "options": [
-      "Don’t mistake me for a Doctor.",
-      "Don't confuse me with a Doctor.",
-      "Don't assume I am a Doctor.",
-      "Don't make the mistake of thinking I am a Doctor."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "भाग्य के सामने कोई नहीं टिक सकता।",
-    "correct": "Nobody can stand against fate.",
-    "options": [
-      "Nobody can stand against fate.",
-      "No one can stand before destiny.",
-      "Nobody can oppose fate.",
-      "No one can resist destiny."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "हमें इसके परिणामों के लिए तैयार रहना चाहिए।",
-    "correct": "We should be prepared for its outcomes.",
-    "options": [
-      "We should be ready for its results.",
-      "We should be prepared for its outcomes.",
-      "We should be ready for its consequences.",
-      "We must face its repercussions."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "अगर वो पैसे वापस न दे तो?",
-    "correct": "What if he doesn’t return the money?",
-    "options": [
-      "What if he doesn’t return the money?",
-      "What happens if he doesn't return the money?",
-      "What about if he doesn't return the money?",
-      "What if he did not return the money?"
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "मैंने बहुत कोशिश की पर सब बेकार।",
-    "correct": "I tried a lot but all in vain.",
-    "options": [
-      "I tried a lot but all was useless.",
-      "I tried a lot but all in vain.",
-      "I made many attempts but it was all for nothing.",
-      "I tried hard but it was all futile."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "यह आपकी दुआओं के कारण हुआ।",
-    "correct": "It happened due to your blessings.",
-    "options": [
-      "It happened due to your blessings.",
-      "It happened because of your good wishes.",
-      "It occurred because of your prayers.",
-      "This happened thanks to your good wishes."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "दिन ब दिन हालात खराब हो रहे हैं।",
-    "correct": "Things are getting worse day by day.",
-    "options": [
-      "Things are getting worse day by day.",
-      "Things are deteriorating day by day.",
-      "The situation is worsening day by day.",
-      "Conditions are becoming bad day by day."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "शिक्षा मेरे लिए व्यवसाय नहीं बल्कि आप तक पहुँचने का एक प्रयास है।",
-    "correct": "Education is not a business for me but an effort to reach you.",
-    "options": [
-      "Education is not a business for me but an effort to reach you.",
-      "Education is not a business for me but an endeavor to reach you.",
-      "Education is not just a business for me but an attempt to connect with you.",
-      "For me, education is not commerce but an attempt to approach you."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
-  },
-  {
-    "question": "तुम खामखा परेशान हो रहे हो।",
-    "correct": "You are worrying needlessly.",
-    "options": [
-      "You are getting upset unnecessarily.",
-      "You are stressed for no reason.",
-      "You are worrying needlessly.",
-      "You are getting troubled without cause."
-    ],
-    "difficulty": "difficult",
-    "questionType": "mcq",
-    "topic": "advanced_phrases",
-    "complexity_score": 3
+    "topic": "anaya_homework",
+    "complexity_score": 2
   }
 ]
