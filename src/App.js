@@ -163,9 +163,14 @@ const HindiEnglishQuiz = () => {
 
   // Fix options useEffect to only shuffle when currentQuestion changes
   useEffect(() => {
-    if (questions.length > 0 && currentQuestion < questions.length) {
+    if (questions.length > 0 && currentQuestion < questions.length && questions[currentQuestion]) {
       const options = [...questions[currentQuestion].options];
-      setCurrentOptions(options.sort(() => Math.random() - 0.5));
+      // Use a more stable shuffle algorithm to prevent race conditions
+      const shuffled = options
+        .map(value => ({ value, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ value }) => value);
+      setCurrentOptions(shuffled);
     }
   }, [questions, currentQuestion]); // Depend on questions and currentQuestion
 
@@ -269,7 +274,11 @@ const HindiEnglishQuiz = () => {
     } else if (timeLeft === 0 && !showResult) {
       handleTimeUpRef.current();
     }
-    return () => clearTimeout(timerRef.current);
+    return () => {
+      if (timerRef.current) {
+        clearTimeout(timerRef.current);
+      }
+    };
   }, [timeLeft, gameState, showResult]);
 
   // Simplify handleAnswerSelect - remove isProcessingAnswer logic
@@ -283,8 +292,12 @@ const HindiEnglishQuiz = () => {
     setShowResult(true);
     
     const isCorrectAnswer = option === currentQ?.correct;
-    const timeBonus = Math.max(0, timeLeft - 5) * 2; // Bonus points for quick answers
-    const streakBonus = streak > 0 ? streak * 5 : 0;
+    // Fix: Ensure timeLeft is valid and within expected bounds (0-60)
+    const validTimeLeft = Math.max(0, Math.min(60, timeLeft));
+    const timeBonus = Math.max(0, validTimeLeft - 5) * 2; // Bonus points for quick answers
+    // Fix: Cap streak bonus to prevent score manipulation
+    const cappedStreak = Math.min(streak, 20); // Cap at 20 to prevent excessive bonuses
+    const streakBonus = cappedStreak > 0 ? cappedStreak * 5 : 0;
     
     setIsCorrect(isCorrectAnswer);
     
