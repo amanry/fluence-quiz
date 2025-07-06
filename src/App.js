@@ -1,6 +1,38 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Volume2, VolumeX, Star, Trophy, Target, Share2, Calendar } from 'lucide-react';
 
+// Utility function to sanitize text and prevent XSS
+const sanitizeText = (text) => {
+  if (typeof text !== 'string') return '';
+  
+  // Basic HTML entity encoding to prevent XSS
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#x27;')
+    .replace(/\//g, '&#x2F;');
+};
+
+// Utility function to validate question data structure
+const validateQuestion = (question) => {
+  if (!question || typeof question !== 'object') return false;
+  
+  // Check required fields
+  if (!question.question || typeof question.question !== 'string') return false;
+  if (!question.correct || typeof question.correct !== 'string') return false;
+  if (!Array.isArray(question.options) || question.options.length < 2) return false;
+  
+  // Check that all options are strings
+  if (!question.options.every(opt => typeof opt === 'string')) return false;
+  
+  // Check that correct answer exists in options
+  if (!question.options.includes(question.correct)) return false;
+  
+  return true;
+};
+
 const HindiEnglishQuiz = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
@@ -64,6 +96,28 @@ const HindiEnglishQuiz = () => {
   const timerRef = useRef(null);
   const backgroundMusicRef = useRef(null);
   const utteranceRef = useRef(null);
+  
+  // Cleanup effect to ensure all timers and resources are cleared on unmount
+  useEffect(() => {
+    return () => {
+      // Clear timer
+      if (timerRef.current) {
+        clearTimeout(timerRef.current);
+        timerRef.current = null;
+      }
+      
+      // Stop speech synthesis
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+      
+      // Clear any background music
+      if (backgroundMusicRef.current) {
+        backgroundMusicRef.current.pause();
+        backgroundMusicRef.current = null;
+      }
+    };
+  }, []);
 
   // Add error state for question loading
   const [questionLoadError, setQuestionLoadError] = useState(null);
@@ -140,10 +194,21 @@ const HindiEnglishQuiz = () => {
       .then(data => {
         if (!isMounted) return;
         
+        // Validate and sanitize questions
+        const validQuestions = data.filter(validateQuestion);
+        
+        if (validQuestions.length === 0) {
+          throw new Error('No valid questions found in the data file');
+        }
+        
         // Always process and shuffle 20 questions
-        const processedQuestions = data.map((question, index) => ({
+        const processedQuestions = validQuestions.map((question, index) => ({
           ...question,
           id: question.id || index,
+          // Sanitize text fields to prevent XSS
+          question: sanitizeText(question.question),
+          correct: sanitizeText(question.correct),
+          options: question.options.map(opt => sanitizeText(opt)),
         }));
         const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 20);
         setQuestions(shuffledQuestions);
@@ -262,14 +327,27 @@ const HindiEnglishQuiz = () => {
   handleTimeUpRef.current = handleTimeUp;
 
   useEffect(() => {
+    // Clear any existing timer first to prevent multiple timers
+    if (timerRef.current) {
+      clearTimeout(timerRef.current);
+      timerRef.current = null;
+    }
+    
     if (gameState === 'playing' && timeLeft > 0 && !showResult) {
       timerRef.current = setTimeout(() => {
-        setTimeLeft(timeLeft - 1);
+        setTimeLeft(prev => prev - 1);
       }, 1000);
-    } else if (timeLeft === 0 && !showResult) {
+    } else if (timeLeft === 0 && !showResult && gameState === 'playing') {
       handleTimeUpRef.current();
     }
-    return () => clearTimeout(timerRef.current);
+    
+    // Cleanup function to ensure timer is cleared
+    return () => {
+      if (timerRef.current) {
+        clearTimeout(timerRef.current);
+        timerRef.current = null;
+      }
+    };
   }, [timeLeft, gameState, showResult]);
 
   // Simplify handleAnswerSelect - remove isProcessingAnswer logic
@@ -744,15 +822,27 @@ Try the quiz yourself!`;
   // Mastery persistence: load mastery from localStorage and merge into questions
   useEffect(() => {
     const masteryData = localStorage.getItem('fluenceQuizMastery');
-    if (masteryData) {
+    if (masteryData && questions.length > 0) {
       try {
         const masteryMap = JSON.parse(masteryData);
-        setQuestions(prevQuestions => prevQuestions.map(q =>
-          masteryMap[q.id] ? { ...q, masteryLevel: masteryMap[q.id] } : q
-        ));
-      } catch {}
+        setQuestions(prevQuestions => {
+          // Only update if there are actually changes to prevent infinite loops
+          const updatedQuestions = prevQuestions.map(q =>
+            masteryMap[q.id] !== undefined && masteryMap[q.id] !== q.masteryLevel 
+              ? { ...q, masteryLevel: masteryMap[q.id] } 
+              : q
+          );
+          // Check if any questions were actually updated
+          const hasChanges = updatedQuestions.some((q, index) => 
+            q.masteryLevel !== prevQuestions[index].masteryLevel
+          );
+          return hasChanges ? updatedQuestions : prevQuestions;
+        });
+      } catch (error) {
+        console.error('Error parsing mastery data:', error);
+      }
     }
-  }, [questions.length]);
+  }, [questions.length > 0 && questions.every(q => q.id !== undefined)]); // Only run once when questions are loaded with IDs
 
   // When updating masteryLevel, persist to localStorage
   useEffect(() => {
@@ -1091,7 +1181,7 @@ Try the quiz yourself!`;
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl py-4 px-3 mb-6 shadow-xl border border-white/20">
             <div className="text-center">
               <p className="text-white text-2xl font-bold mb-3 leading-relaxed">
-                {questions[currentQuestion].question}
+                {questions[currentQuestion]?.question || 'Loading question...'}
               </p>
               {/* Minimal TTS Controls */}
               <div className="flex justify-center gap-4 mb-2 items-center">
@@ -1140,7 +1230,7 @@ Try the quiz yourself!`;
               }`}
             >
               <span className="text-lg">{String.fromCharCode(65 + index)}.</span>
-              <span className="ml-3 text-lg">{option}</span>
+              <span className="ml-3 text-lg">{option || 'Invalid option'}</span>
             </button>
           ))}
         </div>
