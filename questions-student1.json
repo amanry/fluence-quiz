@@ -838,5 +838,355 @@
     "questionType": "mcq",
     "topic": "anaya_homework",
     "complexity_score": 2
+  },
+  {
+    "question": "She usually ______ to the gym in the mornings.",
+    "correct": "goes",
+    "options": [
+      "go",
+      "goes",
+      "went",
+      "going"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Present",
+    "complexity_score": 1
+  },
+  {
+    "question": "They ______ playing football when it started to rain.",
+    "correct": "were",
+    "options": [
+      "are",
+      "was",
+      "were",
+      "is"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Past Continuous",
+    "complexity_score": 1
+  },
+  {
+    "question": "I ______ my keys, so I can't open the door.",
+    "correct": "have lost",
+    "options": [
+      "lost",
+      "lose",
+      "have lost",
+      "will lose"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect",
+    "complexity_score": 2
+  },
+  {
+    "question": "By next year, she ______ her master's degree.",
+    "correct": "will have completed",
+    "options": [
+      "completes",
+      "will complete",
+      "will have completed",
+      "has completed"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Future Perfect",
+    "complexity_score": 3
+  },
+  {
+    "question": "We ______ for three hours before we found the right path.",
+    "correct": "had been walking",
+    "options": [
+      "walked",
+      "have walked",
+      "had been walking",
+      "were walking"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Past Perfect Continuous",
+    "complexity_score": 3
+  },
+  {
+    "question": "Listen! The birds ______ sweetly.",
+    "correct": "are singing",
+    "options": [
+      "sing",
+      "sang",
+      "are singing",
+      "will sing"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Continuous",
+    "complexity_score": 1
+  },
+  {
+    "question": "He ______ his homework last night.",
+    "correct": "did",
+    "options": [
+      "does",
+      "did",
+      "done",
+      "doing"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Past",
+    "complexity_score": 1
+  },
+  {
+    "question": "Tomorrow at this time, I ______ on the beach.",
+    "correct": "will be relaxing",
+    "options": [
+      "relax",
+      "am relaxing",
+      "will relax",
+      "will be relaxing"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Future Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "The sun ______ in the east.",
+    "correct": "rises",
+    "options": [
+      "rose",
+      "rises",
+      "is rising",
+      "will rise"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Present (Universal Truth)",
+    "complexity_score": 1
+  },
+  {
+    "question": "She ______ here since 2010.",
+    "correct": "has lived",
+    "options": [
+      "lived",
+      "lives",
+      "has lived",
+      "is living"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you study hard, you ______ the exam.",
+    "correct": "will pass",
+    "options": [
+      "pass",
+      "passed",
+      "will pass",
+      "are passing"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Future",
+    "complexity_score": 1
+  },
+  {
+    "question": "By the time we arrive, they ______ dinner.",
+    "correct": "will have finished",
+    "options": [
+      "finish",
+      "are finishing",
+      "will have finished",
+      "had finished"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Future Perfect",
+    "complexity_score": 3
+  },
+  {
+    "question": "Before he moved to London, he ______ in Paris for five years.",
+    "correct": "had lived",
+    "options": [
+      "lived",
+      "has lived",
+      "had lived",
+      "was living"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Past Perfect",
+    "complexity_score": 2
+  },
+  {
+    "question": "He ______ TV when his mother called him.",
+    "correct": "was watching",
+    "options": [
+      "watches",
+      "watched",
+      "was watching",
+      "has watched"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Past Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "I ______ that movie many times.",
+    "correct": "have seen",
+    "options": [
+      "saw",
+      "see",
+      "have seen",
+      "am seeing"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect",
+    "complexity_score": 2
+  },
+  {
+    "question": "Don't disturb him; he ______ on an important project.",
+    "correct": "is working",
+    "options": [
+      "works",
+      "worked",
+      "is working",
+      "will work"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Continuous",
+    "complexity_score": 1
+  },
+  {
+    "question": "They ______ to New York next week.",
+    "correct": "are going",
+    "options": [
+      "go",
+      "went",
+      "are going",
+      "will have gone"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Continuous (Future Arrangement)",
+    "complexity_score": 1
+  },
+  {
+    "question": "The train ______ by the time we reached the station.",
+    "correct": "had left",
+    "options": [
+      "left",
+      "leaves",
+      "has left",
+      "had left"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Past Perfect",
+    "complexity_score": 2
+  },
+  {
+    "question": "She ______ coffee every morning.",
+    "correct": "drinks",
+    "options": [
+      "drink",
+      "drinks",
+      "drank",
+      "drinking"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Present",
+    "complexity_score": 1
+  },
+  {
+    "question": "We ______ studying English for five years now.",
+    "correct": "have been",
+    "options": [
+      "are",
+      "were",
+      "have been",
+      "had been"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "He ______ his car when I saw him yesterday.",
+    "correct": "was washing",
+    "options": [
+      "washes",
+      "washed",
+      "was washing",
+      "has washed"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Past Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "By 2026, she ______ on this project for a decade.",
+    "correct": "will have been working",
+    "options": [
+      "will work",
+      "will be working",
+      "will have been working",
+      "has been working"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Future Perfect Continuous",
+    "complexity_score": 4
+  },
+  {
+    "question": "My brother ______ a new job last month.",
+    "correct": "got",
+    "options": [
+      "gets",
+      "get",
+      "got",
+      "getting"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Past",
+    "complexity_score": 1
+  },
+  {
+    "question": "They ______ dinner when the power went out.",
+    "correct": "were having",
+    "options": [
+      "have",
+      "had",
+      "were having",
+      "are having"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Past Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "I ______ finished my report by the deadline.",
+    "correct": "will have",
+    "options": [
+      "am",
+      "have",
+      "will have",
+      "had"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Future Perfect",
+    "complexity_score": 2
   }
 ]
