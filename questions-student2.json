@@ -1,213 +1,255 @@
+```json
 [
   {
-    "id": 1,
-    "type": "multiple_choice",
     "question": "What was the main focus of today's Social Science chapter?",
+    "correct": "Unity in Diversity",
     "options": [
       "Ancient Civilizations",
       "Unity in Diversity",
       "World Geography",
       "Economic Systems"
     ],
-    "correctAnswer": "Unity in Diversity"
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
   },
   {
-    "id": 2,
-    "type": "true_false",
-    "question": "The goal of the Social Science chapter is to understand how different things are connected.",
-    "correctAnswer": true
-  },
-  {
-    "id": 3,
-    "type": "multiple_choice",
     "question": "Approximately how many people live in India?",
+    "correct": "1.4 billion",
     "options": [
       "140 million",
       "1.4 billion",
       "14 billion",
       "140 billion"
     ],
-    "correctAnswer": "1.4 billion"
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
   },
   {
-    "id": 4,
-    "type": "multiple_choice",
     "question": "How many languages did the Anthropological Survey of India find in their survey?",
+    "correct": "325",
     "options": [
       "Over 100",
       "Over 200",
       "325",
       "460"
     ],
-    "correctAnswer": "325"
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 5,
-    "type": "multiple_choice",
     "question": "How many scripts were they using according to the survey?",
+    "correct": "25",
     "options": [
       "10",
       "15",
       "20",
       "25"
     ],
-    "correctAnswer": "25"
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 6,
-    "type": "fill_in_the_blanks",
     "question": "The massive survey conducted by the Anthropological Survey of India was called the People of India ______.",
-    "options": ["Project", "Survey", "Study", "Research"],
-    "correctAnswer": "Project"
+    "correct": "Project",
+    "options": [
+      "Project",
+      "Survey",
+      "Study",
+      "Research"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 7,
-    "type": "true_false",
-    "question": "The People of India Project surveyed only 100 communities.",
-    "correctAnswer": false
-  },
-  {
-    "id": 8,
-    "type": "multiple_choice",
     "question": "How many communities were surveyed in the 'People of India Project'?",
+    "correct": "4,635",
     "options": [
       "1,235",
       "2,635",
       "4,635",
       "5,000"
     ],
-    "correctAnswer": "4,635"
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 9,
-    "type": "multiple_choice",
     "question": "Which of these is an example of 'one in many' discussed in class regarding food?",
+    "correct": "Rice as a common ingredient in many dishes",
     "options": [
       "Different types of curries",
-      "Rice as a common ingredient in many dishes",
       "Eating pizza for lunch",
-      "Buying different fruits"
+      "Buying different fruits",
+      "Rice as a common ingredient in many dishes"
     ],
-    "correctAnswer": "Rice as a common ingredient in many dishes"
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 10,
-    "type": "fill_in_the_blanks",
     "question": "A prominent example of 'unity in diversity' in Indian clothing discussed in class is the ______.",
-    "options": ["dhoti", "kurta", "saree", "sherwani"],
-    "correctAnswer": "saree"
+    "correct": "saree",
+    "options": [
+      "dhoti",
+      "kurta",
+      "saree",
+      "sherwani"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
   },
   {
-    "id": 11,
-    "type": "true_false",
-    "question": "The saree is typically a stitched piece of cloth.",
-    "correctAnswer": false
-  },
-  {
-    "id": 12,
-    "type": "multiple_choice",
     "question": "Which century was 'Chintz' cotton popular in Europe?",
+    "correct": "17th century",
     "options": [
       "15th century",
       "16th century",
       "17th century",
       "18th century"
     ],
-    "correctAnswer": "17th century"
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 13,
-    "type": "fill_in_the_blanks",
     "question": "Makar Sankranti is a common festival celebrated around January 14th to mark the beginning of the ______ season.",
-    "options": ["winter", "monsoon", "harvest", "planting"],
-    "correctAnswer": "harvest"
+    "correct": "harvest",
+    "options": [
+      "winter",
+      "monsoon",
+      "harvest",
+      "planting"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 14,
-    "type": "multiple_choice",
     "question": "What is Makar Sankranti called in Punjab?",
+    "correct": "Maghi or Lohri",
     "options": [
       "Pongal",
       "Maghi or Lohri",
       "Khichdi Parva",
       "Bihu"
     ],
-    "correctAnswer": "Maghi or Lohri"
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "id": 15,
-    "type": "true_false",
-    "question": "AI tools like podcasts can help revise entire chapters just by listening.",
-    "correctAnswer": true
-  },
-  {
-    "id": 16,
-    "type": "fill_in_the_blanks",
-    "question": "Today's class started with a math ______ that needed internet to load.",
-    "options": ["lesson", "game", "video", "test"],
-    "correctAnswer": "game"
-  },
-  {
-    "id": 17,
-    "type": "fill_in_the_blanks",
-    "question": "The student did not check the PDF note or play the ______ quiz sent after Friday's class.",
-    "options": ["reading", "writing", "speaking", "quiz"],
-    "correctAnswer": "quiz"
-  },
-  {
-    "id": 18,
-    "type": "fill_in_the_blanks",
     "question": "A ______ was created for Chapter One of Social Science to help with revision.",
-    "options": ["song", "video", "podcast", "story"],
-    "correctAnswer": "podcast"
+    "correct": "podcast",
+    "options": [
+      "song",
+      "video",
+      "podcast",
+      "story"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   },
   {
-    "id": 19,
-    "type": "fill_in_the_blanks",
     "question": "One of the objectives of the chapter is to understand the meaning of two ______ by Rabindran Thayvar.",
-    "options": ["poems", "quotes", "songs", "stories"],
-    "correctAnswer": "quotes"
+    "correct": "quotes",
+    "options": [
+      "poems",
+      "quotes",
+      "songs",
+      "stories"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   },
   {
-    "id": 20,
-    "type": "fill_in_the_blanks",
-    "question": "The teacher mentioned showing two interesting things at the ______ of the class, including a story with the student as the main character.",
-    "options": ["beginning", "middle", "end", "break"],
-    "correctAnswer": "end"
-  },
-  {
-    "id": 21,
-    "type": "fill_in_the_blanks",
     "question": "The time system discussed involves a 'zero year' when ______ was believed to be born.",
-    "options": ["Buddha", "Christ", "Gandhi", "Newton"],
-    "correctAnswer": "Christ"
+    "correct": "Christ",
+    "options": [
+      "Buddha",
+      "Christ",
+      "Gandhi",
+      "Newton"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   },
   {
-    "id": 22,
-    "type": "fill_in_the_blanks",
     "question": "AD stands for 'After ______ of Christ'.",
-    "options": ["Birth", "Life", "Death", "Reign"],
-    "correctAnswer": "Death"
+    "correct": "Death",
+    "options": [
+      "Birth",
+      "Life",
+      "Death",
+      "Reign"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   },
   {
-    "id": 23,
-    "type": "fill_in_the_blanks",
     "question": "A 'relief' is a part of a stone carving that has ______ from the plain surface.",
-    "options": ["sunk", "fallen", "risen", "flattened"],
-    "correctAnswer": "risen"
+    "correct": "risen",
+    "options": [
+      "sunk",
+      "fallen",
+      "risen",
+      "flattened"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   },
   {
-    "id": 24,
-    "type": "fill_in_the_blanks",
     "question": "India produced the finest ______ in the world for a very long time.",
-    "options": ["silk", "wool", "cotton", "rayon"],
-    "correctAnswer": "cotton"
+    "correct": "cotton",
+    "options": [
+      "silk",
+      "wool",
+      "cotton",
+      "rayon"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   },
   {
-    "id": 25,
-    "type": "fill_in_the_blanks",
     "question": "Indian textiles were exported as far away as ______ in the 17th century.",
-    "options": ["Africa", "America", "Asia", "Europe"],
-    "correctAnswer": "Europe"
+    "correct": "Europe",
+    "options": [
+      "Africa",
+      "America",
+      "Asia",
+      "Europe"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Class",
+    "complexity_score": 2
   }
 ]
