@@ -1,13 +1,12 @@
-```json
 [
   {
-    "question": "What was the main focus of today's Social Science chapter?",
-    "correct": "Unity in Diversity",
+    "question": "What is the primary concept that the social science chapter aims to make Kavya understand?",
+    "correct": "How different things are connected and what connects them all",
     "options": [
-      "Ancient Civilizations",
-      "Unity in Diversity",
-      "World Geography",
-      "Economic Systems"
+      "The history of Indian empires",
+      "How different things are connected and what connects them all",
+      "The geography of India",
+      "Famous Indian personalities"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -15,7 +14,21 @@
     "complexity_score": 1
   },
   {
-    "question": "Approximately how many people live in India?",
+    "question": "According to the class, what does 'unity in diversity' specifically refer to in the context of India?",
+    "correct": "How a country with over a billion people, hundreds of languages, and vastly different traditions can still be seen as a single entity",
+    "options": [
+      "Having many political parties",
+      "How a country with over a billion people, hundreds of languages, and vastly different traditions can still be seen as a single entity",
+      "The variety of animals in India",
+      "Different types of Indian music"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the approximate population of India mentioned in the class?",
     "correct": "1.4 billion",
     "options": [
       "140 million",
@@ -29,13 +42,13 @@
     "complexity_score": 1
   },
   {
-    "question": "How many languages did the Anthropological Survey of India find in their survey?",
-    "correct": "325",
+    "question": "What percentage of the world's population lives in India?",
+    "correct": "18%",
     "options": [
-      "Over 100",
-      "Over 200",
-      "325",
-      "460"
+      "10%",
+      "15%",
+      "18%",
+      "20%"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -43,27 +56,13 @@
     "complexity_score": 2
   },
   {
-    "question": "How many scripts were they using according to the survey?",
-    "correct": "25",
+    "question": "Which organization conducted the 'People of India Project' survey?",
+    "correct": "Anthropological Survey of India",
     "options": [
-      "10",
-      "15",
-      "20",
-      "25"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "The massive survey conducted by the Anthropological Survey of India was called the People of India ______.",
-    "correct": "Project",
-    "options": [
-      "Project",
-      "Survey",
-      "Study",
-      "Research"
+      "Indian Statistical Institute",
+      "Anthropological Survey of India",
+      "National Geographic Society",
+      "Archaeological Survey of India"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -74,10 +73,10 @@
     "question": "How many communities were surveyed in the 'People of India Project'?",
     "correct": "4,635",
     "options": [
-      "1,235",
-      "2,635",
+      "Around 1000",
+      "Around 2500",
       "4,635",
-      "5,000"
+      "More than 10,000"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -85,13 +84,13 @@
     "complexity_score": 2
   },
   {
-    "question": "Which of these is an example of 'one in many' discussed in class regarding food?",
-    "correct": "Rice as a common ingredient in many dishes",
+    "question": "How many languages were found in India by the 'People of India Project' survey?",
+    "correct": "325",
     "options": [
-      "Different types of curries",
-      "Eating pizza for lunch",
-      "Buying different fruits",
-      "Rice as a common ingredient in many dishes"
+      "Less than 100",
+      "150",
+      "325",
+      "Over 500"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -99,13 +98,27 @@
     "complexity_score": 2
   },
   {
-    "question": "A prominent example of 'unity in diversity' in Indian clothing discussed in class is the ______.",
-    "correct": "saree",
+    "question": "What is a 'migrant' as defined in the context of the class?",
+    "correct": "A person living away from their birthplace or community within their own country",
     "options": [
-      "dhoti",
-      "kurta",
-      "saree",
-      "sherwani"
+      "Someone who travels internationally",
+      "A person living away from their birthplace or community within their own country",
+      "Someone who moves to a different city for vacation",
+      "A person who studies abroad"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which staple grain was used as an example to illustrate 'one in many' in Indian cuisine?",
+    "correct": "Rice",
+    "options": [
+      "Barley",
+      "Wheat",
+      "Rice",
+      "Millets"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -113,13 +126,13 @@
     "complexity_score": 1
   },
   {
-    "question": "Which century was 'Chintz' cotton popular in Europe?",
-    "correct": "17th century",
+    "question": "Besides food grains, what other common ingredients were mentioned to show unity in Indian dishes?",
+    "correct": "Common spices and some common vegetables/fruits",
     "options": [
-      "15th century",
-      "16th century",
-      "17th century",
-      "18th century"
+      "Sugars and salts",
+      "Oils and dairy products",
+      "Common spices and some common vegetables/fruits",
+      "Meat and fish"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -127,18 +140,158 @@
     "complexity_score": 2
   },
   {
-    "question": "Makar Sankranti is a common festival celebrated around January 14th to mark the beginning of the ______ season.",
-    "correct": "harvest",
+    "question": "What is an 'epic' in the context of Indian literature?",
+    "correct": "Long poems narrating the adventures of heroes and other great figures",
     "options": [
-      "winter",
-      "monsoon",
-      "harvest",
-      "planting"
+      "A short story about daily life",
+      "A religious hymn",
+      "Long poems narrating the adventures of heroes and other great figures",
+      "A collection of folk songs"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Social Science",
     "complexity_score": 2
+  },
+  {
+    "question": "Which two major Indian epics were discussed in the class?",
+    "correct": "Ramayana and Mahabharata",
+    "options": [
+      "Panchatantra and Jataka Tales",
+      "Ramayana and Mahabharata",
+      "Arthashastra and Natyashastra",
+      "Vedas and Upanishads"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "Approximately how old is the original Sanskrit text of the Panchatantra?",
+    "correct": "2200 years old",
+    "options": [
+      "500 years old",
+      "1000 years old",
+      "2200 years old",
+      "3000 years old"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What kind of characters are mainly featured in the Panchatantra stories?",
+    "correct": "Animals",
+    "options": [
+      "Gods and goddesses",
+      "Humans",
+      "Animals",
+      "Mythical creatures"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many adaptations of the Panchatantra are estimated to exist in over 50 languages globally?",
+    "correct": "About 200",
+    "options": [
+      "Around 50",
+      "Around 100",
+      "About 200",
+      "Over 500"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 3
+  },
+  {
+    "question": "What was the primary way to store and transmit messages in ancient times, according to the class?",
+    "correct": "Stories",
+    "options": [
+      "Writing on paper",
+      "DVDs and computers",
+      "Stories",
+      "Memory cards"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which ancient Indian dress was highlighted as an example of unity in diversity due to its various styles and uses across India?",
+    "correct": "Saree",
+    "options": [
+      "Dhoti",
+      "Salwar Kameez",
+      "Saree",
+      "Lehenga"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "What type of traditional Indian dress is described as a 'plain length of cloth'?",
+    "correct": "Saree",
+    "options": [
+      "Shirt",
+      "Trouser",
+      "Saree",
+      "Kurta"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which type of printed cotton from India became so popular in 17th century Europe that its import was banned by England and France?",
+    "correct": "Chins",
+    "options": [
+      "Kosa",
+      "Chins",
+      "Banarasi",
+      "Patola"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "When is Makar Sankranti typically celebrated in India?",
+    "correct": "January 14th",
+    "options": [
+      "January 1st",
+      "January 14th",
+      "February 1st",
+      "March 21st"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the main reason for celebrating Makar Sankranti?",
+    "correct": "To celebrate the harvest season",
+    "options": [
+      "To celebrate new year",
+      "To celebrate the harvest season",
+      "To celebrate a religious victory",
+      "To celebrate the arrival of spring"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
   },
   {
     "question": "What is Makar Sankranti called in Punjab?",
@@ -147,7 +300,7 @@
       "Pongal",
       "Maghi or Lohri",
       "Khichdi Parva",
-      "Bihu"
+      "Makara Vilakku"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -155,101 +308,115 @@
     "complexity_score": 2
   },
   {
-    "question": "A ______ was created for Chapter One of Social Science to help with revision.",
-    "correct": "podcast",
+    "question": "What is Makar Sankranti called in Uttar Pradesh and Uttarakhand?",
+    "correct": "Khichdi Parva",
     "options": [
-      "song",
-      "video",
-      "podcast",
-      "story"
+      "Maghi",
+      "Pongal",
+      "Khichdi Parva",
+      "Makara Vilakku"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Class",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "One of the objectives of the chapter is to understand the meaning of two ______ by Rabindran Thayvar.",
-    "correct": "quotes",
+    "question": "Which famous silk saree mentioned in the class is an original product of Chhattisgarh and has a GI tag?",
+    "correct": "Kosa",
     "options": [
-      "poems",
-      "quotes",
-      "songs",
-      "stories"
+      "Kanchipuram",
+      "Pethani",
+      "Kosa",
+      "Mysore"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Class",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "The time system discussed involves a 'zero year' when ______ was believed to be born.",
-    "correct": "Christ",
+    "question": "What is the definition of 'relief' as explained in the class, referring to the stone carving showing a saree?",
+    "correct": "Part of an object that is raised from a flat surface",
     "options": [
-      "Buddha",
-      "Christ",
-      "Gandhi",
-      "Newton"
+      "A flat painting",
+      "Part of an object that is raised from a flat surface",
+      "A type of ancient script",
+      "A carving that is fully three-dimensional"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Class",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "AD stands for 'After ______ of Christ'.",
-    "correct": "Death",
+    "question": "How old is the stone carving showing a saree, as mentioned in the class?",
+    "correct": "2000 years old",
     "options": [
-      "Birth",
-      "Life",
-      "Death",
-      "Reign"
+      "A few decades old",
+      "A few centuries old",
+      "2000 years old",
+      "5000 years old"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Class",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "A 'relief' is a part of a stone carving that has ______ from the plain surface.",
-    "correct": "risen",
+    "question": "What is the name of the main demon defeated by Rama in the Ramayana?",
+    "correct": "Ravana",
     "options": [
-      "sunk",
-      "fallen",
-      "risen",
-      "flattened"
+      "Duryodhana",
+      "Kaurava",
+      "Ravana",
+      "Hanuman"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the Mahabharata, who do the Pandavas fight to recover their kingdom?",
+    "correct": "Their own cousins, the Kauravas",
+    "options": [
+      "Demons",
+      "Foreign invaders",
+      "Their own cousins, the Kauravas",
+      "Another kingdom's army"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "What important themes do the epics like Ramayana and Mahabharata constantly ask questions about?",
+    "correct": "What is right and what is wrong",
+    "options": [
+      "Scientific discoveries",
+      "What is right and what is wrong",
+      "Economic theories",
+      "Geography of ancient lands"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Class",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "India produced the finest ______ in the world for a very long time.",
-    "correct": "cotton",
+    "question": "What is one of the homework tasks given to Kavya related to 'unity in many'?",
+    "correct": "Make a list of different styles and uses for a Dhoti",
     "options": [
-      "silk",
-      "wool",
-      "cotton",
-      "rayon"
+      "Write a short story about a historical event",
+      "Make a list of different styles and uses for a Dhoti",
+      "Draw a map of India's states",
+      "Create a presentation on Indian festivals"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Class",
-    "complexity_score": 2
-  },
-  {
-    "question": "Indian textiles were exported as far away as ______ in the 17th century.",
-    "correct": "Europe",
-    "options": [
-      "Africa",
-      "America",
-      "Asia",
-      "Europe"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "English Class",
+    "topic": "Social Science",
     "complexity_score": 2
   }
 ]
