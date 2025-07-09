@@ -1,174 +1,48 @@
 [
   {
-    "question": "What is the primary concept that the social science chapter aims to make Kavya understand?",
-    "correct": "How different things are connected and what connects them all",
+    "question": "What is the primary concept explored in the Social Science chapter today?",
+    "correct": "Unity in Diversity in India",
     "options": [
       "The history of Indian empires",
-      "How different things are connected and what connects them all",
-      "The geography of India",
-      "Famous Indian personalities"
+      "Unity in Diversity in India",
+      "Global trade routes",
+      "Modern Indian politics"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Unity in Diversity",
     "complexity_score": 1
   },
   {
-    "question": "According to the class, what does 'unity in diversity' specifically refer to in the context of India?",
-    "correct": "How a country with over a billion people, hundreds of languages, and vastly different traditions can still be seen as a single entity",
-    "options": [
-      "Having many political parties",
-      "How a country with over a billion people, hundreds of languages, and vastly different traditions can still be seen as a single entity",
-      "The variety of animals in India",
-      "Different types of Indian music"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the approximate population of India mentioned in the class?",
-    "correct": "1.4 billion",
-    "options": [
-      "140 million",
-      "1.4 billion",
-      "14 billion",
-      "140 billion"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "What percentage of the world's population lives in India?",
-    "correct": "18%",
-    "options": [
-      "10%",
-      "15%",
-      "18%",
-      "20%"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organization conducted the 'People of India Project' survey?",
-    "correct": "Anthropological Survey of India",
-    "options": [
-      "Indian Statistical Institute",
-      "Anthropological Survey of India",
-      "National Geographic Society",
-      "Archaeological Survey of India"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many communities were surveyed in the 'People of India Project'?",
-    "correct": "4,635",
-    "options": [
-      "Around 1000",
-      "Around 2500",
-      "4,635",
-      "More than 10,000"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many languages were found in India by the 'People of India Project' survey?",
-    "correct": "325",
-    "options": [
-      "Less than 100",
-      "150",
-      "325",
-      "Over 500"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is a 'migrant' as defined in the context of the class?",
-    "correct": "A person living away from their birthplace or community within their own country",
-    "options": [
-      "Someone who travels internationally",
-      "A person living away from their birthplace or community within their own country",
-      "Someone who moves to a different city for vacation",
-      "A person who studies abroad"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which staple grain was used as an example to illustrate 'one in many' in Indian cuisine?",
+    "question": "What common ingredient was used as an example of 'unity' in diverse Indian foods?",
     "correct": "Rice",
     "options": [
-      "Barley",
-      "Wheat",
+      "Spices",
+      "Meat",
       "Rice",
-      "Millets"
+      "Vegetables"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Unity in Diversity - Food",
     "complexity_score": 1
   },
   {
-    "question": "Besides food grains, what other common ingredients were mentioned to show unity in Indian dishes?",
-    "correct": "Common spices and some common vegetables/fruits",
+    "question": "Which piece of clothing was highlighted as a 'hero' in demonstrating unity amidst diversity in India?",
+    "correct": "Saree",
     "options": [
-      "Sugars and salts",
-      "Oils and dairy products",
-      "Common spices and some common vegetables/fruits",
-      "Meat and fish"
+      "Dhoti",
+      "Saree",
+      "Salwar Kameez",
+      "Lehenga"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
+    "topic": "Unity in Diversity - Clothing",
+    "complexity_score": 1
   },
   {
-    "question": "What is an 'epic' in the context of Indian literature?",
-    "correct": "Long poems narrating the adventures of heroes and other great figures",
-    "options": [
-      "A short story about daily life",
-      "A religious hymn",
-      "Long poems narrating the adventures of heroes and other great figures",
-      "A collection of folk songs"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which two major Indian epics were discussed in the class?",
-    "correct": "Ramayana and Mahabharata",
-    "options": [
-      "Panchatantra and Jataka Tales",
-      "Ramayana and Mahabharata",
-      "Arthashastra and Natyashastra",
-      "Vedas and Upanishads"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "Approximately how old is the original Sanskrit text of the Panchatantra?",
+    "question": "What is the approximate age of the Panchatantra stories mentioned?",
     "correct": "2200 years old",
     "options": [
       "500 years old",
@@ -178,245 +52,357 @@
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Epics and Folk Stories",
     "complexity_score": 2
   },
   {
-    "question": "What kind of characters are mainly featured in the Panchatantra stories?",
-    "correct": "Animals",
+    "question": "How many adaptations of the Panchatantra are estimated to exist, in how many languages?",
+    "correct": "200 adaptations in 50 languages",
     "options": [
-      "Gods and goddesses",
-      "Humans",
-      "Animals",
-      "Mythical creatures"
+      "50 adaptations in 10 languages",
+      "100 adaptations in 20 languages",
+      "200 adaptations in 50 languages",
+      "500 adaptations in 100 languages"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Epics and Folk Stories",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the combined page count of the original versions of the Ramayana and Mahabharata?",
+    "correct": "Around 7000 pages",
+    "options": [
+      "Around 1000 pages",
+      "Around 3000 pages",
+      "Around 7000 pages",
+      "Around 10,000 pages"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Epics and Folk Stories",
+    "complexity_score": 2
+  },
+  {
+    "question": "What kind of questions do stories like Ramayana and Mahabharata constantly ask?",
+    "correct": "What is right and what is wrong",
+    "options": [
+      "How to build empires",
+      "What is right and what is wrong",
+      "Scientific advancements",
+      "Economic policies"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Epics and Folk Stories",
     "complexity_score": 1
   },
   {
-    "question": "How many adaptations of the Panchatantra are estimated to exist in over 50 languages globally?",
-    "correct": "About 200",
+    "question": "What does 'folk versions' of epics refer to?",
+    "correct": "Stories communicated orally by small communities",
     "options": [
-      "Around 50",
-      "Around 100",
-      "About 200",
-      "Over 500"
+      "Official written versions",
+      "Stories communicated orally by small communities",
+      "Translated versions for international audience",
+      "Modern interpretations in movies"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Epics and Folk Stories",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which communities were mentioned as having their own versions of Ramayana and Mahabharata?",
+    "correct": "Tribal communities like the Beals, Goards, and Mundas",
+    "options": [
+      "Urban communities",
+      "Coastal communities",
+      "Tribal communities like the Beals, Goards, and Mundas",
+      "Foreign communities"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Epics and Folk Stories",
+    "complexity_score": 2
+  },
+  {
+    "question": "What did tribal communities do to connect their history with these epics?",
+    "correct": "Preserved legends connecting their own history with these epics",
+    "options": [
+      "Rejected the epics entirely",
+      "Preserved legends connecting their own history with these epics",
+      "Wrote new epics about themselves",
+      "Only listened to the main versions"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Epics and Folk Stories",
+    "complexity_score": 2
+  },
+  {
+    "question": "Who directed the 'People of India Project'?",
+    "correct": "The anthropologist K.S. Singh",
+    "options": [
+      "Rabindranath Tagore",
+      "K.S. Singh",
+      "Vishnu Sharma",
+      "An unnamed scholar"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Surveys and Research",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was a notable observation about the Mahabharata from the 'People of India Project' survey?",
+    "correct": "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
+    "options": [
+      "It was primarily a regional epic",
+      "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
+      "It was only known in certain parts of India",
+      "Its stories were identical everywhere"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Surveys and Research",
     "complexity_score": 3
   },
   {
-    "question": "What was the primary way to store and transmit messages in ancient times, according to the class?",
-    "correct": "Stories",
+    "question": "According to the class, how has Indian culture spread around the world for centuries?",
+    "correct": "Through the two biggest stories of Ramayana and Mahabharata",
     "options": [
-      "Writing on paper",
-      "DVDs and computers",
-      "Stories",
-      "Memory cards"
+      "Through trade and commerce only",
+      "Through military conquests",
+      "Through the two biggest stories of Ramayana and Mahabharata",
+      "Through modern social media"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Cultural Spread",
     "complexity_score": 2
   },
   {
-    "question": "Which ancient Indian dress was highlighted as an example of unity in diversity due to its various styles and uses across India?",
-    "correct": "Saree",
+    "question": "What is the core message of the chapter regarding Indian culture?",
+    "correct": "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
     "options": [
-      "Dhoti",
-      "Salwar Kameez",
-      "Saree",
-      "Lehenga"
+      "Indian culture views diversity as a challenge to unity",
+      "Indian culture focuses solely on commonalities, ignoring diversity",
+      "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
+      "Indian culture tries to eliminate diversity to promote unity"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Core Message",
+    "complexity_score": 3
+  },
+  {
+    "question": "What tax existed during Mughal times for Hindus who did not convert to Muslim?",
+    "correct": "Jazia tax",
+    "options": [
+      "Sales tax",
+      "Jazia tax",
+      "Property tax",
+      "Income tax"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Historical Context",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which part of India celebrates the 'Dussehra' for 75 days, known as the world's longest?",
+    "correct": "Bastar in Chhattisgarh",
+    "options": [
+      "Punjab",
+      "Tamil Nadu",
+      "Bastar in Chhattisgarh",
+      "Kashmir"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Regional Cultures",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is one example mentioned of Indian names found in West Indies islands?",
+    "correct": "Ravi Rampal, Sunil Narayan",
+    "options": [
+      "David Smith",
+      "Ravi Rampal, Sunil Narayan",
+      "John Doe",
+      "Maria Garcia"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Cultural Influence",
     "complexity_score": 1
   },
   {
-    "question": "What type of traditional Indian dress is described as a 'plain length of cloth'?",
-    "correct": "Saree",
+    "question": "What connects different cultures in India and parts of Asia, forming a 'dense web of cultural intersections'?",
+    "correct": "The two epics, Ramayana and Mahabharata",
     "options": [
-      "Shirt",
-      "Trouser",
-      "Saree",
-      "Kurta"
+      "Modern travel",
+      "Global economic treaties",
+      "The two epics, Ramayana and Mahabharata",
+      "Scientific conferences"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cultural Intersections",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which historical figure was mentioned as removing the Jazia tax?",
+    "correct": "Akbar",
+    "options": [
+      "Aurangzeb",
+      "Shah Jahan",
+      "Akbar",
+      "Babur"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Historical Context",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is meant by 'two millenniums'?",
+    "correct": "Two thousand years",
+    "options": [
+      "Two million years",
+      "Two hundred years",
+      "Two thousand years",
+      "Twenty years"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Time Measurement",
     "complexity_score": 1
   },
   {
-    "question": "Which type of printed cotton from India became so popular in 17th century Europe that its import was banned by England and France?",
-    "correct": "Chins",
+    "question": "What is the term for stories communicated orally in small communities without being written down?",
+    "correct": "Folklore",
     "options": [
-      "Kosa",
-      "Chins",
-      "Banarasi",
-      "Patola"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "When is Makar Sankranti typically celebrated in India?",
-    "correct": "January 14th",
-    "options": [
-      "January 1st",
-      "January 14th",
-      "February 1st",
-      "March 21st"
+      "Epic literature",
+      "Historical records",
+      "Folklore",
+      "Modern novels"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Terminology",
     "complexity_score": 1
   },
   {
-    "question": "What is the main reason for celebrating Makar Sankranti?",
-    "correct": "To celebrate the harvest season",
+    "question": "Why did the teacher emphasize not skipping homeworks and quizzes for Kavya?",
+    "correct": "To ensure a strong foundation and understanding of the chapter",
     "options": [
-      "To celebrate new year",
-      "To celebrate the harvest season",
-      "To celebrate a religious victory",
-      "To celebrate the arrival of spring"
+      "To increase her XP points only",
+      "To make the class more challenging",
+      "To ensure a strong foundation and understanding of the chapter",
+      "To finish the syllabus quickly"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Learning Strategies",
     "complexity_score": 1
   },
   {
-    "question": "What is Makar Sankranti called in Punjab?",
-    "correct": "Maghi or Lohri",
+    "question": "What are some of the common basic staples (food grains) found in almost every part of India mentioned in the class?",
+    "correct": "Wheat, barley, jowar, rice",
     "options": [
-      "Pongal",
-      "Maghi or Lohri",
-      "Khichdi Parva",
-      "Makara Vilakku"
+      "Corn, oats, quinoa, rye",
+      "Wheat, barley, jowar, rice",
+      "Millet, sorghum, lentils, beans",
+      "Potatoes, tomatoes, onions, garlic"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Unity in Diversity - Food",
     "complexity_score": 2
   },
   {
-    "question": "What is Makar Sankranti called in Uttar Pradesh and Uttarakhand?",
-    "correct": "Khichdi Parva",
+    "question": "What is Makar Sankranti primarily celebrated for?",
+    "correct": "To celebrate the beginning of the harvest season",
     "options": [
-      "Maghi",
-      "Pongal",
-      "Khichdi Parva",
-      "Makara Vilakku"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which famous silk saree mentioned in the class is an original product of Chhattisgarh and has a GI tag?",
-    "correct": "Kosa",
-    "options": [
-      "Kanchipuram",
-      "Pethani",
-      "Kosa",
-      "Mysore"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the definition of 'relief' as explained in the class, referring to the stone carving showing a saree?",
-    "correct": "Part of an object that is raised from a flat surface",
-    "options": [
-      "A flat painting",
-      "Part of an object that is raised from a flat surface",
-      "A type of ancient script",
-      "A carving that is fully three-dimensional"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How old is the stone carving showing a saree, as mentioned in the class?",
-    "correct": "2000 years old",
-    "options": [
-      "A few decades old",
-      "A few centuries old",
-      "2000 years old",
-      "5000 years old"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the name of the main demon defeated by Rama in the Ramayana?",
-    "correct": "Ravana",
-    "options": [
-      "Duryodhana",
-      "Kaurava",
-      "Ravana",
-      "Hanuman"
+      "To celebrate the new year",
+      "To celebrate the beginning of the harvest season",
+      "To honor ancestors",
+      "To pray for rain"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Unity in Diversity - Festivals",
     "complexity_score": 1
   },
   {
-    "question": "In the Mahabharata, who do the Pandavas fight to recover their kingdom?",
-    "correct": "Their own cousins, the Kauravas",
+    "question": "What does the phrase 'dense web of cultural intersections' refer to in the context of epics?",
+    "correct": "How cultures interacted and shared due to these stories",
     "options": [
-      "Demons",
-      "Foreign invaders",
-      "Their own cousins, the Kauravas",
-      "Another kingdom's army"
+      "A complex network of roads",
+      "How cultures interacted and shared due to these stories",
+      "A type of ancient writing system",
+      "A large group of people meeting"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cultural Intersections",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is one reason why Indian culture celebrates diversity?",
+    "correct": "Because diversity enriches, it does not divide",
+    "options": [
+      "To create more conflicts",
+      "To make the country harder to manage",
+      "Because diversity enriches, it does not divide",
+      "To follow ancient traditions strictly"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Core Message",
     "complexity_score": 1
   },
   {
-    "question": "What important themes do the epics like Ramayana and Mahabharata constantly ask questions about?",
-    "correct": "What is right and what is wrong",
+    "question": "What is believed to happen in a temple in UP every morning, related to a Mahabharata character?",
+    "correct": "Aswathama comes, worships God Shiva and goes away",
     "options": [
-      "Scientific discoveries",
-      "What is right and what is wrong",
-      "Economic theories",
-      "Geography of ancient lands"
+      "Krishna appears to devotees",
+      "Arjun meditates",
+      "Aswathama comes, worships God Shiva and goes away",
+      "Pandavas offer prayers"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Folklore and Beliefs",
     "complexity_score": 2
   },
   {
-    "question": "What is one of the homework tasks given to Kavya related to 'unity in many'?",
-    "correct": "Make a list of different styles and uses for a Dhoti",
+    "question": "How many versions of the Mahabharata were counted in a survey in Tamil Nadu alone a few years ago?",
+    "correct": "About 100 versions",
     "options": [
-      "Write a short story about a historical event",
-      "Make a list of different styles and uses for a Dhoti",
-      "Draw a map of India's states",
-      "Create a presentation on Indian festivals"
+      "10 versions",
+      "50 versions",
+      "About 100 versions",
+      "200 versions"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Epics and Folk Stories",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which regions, besides Tamil Nadu, were mentioned as having their own versions of epics?",
+    "correct": "India's Northeast and Himalayan regions, including Kashmir",
+    "options": [
+      "Southern states only",
+      "Western states only",
+      "India's Northeast and Himalayan regions, including Kashmir",
+      "Only central India"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Regional Variations",
     "complexity_score": 2
   }
 ]
