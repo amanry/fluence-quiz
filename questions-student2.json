@@ -1,408 +1,72 @@
 [
   {
-    "question": "What is the primary concept explored in the Social Science chapter today?",
-    "correct": "Unity in Diversity in India",
+    "question": "What is the sum of counting numbers from 1 to 100 and back to 1?",
+    "correct": "10000",
     "options": [
-      "The history of Indian empires",
-      "Unity in Diversity in India",
-      "Global trade routes",
-      "Modern Indian politics"
+      "5050",
+      "10000",
+      "1000",
+      "100000"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "In a sequence where counting numbers are added up and down, what is the formula for finding the sum?",
+    "correct": "Square of the largest number",
+    "options": [
+      "Sum of all numbers",
+      "Square of the largest number",
+      "Double the largest number",
+      "Half of the largest number"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Sequences",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the fourth triangular number?",
+    "correct": "10",
+    "options": [
+      "6",
+      "10",
+      "15",
+      "21"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Triangular Numbers",
     "complexity_score": 1
   },
   {
-    "question": "What common ingredient was used as an example of 'unity' in diverse Indian foods?",
-    "correct": "Rice",
+    "question": "If n represents the maximum number in an up-and-down sequence, how do we express the sum?",
+    "correct": "n²",
     "options": [
-      "Spices",
-      "Meat",
-      "Rice",
-      "Vegetables"
+      "2n",
+      "n²",
+      "n+n",
+      "n/2"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Algebraic Expression",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the sixth triangular number?",
+    "correct": "21",
+    "options": [
+      "15",
+      "18",
+      "21",
+      "25"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
+    "topic": "Triangular Numbers",
     "complexity_score": 1
-  },
-  {
-    "question": "Which piece of clothing was highlighted as a 'hero' in demonstrating unity amidst diversity in India?",
-    "correct": "Saree",
-    "options": [
-      "Dhoti",
-      "Saree",
-      "Salwar Kameez",
-      "Lehenga"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Clothing",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the approximate age of the Panchatantra stories mentioned?",
-    "correct": "2200 years old",
-    "options": [
-      "500 years old",
-      "1000 years old",
-      "2200 years old",
-      "3000 years old"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many adaptations of the Panchatantra are estimated to exist, in how many languages?",
-    "correct": "200 adaptations in 50 languages",
-    "options": [
-      "50 adaptations in 10 languages",
-      "100 adaptations in 20 languages",
-      "200 adaptations in 50 languages",
-      "500 adaptations in 100 languages"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the combined page count of the original versions of the Ramayana and Mahabharata?",
-    "correct": "Around 7000 pages",
-    "options": [
-      "Around 1000 pages",
-      "Around 3000 pages",
-      "Around 7000 pages",
-      "Around 10,000 pages"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What kind of questions do stories like Ramayana and Mahabharata constantly ask?",
-    "correct": "What is right and what is wrong",
-    "options": [
-      "How to build empires",
-      "What is right and what is wrong",
-      "Scientific advancements",
-      "Economic policies"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does 'folk versions' of epics refer to?",
-    "correct": "Stories communicated orally by small communities",
-    "options": [
-      "Official written versions",
-      "Stories communicated orally by small communities",
-      "Translated versions for international audience",
-      "Modern interpretations in movies"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which communities were mentioned as having their own versions of Ramayana and Mahabharata?",
-    "correct": "Tribal communities like the Beals, Goards, and Mundas",
-    "options": [
-      "Urban communities",
-      "Coastal communities",
-      "Tribal communities like the Beals, Goards, and Mundas",
-      "Foreign communities"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What did tribal communities do to connect their history with these epics?",
-    "correct": "Preserved legends connecting their own history with these epics",
-    "options": [
-      "Rejected the epics entirely",
-      "Preserved legends connecting their own history with these epics",
-      "Wrote new epics about themselves",
-      "Only listened to the main versions"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "Who directed the 'People of India Project'?",
-    "correct": "The anthropologist K.S. Singh",
-    "options": [
-      "Rabindranath Tagore",
-      "K.S. Singh",
-      "Vishnu Sharma",
-      "An unnamed scholar"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Surveys and Research",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was a notable observation about the Mahabharata from the 'People of India Project' survey?",
-    "correct": "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
-    "options": [
-      "It was primarily a regional epic",
-      "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
-      "It was only known in certain parts of India",
-      "Its stories were identical everywhere"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Surveys and Research",
-    "complexity_score": 3
-  },
-  {
-    "question": "According to the class, how has Indian culture spread around the world for centuries?",
-    "correct": "Through the two biggest stories of Ramayana and Mahabharata",
-    "options": [
-      "Through trade and commerce only",
-      "Through military conquests",
-      "Through the two biggest stories of Ramayana and Mahabharata",
-      "Through modern social media"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cultural Spread",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the core message of the chapter regarding Indian culture?",
-    "correct": "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
-    "options": [
-      "Indian culture views diversity as a challenge to unity",
-      "Indian culture focuses solely on commonalities, ignoring diversity",
-      "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
-      "Indian culture tries to eliminate diversity to promote unity"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Core Message",
-    "complexity_score": 3
-  },
-  {
-    "question": "What tax existed during Mughal times for Hindus who did not convert to Muslim?",
-    "correct": "Jazia tax",
-    "options": [
-      "Sales tax",
-      "Jazia tax",
-      "Property tax",
-      "Income tax"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which part of India celebrates the 'Dussehra' for 75 days, known as the world's longest?",
-    "correct": "Bastar in Chhattisgarh",
-    "options": [
-      "Punjab",
-      "Tamil Nadu",
-      "Bastar in Chhattisgarh",
-      "Kashmir"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Regional Cultures",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is one example mentioned of Indian names found in West Indies islands?",
-    "correct": "Ravi Rampal, Sunil Narayan",
-    "options": [
-      "David Smith",
-      "Ravi Rampal, Sunil Narayan",
-      "John Doe",
-      "Maria Garcia"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cultural Influence",
-    "complexity_score": 1
-  },
-  {
-    "question": "What connects different cultures in India and parts of Asia, forming a 'dense web of cultural intersections'?",
-    "correct": "The two epics, Ramayana and Mahabharata",
-    "options": [
-      "Modern travel",
-      "Global economic treaties",
-      "The two epics, Ramayana and Mahabharata",
-      "Scientific conferences"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cultural Intersections",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which historical figure was mentioned as removing the Jazia tax?",
-    "correct": "Akbar",
-    "options": [
-      "Aurangzeb",
-      "Shah Jahan",
-      "Akbar",
-      "Babur"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is meant by 'two millenniums'?",
-    "correct": "Two thousand years",
-    "options": [
-      "Two million years",
-      "Two hundred years",
-      "Two thousand years",
-      "Twenty years"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Time Measurement",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the term for stories communicated orally in small communities without being written down?",
-    "correct": "Folklore",
-    "options": [
-      "Epic literature",
-      "Historical records",
-      "Folklore",
-      "Modern novels"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Terminology",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why did the teacher emphasize not skipping homeworks and quizzes for Kavya?",
-    "correct": "To ensure a strong foundation and understanding of the chapter",
-    "options": [
-      "To increase her XP points only",
-      "To make the class more challenging",
-      "To ensure a strong foundation and understanding of the chapter",
-      "To finish the syllabus quickly"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Learning Strategies",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are some of the common basic staples (food grains) found in almost every part of India mentioned in the class?",
-    "correct": "Wheat, barley, jowar, rice",
-    "options": [
-      "Corn, oats, quinoa, rye",
-      "Wheat, barley, jowar, rice",
-      "Millet, sorghum, lentils, beans",
-      "Potatoes, tomatoes, onions, garlic"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is Makar Sankranti primarily celebrated for?",
-    "correct": "To celebrate the beginning of the harvest season",
-    "options": [
-      "To celebrate the new year",
-      "To celebrate the beginning of the harvest season",
-      "To honor ancestors",
-      "To pray for rain"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Festivals",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does the phrase 'dense web of cultural intersections' refer to in the context of epics?",
-    "correct": "How cultures interacted and shared due to these stories",
-    "options": [
-      "A complex network of roads",
-      "How cultures interacted and shared due to these stories",
-      "A type of ancient writing system",
-      "A large group of people meeting"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cultural Intersections",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is one reason why Indian culture celebrates diversity?",
-    "correct": "Because diversity enriches, it does not divide",
-    "options": [
-      "To create more conflicts",
-      "To make the country harder to manage",
-      "Because diversity enriches, it does not divide",
-      "To follow ancient traditions strictly"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Core Message",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is believed to happen in a temple in UP every morning, related to a Mahabharata character?",
-    "correct": "Aswathama comes, worships God Shiva and goes away",
-    "options": [
-      "Krishna appears to devotees",
-      "Arjun meditates",
-      "Aswathama comes, worships God Shiva and goes away",
-      "Pandavas offer prayers"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Folklore and Beliefs",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many versions of the Mahabharata were counted in a survey in Tamil Nadu alone a few years ago?",
-    "correct": "About 100 versions",
-    "options": [
-      "10 versions",
-      "50 versions",
-      "About 100 versions",
-      "200 versions"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which regions, besides Tamil Nadu, were mentioned as having their own versions of epics?",
-    "correct": "India's Northeast and Himalayan regions, including Kashmir",
-    "options": [
-      "Southern states only",
-      "Western states only",
-      "India's Northeast and Himalayan regions, including Kashmir",
-      "Only central India"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Regional Variations",
-    "complexity_score": 2
   }
 ]
