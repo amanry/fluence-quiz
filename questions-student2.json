@@ -1,408 +1,316 @@
-[
-  {
-    "question": "What is the primary concept explored in the Social Science chapter today?",
-    "correct": "Unity in Diversity in India",
-    "options": [
-      "The history of Indian empires",
-      "Unity in Diversity in India",
-      "Global trade routes",
-      "Modern Indian politics"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity",
-    "complexity_score": 1
-  },
-  {
-    "question": "What common ingredient was used as an example of 'unity' in diverse Indian foods?",
-    "correct": "Rice",
-    "options": [
-      "Spices",
-      "Meat",
-      "Rice",
-      "Vegetables"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which piece of clothing was highlighted as a 'hero' in demonstrating unity amidst diversity in India?",
-    "correct": "Saree",
-    "options": [
-      "Dhoti",
-      "Saree",
-      "Salwar Kameez",
-      "Lehenga"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Clothing",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the approximate age of the Panchatantra stories mentioned?",
-    "correct": "2200 years old",
-    "options": [
-      "500 years old",
-      "1000 years old",
-      "2200 years old",
-      "3000 years old"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many adaptations of the Panchatantra are estimated to exist, in how many languages?",
-    "correct": "200 adaptations in 50 languages",
-    "options": [
-      "50 adaptations in 10 languages",
-      "100 adaptations in 20 languages",
-      "200 adaptations in 50 languages",
-      "500 adaptations in 100 languages"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the combined page count of the original versions of the Ramayana and Mahabharata?",
-    "correct": "Around 7000 pages",
-    "options": [
-      "Around 1000 pages",
-      "Around 3000 pages",
-      "Around 7000 pages",
-      "Around 10,000 pages"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What kind of questions do stories like Ramayana and Mahabharata constantly ask?",
-    "correct": "What is right and what is wrong",
-    "options": [
-      "How to build empires",
-      "What is right and what is wrong",
-      "Scientific advancements",
-      "Economic policies"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does 'folk versions' of epics refer to?",
-    "correct": "Stories communicated orally by small communities",
-    "options": [
-      "Official written versions",
-      "Stories communicated orally by small communities",
-      "Translated versions for international audience",
-      "Modern interpretations in movies"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which communities were mentioned as having their own versions of Ramayana and Mahabharata?",
-    "correct": "Tribal communities like the Beals, Goards, and Mundas",
-    "options": [
-      "Urban communities",
-      "Coastal communities",
-      "Tribal communities like the Beals, Goards, and Mundas",
-      "Foreign communities"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What did tribal communities do to connect their history with these epics?",
-    "correct": "Preserved legends connecting their own history with these epics",
-    "options": [
-      "Rejected the epics entirely",
-      "Preserved legends connecting their own history with these epics",
-      "Wrote new epics about themselves",
-      "Only listened to the main versions"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "Who directed the 'People of India Project'?",
-    "correct": "The anthropologist K.S. Singh",
-    "options": [
-      "Rabindranath Tagore",
-      "K.S. Singh",
-      "Vishnu Sharma",
-      "An unnamed scholar"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Surveys and Research",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was a notable observation about the Mahabharata from the 'People of India Project' survey?",
-    "correct": "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
-    "options": [
-      "It was primarily a regional epic",
-      "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
-      "It was only known in certain parts of India",
-      "Its stories were identical everywhere"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Surveys and Research",
-    "complexity_score": 3
-  },
-  {
-    "question": "According to the class, how has Indian culture spread around the world for centuries?",
-    "correct": "Through the two biggest stories of Ramayana and Mahabharata",
-    "options": [
-      "Through trade and commerce only",
-      "Through military conquests",
-      "Through the two biggest stories of Ramayana and Mahabharata",
-      "Through modern social media"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cultural Spread",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the core message of the chapter regarding Indian culture?",
-    "correct": "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
-    "options": [
-      "Indian culture views diversity as a challenge to unity",
-      "Indian culture focuses solely on commonalities, ignoring diversity",
-      "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
-      "Indian culture tries to eliminate diversity to promote unity"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Core Message",
-    "complexity_score": 3
-  },
-  {
-    "question": "What tax existed during Mughal times for Hindus who did not convert to Muslim?",
-    "correct": "Jazia tax",
-    "options": [
-      "Sales tax",
-      "Jazia tax",
-      "Property tax",
-      "Income tax"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which part of India celebrates the 'Dussehra' for 75 days, known as the world's longest?",
-    "correct": "Bastar in Chhattisgarh",
-    "options": [
-      "Punjab",
-      "Tamil Nadu",
-      "Bastar in Chhattisgarh",
-      "Kashmir"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Regional Cultures",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is one example mentioned of Indian names found in West Indies islands?",
-    "correct": "Ravi Rampal, Sunil Narayan",
-    "options": [
-      "David Smith",
-      "Ravi Rampal, Sunil Narayan",
-      "John Doe",
-      "Maria Garcia"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cultural Influence",
-    "complexity_score": 1
-  },
-  {
-    "question": "What connects different cultures in India and parts of Asia, forming a 'dense web of cultural intersections'?",
-    "correct": "The two epics, Ramayana and Mahabharata",
-    "options": [
-      "Modern travel",
-      "Global economic treaties",
-      "The two epics, Ramayana and Mahabharata",
-      "Scientific conferences"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cultural Intersections",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which historical figure was mentioned as removing the Jazia tax?",
-    "correct": "Akbar",
-    "options": [
-      "Aurangzeb",
-      "Shah Jahan",
-      "Akbar",
-      "Babur"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is meant by 'two millenniums'?",
-    "correct": "Two thousand years",
-    "options": [
-      "Two million years",
-      "Two hundred years",
-      "Two thousand years",
-      "Twenty years"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Time Measurement",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the term for stories communicated orally in small communities without being written down?",
-    "correct": "Folklore",
-    "options": [
-      "Epic literature",
-      "Historical records",
-      "Folklore",
-      "Modern novels"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Terminology",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why did the teacher emphasize not skipping homeworks and quizzes for Kavya?",
-    "correct": "To ensure a strong foundation and understanding of the chapter",
-    "options": [
-      "To increase her XP points only",
-      "To make the class more challenging",
-      "To ensure a strong foundation and understanding of the chapter",
-      "To finish the syllabus quickly"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Learning Strategies",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are some of the common basic staples (food grains) found in almost every part of India mentioned in the class?",
-    "correct": "Wheat, barley, jowar, rice",
-    "options": [
-      "Corn, oats, quinoa, rye",
-      "Wheat, barley, jowar, rice",
-      "Millet, sorghum, lentils, beans",
-      "Potatoes, tomatoes, onions, garlic"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is Makar Sankranti primarily celebrated for?",
-    "correct": "To celebrate the beginning of the harvest season",
-    "options": [
-      "To celebrate the new year",
-      "To celebrate the beginning of the harvest season",
-      "To honor ancestors",
-      "To pray for rain"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Festivals",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does the phrase 'dense web of cultural intersections' refer to in the context of epics?",
-    "correct": "How cultures interacted and shared due to these stories",
-    "options": [
-      "A complex network of roads",
-      "How cultures interacted and shared due to these stories",
-      "A type of ancient writing system",
-      "A large group of people meeting"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cultural Intersections",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is one reason why Indian culture celebrates diversity?",
-    "correct": "Because diversity enriches, it does not divide",
-    "options": [
-      "To create more conflicts",
-      "To make the country harder to manage",
-      "Because diversity enriches, it does not divide",
-      "To follow ancient traditions strictly"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Core Message",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is believed to happen in a temple in UP every morning, related to a Mahabharata character?",
-    "correct": "Aswathama comes, worships God Shiva and goes away",
-    "options": [
-      "Krishna appears to devotees",
-      "Arjun meditates",
-      "Aswathama comes, worships God Shiva and goes away",
-      "Pandavas offer prayers"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Folklore and Beliefs",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many versions of the Mahabharata were counted in a survey in Tamil Nadu alone a few years ago?",
-    "correct": "About 100 versions",
-    "options": [
-      "10 versions",
-      "50 versions",
-      "About 100 versions",
-      "200 versions"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which regions, besides Tamil Nadu, were mentioned as having their own versions of epics?",
-    "correct": "India's Northeast and Himalayan regions, including Kashmir",
-    "options": [
-      "Southern states only",
-      "Western states only",
-      "India's Northeast and Himalayan regions, including Kashmir",
-      "Only central India"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Regional Variations",
-    "complexity_score": 2
+{
+  "title": "Mathematics Quiz - Number Patterns and Sequences",
+  "subject": "Mathematics",
+  "date": "2025-07-15T09:03:03.957204",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the sum of counting numbers from 1 to 8 and back to 1?",
+      "correct": "64",
+      "options": [
+        "56",
+        "64",
+        "72",
+        "81"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the formula for finding the sum of counting numbers going up and down?",
+      "correct": "n²",
+      "options": [
+        "2n",
+        "n²",
+        "n+n",
+        "2n+1"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Patterns",
+      "complexity_score": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the fourth triangular number?",
+      "correct": "10",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Triangular Numbers",
+      "complexity_score": 1
+    },
+    {
+      "id": 4,
+      "question": "If counting numbers are added from 1 to 100 and back to 1, what will be their sum?",
+      "correct": "10000",
+      "options": [
+        "10000",
+        "1000",
+        "100",
+        "200"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the sixth triangular number?",
+      "correct": "21",
+      "options": [
+        "15",
+        "18",
+        "21",
+        "24"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Triangular Numbers",
+      "complexity_score": 2
+    },
+    {
+      "id": 6,
+      "question": "Which number pattern gives you the sum of 4?",
+      "correct": "1,2,1",
+      "options": [
+        "1,2,1",
+        "2,1,2",
+        "1,1,1",
+        "2,2,2"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Number Patterns",
+      "complexity_score": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the sum of the sequence 1,2,3,3,2,1?",
+      "correct": "12",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the sum of even numbers from 2 to 12?",
+      "correct": "42",
+      "options": [
+        "36",
+        "40",
+        "42",
+        "44"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Even Numbers",
+      "complexity_score": 2
+    },
+    {
+      "id": 9,
+      "question": "If n is the maximum number in an up-and-down sequence, what represents the sum?",
+      "correct": "n²",
+      "options": [
+        "2n",
+        "n²",
+        "n/2",
+        "2n+1"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Patterns",
+      "complexity_score": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the next number in the sequence: 13, 6, 10, ___?",
+      "correct": "15",
+      "options": [
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the sum of the sequence 1,2,3,4,3,2,1?",
+      "correct": "16",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 1
+    },
+    {
+      "id": 12,
+      "question": "What is the sum of numbers from 1 to 7 and back to 1?",
+      "correct": "49",
+      "options": [
+        "36",
+        "42",
+        "49",
+        "64"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Patterns",
+      "complexity_score": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the pattern followed in square numbers?",
+      "correct": "Numbers multiplied by themselves",
+      "options": [
+        "Adding consecutive numbers",
+        "Numbers multiplied by themselves",
+        "Adding odd numbers",
+        "Adding even numbers"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Square Numbers",
+      "complexity_score": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the sum of numbers from 1 to 99 and back to 1?",
+      "correct": "9801",
+      "options": [
+        "9801",
+        "9901",
+        "9701",
+        "9601"
+      ],
+      "difficulty": "hard",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 3
+    },
+    {
+      "id": 15,
+      "question": "Which number sequence represents triangular numbers?",
+      "correct": "1,3,6,10,15,21",
+      "options": [
+        "1,2,3,4,5,6",
+        "1,3,6,10,15,21",
+        "2,4,6,8,10,12",
+        "1,4,9,16,25,36"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Triangular Numbers",
+      "complexity_score": 2
+    },
+    {
+      "id": 16,
+      "question": "What is the efficient way to find how many even numbers are there from 2 to 100?",
+      "correct": "Divide 100 by 2",
+      "options": [
+        "Count them all",
+        "Divide 100 by 2",
+        "Multiply 100 by 2",
+        "Add 2 to 100"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Even Numbers",
+      "complexity_score": 2
+    },
+    {
+      "id": 17,
+      "question": "What is the square of the maximum number called in a sequence?",
+      "correct": "The sum of the up-and-down sequence",
+      "options": [
+        "The middle term",
+        "The first term",
+        "The sum of the up-and-down sequence",
+        "The last term"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Patterns",
+      "complexity_score": 2
+    },
+    {
+      "id": 18,
+      "question": "What is the sum of the first four even numbers?",
+      "correct": "20",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Even Numbers",
+      "complexity_score": 1
+    },
+    {
+      "id": 19,
+      "question": "How do you find the sum of an up-and-down sequence quickly?",
+      "correct": "Square the maximum number",
+      "options": [
+        "Add all numbers",
+        "Multiply by 2",
+        "Square the maximum number",
+        "Divide by 2"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Number Sequences",
+      "complexity_score": 2
+    },
+    {
+      "id": 20,
+      "question": "What is the 20th triangular number?",
+      "correct": "210",
+      "options": [
+        "190",
+        "200",
+        "210",
+        "220"
+      ],
+      "difficulty": "hard",
+      "questionType": "mcq",
+      "topic": "Triangular Numbers",
+      "complexity_score": 3
+    }
+  ],
+  "created_at": "2025-07-15T09:03:03.957204",
+  "version": "1.0",
+  "quiz_type": "class_based_mcq",
+  "student_info": {
+    "student_name": "kavya",
+    "student_id": "student2",
+    "filename": "01-07-kavya.txt"
   }
-]
+}

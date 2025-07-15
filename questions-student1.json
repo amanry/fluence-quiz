@@ -1,422 +1,316 @@
-[
-  {
-    "question": "What is the correct spelling of 'spread'?",
-    "correct": "SPREAD",
-    "options": [
-      "SPRED",
-      "SPRADE",
-      "SPREAD",
-      "SPREED"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which phrase is grammatically correct?",
-    "correct": "The best",
-    "options": [
-      "The most best",
-      "The better",
-      "The very best",
-      "The best"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Superlatives",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the sentence 'We play with water,' why is 'play' used instead of 'plays'?",
-    "correct": "Because 'We' is a plural subject",
-    "options": [
-      "Because it is a past tense",
-      "Because 'We' is a plural subject",
-      "Because it is a present perfect tense",
-      "Because it is a negative sentence"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
-    "complexity_score": 1
-  },
-  {
-    "question": "What tense is used for actions that are completed, as described in the class?",
-    "correct": "Present Perfect",
-    "options": [
-      "Present Simple",
-      "Present Continuous",
-      "Present Perfect",
-      "Future Simple"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Tenses",
-    "complexity_score": 1
-  },
-  {
-    "question": "Correct the sentence: 'She don't like coffee.'",
-    "correct": "She doesn't like coffee.",
-    "options": [
-      "She no like coffee.",
-      "She doesn't like coffee.",
-      "She not like coffee.",
-      "She is not liking coffee."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Sentence Correction",
-    "complexity_score": 1
-  },
-  {
-    "question": "Correct the sentence: 'They is playing in the garden.'",
-    "correct": "They are playing in the garden.",
-    "options": [
-      "They playing in the garden.",
-      "They are playing in the garden.",
-      "They were playing in the garden.",
-      "They has played in the garden."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Sentence Correction",
-    "complexity_score": 1
-  },
-  {
-    "question": "Correct the sentence: 'He runs fast tilly every morning.'",
-    "correct": "He runs fast every morning.",
-    "options": [
-      "He run fast every morning.",
-      "He fast runs every morning.",
-      "He runs fast every morning.",
-      "He fast run every morning."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Sentence Correction",
-    "complexity_score": 1
-  },
-  {
-    "question": "Correct the sentence: 'We will meet him yesterday.'",
-    "correct": "We met him yesterday.",
-    "options": [
-      "We will meet him tomorrow.",
-      "We met him yesterday.",
-      "We meet him yesterday.",
-      "We were meeting him yesterday."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Sentence Correction",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the past participle form of 'Teach'?",
-    "correct": "Taught",
-    "options": [
-      "Teached",
-      "Taught",
-      "Teaching",
-      "To teach"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past simple form of 'Drive'?",
-    "correct": "Drove",
-    "options": [
-      "Driven",
-      "Drove",
-      "Driving",
-      "Drives"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past participle form of 'Sing'?",
-    "correct": "Sung",
-    "options": [
-      "Sang",
-      "Sung",
-      "Singing",
-      "Sings"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past simple form of 'Rise'?",
-    "correct": "Rose",
-    "options": [
-      "Risen",
-      "Rose",
-      "Rising",
-      "Rises"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past participle form of 'Fly'?",
-    "correct": "Flown",
-    "options": [
-      "Flew",
-      "Flown",
-      "Flying",
-      "Flies"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Cut'?",
-    "correct": "Cut, Cut, Cut",
-    "options": [
-      "Cut, Cuted, Cutting",
-      "Cut, Cut, Cut",
-      "Cut, Cutted, Cut",
-      "Cut, Cut, Cutted"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the three forms of the verb 'Split'?",
-    "correct": "Split, Split, Split",
-    "options": [
-      "Split, Split, Split",
-      "Split, Splitted, Split",
-      "Split, Split, Splitted",
-      "Splitted, Split, Split"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the three forms of the verb 'Speak'?",
-    "correct": "Speak, Spoke, Spoken",
-    "options": [
-      "Speak, Spoke, Spoken",
-      "Speak, Spoke, Speak",
-      "Speak, Spoken, Spoken",
-      "Speak, Speaking, Spoke"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Begin'?",
-    "correct": "Begin, Began, Begun",
-    "options": [
-      "Begin, Begun, Began",
-      "Begin, Began, Begun",
-      "Begin, Beginned, Begun",
-      "Begin, Begin, Begun"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Choose'?",
-    "correct": "Choose, Chose, Chosen",
-    "options": [
-      "Choose, Choosed, Chosen",
-      "Choose, Chose, Chosen",
-      "Choose, Chosen, Chose",
-      "Choose, Choosing, Chose"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Eat'?",
-    "correct": "Eat, Ate, Eaten",
-    "options": [
-      "Eat, Eaten, Ate",
-      "Eat, Ate, Eaten",
-      "Eat, Eating, Eaten",
-      "Eat, Ate, Ate"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Fall'?",
-    "correct": "Fall, Fell, Fallen",
-    "options": [
-      "Fall, Fallen, Fell",
-      "Fall, Fell, Fallen",
-      "Fall, Falling, Fell",
-      "Fall, Fell, Fell"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Give'?",
-    "correct": "Give, Gave, Given",
-    "options": [
-      "Give, Given, Gave",
-      "Give, Gave, Given",
-      "Give, Giving, Gave",
-      "Give, Gave, Gave"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Rain'?",
-    "correct": "Rain, Rained, Rained",
-    "options": [
-      "Rain, Rained, Rained",
-      "Rain, Raining, Rained",
-      "Rain, Rain, Rained",
-      "Rain, Rained, Raining"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the three forms of the verb 'Fry'?",
-    "correct": "Fry, Fried, Fried",
-    "options": [
-      "Fry, Fried, Fried",
-      "Fry, Frying, Fried",
-      "Fry, Fry, Fried",
-      "Fry, Fryed, Fryed"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the three forms of the verb 'Study'?",
-    "correct": "Study, Studied, Studied",
-    "options": [
-      "Study, Studied, Studied",
-      "Study, Studying, Studied",
-      "Study, Study, Studied",
-      "Study, Studied, Studying"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the three forms of the verb 'Learn'?",
-    "correct": "Learn, Learnt, Learnt",
-    "options": [
-      "Learn, Learnt, Learnt",
-      "Learn, Learning, Learnt",
-      "Learn, Learn, Learnt",
-      "Learn, Learned, Learned"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does 'Melodic' mean?",
-    "correct": "Sweet-sounding",
-    "options": [
-      "Noisy",
-      "Sweet-sounding",
-      "Bright",
-      "Dull"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does 'Vibrancy' mean?",
-    "correct": "Energy/Color/Life",
-    "options": [
-      "Darkness",
-      "Energy/Color/Life",
-      "Quietness",
-      "Stillness"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
-  },
-  {
-    "question": "What does 'Muffled' mean?",
-    "correct": "Quiet and unclear",
-    "options": [
-      "Loud",
-      "Quiet and unclear",
-      "Clear",
-      "Sharp"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
-  },
-  {
-    "question": "What does 'Flourish' mean?",
-    "correct": "To grow well and be successful",
-    "options": [
-      "To decline or wither",
-      "To struggle",
-      "To grow well and be successful",
-      "To remain stagnant"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
-  },
-  {
-    "question": "What does 'Serenity' mean?",
-    "correct": "Peacefulness",
-    "options": [
-      "Loudness",
-      "Peacefulness",
-      "Excitement",
-      "Chaos"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
+{
+  "title": "English Vocabulary Quiz - Word Meanings and Usage",
+  "subject": "English Language",
+  "date": "2025-07-15T08:45:34.996374",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does 'renewed' mean?",
+      "correct": "Made fresh again",
+      "options": [
+        "Made fresh again",
+        "Destroyed",
+        "Repeated",
+        "Removed"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 2,
+      "question": "What is the meaning of 'wisdom'?",
+      "correct": "Knowledge and good judgment",
+      "options": [
+        "Knowledge and good judgment",
+        "Physical strength",
+        "Speed",
+        "Height"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 3,
+      "question": "What does 'symphony' refer to?",
+      "correct": "Beautiful music played together by many instruments",
+      "options": [
+        "Beautiful music played together by many instruments",
+        "Single instrument",
+        "Dance performance",
+        "Poetry reading"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 4,
+      "question": "What does 'serenity' mean?",
+      "correct": "Peacefulness",
+      "options": [
+        "Peacefulness",
+        "Chaos",
+        "Anger",
+        "Confusion"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the meaning of 'liberated'?",
+      "correct": "Set free",
+      "options": [
+        "Set free",
+        "Captured",
+        "Restricted",
+        "Confined"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 6,
+      "question": "What does 'inherited' mean?",
+      "correct": "Received from family",
+      "options": [
+        "Received from family",
+        "Purchased",
+        "Borrowed",
+        "Found"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 7,
+      "question": "What is a 'guardian'?",
+      "correct": "Protector",
+      "options": [
+        "Protector",
+        "Enemy",
+        "Stranger",
+        "Friend"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 8,
+      "question": "What does 'fragile' mean?",
+      "correct": "Easily broken",
+      "options": [
+        "Easily broken",
+        "Very strong",
+        "Heavy",
+        "Flexible"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the meaning of 'melodic'?",
+      "correct": "Sweet-sounding",
+      "options": [
+        "Sweet-sounding",
+        "Harsh",
+        "Silent",
+        "Loud"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 10,
+      "question": "What does 'hoarded' mean?",
+      "correct": "Stored away",
+      "options": [
+        "Stored away",
+        "Given away",
+        "Thrown away",
+        "Lost"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 11,
+      "question": "What does 'flourish' mean?",
+      "correct": "Grow well and be successful",
+      "options": [
+        "Grow well and be successful",
+        "Fail",
+        "Decrease",
+        "Disappear"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 12,
+      "question": "What is 'extraordinary'?",
+      "correct": "Very special and unusual",
+      "options": [
+        "Very special and unusual",
+        "Common",
+        "Normal",
+        "Regular"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the meaning of 'essence'?",
+      "correct": "Basic nature or core meaning",
+      "options": [
+        "Basic nature or core meaning",
+        "Outside appearance",
+        "Color",
+        "Size"
+      ],
+      "difficulty": "hard",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 3
+    },
+    {
+      "id": 14,
+      "question": "What does 'devised' mean?",
+      "correct": "Planned or invented",
+      "options": [
+        "Planned or invented",
+        "Destroyed",
+        "Forgotten",
+        "Ignored"
+      ],
+      "difficulty": "hard",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 3
+    },
+    {
+      "id": 15,
+      "question": "What does 'barely' mean?",
+      "correct": "Just a little, hardly",
+      "options": [
+        "Just a little, hardly",
+        "Completely",
+        "Extremely",
+        "Always"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 16,
+      "question": "What is 'ancient'?",
+      "correct": "Very old, from thousands of years ago",
+      "options": [
+        "Very old, from thousands of years ago",
+        "New",
+        "Modern",
+        "Recent"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 17,
+      "question": "What does 'pleaded' mean?",
+      "correct": "Requested a lot",
+      "options": [
+        "Requested a lot",
+        "Demanded",
+        "Ordered",
+        "Commanded"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 18,
+      "question": "What does 'vibrant' mean?",
+      "correct": "Full of life, energy, and colors",
+      "options": [
+        "Full of life, energy, and colors",
+        "Dull",
+        "Lifeless",
+        "Boring"
+      ],
+      "difficulty": "medium",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 2
+    },
+    {
+      "id": 19,
+      "question": "What is a 'companion'?",
+      "correct": "Friend",
+      "options": [
+        "Friend",
+        "Enemy",
+        "Stranger",
+        "Boss"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    },
+    {
+      "id": 20,
+      "question": "What does 'whispered' mean?",
+      "correct": "Spoke very softly",
+      "options": [
+        "Spoke very softly",
+        "Shouted",
+        "Yelled",
+        "Screamed"
+      ],
+      "difficulty": "easy",
+      "questionType": "mcq",
+      "topic": "Vocabulary",
+      "complexity_score": 1
+    }
+  ],
+  "created_at": "2025-07-15T08:45:34.996374",
+  "version": "1.0",
+  "quiz_type": "class_based_mcq",
+  "student_info": {
+    "student_name": "anaya",
+    "student_id": "student1",
+    "filename": "08-07-anaya.txt"
   }
-]
+}
