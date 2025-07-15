@@ -1,34 +1,6 @@
 [
   {
-    "question": "What is the sum of counting numbers from 1 to 100 and back to 1?",
-    "correct": "10000",
-    "options": [
-      "5050",
-      "10000",
-      "1000",
-      "100000"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns",
-    "complexity_score": 2
-  },
-  {
-    "question": "In a sequence where counting numbers are added up and down, what is the formula for finding the sum?",
-    "correct": "Square of the largest number",
-    "options": [
-      "Sum of all numbers",
-      "Square of the largest number",
-      "Double the largest number",
-      "Half of the largest number"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Sequences",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the fourth triangular number?",
+    "question": "What is the 4th triangular number?",
     "correct": "10",
     "options": [
       "6",
@@ -38,35 +10,253 @@
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Triangular Numbers",
-    "complexity_score": 1
+    "topic": "Number Sequences"
   },
   {
-    "question": "If n represents the maximum number in an up-and-down sequence, how do we express the sum?",
-    "correct": "n²",
-    "options": [
-      "2n",
-      "n²",
-      "n+n",
-      "n/2"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Algebraic Expression",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the sixth triangular number?",
+    "question": "What is the 6th triangular number?",
     "correct": "21",
     "options": [
       "15",
       "18",
       "21",
-      "25"
+      "24"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Triangular Numbers",
-    "complexity_score": 1
+    "topic": "Number Sequences"
+  },
+  {
+    "question": "What is the sum of counting numbers from 1 to 7 and back to 1?",
+    "correct": "49",
+    "options": [
+      "36",
+      "42",
+      "49",
+      "64"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns"
+  },
+  {
+    "question": "What is the sum of counting numbers from 1 to 8 and back to 1?",
+    "correct": "64",
+    "options": [
+      "49",
+      "56",
+      "64",
+      "81"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns"
+  },
+  {
+    "question": "What is the sum of counting numbers from 1 to 100 and back to 1?",
+    "correct": "10000",
+    "options": [
+      "5000",
+      "8000",
+      "10000",
+      "12000"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Number Patterns"
+  },
+  {
+    "question": "If counting numbers are added up and down, what will the sum always be?",
+    "correct": "Square of the largest number",
+    "options": [
+      "Double the largest number",
+      "Square of the largest number",
+      "Cube of the largest number",
+      "Half of the largest number"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns"
+  },
+  {
+    "question": "What is the formula for the sum of up and down counting numbers sequence?",
+    "correct": "n²",
+    "options": [
+      "2n",
+      "n²",
+      "n³",
+      "n/2"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns"
+  },
+  {
+    "question": "What type of numbers are 1, 4, 9, 16, 25?",
+    "correct": "Square numbers",
+    "options": [
+      "Prime numbers",
+      "Square numbers",
+      "Triangular numbers",
+      "Even numbers"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Number Types"
+  },
+  {
+    "question": "What is the pattern in triangular numbers starting from 1?",
+    "correct": "1, 3, 6, 10",
+    "options": [
+      "1, 2, 3, 4",
+      "1, 3, 6, 10",
+      "1, 4, 9, 16",
+      "1, 3, 5, 7"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Sequences"
+  },
+  {
+    "question": "How do you find the sum of even numbers from 2 to 100?",
+    "correct": "Count the numbers and multiply by the next number",
+    "options": [
+      "Add them all",
+      "Multiply by 2",
+      "Count the numbers and multiply by the next number",
+      "Divide by 2"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Even Numbers"
+  },
+  {
+    "question": "What is the sum of even numbers from 2 to 12?",
+    "correct": "42",
+    "options": [
+      "30",
+      "36",
+      "42",
+      "48"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Even Numbers"
+  },
+  {
+    "question": "What is the sum of the first three even numbers?",
+    "correct": "12",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Even Numbers"
+  },
+  {
+    "question": "What is the most efficient way to find number patterns?",
+    "correct": "Look for mathematical relationships",
+    "options": [
+      "Random guessing",
+      "Adding all numbers",
+      "Look for mathematical relationships",
+      "Counting one by one"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Problem Solving"
+  },
+  {
+    "question": "What is the difference between efficient and sincere in mathematics?",
+    "correct": "Efficient means using less time and energy",
+    "options": [
+      "They mean the same thing",
+      "Efficient means using less time and energy",
+      "Sincere means being correct",
+      "Efficient means being accurate"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematical Concepts"
+  },
+  {
+    "question": "How many numbers are there from 2 to 100 in even numbers?",
+    "correct": "50",
+    "options": [
+      "49",
+      "50",
+      "51",
+      "52"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Even Numbers"
+  },
+  {
+    "question": "What is the sum of the sequence 1,2,3,2,1?",
+    "correct": "9",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Number Sequences"
+  },
+  {
+    "question": "What is the next number in the sequence 4,9,16,25?",
+    "correct": "36",
+    "options": [
+      "30",
+      "34",
+      "36",
+      "40"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Sequences"
+  },
+  {
+    "question": "What is the rule for finding square numbers?",
+    "correct": "Multiply a number by itself",
+    "options": [
+      "Add two consecutive numbers",
+      "Multiply a number by itself",
+      "Add three numbers",
+      "Double the number"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Square Numbers"
+  },
+  {
+    "question": "What is the sum of numbers from 1 to 99 and back to 1?",
+    "correct": "9801",
+    "options": [
+      "9801",
+      "9901",
+      "9701",
+      "9601"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Number Patterns"
+  },
+  {
+    "question": "What makes a formula efficient?",
+    "correct": "It saves time and energy in calculation",
+    "options": [
+      "It is long and detailed",
+      "It uses complex numbers",
+      "It saves time and energy in calculation",
+      "It requires many steps"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematical Concepts"
   }
 ]
