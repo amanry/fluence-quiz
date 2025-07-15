@@ -1,20 +1,6 @@
 [
   {
-    "question": "How many chapters are included in the upcoming Social Science exam?",
-    "correct": "Two",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Exam Schedule",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many points are awarded for scoring 45 out of 50 in the test?",
+    "question": "What reward points were mentioned for getting 45 out of 50 in the test?",
     "correct": "200 points",
     "options": [
       "100 points",
@@ -24,22 +10,22 @@
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Points System",
+    "topic": "Rewards",
     "complexity_score": 1
   },
   {
-    "question": "Which chapters are coming in Social Science?",
-    "correct": "Diversity and Locating Places",
+    "question": "How many chapters were mentioned for the upcoming social science exam?",
+    "correct": "Two chapters",
     "options": [
-      "History and Geography",
-      "Civics and Economics",
-      "Diversity and Locating Places",
-      "Maps and Culture"
+      "One chapter",
+      "Two chapters",
+      "Three chapters",
+      "Four chapters"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science Syllabus",
-    "complexity_score": 2
+    "topic": "Syllabus",
+    "complexity_score": 1
   },
   {
     "question": "What is the time limit given for the math challenge?",
@@ -56,27 +42,13 @@
     "complexity_score": 1
   },
   {
-    "question": "According to the discussion, what is material?",
-    "correct": "The matter from which an object is made",
+    "question": "How many XP points were mentioned for not speaking Hindi in class?",
+    "correct": "500 XP",
     "options": [
-      "Things we can see",
-      "Things we can touch",
-      "The matter from which an object is made",
-      "Anything visible"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science Concepts",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many XP points can be earned for completing homework and getting class ready?",
-    "correct": "500",
-    "options": [
-      "200",
-      "300",
-      "400",
-      "500"
+      "150 XP",
+      "300 XP",
+      "400 XP",
+      "500 XP"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -84,13 +56,41 @@
     "complexity_score": 2
   },
   {
-    "question": "Which science textbook was mentioned in the discussion?",
+    "question": "What is the material used in making a mud car toy according to the discussion?",
+    "correct": "Soil/Mud",
+    "options": [
+      "Plastic",
+      "Wood",
+      "Soil/Mud",
+      "Metal"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many questions needed to be solved in 15 minutes for 100 XP?",
+    "correct": "5 questions",
+    "options": [
+      "3 questions",
+      "4 questions",
+      "5 questions",
+      "6 questions"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Challenge Rules",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which book was mentioned for teaching science?",
     "correct": "Exploring Science",
     "options": [
-      "Science Today",
-      "Exploring Science",
       "Curiosity",
-      "Basic Science"
+      "Exploring Science",
+      "Science World",
+      "Discovery Science"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -98,7 +98,7 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the format for test questions mentioned?",
+    "question": "What was the format mentioned for test questions?",
     "correct": "2 easy, 2 medium, 1 high",
     "options": [
       "All easy",
@@ -112,63 +112,49 @@
     "complexity_score": 2
   },
   {
-    "question": "Which materials were mentioned as examples in the science lesson?",
+    "question": "Which materials were specifically mentioned as examples in the science discussion?",
     "correct": "Wood, metal, fiber, leather, plastic, rubber",
     "options": [
       "Only wood and metal",
-      "Only plastic and glass",
       "Wood, metal, fiber, leather, plastic, rubber",
-      "Glass and ceramic only"
+      "Only plastic and glass",
+      "Metal and rubber only"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science Materials",
+    "topic": "Materials",
     "complexity_score": 2
   },
   {
-    "question": "What XP points are deducted for getting distracted during class?",
-    "correct": "50 XP points",
+    "question": "What is the milestone XP target mentioned?",
+    "correct": "5000 XP",
     "options": [
-      "25 XP points",
-      "50 XP points",
-      "75 XP points",
-      "100 XP points"
+      "3000 XP",
+      "4000 XP",
+      "5000 XP",
+      "6000 XP"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Class Rules",
+    "topic": "XP System",
     "complexity_score": 1
   },
   {
-    "question": "What is the milestone level mentioned in the discussion?",
-    "correct": "Level 10",
+    "question": "What chapters were mentioned in social science?",
+    "correct": "Locating places and Diversity",
     "options": [
-      "Level 5",
-      "Level 8",
-      "Level 10",
-      "Level 12"
+      "Geography only",
+      "History only",
+      "Locating places and Diversity",
+      "Civics only"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Achievement Levels",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "How many questions need to be solved within 15 minutes for 100 XP?",
-    "correct": "5 questions",
-    "options": [
-      "3 questions",
-      "4 questions",
-      "5 questions",
-      "6 questions"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Math Challenge Rules",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the total time given for the test mentioned?",
+    "question": "What was the time duration mentioned for cutting a tree in Abraham Lincoln's quote?",
     "correct": "1 hour",
     "options": [
       "30 minutes",
@@ -178,105 +164,119 @@
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Duration",
+    "topic": "Quotes",
     "complexity_score": 1
   },
   {
-    "question": "How many points are needed to score out of 50 to get the bonus challenge?",
-    "correct": "45 points",
+    "question": "How many questions were mentioned in the test worth 50 points?",
+    "correct": "10 questions",
     "options": [
-      "40 points",
-      "42 points",
-      "45 points",
-      "48 points"
+      "8 questions",
+      "9 questions",
+      "10 questions",
+      "12 questions"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Bonus Challenge",
+    "topic": "Test Structure",
     "complexity_score": 2
   },
   {
-    "question": "What is the example given for an object made of soil or mud?",
-    "correct": "Mud car vase",
+    "question": "What was the penalty mentioned for checking messages during class?",
+    "correct": "50 XP deduction",
     "options": [
-      "Book",
-      "Pencil",
-      "Mud car vase",
-      "Glass bottle"
+      "25 XP deduction",
+      "50 XP deduction",
+      "75 XP deduction",
+      "100 XP deduction"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science Examples",
+    "topic": "Class Rules",
     "complexity_score": 1
   },
   {
-    "question": "What reward is mentioned for not speaking Hindi in class?",
-    "correct": "150 points per day",
+    "question": "What score was needed to get the additional math challenge opportunity?",
+    "correct": "45 out of 50",
     "options": [
-      "100 points per day",
-      "150 points per day",
-      "200 points per day",
-      "250 points per day"
+      "40 out of 50",
+      "42 out of 50",
+      "45 out of 50",
+      "48 out of 50"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Class Rewards",
+    "topic": "Challenge Requirements",
     "complexity_score": 2
   },
   {
-    "question": "Which quote from Abraham Lincoln was mentioned?",
-    "correct": "Spending 40 minutes sharpening the axe to cut a tree in one hour",
-    "options": [
-      "Practice makes perfect",
-      "Never give up",
-      "Spending 40 minutes sharpening the axe to cut a tree in one hour",
-      "Early bird catches the worm"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Class Discussion",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the XP target mentioned in the discussion?",
-    "correct": "5000 XP",
-    "options": [
-      "3000 XP",
-      "4000 XP",
-      "5000 XP",
-      "6000 XP"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "XP Goals",
-    "complexity_score": 2
-  },
-  {
-    "question": "What subjects will be included in the grand quiz mentioned?",
+    "question": "What was the combined quiz mentioned to include?",
     "correct": "English, Math, Social Science, and Science",
     "options": [
       "Only Math and Science",
-      "Only English and Math",
+      "English and Math only",
       "English, Math, Social Science, and Science",
-      "Only Social Science"
+      "Science and Social Science only"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Quiz Content",
+    "topic": "Quiz Format",
     "complexity_score": 2
   },
   {
-    "question": "How many points are awarded for high score in Math game?",
-    "correct": "200 XP points",
+    "question": "What were the activities mentioned for after exams?",
+    "correct": "Making PPTs, songs, games, and podcasts",
     "options": [
-      "100 XP points",
-      "150 XP points",
-      "200 XP points",
-      "250 XP points"
+      "Only games",
+      "Only PPTs",
+      "Making PPTs, songs, games, and podcasts",
+      "Only podcasts"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game Rewards",
+    "topic": "Activities",
     "complexity_score": 1
+  },
+  {
+    "question": "What was the extra time offered if test completion was early?",
+    "correct": "15 minutes",
+    "options": [
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "25 minutes"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Time Management",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many points were mentioned for getting the class ready and homework?",
+    "correct": "500 XP",
+    "options": [
+      "300 XP",
+      "400 XP",
+      "500 XP",
+      "600 XP"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "XP System",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was mentioned about the high score reward for MathFul?",
+    "correct": "200 XP points for scoring 5000",
+    "options": [
+      "100 XP for any score",
+      "150 XP for 3000",
+      "200 XP points for scoring 5000",
+      "250 XP for 4000"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Game Rewards",
+    "complexity_score": 2
   }
 ]
