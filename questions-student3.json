@@ -1,54 +1,40 @@
 [
   {
-    "question": "How many chapters are included in the upcoming Social Science exam?",
-    "correct": "Two chapters",
+    "question": "What chapters are included in the upcoming Social Science exam?",
+    "correct": "Diversity and Locating Places",
     "options": [
-      "One chapter",
-      "Two chapters",
+      "Only Diversity",
+      "Diversity and Locating Places",
       "Three chapters",
       "Four chapters"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Exam Preparation",
+    "topic": "Exam Syllabus",
     "complexity_score": 1
   },
   {
-    "question": "What reward points were mentioned for achieving 45/50 in the test?",
-    "correct": "200 points",
+    "question": "How many XP points were offered for scoring 45/50 on the test?",
+    "correct": "250",
     "options": [
-      "100 points",
-      "150 points",
-      "200 points",
-      "250 points"
+      "150",
+      "200",
+      "250",
+      "300"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Rewards",
+    "topic": "Rewards System",
     "complexity_score": 1
   },
   {
-    "question": "Which chapters from Social Science were mentioned as part of the syllabus?",
-    "correct": "Locating Places and Diversity",
+    "question": "In the math challenge, how many questions needed to be solved in 15 minutes?",
+    "correct": "5",
     "options": [
-      "History and Geography",
-      "Civics and Economics",
-      "Locating Places and Diversity",
-      "Maps and Culture"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How much time was given for the math challenge?",
-    "correct": "15 minutes",
-    "options": [
-      "10 minutes",
-      "15 minutes",
-      "20 minutes",
-      "25 minutes"
+      "3",
+      "4",
+      "5",
+      "6"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,82 +42,68 @@
     "complexity_score": 1
   },
   {
-    "question": "According to the transcription, what is the material from which a table is made?",
-    "correct": "Wood",
+    "question": "According to the transcription, what is the matter of which an object is made called?",
+    "correct": "Material",
     "options": [
-      "Metal",
-      "Plastic",
-      "Wood",
-      "Glass"
+      "Object",
+      "Material",
+      "Matter",
+      "Substance"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Materials",
+    "topic": "Science",
     "complexity_score": 1
   },
   {
-    "question": "How many questions needed to be solved in 15 minutes to get 100 XP?",
-    "correct": "5 questions",
+    "question": "Which of these materials was NOT mentioned in the science lesson?",
+    "correct": "Cotton",
     "options": [
-      "3 questions",
-      "4 questions",
-      "5 questions",
-      "6 questions"
+      "Wood",
+      "Metal",
+      "Cotton",
+      "Leather"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Challenge Rules",
+    "topic": "Materials",
     "complexity_score": 2
   },
   {
-    "question": "Which science textbook was mentioned in the discussion?",
-    "correct": "Exploring Science",
+    "question": "What are the two science textbooks mentioned in the discussion?",
+    "correct": "Exploring Science and Curiosity",
     "options": [
-      "Basic Science",
-      "Exploring Science",
-      "Science Today",
-      "Modern Science"
+      "Only Exploring Science",
+      "Only Curiosity",
+      "Exploring Science and Curiosity",
+      "Science Explorer and Discovery"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science Books",
+    "topic": "Study Materials",
     "complexity_score": 2
   },
   {
-    "question": "What materials were listed as examples in the science chapter?",
-    "correct": "Wood, metal, fiber, leather, plastic, rubber",
-    "options": [
-      "Only metals and plastics",
-      "Wood, metal, fiber, leather, plastic, rubber",
-      "Glass and wood only",
-      "Paper and plastic only"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many XP points were mentioned for not speaking Hindi in class?",
+    "question": "What was the reward for not speaking Hindi in class?",
     "correct": "500 XP",
     "options": [
       "100 XP",
-      "300 XP",
-      "400 XP",
-      "500 XP"
+      "250 XP",
+      "500 XP",
+      "150 XP"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Class Rules",
+    "topic": "Rewards",
     "complexity_score": 1
   },
   {
-    "question": "What was the format mentioned for the upcoming test questions?",
+    "question": "What was the format mentioned for test questions?",
     "correct": "2 easy, 2 medium, 1 high",
     "options": [
-      "All easy questions",
+      "All easy",
       "2 easy, 2 medium, 1 high",
-      "All medium questions",
+      "All medium",
       "1 easy, 3 medium, 1 high"
     ],
     "difficulty": "medium",
@@ -140,13 +112,27 @@
     "complexity_score": 2
   },
   {
-    "question": "What was the example given of an object made from soil or mud?",
-    "correct": "Mud vase",
+    "question": "How many XP points could be earned in one day according to the discussion?",
+    "correct": "400",
     "options": [
-      "Mud vase",
-      "Paper boat",
-      "Plastic cup",
-      "Glass bottle"
+      "200",
+      "300",
+      "400",
+      "500"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "XP Points",
+    "complexity_score": 2
+  },
+  {
+    "question": "What example was given for an object made of soil or mud?",
+    "correct": "Mud car vase",
+    "options": [
+      "Book",
+      "Pencil",
+      "Mud car vase",
+      "Table"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -154,83 +140,13 @@
     "complexity_score": 1
   },
   {
-    "question": "How many XP points were offered for completing homework and getting class ready?",
-    "correct": "500 XP",
-    "options": [
-      "200 XP",
-      "300 XP",
-      "400 XP",
-      "500 XP"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Rewards System",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was the milestone XP target mentioned in the discussion?",
-    "correct": "5000 XP",
-    "options": [
-      "3000 XP",
-      "4000 XP",
-      "5000 XP",
-      "6000 XP"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "XP Goals",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which quote was mentioned from Abraham Lincoln about cutting a tree?",
-    "correct": "Spend first 40 minutes sharpening the ax",
-    "options": [
-      "Cut immediately",
-      "Take breaks often",
-      "Spend first 40 minutes sharpening the ax",
-      "Ask for help"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Quotes",
-    "complexity_score": 2
-  },
-  {
-    "question": "What score was needed on the test to get 250 XP?",
-    "correct": "45 out of 50",
-    "options": [
-      "40 out of 50",
-      "42 out of 50",
-      "45 out of 50",
-      "48 out of 50"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Test Rewards",
-    "complexity_score": 2
-  },
-  {
-    "question": "What subjects were mentioned for the combined quiz at Level 10?",
-    "correct": "English, Math, Social Science, and Science",
-    "options": [
-      "Only Math and Science",
-      "English and Math only",
-      "Social Science and Science only",
-      "English, Math, Social Science, and Science"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Quiz Subjects",
-    "complexity_score": 2
-  },
-  {
-    "question": "How much time was given to solve the test questions?",
-    "correct": "One hour",
+    "question": "What time was given to complete the math test?",
+    "correct": "1 hour",
     "options": [
       "30 minutes",
       "45 minutes",
-      "One hour",
-      "Two hours"
+      "1 hour",
+      "2 hours"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -238,45 +154,129 @@
     "complexity_score": 1
   },
   {
-    "question": "What penalty was introduced for checking messages during class?",
-    "correct": "50 XP points deduction",
+    "question": "What score was needed out of 50 to get extra XP points?",
+    "correct": "45",
     "options": [
-      "20 XP points deduction",
-      "30 XP points deduction",
-      "40 XP points deduction",
-      "50 XP points deduction"
+      "40",
+      "42",
+      "45",
+      "48"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Scoring System",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which material was mentioned as being used to make tables?",
+    "correct": "Wood",
+    "options": [
+      "Metal",
+      "Plastic",
+      "Glass",
+      "Wood"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Class Rules",
+    "topic": "Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which science chapters were mentioned as already studied?",
-    "correct": "Kinds of Materials",
+    "question": "What was the milestone XP target mentioned?",
+    "correct": "5000",
     "options": [
-      "Electricity",
-      "Magnets",
-      "Kinds of Materials",
-      "Light and Sound"
+      "3000",
+      "4000",
+      "5000",
+      "6000"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science Chapters",
+    "topic": "XP Goals",
     "complexity_score": 2
   },
   {
-    "question": "What was the reward mentioned for beating the last Mathful score?",
-    "correct": "150 XP points",
+    "question": "What was the suggested post-exam activity involving the laptop?",
+    "correct": "Making PPTs and games",
     "options": [
-      "100 XP points",
-      "125 XP points",
-      "150 XP points",
-      "200 XP points"
+      "Writing essays",
+      "Making PPTs and games",
+      "Online tests",
+      "Reading books"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Game Rewards",
+    "topic": "Activities",
     "complexity_score": 2
+  },
+  {
+    "question": "Which chapter from Science was mentioned as being studied?",
+    "correct": "Kinds of Materials",
+    "options": [
+      "Forces",
+      "Kinds of Materials",
+      "Energy",
+      "Light"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science Syllabus",
+    "complexity_score": 1
+  },
+  {
+    "question": "What was the penalty mentioned for getting distracted during class?",
+    "correct": "50 XP point reduction",
+    "options": [
+      "20 XP point reduction",
+      "30 XP point reduction",
+      "40 XP point reduction",
+      "50 XP point reduction"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Class Rules",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was the quoted time from Abraham Lincoln about cutting a tree?",
+    "correct": "40 minutes sharpening the axe",
+    "options": [
+      "30 minutes planning",
+      "40 minutes sharpening the axe",
+      "20 minutes preparing",
+      "50 minutes thinking"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Quotes",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was the additional reward mentioned for completing the test in 45 minutes?",
+    "correct": "15 minutes for another challenge",
+    "options": [
+      "Extra points",
+      "Free time",
+      "15 minutes for another challenge",
+      "Bonus questions"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Test Rewards",
+    "complexity_score": 3
+  },
+  {
+    "question": "What was mentioned as an example of an object made of glass?",
+    "correct": "Glass vase",
+    "options": [
+      "Book",
+      "Table",
+      "Chair",
+      "Glass vase"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
   }
 ]
