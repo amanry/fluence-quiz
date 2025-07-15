@@ -1,422 +1,282 @@
 [
   {
-    "question": "What is the correct spelling of 'spread'?",
-    "correct": "SPREAD",
+    "question": "What is anything that can be seen or touched called?",
+    "correct": "Object",
     "options": [
-      "SPRED",
-      "SPRADE",
-      "SPREAD",
-      "SPREED"
+      "Material",
+      "Object",
+      "Matter",
+      "Substance"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which phrase is grammatically correct?",
-    "correct": "The best",
+    "question": "The matter from which an object is made is called:",
+    "correct": "Material",
     "options": [
-      "The most best",
-      "The better",
-      "The very best",
-      "The best"
+      "Object",
+      "Material",
+      "Element",
+      "Compound"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Superlatives",
+    "topic": "Materials",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence 'We play with water,' why is 'play' used instead of 'plays'?",
-    "correct": "Because 'We' is a plural subject",
+    "question": "Which of these is an example of a material?",
+    "correct": "Wood",
     "options": [
-      "Because it is a past tense",
-      "Because 'We' is a plural subject",
-      "Because it is a present perfect tense",
-      "Because it is a negative sentence"
+      "Chair",
+      "Wood",
+      "Pencil box",
+      "Book"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Materials",
     "complexity_score": 1
   },
   {
-    "question": "What tense is used for actions that are completed, as described in the class?",
-    "correct": "Present Perfect",
+    "question": "To solve 71 × 999, we can use the method of:",
+    "correct": "Converting 999 to 1000 - 1",
     "options": [
-      "Present Simple",
-      "Present Continuous",
-      "Present Perfect",
-      "Future Simple"
+      "Direct multiplication",
+      "Converting 999 to 1000 - 1",
+      "Division",
+      "Addition"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the reward for getting 45 out of 50 in the test?",
+    "correct": "200 XP points",
+    "options": [
+      "100 XP points",
+      "150 XP points",
+      "200 XP points",
+      "250 XP points"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Tenses",
+    "topic": "Rewards",
     "complexity_score": 1
   },
   {
-    "question": "Correct the sentence: 'She don't like coffee.'",
-    "correct": "She doesn't like coffee.",
+    "question": "How many chapters are coming in the social science exam?",
+    "correct": "Two",
     "options": [
-      "She no like coffee.",
-      "She doesn't like coffee.",
-      "She not like coffee.",
-      "She is not liking coffee."
+      "One",
+      "Two",
+      "Three",
+      "Four"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Correction",
+    "topic": "Exam Schedule",
     "complexity_score": 1
   },
   {
-    "question": "Correct the sentence: 'They is playing in the garden.'",
-    "correct": "They are playing in the garden.",
+    "question": "What is the time limit for the math challenge?",
+    "correct": "15 minutes",
     "options": [
-      "They playing in the garden.",
-      "They are playing in the garden.",
-      "They were playing in the garden.",
-      "They has played in the garden."
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "25 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Correction",
+    "topic": "Math Challenge",
     "complexity_score": 1
   },
   {
-    "question": "Correct the sentence: 'He runs fast tilly every morning.'",
-    "correct": "He runs fast every morning.",
+    "question": "How many questions need to be solved in 15 minutes to get 100 XP?",
+    "correct": "5 questions",
     "options": [
-      "He run fast every morning.",
-      "He fast runs every morning.",
-      "He runs fast every morning.",
-      "He fast run every morning."
+      "3 questions",
+      "4 questions",
+      "5 questions",
+      "6 questions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Correction",
+    "topic": "Math Challenge",
     "complexity_score": 1
   },
   {
-    "question": "Correct the sentence: 'We will meet him yesterday.'",
-    "correct": "We met him yesterday.",
+    "question": "Objects can have different:",
+    "correct": "All of the above",
     "options": [
-      "We will meet him tomorrow.",
-      "We met him yesterday.",
-      "We meet him yesterday.",
-      "We were meeting him yesterday."
+      "Shapes",
+      "Sizes",
+      "Colors",
+      "All of the above"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Correction",
+    "topic": "Objects",
     "complexity_score": 1
   },
   {
-    "question": "What is the past participle form of 'Teach'?",
-    "correct": "Taught",
+    "question": "What is the penalty for checking messages during class?",
+    "correct": "50 XP points deduction",
     "options": [
-      "Teached",
-      "Taught",
-      "Teaching",
-      "To teach"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past simple form of 'Drive'?",
-    "correct": "Drove",
-    "options": [
-      "Driven",
-      "Drove",
-      "Driving",
-      "Drives"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past participle form of 'Sing'?",
-    "correct": "Sung",
-    "options": [
-      "Sang",
-      "Sung",
-      "Singing",
-      "Sings"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past simple form of 'Rise'?",
-    "correct": "Rose",
-    "options": [
-      "Risen",
-      "Rose",
-      "Rising",
-      "Rises"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the past participle form of 'Fly'?",
-    "correct": "Flown",
-    "options": [
-      "Flew",
-      "Flown",
-      "Flying",
-      "Flies"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Cut'?",
-    "correct": "Cut, Cut, Cut",
-    "options": [
-      "Cut, Cuted, Cutting",
-      "Cut, Cut, Cut",
-      "Cut, Cutted, Cut",
-      "Cut, Cut, Cutted"
+      "25 XP points deduction",
+      "50 XP points deduction",
+      "75 XP points deduction",
+      "100 XP points deduction"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Class Rules",
     "complexity_score": 1
   },
   {
-    "question": "What are the three forms of the verb 'Split'?",
-    "correct": "Split, Split, Split",
+    "question": "Which book is used for science class?",
+    "correct": "Exploring Science",
     "options": [
-      "Split, Split, Split",
-      "Split, Splitted, Split",
-      "Split, Split, Splitted",
-      "Splitted, Split, Split"
+      "Curiosity",
+      "Exploring Science",
+      "Both",
+      "Neither"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Study Materials",
     "complexity_score": 1
   },
   {
-    "question": "What are the three forms of the verb 'Speak'?",
-    "correct": "Speak, Spoke, Spoken",
+    "question": "What is the format of test questions?",
+    "correct": "2 easy, 2 medium, 1 hard",
     "options": [
-      "Speak, Spoke, Spoken",
-      "Speak, Spoke, Speak",
-      "Speak, Spoken, Spoken",
-      "Speak, Speaking, Spoke"
+      "All easy",
+      "All medium",
+      "2 easy, 2 medium, 1 hard",
+      "1 easy, 3 medium, 1 hard"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Test Format",
     "complexity_score": 2
   },
   {
-    "question": "What are the three forms of the verb 'Begin'?",
-    "correct": "Begin, Began, Begun",
+    "question": "What is the total possible XP points for one day?",
+    "correct": "400 XP",
     "options": [
-      "Begin, Begun, Began",
-      "Begin, Began, Begun",
-      "Begin, Beginned, Begun",
-      "Begin, Begin, Begun"
+      "200 XP",
+      "300 XP",
+      "400 XP",
+      "500 XP"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "XP Points",
     "complexity_score": 2
   },
   {
-    "question": "What are the three forms of the verb 'Choose'?",
-    "correct": "Choose, Chose, Chosen",
+    "question": "What material might mud be used to make?",
+    "correct": "Mud vase",
     "options": [
-      "Choose, Choosed, Chosen",
-      "Choose, Chose, Chosen",
-      "Choose, Chosen, Chose",
-      "Choose, Choosing, Chose"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Eat'?",
-    "correct": "Eat, Ate, Eaten",
-    "options": [
-      "Eat, Eaten, Ate",
-      "Eat, Ate, Eaten",
-      "Eat, Eating, Eaten",
-      "Eat, Ate, Ate"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Fall'?",
-    "correct": "Fall, Fell, Fallen",
-    "options": [
-      "Fall, Fallen, Fell",
-      "Fall, Fell, Fallen",
-      "Fall, Falling, Fell",
-      "Fall, Fell, Fell"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Give'?",
-    "correct": "Give, Gave, Given",
-    "options": [
-      "Give, Given, Gave",
-      "Give, Gave, Given",
-      "Give, Giving, Gave",
-      "Give, Gave, Gave"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Verb Forms",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three forms of the verb 'Rain'?",
-    "correct": "Rain, Rained, Rained",
-    "options": [
-      "Rain, Rained, Rained",
-      "Rain, Raining, Rained",
-      "Rain, Rain, Rained",
-      "Rain, Rained, Raining"
+      "Book",
+      "Pencil",
+      "Mud vase",
+      "Table"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Materials",
     "complexity_score": 1
   },
   {
-    "question": "What are the three forms of the verb 'Fry'?",
-    "correct": "Fry, Fried, Fried",
+    "question": "How much time is given for the test?",
+    "correct": "1 hour",
     "options": [
-      "Fry, Fried, Fried",
-      "Fry, Frying, Fried",
-      "Fry, Fry, Fried",
-      "Fry, Fryed, Fryed"
+      "30 minutes",
+      "45 minutes",
+      "1 hour",
+      "1.5 hours"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Test Time",
     "complexity_score": 1
   },
   {
-    "question": "What are the three forms of the verb 'Study'?",
-    "correct": "Study, Studied, Studied",
+    "question": "What happens if you complete the test in 45 minutes?",
+    "correct": "Get extra 15 minutes for challenge",
     "options": [
-      "Study, Studied, Studied",
-      "Study, Studying, Studied",
-      "Study, Study, Studied",
-      "Study, Studied, Studying"
+      "Get bonus points",
+      "Get extra 15 minutes for challenge",
+      "Go home early",
+      "Get a reward"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Test Rules",
     "complexity_score": 1
   },
   {
-    "question": "What are the three forms of the verb 'Learn'?",
-    "correct": "Learn, Learnt, Learnt",
+    "question": "Which is NOT an example of a material?",
+    "correct": "Chair",
     "options": [
-      "Learn, Learnt, Learnt",
-      "Learn, Learning, Learnt",
-      "Learn, Learn, Learnt",
-      "Learn, Learned, Learned"
+      "Wood",
+      "Metal",
+      "Plastic",
+      "Chair"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "What XP points are awarded for high score in math?",
+    "correct": "100 XP points",
+    "options": [
+      "50 XP points",
+      "75 XP points",
+      "100 XP points",
+      "150 XP points"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Rewards",
     "complexity_score": 1
   },
   {
-    "question": "What does 'Melodic' mean?",
-    "correct": "Sweet-sounding",
+    "question": "What is the target score in the test to get extra challenge?",
+    "correct": "45 out of 50",
     "options": [
-      "Noisy",
-      "Sweet-sounding",
-      "Bright",
-      "Dull"
+      "40 out of 50",
+      "42 out of 50",
+      "45 out of 50",
+      "48 out of 50"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Test Scores",
     "complexity_score": 1
   },
   {
-    "question": "What does 'Vibrancy' mean?",
-    "correct": "Energy/Color/Life",
+    "question": "What is the XP points milestone being targeted?",
+    "correct": "5000 XP",
     "options": [
-      "Darkness",
-      "Energy/Color/Life",
-      "Quietness",
-      "Stillness"
+      "3000 XP",
+      "4000 XP",
+      "5000 XP",
+      "6000 XP"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
-  },
-  {
-    "question": "What does 'Muffled' mean?",
-    "correct": "Quiet and unclear",
-    "options": [
-      "Loud",
-      "Quiet and unclear",
-      "Clear",
-      "Sharp"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
-  },
-  {
-    "question": "What does 'Flourish' mean?",
-    "correct": "To grow well and be successful",
-    "options": [
-      "To decline or wither",
-      "To struggle",
-      "To grow well and be successful",
-      "To remain stagnant"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
-  },
-  {
-    "question": "What does 'Serenity' mean?",
-    "correct": "Peacefulness",
-    "options": [
-      "Loudness",
-      "Peacefulness",
-      "Excitement",
-      "Chaos"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 2
+    "topic": "XP Goals",
+    "complexity_score": 1
   }
 ]
