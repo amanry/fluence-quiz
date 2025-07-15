@@ -1,22 +1,282 @@
 [
   {
-    "question": "What is the chemical symbol for gold?",
-    "correct": "Au",
+    "question": "What is an object?",
+    "correct": "Anything that can be seen or touched",
     "options": [
-      "Ag",
-      "Au",
-      "Fe",
-      "Cu"
-    ]
+      "Anything that can be seen or touched",
+      "Only things made of wood",
+      "Invisible things",
+      "Only liquid materials"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
   },
   {
-    "question": "Which year did World War II end?",
-    "correct": "1945",
+    "question": "What is a material?",
+    "correct": "The matter of which an object is made",
     "options": [
-      "1943",
-      "1944",
-      "1945",
-      "1946"
-    ]
+      "The matter of which an object is made",
+      "Only metals",
+      "Only liquids",
+      "Only solid things"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these is an example of a material?",
+    "correct": "Wood",
+    "options": [
+      "Wood",
+      "Chair",
+      "Pencil box",
+      "Book"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the key difference between objects and materials?",
+    "correct": "Materials are used to make objects",
+    "options": [
+      "Materials are used to make objects",
+      "Objects are invisible",
+      "Materials cannot be touched",
+      "Objects are always liquid"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many questions need to be solved correctly to get 45 out of 50 in the test?",
+    "correct": "9 questions",
+    "options": [
+      "9 questions",
+      "8 questions",
+      "7 questions",
+      "10 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Assessment",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the format of test questions?",
+    "correct": "2 easy, 2 medium, 1 high",
+    "options": [
+      "2 easy, 2 medium, 1 high",
+      "All easy",
+      "All medium",
+      "3 easy, 2 hard"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Assessment",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many XP points are awarded for not speaking Hindi in class?",
+    "correct": "150",
+    "options": [
+      "150",
+      "500",
+      "100",
+      "200"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "XP Points",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the time limit for the math challenge?",
+    "correct": "15 minutes",
+    "options": [
+      "15 minutes",
+      "30 minutes",
+      "45 minutes",
+      "60 minutes"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Math Challenge",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many XP points can be earned for completing the test in 45 minutes?",
+    "correct": "250",
+    "options": [
+      "250",
+      "150",
+      "300",
+      "400"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "XP Points",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is made of glass according to the text?",
+    "correct": "Windows",
+    "options": [
+      "Windows",
+      "Books",
+      "Pencils",
+      "Tables"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which science textbook was mentioned in the discussion?",
+    "correct": "Exploring Science",
+    "options": [
+      "Exploring Science",
+      "Basic Science",
+      "Science Today",
+      "Modern Science"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Study Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "What happens if you solve math problems efficiently?",
+    "correct": "Earn extra XP points",
+    "options": [
+      "Earn extra XP points",
+      "Get less homework",
+      "Skip next class",
+      "No reward"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Rewards",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the milestone level mentioned?",
+    "correct": "Level 10",
+    "options": [
+      "Level 10",
+      "Level 5",
+      "Level 15",
+      "Level 20"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Achievements",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is deducted for checking messages during class?",
+    "correct": "50 XP points",
+    "options": [
+      "50 XP points",
+      "100 XP points",
+      "25 XP points",
+      "75 XP points"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Class Rules",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is an example of an object made from soil or mud?",
+    "correct": "Mud car vase",
+    "options": [
+      "Mud car vase",
+      "Plastic bottle",
+      "Glass window",
+      "Metal spoon"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many chapters were mentioned for social science?",
+    "correct": "Two or three",
+    "options": [
+      "Two or three",
+      "Four or five",
+      "One",
+      "Six"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Syllabus",
+    "complexity_score": 1
+  },
+  {
+    "question": "What score is needed to get maximum XP in the test?",
+    "correct": "45 out of 50",
+    "options": [
+      "45 out of 50",
+      "40 out of 50",
+      "35 out of 50",
+      "50 out of 50"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Assessment",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which quote was mentioned from Abraham Lincoln?",
+    "correct": "About spending 40 minutes sharpening an axe",
+    "options": [
+      "About spending 40 minutes sharpening an axe",
+      "About running a mile",
+      "About reading books",
+      "About building a house"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Quotes",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the XP target mentioned?",
+    "correct": "5000",
+    "options": [
+      "5000",
+      "3000",
+      "4000",
+      "6000"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Goals",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the duration of the test mentioned?",
+    "correct": "One hour",
+    "options": [
+      "One hour",
+      "Two hours",
+      "30 minutes",
+      "45 minutes"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Assessment",
+    "complexity_score": 1
   }
-] 
+]
