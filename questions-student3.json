@@ -1,262 +1,282 @@
 [
   {
-    "question": "What is the study duration allocated for Social Science preparation?",
-    "correct": "One week",
-    "options": [
-      "Two days",
-      "One week",
-      "Three days",
-      "Five days"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Study Planning"
-  },
-  {
-    "question": "How many points are awarded for achieving 45 out of 50 in the test?",
-    "correct": "200 points",
-    "options": [
-      "100 points",
-      "150 points",
-      "200 points",
-      "250 points"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Scoring System"
-  },
-  {
-    "question": "Which Social Science chapters are included in the exam?",
-    "correct": "Diversity and Locating Places",
-    "options": [
-      "History only",
-      "Geography only",
-      "Diversity and Locating Places",
-      "Civics only"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Syllabus"
-  },
-  {
-    "question": "How many questions need to be solved in 15 minutes to earn 100 XP?",
-    "correct": "More than 5 questions",
+    "question": "In the study session, how many questions needed to be solved in 15 minutes to earn 100 XP?",
+    "correct": "5 questions",
     "options": [
       "3 questions",
-      "4 questions",
-      "More than 5 questions",
-      "2 questions"
+      "5 questions",
+      "7 questions",
+      "10 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Class Activities",
+    "complexity_score": 1
+  },
+  {
+    "question": "What was the XP reward offered for getting 45 out of 50 in the test?",
+    "correct": "250 XP",
+    "options": [
+      "150 XP",
+      "200 XP",
+      "250 XP",
+      "300 XP"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Rewards System",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which Social Science chapters were mentioned as part of the exam syllabus?",
+    "correct": "Diversity and Locating Places",
+    "options": [
+      "History and Geography",
+      "Diversity and Locating Places",
+      "Civics and Economics",
+      "Maps and Culture"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math Challenge"
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "question": "What is the material used to make a pencil box mentioned in the text?",
-    "correct": "Plastic",
-    "options": [
-      "Wood",
-      "Metal",
-      "Plastic",
-      "Glass"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Materials"
-  },
-  {
-    "question": "How many XP points are deducted for using the laptop inappropriately during class?",
-    "correct": "50 XP points",
-    "options": [
-      "25 XP points",
-      "50 XP points",
-      "75 XP points",
-      "100 XP points"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Class Rules"
-  },
-  {
-    "question": "Which Science textbook is mentioned in the discussion?",
+    "question": "What science textbook was mentioned being used in class?",
     "correct": "Exploring Science",
     "options": [
       "Basic Science",
       "Exploring Science",
       "Science Today",
-      "Modern Science"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Study Materials"
-  },
-  {
-    "question": "What is the time limit given for the math test?",
-    "correct": "One hour",
-    "options": [
-      "30 minutes",
-      "45 minutes",
-      "One hour",
-      "Two hours"
+      "Science World"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Format"
+    "topic": "Science",
+    "complexity_score": 1
   },
   {
-    "question": "Which materials are mentioned as examples in the science chapter?",
-    "correct": "Wood, metal, fiber, leather, plastic, rubber",
+    "question": "According to the science lesson, what is the definition of a material?",
+    "correct": "The matter of which an object is made",
     "options": [
-      "Only metals",
-      "Only wood and plastic",
-      "Wood, metal, fiber, leather, plastic, rubber",
-      "Glass and metal only"
+      "Anything that can be seen",
+      "The matter of which an object is made",
+      "Things that can be touched",
+      "Natural substances"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Materials"
+    "topic": "Science Concepts",
+    "complexity_score": 2
   },
   {
-    "question": "What is the target XP score mentioned for reaching a milestone?",
-    "correct": "5000 XP",
+    "question": "Which materials were specifically mentioned as examples in the science lesson?",
+    "correct": "Wood, metal, fiber, leather, plastic and rubber",
     "options": [
-      "1000 XP",
-      "2000 XP",
-      "3000 XP",
-      "5000 XP"
+      "Only wood and metal",
+      "Only plastic and glass",
+      "Wood, metal, fiber, leather, plastic and rubber",
+      "Glass, paper and cloth"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "XP System"
+    "topic": "Materials",
+    "complexity_score": 2
   },
   {
-    "question": "How many questions are included in the test worth 5 points each?",
-    "correct": "10 questions",
-    "options": [
-      "5 questions",
-      "8 questions",
-      "10 questions",
-      "12 questions"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure"
-  },
-  {
-    "question": "What is the format for math questions in the test?",
-    "correct": "2 easy, 2 medium, 1 high",
-    "options": [
-      "All easy",
-      "2 easy, 2 medium, 1 high",
-      "All medium",
-      "1 easy, 3 medium, 1 high"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Test Format"
-  },
-  {
-    "question": "Which Science chapter about materials is mentioned?",
-    "correct": "Kinds of Materials",
-    "options": [
-      "Properties of Matter",
-      "Kinds of Materials",
-      "Material Science",
-      "Material Properties"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science Syllabus"
-  },
-  {
-    "question": "What is the reward for not speaking Hindi in class?",
-    "correct": "150 XP points",
-    "options": [
-      "100 XP points",
-      "150 XP points",
-      "200 XP points",
-      "500 XP points"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Rewards System"
-  },
-  {
-    "question": "What example is given for an object made of soil or mud?",
-    "correct": "Mud car vase",
-    "options": [
-      "Book",
-      "Pencil",
-      "Mud car vase",
-      "Table"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Materials"
-  },
-  {
-    "question": "How many minutes are given for the math challenge?",
+    "question": "What was the time limit given for the math challenge?",
     "correct": "15 minutes",
     "options": [
       "10 minutes",
       "15 minutes",
       "20 minutes",
-      "25 minutes"
+      "30 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math Challenge"
+    "topic": "Math Challenge",
+    "complexity_score": 1
   },
   {
-    "question": "What is the bonus XP for completing the test in 45 minutes?",
-    "correct": "150 points",
+    "question": "How many test questions were mentioned to be worth 5 points each?",
+    "correct": "10 questions",
     "options": [
-      "100 points",
-      "150 points",
-      "200 points",
-      "250 points"
+      "5 questions",
+      "8 questions",
+      "10 questions",
+      "15 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "What milestone level was mentioned as having a special reward?",
+    "correct": "Level 10",
+    "options": [
+      "Level 5",
+      "Level 8",
+      "Level 9",
+      "Level 10"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Bonus Points"
+    "topic": "Rewards System",
+    "complexity_score": 2
   },
   {
-    "question": "Which books are mentioned for Math questions?",
-    "correct": "NCERT and Mathubas",
+    "question": "What XP penalty was mentioned for using phones during class?",
+    "correct": "50 XP deduction",
     "options": [
-      "Only NCERT",
-      "Only Mathubas",
-      "NCERT and Mathubas",
-      "Reference books"
+      "25 XP deduction",
+      "50 XP deduction",
+      "75 XP deduction",
+      "100 XP deduction"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Class Rules",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the science lesson, what example was given for objects made of soil or mud?",
+    "correct": "Mud vase",
+    "options": [
+      "Mud vase",
+      "Mud house",
+      "Mud pot",
+      "Mud sculpture"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Study Materials"
+    "topic": "Science Examples",
+    "complexity_score": 2
   },
   {
-    "question": "What is the current XP level mentioned in the discussion?",
-    "correct": "Close to 1100 points",
+    "question": "What was the format mentioned for the upcoming math test?",
+    "correct": "2 easy, 2 medium, 1 hard question",
     "options": [
-      "500 points",
-      "800 points",
-      "Close to 1100 points",
-      "1500 points"
+      "All easy questions",
+      "2 easy, 2 medium, 1 hard question",
+      "All medium questions",
+      "3 easy, 2 hard questions"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Test Format",
+    "complexity_score": 2
+  },
+  {
+    "question": "What score was needed in the test to get additional challenge time?",
+    "correct": "45 out of 50",
+    "options": [
+      "40 out of 50",
+      "42 out of 50",
+      "45 out of 50",
+      "48 out of 50"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Test Requirements",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was the reward mentioned for not speaking Hindi in class?",
+    "correct": "500 XP",
+    "options": [
+      "100 XP",
+      "300 XP",
+      "500 XP",
+      "1000 XP"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Progress Tracking"
+    "topic": "Class Rules",
+    "complexity_score": 1
   },
   {
-    "question": "What material is mentioned for making tables?",
-    "correct": "Wood",
+    "question": "Which quote by Abraham Lincoln was mentioned during the math lesson?",
+    "correct": "Spending 40 minutes sharpening the axe to cut a tree in one hour",
     "options": [
-      "Metal",
-      "Plastic",
-      "Glass",
-      "Wood"
+      "Practice makes perfect",
+      "Spending 40 minutes sharpening the axe to cut a tree in one hour",
+      "Never give up",
+      "Education is the key"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Class Discussion",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was the target XP mentioned to reach in 7-8 days?",
+    "correct": "5000 XP",
+    "options": [
+      "3000 XP",
+      "4000 XP",
+      "5000 XP",
+      "6000 XP"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Materials"
+    "topic": "XP Goals",
+    "complexity_score": 1
+  },
+  {
+    "question": "What science concept was being introduced in the lesson?",
+    "correct": "Classification of materials",
+    "options": [
+      "Energy",
+      "Forces",
+      "Classification of materials",
+      "Chemical reactions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science Concepts",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many days were mentioned for studying Social Science?",
+    "correct": "Thursday, Friday, and Monday",
+    "options": [
+      "Monday and Tuesday",
+      "Wednesday and Thursday",
+      "Thursday, Friday, and Monday",
+      "All weekdays"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Study Schedule",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was the maximum possible XP earnings mentioned for one day?",
+    "correct": "400 XP",
+    "options": [
+      "200 XP",
+      "300 XP",
+      "400 XP",
+      "500 XP"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "XP System",
+    "complexity_score": 2
+  },
+  {
+    "question": "What test format was mentioned for Science?",
+    "correct": "Questions only from the textbook",
+    "options": [
+      "Multiple choice only",
+      "Questions only from the textbook",
+      "Mixed format",
+      "Practical test"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Format",
+    "complexity_score": 1
   }
 ]
