@@ -1,262 +1,282 @@
 [
   {
-    "question": "What is the 4th triangular number?",
-    "correct": "10",
+    "question": "According to the notes, how does the celebration of festivals like Makar Sankranti exemplify Indian cultural unity?",
+    "correct": "It's celebrated across the country under different names but with a shared significance.",
     "options": [
-      "6",
-      "10",
-      "15",
-      "21"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Sequences"
-  },
-  {
-    "question": "What is the 6th triangular number?",
-    "correct": "21",
-    "options": [
-      "15",
-      "18",
-      "21",
-      "24"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Sequences"
-  },
-  {
-    "question": "What is the sum of counting numbers from 1 to 7 and back to 1?",
-    "correct": "49",
-    "options": [
-      "36",
-      "42",
-      "49",
-      "64"
+      "It is a festival mandated by the government for all citizens.",
+      "It is celebrated in the exact same way in every state.",
+      "It's celebrated across the country under different names but with a shared significance.",
+      "It is a festival that was imported from another country."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Number Patterns"
+    "topic": "Indian Culture & Festivals",
+    "complexity_score": 3
   },
   {
-    "question": "What is the sum of counting numbers from 1 to 8 and back to 1?",
-    "correct": "64",
+    "question": "The notes explain that the Sari reflects both unity and diversity. What aspect of the Sari demonstrates UNITY?",
+    "correct": "It is a traditional garment worn by women across India.",
     "options": [
-      "49",
-      "56",
-      "64",
-      "81"
+      "The different fabrics used in different regions.",
+      "The varied ways it is draped.",
+      "It is a traditional garment worn by women across India.",
+      "The different colors it comes in."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Indian Culture",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which specific tribal communities are mentioned in the notes as having their own versions of the Ramayana and Mahabharata?",
+    "correct": "Bhils and Mundas",
+    "options": [
+      "Gonds and Santhals",
+      "Khasis and Garos",
+      "Bhils and Mundas",
+      "Todas and Warlis"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Indian Society & Literature",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the common underlying thread that connects the different regional celebrations of Makar Sankranti?",
+    "correct": "It marks the harvest season.",
+    "options": [
+      "It marks a specific political event.",
+      "It marks the harvest season.",
+      "It is a celebration of a single deity.",
+      "It is based on the lunar calendar only."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Number Patterns"
+    "topic": "Indian Culture & Festivals",
+    "complexity_score": 3
   },
   {
-    "question": "What is the sum of counting numbers from 1 to 100 and back to 1?",
-    "correct": "10000",
+    "question": "Which two ancient Sanskrit poems are cited as stories of heroes re-establishing Dharma?",
+    "correct": "The Ramayana and the Mahabharata",
     "options": [
-      "5000",
-      "8000",
-      "10000",
-      "12000"
+      "The Vedas and the Upanishads",
+      "The Ramayana and the Mahabharata",
+      "The Puranas and the Shastras",
+      "The Arthashastra and the Manusmriti"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Indian Literature",
+    "complexity_score": 2
+  },
+  {
+    "question": "The notes list Rice, Barley, and Wheat as examples of what?",
+    "correct": "Staple grains common in almost every part of India.",
+    "options": [
+      "Crops grown only in North India.",
+      "Grains used exclusively for export.",
+      "Staple grains common in almost every part of India.",
+      "Recently introduced foreign crops."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Indian Cuisine & Agriculture",
+    "complexity_score": 1
+  },
+  {
+    "question": "How does the Sari demonstrate DIVERSITY in Indian culture?",
+    "correct": "Through its different draping styles and fabrics across regions.",
+    "options": [
+      "By being an unstitched piece of cloth.",
+      "By being worn by all women.",
+      "Through its different draping styles and fabrics across regions.",
+      "Because it is a single, uniform garment."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Indian Culture",
+    "complexity_score": 2
+  },
+  {
+    "question": "The term 'Unity in Diversity,' as explained in the notes, means that people are united despite having different...",
+    "correct": "Languages, faiths, clothing, and food habits.",
+    "options": [
+      "National holidays.",
+      "Political leaders.",
+      "Languages, faiths, clothing, and food habits.",
+      "Currency and passports."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Indian Society",
+    "complexity_score": 3
+  },
+  {
+    "question": "What fundamental characteristic of the Sari is mentioned in the description?",
+    "correct": "It is a long, unstitched piece of cloth.",
+    "options": [
+      "It must be red in color.",
+      "It is always made of silk.",
+      "It is a long, unstitched piece of cloth.",
+      "It is a modern, stitched garment."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Indian Culture",
+    "complexity_score": 3
+  },
+  {
+    "question": "According to the notes, what ingrained cultural value allows for unity despite diversity?",
+    "correct": "Tolerance for different beliefs and customs.",
+    "options": [
+      "A single national language.",
+      "Strict government regulations.",
+      "Geographical isolation.",
+      "Tolerance for different beliefs and customs."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Indian Society & Values",
+    "complexity_score": 4
+  },
+  {
+    "question": "The existence of tribal versions of the Ramayana shows the epic's...",
+    "correct": "Widespread influence and adaptation into local cultures.",
+    "options": [
+      "Lack of importance in mainstream society.",
+      "Recent creation by tribal communities.",
+      "Widespread influence and adaptation into local cultures.",
+      "Strict, unchanged narrative across all groups."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Patterns"
+    "topic": "Indian Literature & Society",
+    "complexity_score": 5
   },
   {
-    "question": "If counting numbers are added up and down, what will the sum always be?",
-    "correct": "Square of the largest number",
+    "question": "The notes state that India's unity is 'not such which is imposed from outside'. What does this imply?",
+    "correct": "That the unity is deep and comes from within the culture.",
     "options": [
-      "Double the largest number",
-      "Square of the largest number",
-      "Cube of the largest number",
-      "Half of the largest number"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns"
-  },
-  {
-    "question": "What is the formula for the sum of up and down counting numbers sequence?",
-    "correct": "n²",
-    "options": [
-      "2n",
-      "n²",
-      "n³",
-      "n/2"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns"
-  },
-  {
-    "question": "What type of numbers are 1, 4, 9, 16, 25?",
-    "correct": "Square numbers",
-    "options": [
-      "Prime numbers",
-      "Square numbers",
-      "Triangular numbers",
-      "Even numbers"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Types"
-  },
-  {
-    "question": "What is the pattern in triangular numbers starting from 1?",
-    "correct": "1, 3, 6, 10",
-    "options": [
-      "1, 2, 3, 4",
-      "1, 3, 6, 10",
-      "1, 4, 9, 16",
-      "1, 3, 5, 7"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Sequences"
-  },
-  {
-    "question": "How do you find the sum of even numbers from 2 to 100?",
-    "correct": "Count the numbers and multiply by the next number",
-    "options": [
-      "Add them all",
-      "Multiply by 2",
-      "Count the numbers and multiply by the next number",
-      "Divide by 2"
+      "That unity is a new concept in India.",
+      "That unity is fragile and can be easily broken.",
+      "That the unity is deep and comes from within the culture.",
+      "That India has never been invaded."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Even Numbers"
+    "topic": "Indian Society & Philosophy",
+    "complexity_score": 4
   },
   {
-    "question": "What is the sum of even numbers from 2 to 12?",
-    "correct": "42",
+    "question": "What is the central theme of the Ramayana and Mahabharata, as described in the notes?",
+    "correct": "Stories of heroes re-establishing Dharma.",
     "options": [
-      "30",
-      "36",
-      "42",
-      "48"
+      "Manuals for building temples.",
+      "Stories of heroes re-establishing Dharma.",
+      "Guides to agricultural practices.",
+      "A collection of lyrical love poems."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Even Numbers"
+    "topic": "Indian Literature & Philosophy",
+    "complexity_score": 3
   },
   {
-    "question": "What is the sum of the first three even numbers?",
-    "correct": "12",
+    "question": "The celebration of national days with 'equal zeal' is given as an example of what?",
+    "correct": "Unity despite diversity.",
     "options": [
-      "6",
-      "8",
-      "10",
-      "12"
+      "Regional diversity.",
+      "Religious tolerance.",
+      "Unity despite diversity.",
+      "The importance of the harvest season."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Even Numbers"
+    "topic": "Indian Society",
+    "complexity_score": 2
   },
   {
-    "question": "What is the most efficient way to find number patterns?",
-    "correct": "Look for mathematical relationships",
+    "question": "Which of the following is NOT listed as an element of diversity in the definition of 'Unity in Diversity'?",
+    "correct": "Different forms of government.",
     "options": [
-      "Random guessing",
-      "Adding all numbers",
-      "Look for mathematical relationships",
-      "Counting one by one"
+      "Different faiths.",
+      "Different languages.",
+      "Different forms of government.",
+      "Different ways of dressing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Problem Solving"
+    "topic": "Indian Society",
+    "complexity_score": 3
   },
   {
-    "question": "What is the difference between efficient and sincere in mathematics?",
-    "correct": "Efficient means using less time and energy",
+    "question": "The fact that the Sari is 'unstitched' is significant because it allows for...",
+    "correct": "A wide variety of draping styles unique to different regions.",
     "options": [
-      "They mean the same thing",
-      "Efficient means using less time and energy",
-      "Sincere means being correct",
-      "Efficient means being accurate"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematical Concepts"
-  },
-  {
-    "question": "How many numbers are there from 2 to 100 in even numbers?",
-    "correct": "50",
-    "options": [
-      "49",
-      "50",
-      "51",
-      "52"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Even Numbers"
-  },
-  {
-    "question": "What is the sum of the sequence 1,2,3,2,1?",
-    "correct": "9",
-    "options": [
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Sequences"
-  },
-  {
-    "question": "What is the next number in the sequence 4,9,16,25?",
-    "correct": "36",
-    "options": [
-      "30",
-      "34",
-      "36",
-      "40"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Sequences"
-  },
-  {
-    "question": "What is the rule for finding square numbers?",
-    "correct": "Multiply a number by itself",
-    "options": [
-      "Add two consecutive numbers",
-      "Multiply a number by itself",
-      "Add three numbers",
-      "Double the number"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Square Numbers"
-  },
-  {
-    "question": "What is the sum of numbers from 1 to 99 and back to 1?",
-    "correct": "9801",
-    "options": [
-      "9801",
-      "9901",
-      "9701",
-      "9601"
+      "Mass production in factories.",
+      "It to be worn by men as well as women.",
+      "A wide variety of draping styles unique to different regions.",
+      "It to be a single, standardized garment."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Patterns"
+    "topic": "Indian Culture",
+    "complexity_score": 4
   },
   {
-    "question": "What makes a formula efficient?",
-    "correct": "It saves time and energy in calculation",
+    "question": "What connects the mention of the Ramayana in two separate parts of the notes (as a Sanskrit poem and as a tribal narrative)?",
+    "correct": "It shows the epic's deep penetration across different strata of Indian society.",
     "options": [
-      "It is long and detailed",
-      "It uses complex numbers",
-      "It saves time and energy in calculation",
-      "It requires many steps"
+      "It implies the tribal version is the only correct one.",
+      "It suggests the Sanskrit version is not well-known.",
+      "It shows the epic's deep penetration across different strata of Indian society.",
+      "It indicates they are two completely unrelated stories with the same name."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Indian Literature & Society",
+    "complexity_score": 5
+  },
+  {
+    "question": "The commonality of Rice, Barley, and Wheat across India points to a shared...",
+    "correct": "Agricultural foundation and dietary habits.",
+    "options": [
+      "Religious belief.",
+      "Political system.",
+      "Agricultural foundation and dietary habits.",
+      "Fashion sense."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts"
+    "topic": "Indian Cuisine & Agriculture",
+    "complexity_score": 3
+  },
+  {
+    "question": "The 'shared timings and underlying significance' of festivals like Makar Sankranti highlight what aspect of unity?",
+    "correct": "A common thread that connects diverse customs.",
+    "options": [
+      "A common thread that connects diverse customs.",
+      "A strict enforcement of festival dates.",
+      "The isolation of different cultural groups.",
+      "A lack of diversity in celebrations."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Indian Culture & Festivals",
+    "complexity_score": 4
+  },
+  {
+    "question": "The overall theme of the provided notes is best described as:",
+    "correct": "How India maintains unity through the celebration and tolerance of its vast diversity.",
+    "options": [
+      "A list of staple grains in ancient India.",
+      "An analysis of the Ramayana's literary style.",
+      "How India maintains unity through the celebration and tolerance of its vast diversity.",
+      "A guide to different draping styles of the Sari."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Indian Society",
+    "complexity_score": 3
   }
 ]
