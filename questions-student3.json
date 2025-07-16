@@ -1,124 +1,138 @@
 [
   {
-    "question": "What is the total duration of the main combined test for Mathematics and Social Science?",
-    "correct": "45 minutes",
+    "question": "According to the lesson, what is a way to generate square numbers?",
+    "correct": "By adding a series of odd numbers",
     "options": [
-      "15 minutes",
-      "30 minutes",
-      "45 minutes",
-      "60 minutes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many questions are there in the main combined test?",
-    "correct": "10 questions",
-    "options": [
-      "5 questions",
-      "10 questions",
-      "15 questions",
-      "20 questions"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the condition to unlock the 'challenge' round?",
-    "correct": "Complete all 10 questions of the main test in under 45 minutes",
-    "options": [
-      "Score 50 out of 50",
-      "Complete all 10 questions of the main test in under 45 minutes",
-      "Answer only the math questions correctly",
-      "Finish the test in exactly 15 minutes"
+      "By adding a series of even numbers",
+      "By multiplying a number by 2",
+      "By adding a series of odd numbers",
+      "By subtracting consecutive numbers"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Test Structure",
+    "topic": "Mathematics: Number Patterns",
     "complexity_score": 2
   },
   {
-    "question": "How many XP points can be earned by successfully completing the main test with a score of 45/50?",
-    "correct": "200 XP points",
+    "question": "What is the primary concept discussed in the social science portion regarding India?",
+    "correct": "Unity in Diversity",
     "options": [
-      "50 XP points",
-      "100 XP points",
-      "150 XP points",
-      "200 XP points"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Test Scoring",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the time limit for the challenge round?",
-    "correct": "15 minutes",
-    "options": [
-      "45 minutes",
-      "30 minutes",
-      "25 minutes",
-      "15 minutes"
+      "Economic Development",
+      "Political History",
+      "Unity in Diversity",
+      "Geographical Features"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Structure",
+    "topic": "Social Science: Indian Culture",
     "complexity_score": 1
   },
   {
-    "question": "According to the discussion, which type of sequence should result in the square number 25?",
-    "correct": "An up and down sequence",
+    "question": "Which addition pattern, known as an 'up and down sequence', results in the square number 25?",
+    "correct": "1+2+3+4+5+4+3+2+1",
     "options": [
-      "An odd number sequence",
-      "An even number sequence",
-      "An up and down sequence",
-      "A simple counting number sequence"
+      "1+3+5+7+9",
+      "5+5+5+5+5",
+      "1+2+3+4+5+4+3+2+1",
+      "10+5+10"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Mathematics: Number Sequences",
-    "complexity_score": 4
+    "complexity_score": 3
   },
   {
-    "question": "The instructor mentions a method for generating square numbers. What is it?",
-    "correct": "Multiplying the position in the series by itself",
+    "question": "Which two epics were mentioned as having a significant cultural influence across all of India?",
+    "correct": "Ramayana and Mahabharata",
     "options": [
-      "Adding consecutive odd numbers",
-      "Multiplying the position in the series by itself",
-      "Adding the series of numbers to themselves",
-      "Finding the root of the number"
+      "The Iliad and The Odyssey",
+      "Ramayana and Mahabharata",
+      "The Epic of Gilgamesh and Beowulf",
+      "Silappatikaram and Manimekalai"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Epics",
+    "complexity_score": 1
+  },
+  {
+    "question": "How is a new shape in the sequence of square numbers formed, according to the discussion?",
+    "correct": "By multiplying the position in the counting number series by itself",
+    "options": [
+      "By adding a fixed number of blocks each time",
+      "By doubling the previous shape",
+      "By multiplying the position in the counting number series by itself",
+      "By adding the position number to the previous shape's total"
     ],
     "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the 'People of India Project' by K.S. Singh, how many versions of the Mahabharata were found in Tamil Nadu alone?",
+    "correct": "100",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Culture",
+    "complexity_score": 3
+  },
+  {
+    "question": "If you are asked to find the 9th number in the sequence of square numbers, what would it be?",
+    "correct": "81",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "81"
+    ],
+    "difficulty": "easy",
     "questionType": "mcq",
     "topic": "Mathematics: Square Numbers",
-    "complexity_score": 3
+    "complexity_score": 1
   },
   {
-    "question": "For the first math question, what two things were required besides writing the sequence of numbers?",
-    "correct": "The sum and a pictorial presentation",
+    "question": "What is a common belief found across India about the Pandavas and legends from the Ramayana?",
+    "correct": "That they visited every part of India",
     "options": [
-      "The rule and the next number",
-      "The sum and a pictorial presentation",
-      "The average and the median",
-      "An explanation and an example"
+      "That they only lived in the North",
+      "That their stories are only for children",
+      "That they visited every part of India",
+      "That their stories are fictional myths with no basis"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics: Problem Solving",
-    "complexity_score": 3
+    "topic": "Social Science: Indian Epics",
+    "complexity_score": 2
   },
   {
-    "question": "In the context of the Social Science question, what concept was to be explained using a case study?",
-    "correct": "Unity in diversity in India",
+    "question": "What kind of representation was required for the first math question, besides writing the sequence and sum?",
+    "correct": "A pictorial presentation",
     "options": [
-      "The geography of India",
-      "The political system of India",
-      "The economy of different states",
-      "Unity in diversity in India"
+      "An audio explanation",
+      "A written essay",
+      "A pictorial presentation",
+      "A physical model"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Mathematics: Problem Solving",
+    "complexity_score": 1
+  },
+  {
+    "question": "The adaptation of epics by different groups, including tribal communities, creates a 'dense web of...' what?",
+    "correct": "Cultural interactions",
+    "options": [
+      "Economic trade",
+      "Political alliances",
+      "Cultural interactions",
+      "Linguistic barriers"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -126,157 +140,143 @@
     "complexity_score": 2
   },
   {
-    "question": "What key element was missing from the student's answer about Indian diversity, for which they might only get 2.5/5 marks?",
-    "correct": "Specific examples from different regions",
+    "question": "The question 'Explain the pattern of how each new shape in the sequence is formed' is asking for the...",
+    "correct": "Rule of the pattern",
     "options": [
-      "A proper heading",
-      "A conclusion",
-      "Specific examples from different regions",
-      "Mentioning the European Union"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Social Science: Answer Quality",
-    "complexity_score": 4
-  },
-  {
-    "question": "According to the 'People of India Project' by K.S. Singh, how many versions of the Mahabharata did he find in Tamil Nadu?",
-    "correct": "100 versions",
-    "options": [
-      "10 versions",
-      "50 versions",
-      "100 versions",
-      "1000 versions"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Social Science: Indian Epics",
-    "complexity_score": 4
-  },
-  {
-    "question": "What is a common belief found all over India regarding the Pandavas and legends from the Ramayana?",
-    "correct": "That they visited almost every local place in India",
-    "options": [
-      "That they only lived in the North",
-      "That they were just fictional characters",
-      "That they visited almost every local place in India",
-      "That their stories are only read in temples"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science: Indian Epics",
-    "complexity_score": 3
-  },
-  {
-    "question": "How have the great epics like Ramayana and Mahabharata been adapted in India?",
-    "correct": "Different communities, including tribal ones, have created their own versions",
-    "options": [
-      "They are only told in one standard version",
-      "They have been translated but not adapted",
-      "Different communities, including tribal ones, have created their own versions",
-      "They are no longer relevant in modern India"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science: Cultural Adaptation",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the total number of questions in the 'challenge' round?",
-    "correct": "15 questions",
-    "options": [
-      "5 questions",
-      "10 questions",
-      "15 questions",
-      "20 questions"
+      "Final number in the sequence",
+      "Sum of the sequence",
+      "Color of the shapes",
+      "Rule of the pattern"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Structure",
+    "topic": "Mathematics: Number Patterns",
     "complexity_score": 1
   },
   {
-    "question": "How many points can be earned by successfully completing the challenge round?",
-    "correct": "150 points",
+    "question": "What was the instructor's critique of an answer about Indian diversity?",
+    "correct": "It lacked specific examples from different regions",
     "options": [
-      "50 points",
-      "100 points",
-      "150 points",
-      "200 points"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Test Scoring",
-    "complexity_score": 2
-  },
-  {
-    "question": "The instructor pointed out an error in the student's first answer. What was the error?",
-    "correct": "Only the sum was represented, not the numbers in the sequence",
-    "options": [
-      "The pictorial presentation was wrong",
-      "The calculation of the sum was incorrect",
-      "Only the sum was represented, not the numbers in the sequence",
-      "The handwriting was not neat"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Mathematics: Problem Solving",
-    "complexity_score": 4
-  },
-  {
-    "question": "What was the student's incorrect initial thought about how a new shape in a sequence is formed?",
-    "correct": "By adding or multiplying a series of numbers by themselves",
-    "options": [
-      "By rotating the previous shape",
-      "By adding a fixed number of squares",
-      "By mirroring the shape on an axis",
-      "By adding or multiplying a series of numbers by themselves"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Mathematics: Pattern Recognition",
-    "complexity_score": 4
-  },
-  {
-    "question": "What does the instructor say is the best way to prepare for the Social Science exam?",
-    "correct": "To read the chapter itself from the book",
-    "options": [
-      "To only answer questions from the notebook",
-      "To watch videos about the topic",
-      "To read the chapter itself from the book",
-      "To discuss with friends"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Study Skills",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many marks is each question in the main test worth?",
-    "correct": "5 marks",
-    "options": [
-      "1 mark",
-      "2 marks",
-      "5 marks",
-      "10 marks"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Scoring",
-    "complexity_score": 1
-  },
-  {
-    "question": "What defines a 'quality' answer in Social Science, according to the instructor?",
-    "correct": "It explains what was asked, gives examples, and feels complete",
-    "options": [
-      "It is very long",
-      "It uses difficult words",
-      "It is written very quickly",
-      "It explains what was asked, gives examples, and feels complete"
+      "It was too long",
+      "It used the wrong epic as an example",
+      "It lacked specific examples from different regions",
+      "It was written in the wrong language"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Social Science: Answer Quality",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which counting number, when multiplied by itself, results in the square number 49?",
+    "correct": "7",
+    "options": [
+      "4",
+      "9",
+      "7",
+      "6"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Mathematics: Square Numbers",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the instructor, what is the best way to prepare for the social science exam?",
+    "correct": "Read the chapter from the book",
+    "options": [
+      "Watch a movie about the topic",
+      "Only listen to the lecture",
+      "Ask a friend for notes",
+      "Read the chapter from the book"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science: Study Skills",
+    "complexity_score": 1
+  },
+  {
+    "question": "The sum 1+3+5+7 equals which square number?",
+    "correct": "16",
+    "options": [
+      "9",
+      "16",
+      "20",
+      "25"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "Who was mentioned as the head of the 'People of India Project'?",
+    "correct": "K.S. Singh",
+    "options": [
+      "Jawaharlal Nehru",
+      "C.V. Raman",
+      "K.S. Singh",
+      "Amartya Sen"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Culture",
     "complexity_score": 3
+  },
+  {
+    "question": "What does the phrase 'multiply the position in the series by itself' refer to?",
+    "correct": "Squaring the number's position (n^2)",
+    "options": [
+      "Doubling the number (2n)",
+      "Finding the factorial (n!)",
+      "Squaring the number's position (n^2)",
+      "Finding the sum of the series (Σn)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Terminology",
+    "complexity_score": 2
+  },
+  {
+    "question": "How is the influence of epics like the Mahabharata seen in everyday conversation in India?",
+    "correct": "People give examples from the stories",
+    "options": [
+      "People greet each other with quotes",
+      "People give examples from the stories",
+      "All laws are based on them",
+      "It is not seen in everyday conversation"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Epics",
+    "complexity_score": 1
+  },
+  {
+    "question": "An 'up and down sequence' like 1+2+1 is based on which type of numbers?",
+    "correct": "Counting numbers",
+    "options": [
+      "Prime numbers",
+      "Even numbers",
+      "Odd numbers",
+      "Counting numbers"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Number Sequences",
+    "complexity_score": 2
+  },
+  {
+    "question": "The discussion about different scripts and languages in India is an example of its...",
+    "correct": "Diversity",
+    "options": [
+      "Uniformity",
+      "History",
+      "Economy",
+      "Diversity"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Culture",
+    "complexity_score": 1
   }
 ]
