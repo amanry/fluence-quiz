@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the notes, how does the celebration of festivals like Makar Sankranti exemplify Indian cultural unity?",
-    "correct": "It's celebrated across the country under different names but with a shared significance.",
+    "question": "What is the total duration given for completing the 10 questions in the combined test?",
+    "correct": "45 minutes",
     "options": [
-      "It is a festival mandated by the government for all citizens.",
-      "It is celebrated in the exact same way in every state.",
-      "It's celebrated across the country under different names but with a shared significance.",
-      "It is a festival that was imported from another country."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Culture & Festivals",
-    "complexity_score": 3
-  },
-  {
-    "question": "The notes explain that the Sari reflects both unity and diversity. What aspect of the Sari demonstrates UNITY?",
-    "correct": "It is a traditional garment worn by women across India.",
-    "options": [
-      "The different fabrics used in different regions.",
-      "The varied ways it is draped.",
-      "It is a traditional garment worn by women across India.",
-      "The different colors it comes in."
+      "30 minutes",
+      "45 minutes",
+      "60 minutes",
+      "15 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which specific tribal communities are mentioned in the notes as having their own versions of the Ramayana and Mahabharata?",
-    "correct": "Bhils and Mundas",
-    "options": [
-      "Gonds and Santhals",
-      "Khasis and Garos",
-      "Bhils and Mundas",
-      "Todas and Warlis"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Indian Society & Literature",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the common underlying thread that connects the different regional celebrations of Makar Sankranti?",
-    "correct": "It marks the harvest season.",
-    "options": [
-      "It marks a specific political event.",
-      "It marks the harvest season.",
-      "It is a celebration of a single deity.",
-      "It is based on the lunar calendar only."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Culture & Festivals",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which two ancient Sanskrit poems are cited as stories of heroes re-establishing Dharma?",
-    "correct": "The Ramayana and the Mahabharata",
-    "options": [
-      "The Vedas and the Upanishads",
-      "The Ramayana and the Mahabharata",
-      "The Puranas and the Shastras",
-      "The Arthashastra and the Manusmriti"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Indian Literature",
-    "complexity_score": 2
-  },
-  {
-    "question": "The notes list Rice, Barley, and Wheat as examples of what?",
-    "correct": "Staple grains common in almost every part of India.",
-    "options": [
-      "Crops grown only in North India.",
-      "Grains used exclusively for export.",
-      "Staple grains common in almost every part of India.",
-      "Recently introduced foreign crops."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Indian Cuisine & Agriculture",
+    "topic": "Test Instructions",
     "complexity_score": 1
   },
   {
-    "question": "How does the Sari demonstrate DIVERSITY in Indian culture?",
-    "correct": "Through its different draping styles and fabrics across regions.",
+    "question": "How many XP points can be earned for scoring 45 out of 50 marks?",
+    "correct": "200 XP",
     "options": [
-      "By being an unstitched piece of cloth.",
-      "By being worn by all women.",
-      "Through its different draping styles and fabrics across regions.",
-      "Because it is a single, uniform garment."
+      "150 XP",
+      "200 XP",
+      "250 XP",
+      "100 XP"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 2
+    "topic": "Scoring",
+    "complexity_score": 1
   },
   {
-    "question": "The term 'Unity in Diversity,' as explained in the notes, means that people are united despite having different...",
-    "correct": "Languages, faiths, clothing, and food habits.",
+    "question": "What is the duration given for the challenge questions?",
+    "correct": "15 minutes",
     "options": [
-      "National holidays.",
-      "Political leaders.",
-      "Languages, faiths, clothing, and food habits.",
-      "Currency and passports."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Society",
-    "complexity_score": 3
-  },
-  {
-    "question": "What fundamental characteristic of the Sari is mentioned in the description?",
-    "correct": "It is a long, unstitched piece of cloth.",
-    "options": [
-      "It must be red in color.",
-      "It is always made of silk.",
-      "It is a long, unstitched piece of cloth.",
-      "It is a modern, stitched garment."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 3
-  },
-  {
-    "question": "According to the notes, what ingrained cultural value allows for unity despite diversity?",
-    "correct": "Tolerance for different beliefs and customs.",
-    "options": [
-      "A single national language.",
-      "Strict government regulations.",
-      "Geographical isolation.",
-      "Tolerance for different beliefs and customs."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Society & Values",
-    "complexity_score": 4
-  },
-  {
-    "question": "The existence of tribal versions of the Ramayana shows the epic's...",
-    "correct": "Widespread influence and adaptation into local cultures.",
-    "options": [
-      "Lack of importance in mainstream society.",
-      "Recent creation by tribal communities.",
-      "Widespread influence and adaptation into local cultures.",
-      "Strict, unchanged narrative across all groups."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Indian Literature & Society",
-    "complexity_score": 5
-  },
-  {
-    "question": "The notes state that India's unity is 'not such which is imposed from outside'. What does this imply?",
-    "correct": "That the unity is deep and comes from within the culture.",
-    "options": [
-      "That unity is a new concept in India.",
-      "That unity is fragile and can be easily broken.",
-      "That the unity is deep and comes from within the culture.",
-      "That India has never been invaded."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Indian Society & Philosophy",
-    "complexity_score": 4
-  },
-  {
-    "question": "What is the central theme of the Ramayana and Mahabharata, as described in the notes?",
-    "correct": "Stories of heroes re-establishing Dharma.",
-    "options": [
-      "Manuals for building temples.",
-      "Stories of heroes re-establishing Dharma.",
-      "Guides to agricultural practices.",
-      "A collection of lyrical love poems."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Literature & Philosophy",
-    "complexity_score": 3
-  },
-  {
-    "question": "The celebration of national days with 'equal zeal' is given as an example of what?",
-    "correct": "Unity despite diversity.",
-    "options": [
-      "Regional diversity.",
-      "Religious tolerance.",
-      "Unity despite diversity.",
-      "The importance of the harvest season."
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "25 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Indian Society",
+    "topic": "Challenge Rules",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many questions are there in the challenge section?",
+    "correct": "5 questions",
+    "options": [
+      "5 questions",
+      "10 questions",
+      "15 questions",
+      "20 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the total marks for the combined test?",
+    "correct": "50 marks",
+    "options": [
+      "25 marks",
+      "50 marks",
+      "75 marks",
+      "100 marks"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Marking Scheme",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many XP points can be earned from the challenge section?",
+    "correct": "150 points",
+    "options": [
+      "100 points",
+      "150 points",
+      "200 points",
+      "250 points"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Challenge Points",
+    "complexity_score": 1
+  },
+  {
+    "question": "What type of presentation is required in the first question?",
+    "correct": "Pictorial presentation",
+    "options": [
+      "Written presentation",
+      "Pictorial presentation",
+      "Verbal presentation",
+      "Numerical presentation"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Question Format",
     "complexity_score": 2
   },
   {
-    "question": "Which of the following is NOT listed as an element of diversity in the definition of 'Unity in Diversity'?",
-    "correct": "Different forms of government.",
+    "question": "Which sequence is mentioned to be used for the square number pattern?",
+    "correct": "Odd number sequence",
     "options": [
-      "Different faiths.",
-      "Different languages.",
-      "Different forms of government.",
-      "Different ways of dressing."
+      "Even number sequence",
+      "Odd number sequence",
+      "Prime number sequence",
+      "Composite number sequence"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Indian Society",
-    "complexity_score": 3
+    "topic": "Mathematics",
+    "complexity_score": 2
   },
   {
-    "question": "The fact that the Sari is 'unstitched' is significant because it allows for...",
-    "correct": "A wide variety of draping styles unique to different regions.",
+    "question": "What square number is mentioned in the addition pattern question?",
+    "correct": "25",
     "options": [
-      "Mass production in factories.",
-      "It to be worn by men as well as women.",
-      "A wide variety of draping styles unique to different regions.",
-      "It to be a single, standardized garment."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 4
-  },
-  {
-    "question": "What connects the mention of the Ramayana in two separate parts of the notes (as a Sanskrit poem and as a tribal narrative)?",
-    "correct": "It shows the epic's deep penetration across different strata of Indian society.",
-    "options": [
-      "It implies the tribal version is the only correct one.",
-      "It suggests the Sanskrit version is not well-known.",
-      "It shows the epic's deep penetration across different strata of Indian society.",
-      "It indicates they are two completely unrelated stories with the same name."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Indian Literature & Society",
-    "complexity_score": 5
-  },
-  {
-    "question": "The commonality of Rice, Barley, and Wheat across India points to a shared...",
-    "correct": "Agricultural foundation and dietary habits.",
-    "options": [
-      "Religious belief.",
-      "Political system.",
-      "Agricultural foundation and dietary habits.",
-      "Fashion sense."
+      "16",
+      "25",
+      "36",
+      "49"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Indian Cuisine & Agriculture",
-    "complexity_score": 3
+    "topic": "Mathematics",
+    "complexity_score": 2
   },
   {
-    "question": "The 'shared timings and underlying significance' of festivals like Makar Sankranti highlight what aspect of unity?",
-    "correct": "A common thread that connects diverse customs.",
+    "question": "According to the transcription, how many versions of Mahabharta were found in Tamil Nadu?",
+    "correct": "100 versions",
     "options": [
-      "A common thread that connects diverse customs.",
-      "A strict enforcement of festival dates.",
-      "The isolation of different cultural groups.",
-      "A lack of diversity in celebrations."
+      "50 versions",
+      "75 versions",
+      "100 versions",
+      "125 versions"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Indian Culture & Festivals",
-    "complexity_score": 4
+    "topic": "Social Science",
+    "complexity_score": 2
   },
   {
-    "question": "The overall theme of the provided notes is best described as:",
-    "correct": "How India maintains unity through the celebration and tolerance of its vast diversity.",
+    "question": "What marks will be awarded for answers without examples?",
+    "correct": "2.5 out of 5",
     "options": [
-      "A list of staple grains in ancient India.",
-      "An analysis of the Ramayana's literary style.",
-      "How India maintains unity through the celebration and tolerance of its vast diversity.",
-      "A guide to different draping styles of the Sari."
+      "1 out of 5",
+      "2.5 out of 5",
+      "3 out of 5",
+      "4 out of 5"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Indian Society",
-    "complexity_score": 3
+    "topic": "Marking Criteria",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many questions are there from each subject in the combined test?",
+    "correct": "5 questions",
+    "options": [
+      "3 questions",
+      "4 questions",
+      "5 questions",
+      "6 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is mentioned about the Pandavas and Ramayana legends in the survey?",
+    "correct": "Every place claims they visited",
+    "options": [
+      "They never existed",
+      "Every place claims they visited",
+      "Only found in North India",
+      "Only in holy cities"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the time allocation per question in the challenge section?",
+    "correct": "6 minutes",
+    "options": [
+      "3 minutes",
+      "4 minutes",
+      "5 minutes",
+      "6 minutes"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Time Management",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the passing requirement for maximum XP points?",
+    "correct": "45 out of 50",
+    "options": [
+      "40 out of 50",
+      "42 out of 50",
+      "45 out of 50",
+      "48 out of 50"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Scoring Criteria",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many R's are mentioned in the test rules?",
+    "correct": "One R",
+    "options": [
+      "No R",
+      "One R",
+      "Two R's",
+      "Three R's"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Rules",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the marks per question in the combined test?",
+    "correct": "5 marks",
+    "options": [
+      "2 marks",
+      "3 marks",
+      "4 marks",
+      "5 marks"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Marking Scheme",
+    "complexity_score": 1
+  },
+  {
+    "question": "What aspect of cultural interaction is mentioned regarding Ramayana and Mahabharta?",
+    "correct": "Dance web of cultural interactions",
+    "options": [
+      "Religious interactions",
+      "Dance web of cultural interactions",
+      "Political interactions",
+      "Social interactions"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "Who conducted the survey about versions of Mahabharta?",
+    "correct": "People of India project",
+    "options": [
+      "Government survey",
+      "People of India project",
+      "University researchers",
+      "Historical society"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is mentioned as the best way to prepare for the exam?",
+    "correct": "Reading the chapter from the book",
+    "options": [
+      "Taking notes",
+      "Reading the chapter from the book",
+      "Solving problems",
+      "Group study"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Study Tips",
+    "complexity_score": 1
   }
 ]
