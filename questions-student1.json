@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the meaning of 'Shabby' as described in the context of the room?",
-    "correct": "Worn or run-down; untidy",
+    "question": "Translate the following Hindi sentence into English: 'वह रोज़ाना स्कूल जाता है।'",
+    "correct": "He goes to school daily.",
     "options": [
-      "New and luxurious",
-      "Worn or run-down; untidy",
-      "Bright and colorful",
-      "Very large"
+      "He is going to school daily.",
+      "He goes to school daily.",
+      "He went to school daily.",
+      "He will go to school daily."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Hindi to English Translation (Tenses)",
     "complexity_score": 1
   },
   {
-    "question": "What does 'Genteel poverty' imply about the scene?",
-    "correct": "Having little money but maintaining high social understanding/status",
+    "question": "Translate the following Hindi sentence into English: 'मैं अभी क्रिकेट खेल रहा हूँ।'",
+    "correct": "I am playing cricket now.",
     "options": [
-      "Being extremely wealthy and refined",
-      "Having abundant resources but being rude",
-      "Having little money but maintaining high social understanding/status",
-      "Living a completely isolated life"
+      "I play cricket now.",
+      "I was playing cricket now.",
+      "I have played cricket now.",
+      "I am playing cricket now."
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Hindi to English Translation (Tenses)",
     "complexity_score": 2
   },
   {
-    "question": "What does 'Blazing' refer to in the description of the fireplace?",
-    "correct": "Burning brightly and fiercely",
+    "question": "Translate the following Hindi sentence into English: 'उसने अपना काम पूरा कर लिया है।'",
+    "correct": "He has completed his work.",
     "options": [
-      "Dimly lit",
-      "Smoking heavily",
-      "Burning brightly and fiercely",
-      "Extinguished"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "What color is 'Crimson'?",
-    "correct": "A rich deep red color",
-    "options": [
-      "A light blue color",
-      "A vibrant green color",
-      "A rich deep red color",
-      "A dull yellow color"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the context of the story's setting, what does 'Scene' refer to?",
-    "correct": "The place where the action occurs",
-    "options": [
-      "A short film clip",
-      "A type of song",
-      "The place where the action occurs",
-      "A type of dance"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "How do you form the possessive for a singular noun, like 'Anaya'?",
-    "correct": "Add an apostrophe and 's' (Anaya's)",
-    "options": [
-      "Add 's' only",
-      "Add an apostrophe only",
-      "Add an apostrophe and 's' (Anaya's)",
-      "Make no change"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Grammar - Possessive Nouns",
-    "complexity_score": 1
-  },
-  {
-    "question": "How do you form the possessive for a plural noun that already ends in 's', like 'dogs'?",
-    "correct": "Add an apostrophe only (dogs')",
-    "options": [
-      "Add 's' only",
-      "Add an apostrophe only (dogs')",
-      "Add an apostrophe and 's'",
-      "Make no change"
+      "He completed his work.",
+      "He has completed his work.",
+      "He is completing his work.",
+      "He had completed his work."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Possessive Nouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which is the correct possessive form for the character Jo?",
-    "correct": "Jo's",
-    "options": [
-      "Jos'",
-      "Jos's",
-      "Jo's",
-      "Joes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Grammar - Possessive Nouns",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which possessive form is correctly used for 'boys' (plural)?",
-    "correct": "boys'",
-    "options": [
-      "boy's",
-      "boys's",
-      "boys'",
-      "boyes'"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar - Possessive Nouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "For a name like 'Charles' which already ends in 's', how is the possessive formed?",
-    "correct": "Just add an apostrophe (Charles')",
-    "options": [
-      "Add 'es'",
-      "Add 's'",
-      "Just add an apostrophe (Charles')",
-      "Add 's' and then an apostrophe"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Grammar - Possessive Nouns",
+    "topic": "Hindi to English Translation (Tenses)",
     "complexity_score": 3
   },
   {
-    "question": "Choose the correct spelling:",
-    "correct": "SCENE",
+    "question": "Translate the following Hindi sentence into English: 'कल मैंने एक फिल्म देखी।'",
+    "correct": "I watched a movie yesterday.",
     "options": [
-      "SEEN",
-      "SCENE",
-      "SEINE",
-      "SENE"
+      "I have watched a movie yesterday.",
+      "I watch a movie yesterday.",
+      "I watched a movie yesterday.",
+      "I was watching a movie yesterday."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 1
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "BLAZING",
-    "options": [
-      "BLASEING",
-      "BLAYZING",
-      "BLAZING",
-      "BLAIZING"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "Hindi to English Translation (Tenses)",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct spelling:",
-    "correct": "CRIMSON",
+    "question": "Translate the following Hindi sentence into English: 'जब तुम आए, मैं सो रहा था।'",
+    "correct": "When you came, I was sleeping.",
     "options": [
-      "CRIMSEN",
-      "CRIMZON",
-      "CRIMSON",
-      "CRIMSAN"
+      "When you come, I was sleeping.",
+      "When you came, I am sleeping.",
+      "When you came, I had been sleeping.",
+      "When you came, I was sleeping."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 2
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 4
   },
   {
-    "question": "Choose the correct spelling:",
-    "correct": "SHABBY",
+    "question": "Translate the following Hindi sentence into English: 'हम कल दिल्ली जाएँगे।'",
+    "correct": "We will go to Delhi tomorrow.",
     "options": [
-      "SHABIE",
-      "SHABBY",
-      "SHABBIE",
-      "SHABY"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 2
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "GENTEEL",
-    "options": [
-      "GENTILE",
-      "GENTEAL",
-      "GENTEEL",
-      "GENTILEL"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 2
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "POVERTY",
-    "options": [
-      "POVARTY",
-      "POVRTY",
-      "POVERTIE",
-      "POVERTY"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 2
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "STRETCHED",
-    "options": [
-      "STRECHED",
-      "STRETCHD",
-      "STREATCHED",
-      "STRETCHED"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 3
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "NEIGHBOURHOOD",
-    "options": [
-      "NEIBOURHOOD",
-      "NEIGHBORHOOD",
-      "NEIGHBOURHOD",
-      "NEIGHBOURHOOD"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 3
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "FLUENCE",
-    "options": [
-      "FLUENSS",
-      "FLUENSE",
-      "FLUENCE",
-      "FLUENZ"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Spelling",
-    "complexity_score": 2
-  },
-  {
-    "question": "Choose the correct spelling:",
-    "correct": "CHEERFUL",
-    "options": [
-      "CHEERFULL",
-      "CHEEFUL",
-      "CHEERFUL",
-      "CHEARFUL"
+      "We go to Delhi tomorrow.",
+      "We will go to Delhi tomorrow.",
+      "We are going to Delhi tomorrow.",
+      "We went to Delhi tomorrow."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "Hindi to English Translation (Tenses)",
     "complexity_score": 1
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'वे सुबह से पढ़ रहे हैं।'",
+    "correct": "They have been studying since morning.",
+    "options": [
+      "They are studying since morning.",
+      "They have been studying since morning.",
+      "They were studying since morning.",
+      "They study since morning."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 4
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'हमारे स्टेशन पहुँचने से पहले ट्रेन जा चुकी थी।'",
+    "correct": "The train had left before we reached the station.",
+    "options": [
+      "The train left before we reached the station.",
+      "The train had left before we reached the station.",
+      "The train was leaving before we reached the station.",
+      "The train has left before we reached the station."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 5
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'क्या तुम अंग्रेज़ी बोलते हो?'",
+    "correct": "Do you speak English?",
+    "options": [
+      "Are you speak English?",
+      "You speak English?",
+      "Do you speak English?",
+      "Does you speak English?"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'वह दो घंटे से तुम्हारा इंतज़ार कर रही थी।'",
+    "correct": "She had been waiting for you for two hours.",
+    "options": [
+      "She has been waiting for you for two hours.",
+      "She was waiting for you for two hours.",
+      "She had been waiting for you for two hours.",
+      "She waited for you for two hours."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 5
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'इस समय कल वह परीक्षा दे रहा होगा।'",
+    "correct": "He will be giving the exam at this time tomorrow.",
+    "options": [
+      "He will give the exam at this time tomorrow.",
+      "He will be giving the exam at this time tomorrow.",
+      "He would be giving the exam at this time tomorrow.",
+      "He will has been giving the exam at this time tomorrow."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 4
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'उसने मुझे नहीं बताया।'",
+    "correct": "He did not tell me.",
+    "options": [
+      "He not told me.",
+      "He did not tell me.",
+      "He has not told me.",
+      "He was not telling me."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'शाम तक वे घर पहुँच चुके होंगे।'",
+    "correct": "They will have reached home by evening.",
+    "options": [
+      "They will be reaching home by evening.",
+      "They will reach home by evening.",
+      "They will have reached home by evening.",
+      "They reach home by evening."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 5
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'बच्चे शोर नहीं मचा रहे थे।'",
+    "correct": "The children were not making a noise.",
+    "options": [
+      "The children did not make a noise.",
+      "The children are not making a noise.",
+      "The children had not made a noise.",
+      "The children were not making a noise."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 3
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'सूर्य पूर्व में उगता है।'",
+    "correct": "The Sun rises in the East.",
+    "options": [
+      "The Sun is rising in the East.",
+      "The Sun rises in the East.",
+      "The Sun has risen in the East.",
+      "The Sun rose in the East."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'क्या वह हमारी मदद करेगा?'",
+    "correct": "Will he help us?",
+    "options": [
+      "Does he help us?",
+      "Is he helping us?",
+      "Will he help us?",
+      "Would he help us?"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'मैंने अभी तक खाना नहीं खाया है।'",
+    "correct": "I have not eaten food yet.",
+    "options": [
+      "I did not eat food yet.",
+      "I have not eaten food yet.",
+      "I am not eating food yet.",
+      "I had not eaten food yet."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 3
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'बारिश हो रही है।'",
+    "correct": "It is raining.",
+    "options": [
+      "It rains.",
+      "It has been raining.",
+      "It is raining.",
+      "It was raining."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 1
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'जब मैं बच्चा था, मैं रोज़ पार्क में खेलता था।'",
+    "correct": "When I was a child, I used to play in the park daily.",
+    "options": [
+      "When I was a child, I am playing in the park daily.",
+      "When I was a child, I played in the park daily.",
+      "When I was a child, I use to play in the park daily.",
+      "When I was a child, I used to play in the park daily."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 4
+  },
+  {
+    "question": "Translate the following Hindi sentence into English: 'अगले साल तक, मैं यह किताब लिख चुका होऊँगा।'",
+    "correct": "By next year, I will have written this book.",
+    "options": [
+      "By next year, I will write this book.",
+      "By next year, I will be writing this book.",
+      "By next year, I will have written this book.",
+      "By next year, I would have written this book."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Hindi to English Translation (Tenses)",
+    "complexity_score": 5
   }
 ]
