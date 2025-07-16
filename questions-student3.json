@@ -1,62 +1,20 @@
 [
   {
-    "question": "According to the lesson, what is the rule for forming a sequence of square numbers?",
-    "correct": "Multiply the position in the counting number series by itself.",
+    "question": "According to the lesson, what kind of number sequence can be added up to get a square number like 25?",
+    "correct": "A sequence of odd numbers (1+3+5+7+9)",
     "options": [
-      "Add the previous two numbers together.",
-      "Multiply the position in the counting number series by itself.",
-      "Add a constant number to the previous term.",
-      "Double the previous number."
+      "A sequence of even numbers",
+      "A sequence of prime numbers",
+      "A sequence of odd numbers (1+3+5+7+9)",
+      "A sequence of multiples of 5"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Number Sequences",
+    "topic": "Mathematics",
     "complexity_score": 2
   },
   {
-    "question": "The lesson describes a pattern for generating the square number 25. Which sequence represents this 'up and down' addition pattern?",
-    "correct": "1+2+3+4+5+4+3+2+1",
-    "options": [
-      "5+5+5+5+5",
-      "1+3+5+7+9",
-      "1+2+3+4+5+4+3+2+1",
-      "10+10+5"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Number Sequences",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the primary concept explained using the example of how a single type of cloth (like a sari) is used differently in various parts of India?",
-    "correct": "Unity in Diversity",
-    "options": [
-      "Economic Disparity",
-      "Fashion Trends",
-      "Unity in Diversity",
-      "Cultural Isolation"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 1
-  },
-  {
-    "question": "What two ancient Indian epics were mentioned as having many different versions across India?",
-    "correct": "Ramayana and Mahabharata",
-    "options": [
-      "Vedas and Upanishads",
-      "Panchatantra and Jataka Tales",
-      "Ramayana and Mahabharata",
-      "Shakuntala and Meghaduta"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Indian Literature & Culture",
-    "complexity_score": 1
-  },
-  {
-    "question": "According to the 'People of India Project' mentioned in the class, how many versions of the Mahabharata were found in Tamil Nadu alone?",
+    "question": "The People of India Project, led by K.S. Singh, found how many versions of the Mahabharata in Tamil Nadu alone?",
     "correct": "100",
     "options": [
       "10",
@@ -64,219 +22,261 @@
       "100",
       "1000"
     ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the rule for generating a square number sequence, as described in the session?",
+    "correct": "Multiply the position in the series by itself",
+    "options": [
+      "Add the position to itself",
+      "Multiply the position in the series by two",
+      "Multiply the position in the series by itself",
+      "Add consecutive numbers"
+    ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Indian Cultural History",
+    "topic": "Mathematics",
     "complexity_score": 2
   },
   {
-    "question": "What was a key element missing from the first attempt at the math question, besides the sum?",
+    "question": "Which two epics were mentioned as creating a 'dense web of cultural interactions' across India?",
+    "correct": "Ramayana and Mahabharata",
+    "options": [
+      "The Vedas and Upanishads",
+      "Ramayana and Mahabharata",
+      "The Panchatantra and Jataka Tales",
+      "The Puranas and the Gita"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "If a pattern of triangles follows the rule of square numbers, how many triangles will be in the ninth shape in the sequence?",
+    "correct": "81",
+    "options": [
+      "9",
+      "18",
+      "81",
+      "100"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "What key element did the instructor say was missing from a student's answer, for which they would only get 2.5 out of 5 marks?",
+    "correct": "Examples",
+    "options": [
+      "A good title",
+      "Correct spelling",
+      "A longer conclusion",
+      "Examples"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "The 'up and down' sequence for generating square numbers involves adding counting numbers up to a peak and then back down. What is the sum of the sequence 1+2+3+2+1?",
+    "correct": "9",
+    "options": [
+      "6",
+      "7",
+      "9",
+      "10"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 1
+  },
+  {
+    "question": "The concept that people in different parts of India wear a sari in unique ways, yet it's still a sari, illustrates what?",
+    "correct": "Unity in diversity",
+    "options": [
+      "Cultural conflict",
+      "Regional isolation",
+      "A lack of tradition",
+      "Unity in diversity"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student's first answer was marked as 'not quite right' because they only showed the sum. What were they supposed to show as well?",
     "correct": "The sequence of numbers",
     "options": [
-      "The pictorial presentation",
+      "A pictorial presentation",
+      "The average of the numbers",
       "The sequence of numbers",
-      "The final answer",
-      "The name of the pattern"
+      "The formula used"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Test Instructions",
+    "topic": "Mathematics",
     "complexity_score": 2
   },
   {
-    "question": "What term did the instructor use to describe the widespread cultural influence of epics across India?",
-    "correct": "A dense web of cultural interactions",
+    "question": "According to the People of India Project, there is no place in India where local stories don't claim a visit from whom?",
+    "correct": "The Pandavas or legends from Ramayana",
     "options": [
-      "A collection of separate stories",
-      "A series of historical events",
-      "A dense web of cultural interactions",
-      "A list of religious rules"
+      "Ancient Greek travelers",
+      "Mughal emperors",
+      "British officials",
+      "The Pandavas or legends from Ramayana"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Indian Culture",
+    "topic": "Social Science",
     "complexity_score": 3
   },
   {
-    "question": "What common belief, according to the 'People of India Project', exists in almost every part of India?",
-    "correct": "That Pandavas or legends from Ramayana visited their place.",
+    "question": "What is the 5th number in a sequence of square numbers?",
+    "correct": "25",
     "options": [
-      "That their local language is the oldest.",
-      "That Pandavas or legends from Ramayana visited their place.",
-      "That their local food is the best in the country.",
-      "That they founded the first city."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Folklore",
-    "complexity_score": 2
-  },
-  {
-    "question": "What kind of sequence is 1, 4, 9, 16, 25...?",
-    "correct": "A square number sequence",
-    "options": [
-      "An odd number sequence",
-      "An even number sequence",
-      "A prime number sequence",
-      "A square number sequence"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Sequences",
-    "complexity_score": 1
-  },
-  {
-    "question": "To get full marks on the social science question about diversity, what did the student need to include besides a general explanation?",
-    "correct": "Specific examples from different regions",
-    "options": [
-      "A drawing of the cloth",
-      "A personal opinion",
-      "Specific examples from different regions",
-      "The price of the fabric"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Answer Quality",
-    "complexity_score": 2
-  },
-  {
-    "question": "The 'up and down' sequence is a method for generating what kind of numbers?",
-    "correct": "Square numbers",
-    "options": [
-      "Prime numbers",
-      "Odd numbers",
-      "Square numbers",
-      "Fibonacci numbers"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Sequences",
-    "complexity_score": 2
-  },
-  {
-    "question": "Who was mentioned as leading the 'People of India Project'?",
-    "correct": "K.S. Singh",
-    "options": [
-      "Jawaharlal Nehru",
-      "C.V. Raman",
-      "K.S. Singh",
-      "Amartya Sen"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Indian Cultural History",
-    "complexity_score": 3
-  },
-  {
-    "question": "The instructor states that to form a square number sequence, you multiply the position in which series by itself?",
-    "correct": "The counting number series",
-    "options": [
-      "The odd number series",
-      "The even number series",
-      "The prime number series",
-      "The counting number series"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Sequences",
-    "complexity_score": 2
-  },
-  {
-    "question": "According to the lesson, how have different communities, including tribal ones, engaged with epics like the Ramayana?",
-    "correct": "They have created their own versions.",
-    "options": [
-      "They have rejected them completely.",
-      "They read them only in the original Sanskrit.",
-      "They have created their own versions.",
-      "They perform them only on national holidays."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was the instructor's main advice for preparing for the social science part of the exam?",
-    "correct": "To read the chapter from the book.",
-    "options": [
-      "To watch a documentary.",
-      "To only focus on the provided notes.",
-      "To read the chapter from the book.",
-      "To interview family members."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Study Skills",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the 'up and down' sequence that sums to 25, what is the highest number you add before coming back down?",
-    "correct": "5",
-    "options": [
-      "25",
-      "10",
       "5",
-      "4"
+      "10",
+      "20",
+      "25"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Sequences",
-    "complexity_score": 2
+    "topic": "Mathematics",
+    "complexity_score": 1
   },
   {
-    "question": "An answer was criticized for only giving the 'use case'. What quality did the instructor say a complete answer must have?",
-    "correct": "It should explain what the question asked and give examples.",
+    "question": "The instructor mentions that different communities, including tribal ones, have created their own versions of epics. This is an example of what process?",
+    "correct": "Adaptation and cultural interaction",
     "options": [
-      "It should be as short as possible.",
-      "It should only contain diagrams.",
-      "It should use very complex vocabulary.",
-      "It should explain what the question asked and give examples."
+      "Forgetting history",
+      "Direct copying",
+      "Adaptation and cultural interaction",
+      "Rejecting tradition"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Answer Quality",
+    "topic": "Social Science",
     "complexity_score": 2
   },
   {
-    "question": "Which two subjects were part of the combined test?",
+    "question": "To get the square number 36 using the 'up and down' pattern, what would be the peak number in the sequence?",
+    "correct": "6",
+    "options": [
+      "5",
+      "6",
+      "18",
+      "36"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 3
+  },
+  {
+    "question": "What was the best way suggested in the session to prepare for the social science exam?",
+    "correct": "Read the chapter from the book",
+    "options": [
+      "Watch a movie about it",
+      "Only answer the quiz questions",
+      "Ask a friend for notes",
+      "Read the chapter from the book"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 1
+  },
+  {
+    "question": "The sum of the first 'n' odd numbers is equal to what?",
+    "correct": "n squared (n²)",
+    "options": [
+      "n + n",
+      "n multiplied by 2",
+      "n squared (n²)",
+      "n plus the next odd number"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 3
+  },
+  {
+    "question": "The way stories from epics are used in daily conversations and examples across India shows their deep cultural ____.",
+    "correct": "Influence",
+    "options": [
+      "Complexity",
+      "Influence",
+      "Age",
+      "Irrelevance"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "A key task in one of the math questions was to not only write the sequence and sum, but also to provide a ____.",
+    "correct": "Pictorial presentation",
+    "options": [
+      "Historical context",
+      "Written essay",
+      "Verbal explanation",
+      "Pictorial presentation"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 1
+  },
+  {
+    "question": "The term 'dense web of cultural interactions' was used to describe what?",
+    "correct": "How different versions of epics connect diverse cultures in India",
+    "options": [
+      "The complexity of the internet",
+      "A spider's web found in a temple",
+      "How different versions of epics connect diverse cultures in India",
+      "The trading routes in ancient India"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 3
+  },
+  {
+    "question": "The test described in the transcript was a combined test of which two subjects?",
     "correct": "Mathematics and Social Science",
     "options": [
-      "Science and English",
+      "Science and History",
       "Mathematics and Social Science",
-      "History and Geography",
-      "Physics and Chemistry"
+      "English and Mathematics",
+      "Art and Social Science"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Structure",
+    "topic": "General",
     "complexity_score": 1
   },
   {
-    "question": "How many questions were in the main combined test?",
-    "correct": "10",
+    "question": "Who was the scholar mentioned in the context of the 'People of India Project'?",
+    "correct": "K.S. Singh",
     "options": [
-      "5",
-      "10",
-      "15",
-      "20"
+      "Amartya Sen",
+      "C.V. Raman",
+      "K.S. Singh",
+      "Romila Thapar"
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "The existence of hundreds of versions of epics like the Mahabharata is an example of India's...",
-    "correct": "Cultural diversity",
-    "options": [
-      "Political unity",
-      "Linguistic uniformity",
-      "Cultural diversity",
-      "Geographical isolation"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Indian Culture",
-    "complexity_score": 1
+    "topic": "Social Science",
+    "complexity_score": 2
   }
 ]
