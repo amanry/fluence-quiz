@@ -1,282 +1,282 @@
 [
   {
-    "question": "What subject was scheduled for study after completing the English exam?",
-    "correct": "Social Science",
+    "question": "What is the total duration of the main combined test for Mathematics and Social Science?",
+    "correct": "45 minutes",
     "options": [
-      "Math",
-      "Science",
-      "Social Science",
-      "English"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Study Schedule",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many XP points were offered for scoring 45/50 on the test?",
-    "correct": "250 XP",
-    "options": [
-      "100 XP",
-      "150 XP",
-      "200 XP",
-      "250 XP"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Rewards System",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many questions needed to be solved within 15 minutes to earn 100 XP?",
-    "correct": "5 questions",
-    "options": [
-      "3 questions",
-      "4 questions",
-      "5 questions",
-      "6 questions"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Math Challenge",
-    "complexity_score": 1
-  },
-  {
-    "question": "What was the rule about speaking Hindi in class?",
-    "correct": "500 XP for not speaking Hindi",
-    "options": [
-      "100 XP penalty",
-      "500 XP for not speaking Hindi",
-      "No Hindi allowed",
-      "Hindi was encouraged"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Class Rules",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which science textbook was mentioned as being used in class?",
-    "correct": "Exploring Science",
-    "options": [
-      "Curiosity",
-      "Exploring Science",
-      "Science World",
-      "Discovery Science"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Study Materials",
-    "complexity_score": 1
-  },
-  {
-    "question": "What XP penalty was mentioned for checking messages during class?",
-    "correct": "50 XP deduction",
-    "options": [
-      "25 XP deduction",
-      "50 XP deduction",
-      "75 XP deduction",
-      "100 XP deduction"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Class Rules",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was the first chapter mentioned in Science?",
-    "correct": "Kinds of Materials",
-    "options": [
-      "Magnets",
-      "Objects",
-      "Kinds of Materials",
-      "Properties"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many minutes were given for the math challenge?",
-    "correct": "15 minutes",
-    "options": [
-      "10 minutes",
       "15 minutes",
-      "20 minutes",
-      "25 minutes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Math Challenge",
-    "complexity_score": 1
-  },
-  {
-    "question": "What materials were specifically mentioned as examples in the science lesson?",
-    "correct": "Wood, metal, fiber, leather, plastic, rubber",
-    "options": [
-      "Wood, steel, iron, gold",
-      "Plastic, paper, glass only",
-      "Wood, metal, fiber, leather, plastic, rubber",
-      "Metal, wood, stone only"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was the example given for an object made of soil or mud?",
-    "correct": "Mud vase",
-    "options": [
-      "Mud vase",
-      "Paper boat",
-      "Glass bottle",
-      "Wooden chair"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many chapters were mentioned for the Social Science exam?",
-    "correct": "Two chapters",
-    "options": [
-      "One chapter",
-      "Two chapters",
-      "Three chapters",
-      "Four chapters"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Exam Preparation",
-    "complexity_score": 1
-  },
-  {
-    "question": "What was the format mentioned for the upcoming test questions?",
-    "correct": "2 easy, 2 medium, 1 hard",
-    "options": [
-      "All easy",
-      "2 easy, 2 medium, 1 hard",
-      "1 easy, 2 medium, 2 hard",
-      "All medium"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Test Format",
-    "complexity_score": 2
-  },
-  {
-    "question": "What was the time limit given for solving the main test?",
-    "correct": "1 hour",
-    "options": [
       "30 minutes",
       "45 minutes",
-      "1 hour",
-      "2 hours"
+      "60 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Rules",
+    "topic": "Test Structure",
     "complexity_score": 1
   },
   {
-    "question": "How many XP points could be earned for completing homework and getting class ready?",
-    "correct": "500 XP",
+    "question": "How many questions are there in the main combined test?",
+    "correct": "10 questions",
     "options": [
-      "300 XP",
-      "400 XP",
-      "500 XP",
-      "600 XP"
+      "5 questions",
+      "10 questions",
+      "15 questions",
+      "20 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the condition to unlock the 'challenge' round?",
+    "correct": "Complete all 10 questions of the main test in under 45 minutes",
+    "options": [
+      "Score 50 out of 50",
+      "Complete all 10 questions of the main test in under 45 minutes",
+      "Answer only the math questions correctly",
+      "Finish the test in exactly 15 minutes"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Rewards System",
+    "topic": "Test Structure",
     "complexity_score": 2
   },
   {
-    "question": "Which chapter was mentioned in the context of diversity?",
-    "correct": "Reading Diversity",
+    "question": "How many XP points can be earned by successfully completing the main test with a score of 45/50?",
+    "correct": "200 XP points",
     "options": [
-      "Social Diversity",
-      "Reading Diversity",
-      "Cultural Diversity",
-      "Natural Diversity"
+      "50 XP points",
+      "100 XP points",
+      "150 XP points",
+      "200 XP points"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Test Scoring",
     "complexity_score": 2
   },
   {
-    "question": "What quote was mentioned about cutting a tree?",
-    "correct": "Abraham Lincoln's quote about spending 40 minutes sharpening the axe",
+    "question": "What is the time limit for the challenge round?",
+    "correct": "15 minutes",
     "options": [
-      "A quote about teamwork",
-      "A quote about persistence",
-      "Abraham Lincoln's quote about spending 40 minutes sharpening the axe",
-      "A quote about time management"
+      "45 minutes",
+      "30 minutes",
+      "25 minutes",
+      "15 minutes"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the discussion, which type of sequence should result in the square number 25?",
+    "correct": "An up and down sequence",
+    "options": [
+      "An odd number sequence",
+      "An even number sequence",
+      "An up and down sequence",
+      "A simple counting number sequence"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Class Discussion",
+    "topic": "Mathematics: Number Sequences",
+    "complexity_score": 4
+  },
+  {
+    "question": "The instructor mentions a method for generating square numbers. What is it?",
+    "correct": "Multiplying the position in the series by itself",
+    "options": [
+      "Adding consecutive odd numbers",
+      "Multiplying the position in the series by itself",
+      "Adding the series of numbers to themselves",
+      "Finding the root of the number"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Square Numbers",
     "complexity_score": 3
   },
   {
-    "question": "What was the target XP milestone mentioned?",
-    "correct": "5000 XP",
+    "question": "For the first math question, what two things were required besides writing the sequence of numbers?",
+    "correct": "The sum and a pictorial presentation",
     "options": [
-      "3000 XP",
-      "4000 XP",
-      "5000 XP",
-      "6000 XP"
+      "The rule and the next number",
+      "The sum and a pictorial presentation",
+      "The average and the median",
+      "An explanation and an example"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Achievement Goals",
-    "complexity_score": 2
+    "topic": "Mathematics: Problem Solving",
+    "complexity_score": 3
   },
   {
-    "question": "What score was needed out of 50 to get extra challenge time?",
-    "correct": "45/50",
+    "question": "In the context of the Social Science question, what concept was to be explained using a case study?",
+    "correct": "Unity in diversity in India",
     "options": [
-      "40/50",
-      "42/50",
-      "45/50",
-      "48/50"
+      "The geography of India",
+      "The political system of India",
+      "The economy of different states",
+      "Unity in diversity in India"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Test Requirements",
+    "topic": "Social Science: Indian Culture",
     "complexity_score": 2
   },
   {
-    "question": "How many questions were mentioned for the test with 5 points each?",
-    "correct": "10 questions",
+    "question": "What key element was missing from the student's answer about Indian diversity, for which they might only get 2.5/5 marks?",
+    "correct": "Specific examples from different regions",
     "options": [
-      "8 questions",
-      "9 questions",
+      "A proper heading",
+      "A conclusion",
+      "Specific examples from different regions",
+      "Mentioning the European Union"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science: Answer Quality",
+    "complexity_score": 4
+  },
+  {
+    "question": "According to the 'People of India Project' by K.S. Singh, how many versions of the Mahabharata did he find in Tamil Nadu?",
+    "correct": "100 versions",
+    "options": [
+      "10 versions",
+      "50 versions",
+      "100 versions",
+      "1000 versions"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Epics",
+    "complexity_score": 4
+  },
+  {
+    "question": "What is a common belief found all over India regarding the Pandavas and legends from the Ramayana?",
+    "correct": "That they visited almost every local place in India",
+    "options": [
+      "That they only lived in the North",
+      "That they were just fictional characters",
+      "That they visited almost every local place in India",
+      "That their stories are only read in temples"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Epics",
+    "complexity_score": 3
+  },
+  {
+    "question": "How have the great epics like Ramayana and Mahabharata been adapted in India?",
+    "correct": "Different communities, including tribal ones, have created their own versions",
+    "options": [
+      "They are only told in one standard version",
+      "They have been translated but not adapted",
+      "Different communities, including tribal ones, have created their own versions",
+      "They are no longer relevant in modern India"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science: Cultural Adaptation",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the total number of questions in the 'challenge' round?",
+    "correct": "15 questions",
+    "options": [
+      "5 questions",
       "10 questions",
-      "12 questions"
+      "15 questions",
+      "20 questions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Format",
+    "topic": "Test Structure",
     "complexity_score": 1
   },
   {
-    "question": "Which future activity was mentioned for after exams?",
-    "correct": "Making games and podcasts",
+    "question": "How many points can be earned by successfully completing the challenge round?",
+    "correct": "150 points",
     "options": [
-      "Only studying",
-      "Making games and podcasts",
-      "Writing essays",
-      "Doing math problems"
+      "50 points",
+      "100 points",
+      "150 points",
+      "200 points"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Test Scoring",
+    "complexity_score": 2
+  },
+  {
+    "question": "The instructor pointed out an error in the student's first answer. What was the error?",
+    "correct": "Only the sum was represented, not the numbers in the sequence",
+    "options": [
+      "The pictorial presentation was wrong",
+      "The calculation of the sum was incorrect",
+      "Only the sum was represented, not the numbers in the sequence",
+      "The handwriting was not neat"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Mathematics: Problem Solving",
+    "complexity_score": 4
+  },
+  {
+    "question": "What was the student's incorrect initial thought about how a new shape in a sequence is formed?",
+    "correct": "By adding or multiplying a series of numbers by themselves",
+    "options": [
+      "By rotating the previous shape",
+      "By adding a fixed number of squares",
+      "By mirroring the shape on an axis",
+      "By adding or multiplying a series of numbers by themselves"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Mathematics: Pattern Recognition",
+    "complexity_score": 4
+  },
+  {
+    "question": "What does the instructor say is the best way to prepare for the Social Science exam?",
+    "correct": "To read the chapter itself from the book",
+    "options": [
+      "To only answer questions from the notebook",
+      "To watch videos about the topic",
+      "To read the chapter itself from the book",
+      "To discuss with friends"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Study Skills",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many marks is each question in the main test worth?",
+    "correct": "5 marks",
+    "options": [
+      "1 mark",
+      "2 marks",
+      "5 marks",
+      "10 marks"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Future Activities",
+    "topic": "Test Scoring",
     "complexity_score": 1
+  },
+  {
+    "question": "What defines a 'quality' answer in Social Science, according to the instructor?",
+    "correct": "It explains what was asked, gives examples, and feels complete",
+    "options": [
+      "It is very long",
+      "It uses difficult words",
+      "It is written very quickly",
+      "It explains what was asked, gives examples, and feels complete"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science: Answer Quality",
+    "complexity_score": 3
   }
 ]
