@@ -1,40 +1,166 @@
 [
   {
-    "question": "How many questions are there in the combined test?",
-    "correct": "10",
-    "options": [
-      "5",
-      "10",
-      "15",
-      "20"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the time limit for the initial combined test?",
+    "question": "What is the total duration given for the combined test of 10 questions?",
     "correct": "45 minutes",
     "options": [
       "30 minutes",
       "45 minutes",
-      "15 minutes",
-      "60 minutes"
+      "60 minutes",
+      "15 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Time Management",
+    "topic": "Test Instructions",
     "complexity_score": 1
   },
   {
-    "question": "How many XP points are awarded for scoring 45 out of 50?",
-    "correct": "200",
+    "question": "How many marks is each question worth in the combined test?",
+    "correct": "5 marks",
     "options": [
-      "100",
-      "150",
-      "200",
-      "250"
+      "2 marks",
+      "3 marks",
+      "4 marks",
+      "5 marks"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Format",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many XP points can be earned for scoring 45 out of 50?",
+    "correct": "200 XP",
+    "options": [
+      "100 XP",
+      "150 XP",
+      "200 XP",
+      "250 XP"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Rewards",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the additional XP available for completing the challenge?",
+    "correct": "150 points",
+    "options": [
+      "100 points",
+      "150 points",
+      "200 points",
+      "250 points"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Challenge Rewards",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many questions must be completed in 15 minutes for the challenge?",
+    "correct": "15 questions",
+    "options": [
+      "10 questions",
+      "12 questions",
+      "15 questions",
+      "20 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Challenge Format",
+    "complexity_score": 1
+  },
+  {
+    "question": "What type of number sequence is related to the square pattern?",
+    "correct": "Counting numbers",
+    "options": [
+      "Even numbers",
+      "Odd numbers",
+      "Counting numbers",
+      "Prime numbers"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which square number is mentioned in the addition pattern question?",
+    "correct": "25",
+    "options": [
+      "16",
+      "25",
+      "36",
+      "49"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many versions of Mahabharta were found in Tamil Nadu according to the People of India project?",
+    "correct": "100 versions",
+    "options": [
+      "50 versions",
+      "75 versions",
+      "100 versions",
+      "125 versions"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the total marks possible in the combined test?",
+    "correct": "50 marks",
+    "options": [
+      "25 marks",
+      "50 marks",
+      "75 marks",
+      "100 marks"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Format",
+    "complexity_score": 1
+  },
+  {
+    "question": "What needs to be included in the pictorial presentation?",
+    "correct": "Pattern explanation",
+    "options": [
+      "Random shapes",
+      "Colors only",
+      "Pattern explanation",
+      "Numbers only"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "What stories are mentioned regarding cultural interactions in India?",
+    "correct": "Ramayana and Mahabharta",
+    "options": [
+      "Folk tales",
+      "Ramayana and Mahabharta",
+      "Modern stories",
+      "Local legends"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the minimum score needed to earn XP points?",
+    "correct": "45 out of 50",
+    "options": [
+      "40 out of 50",
+      "42 out of 50",
+      "45 out of 50",
+      "48 out of 50"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,21 +168,105 @@
     "complexity_score": 1
   },
   {
-    "question": "How many additional questions are in the challenge section?",
-    "correct": "5",
+    "question": "How many subjects are combined in the test?",
+    "correct": "2",
     "options": [
-      "5",
-      "10",
-      "15",
-      "20"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Challenge Round",
+    "topic": "Test Format",
     "complexity_score": 1
   },
   {
-    "question": "What is the time limit for the challenge section?",
+    "question": "What needs to be explained about the sequence shapes?",
+    "correct": "Pattern formation",
+    "options": [
+      "Color scheme",
+      "Size only",
+      "Pattern formation",
+      "Position only"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "What aspect of diversity needs to be explained in the social science answer?",
+    "correct": "Unity in diversity",
+    "options": [
+      "Geographic diversity",
+      "Unity in diversity",
+      "Cultural differences",
+      "Religious practices"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many questions are from each subject in the combined test?",
+    "correct": "5 questions",
+    "options": [
+      "3 questions",
+      "4 questions",
+      "5 questions",
+      "6 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Format",
+    "complexity_score": 1
+  },
+  {
+    "question": "What should be included in the answers about cultural adaptations?",
+    "correct": "Different versions across communities",
+    "options": [
+      "Modern interpretations",
+      "Different versions across communities",
+      "Only original versions",
+      "Foreign adaptations"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is mentioned about the Pandavas in the People of India project?",
+    "correct": "Every place claims their visit",
+    "options": [
+      "Their birth places",
+      "Their kingdoms",
+      "Every place claims their visit",
+      "Their battle locations"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What type of examples are needed in the cultural diversity answer?",
+    "correct": "Regional variations",
+    "options": [
+      "Modern examples",
+      "Regional variations",
+      "Foreign influences",
+      "Historical events"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the time limit for completing the challenge questions?",
     "correct": "15 minutes",
     "options": [
       "10 minutes",
@@ -66,217 +276,7 @@
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Challenge Round",
+    "topic": "Challenge Format",
     "complexity_score": 1
-  },
-  {
-    "question": "How many marks is each question worth in the combined test?",
-    "correct": "5",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Scoring",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the total possible marks in the combined test?",
-    "correct": "50",
-    "options": [
-      "25",
-      "50",
-      "75",
-      "100"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Scoring",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many XP points can be earned from the challenge section?",
-    "correct": "150",
-    "options": [
-      "100",
-      "150",
-      "200",
-      "250"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Challenge Round",
-    "complexity_score": 1
-  },
-  {
-    "question": "In mathematics, what needs to be shown along with the sequence of numbers?",
-    "correct": "Pictorial presentation",
-    "options": [
-      "Written explanation",
-      "Pictorial presentation",
-      "Graph",
-      "Table"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What type of sequence is used to get the sum of 25?",
-    "correct": "Odd number sequence",
-    "options": [
-      "Even number sequence",
-      "Odd number sequence",
-      "Prime number sequence",
-      "Square number sequence"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "According to the People of India project, how many versions of Mahabharta were found in Tamil Nadu?",
-    "correct": "100",
-    "options": [
-      "50",
-      "75",
-      "100",
-      "125"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What aspect of India's diversity is being discussed in relation to stories?",
-    "correct": "Cultural interactions",
-    "options": [
-      "Language",
-      "Cultural interactions",
-      "Religion",
-      "Geography"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are students required to explain about shapes in the sequence?",
-    "correct": "Pattern formation",
-    "options": [
-      "Color",
-      "Size",
-      "Pattern formation",
-      "Position"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the total time given to complete both main test and challenge?",
-    "correct": "60 minutes",
-    "options": [
-      "45 minutes",
-      "50 minutes",
-      "55 minutes",
-      "60 minutes"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Time Management",
-    "complexity_score": 2
-  },
-  {
-    "question": "What needs to be included when discussing unity in diversity?",
-    "correct": "Examples from the chapter",
-    "options": [
-      "Personal opinions",
-      "Examples from the chapter",
-      "Modern references",
-      "Future predictions"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What characters are mentioned in relation to visiting places across India?",
-    "correct": "Pandavas and characters from Ramayana",
-    "options": [
-      "Kings and Queens",
-      "Pandavas and characters from Ramayana",
-      "Modern leaders",
-      "Historical figures"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many questions are from each subject in the combined test?",
-    "correct": "5",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "What type of answer receives only 2.5 marks out of 5?",
-    "correct": "Answer without examples",
-    "options": [
-      "Short answer",
-      "Answer without examples",
-      "Incomplete answer",
-      "Wrong answer"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Scoring",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is mentioned about fabric in relation to diversity?",
-    "correct": "Different regions use different fabrics",
-    "options": [
-      "Color variations",
-      "Different regions use different fabrics",
-      "Manufacturing process",
-      "Export details"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How much time is recommended per question in the challenge section?",
-    "correct": "6 minutes",
-    "options": [
-      "3 minutes",
-      "4 minutes",
-      "5 minutes",
-      "6 minutes"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Time Management",
-    "complexity_score": 2
   }
 ]
