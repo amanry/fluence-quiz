@@ -1,82 +1,96 @@
 [
   {
-    "question": "What is the total marks for the combined test of mathematics and social science?",
-    "correct": "50 marks",
+    "question": "What is the total duration given for completing the 10 questions in the combined test?",
+    "correct": "45 minutes",
     "options": [
-      "25 marks",
-      "50 marks",
-      "75 marks",
-      "100 marks"
+      "30 minutes",
+      "45 minutes",
+      "60 minutes",
+      "15 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Structure",
+    "topic": "Test Rules",
     "complexity_score": 1
   },
   {
-    "question": "How many XP points can be earned by scoring 45 out of 50?",
-    "correct": "200 XP",
+    "question": "How many XP points can be earned for scoring 45 out of 50?",
+    "correct": "200",
     "options": [
-      "150 XP",
-      "200 XP",
-      "250 XP",
-      "300 XP"
+      "150",
+      "200",
+      "250",
+      "100"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Scoring System",
+    "topic": "Scoring",
     "complexity_score": 1
   },
   {
-    "question": "How many questions are in the challenge section?",
-    "correct": "5 questions",
+    "question": "How many questions are there in the challenge round?",
+    "correct": "5",
     "options": [
-      "5 questions",
-      "10 questions",
-      "15 questions",
-      "20 questions"
+      "10",
+      "15",
+      "5",
+      "20"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Challenge Section",
+    "topic": "Challenge Round",
     "complexity_score": 1
   },
   {
-    "question": "What is the time limit for the challenge section?",
+    "question": "What is the time limit for the challenge round?",
     "correct": "15 minutes",
     "options": [
-      "10 minutes",
-      "15 minutes",
+      "45 minutes",
+      "30 minutes",
       "20 minutes",
-      "25 minutes"
+      "15 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Time Management",
+    "topic": "Challenge Round",
     "complexity_score": 1
   },
   {
-    "question": "How many XP points can be earned from successfully completing the challenge?",
-    "correct": "150 points",
+    "question": "How many XP points can be earned from the challenge round?",
+    "correct": "150",
     "options": [
-      "100 points",
-      "150 points",
-      "200 points",
-      "250 points"
+      "100",
+      "150",
+      "200",
+      "250"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Bonus Points",
+    "topic": "Scoring",
     "complexity_score": 1
   },
   {
-    "question": "What type of sequence results in the square number 25?",
+    "question": "What is the mark value of each question in the combined test?",
+    "correct": "5 marks",
+    "options": [
+      "2 marks",
+      "5 marks",
+      "10 marks",
+      "1 mark"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Scoring",
+    "complexity_score": 1
+  },
+  {
+    "question": "What type of sequence needs to be used to get the sum of 25?",
     "correct": "Odd number sequence",
     "options": [
       "Even number sequence",
       "Odd number sequence",
       "Prime number sequence",
-      "Composite number sequence"
+      "Square number sequence"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -85,12 +99,12 @@
   },
   {
     "question": "According to the People of India project, how many versions of Mahabharta were found in Tamil Nadu?",
-    "correct": "100 versions",
+    "correct": "100",
     "options": [
-      "50 versions",
-      "75 versions",
-      "100 versions",
-      "125 versions"
+      "50",
+      "75",
+      "100",
+      "125"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -98,91 +112,49 @@
     "complexity_score": 2
   },
   {
-    "question": "What is the time limit for completing the main test of 10 questions?",
-    "correct": "45 minutes",
+    "question": "What needs to be included in the answer about India's diversity?",
+    "correct": "At least two aspects",
     "options": [
-      "30 minutes",
-      "35 minutes",
-      "40 minutes",
-      "45 minutes"
+      "One aspect",
+      "At least two aspects",
+      "Three aspects",
+      "Four aspects"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Structure",
+    "topic": "Social Science",
     "complexity_score": 1
   },
   {
-    "question": "How many marks is each question worth in the main test?",
-    "correct": "5 marks",
+    "question": "What is the minimum score required out of 50 to earn XP points?",
+    "correct": "45",
     "options": [
-      "3 marks",
-      "4 marks",
-      "5 marks",
-      "6 marks"
+      "40",
+      "42",
+      "45",
+      "48"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Scoring System",
+    "topic": "Scoring",
     "complexity_score": 1
   },
   {
-    "question": "What needs to be explained in the pattern question?",
-    "correct": "How each new shape in the sequence is formed",
+    "question": "What type of representation is required in the first question?",
+    "correct": "Pictorial",
     "options": [
-      "The color of shapes",
-      "The size of shapes",
-      "How each new shape in the sequence is formed",
-      "The number of sides"
+      "Written",
+      "Verbal",
+      "Pictorial",
+      "Numerical"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
+    "topic": "Question Format",
+    "complexity_score": 1
   },
   {
-    "question": "What type of series is mentioned in relation to counting numbers?",
-    "correct": "Up and down sequence",
-    "options": [
-      "Linear sequence",
-      "Geometric sequence",
-      "Up and down sequence",
-      "Random sequence"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What aspect of Indian culture is discussed in relation to unity in diversity?",
-    "correct": "Traditional clothing",
-    "options": [
-      "Traditional clothing",
-      "Languages",
-      "Festivals",
-      "Food"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What epic stories are mentioned in the cultural interactions discussion?",
-    "correct": "Ramayana and Mahabharata",
-    "options": [
-      "Panchatantra and Jataka",
-      "Ramayana and Mahabharata",
-      "Vedas and Upanishads",
-      "Puranas and Epics"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many minutes are allocated per question in the challenge section?",
+    "question": "What is the time allocation per question in the challenge round?",
     "correct": "3 minutes",
     "options": [
       "2 minutes",
@@ -196,41 +168,13 @@
     "complexity_score": 2
   },
   {
-    "question": "What is required in the pictorial presentation question?",
-    "correct": "Drawing a diagram with explanation",
+    "question": "How many questions are from mathematics in the combined test?",
+    "correct": "5",
     "options": [
-      "Only drawing",
-      "Only explanation",
-      "Drawing a diagram with explanation",
-      "Writing formulas"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is mentioned about tribal communities in relation to cultural adaptations?",
-    "correct": "They created their own versions",
-    "options": [
-      "They ignored it",
-      "They created their own versions",
-      "They rejected it",
-      "They copied others"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many R's are mentioned in the test structure?",
-    "correct": "One R",
-    "options": [
-      "No R",
-      "One R",
-      "Two R's",
-      "Three R's"
+      "3",
+      "4",
+      "5",
+      "6"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -238,13 +182,27 @@
     "complexity_score": 1
   },
   {
-    "question": "What needs to be included in the cultural diversity answer?",
-    "correct": "At least two aspects of diversity",
+    "question": "What is the total marks possible in the combined test?",
+    "correct": "50",
     "options": [
-      "One aspect",
-      "At least two aspects of diversity",
-      "Three aspects",
-      "Four aspects"
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Scoring",
+    "complexity_score": 1
+  },
+  {
+    "question": "What stories are mentioned as having influenced all of India?",
+    "correct": "Ramayana and Mahabharata",
+    "options": [
+      "Panchatantra and Jataka",
+      "Ramayana and Mahabharata",
+      "Vedas and Upanishads",
+      "Folk tales"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -252,13 +210,41 @@
     "complexity_score": 2
   },
   {
-    "question": "What is required for a complete answer according to the teacher?",
+    "question": "What should be explained about the square number pattern?",
+    "correct": "How each new shape is formed",
+    "options": [
+      "The final sum",
+      "How each new shape is formed",
+      "The color pattern",
+      "The size only"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "What type of sequence involves counting numbers up and down?",
+    "correct": "Up and down sequence",
+    "options": [
+      "Linear sequence",
+      "Geometric sequence",
+      "Up and down sequence",
+      "Arithmetic sequence"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the transcription, what should a complete answer include?",
     "correct": "Examples and quality explanation",
     "options": [
-      "Brief points",
-      "Only examples",
-      "Only explanation",
-      "Examples and quality explanation"
+      "Just facts",
+      "Only definitions",
+      "Examples and quality explanation",
+      "Brief points"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -266,17 +252,31 @@
     "complexity_score": 2
   },
   {
-    "question": "What is mentioned about preparing for the social science exam?",
+    "question": "What is mentioned about the People of India project survey?",
+    "correct": "Every place claims visits by Pandavas or Ramayana legends",
+    "options": [
+      "Population statistics",
+      "Language diversity",
+      "Every place claims visits by Pandavas or Ramayana legends",
+      "Economic data"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the recommended way to prepare for the exam according to the transcription?",
     "correct": "Reading the chapter from the book",
     "options": [
-      "Making notes",
-      "Reading the chapter from the book",
       "Watching videos",
+      "Reading the chapter from the book",
+      "Making notes",
       "Group study"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Exam Preparation",
+    "topic": "Study Tips",
     "complexity_score": 1
   }
 ]
