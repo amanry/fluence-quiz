@@ -1,54 +1,40 @@
 [
   {
-    "question": "What is the total duration given for completing the initial 10 questions?",
-    "correct": "45 minutes",
+    "question": "What two subjects are combined in 'Test 1'?",
+    "correct": "Mathematics and Social Science",
     "options": [
-      "30 minutes",
+      "Mathematics and Science",
+      "Mathematics and Social Science",
+      "English and Mathematics",
+      "Social Science and English"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many questions are there in total for the main combined test?",
+    "correct": "10 questions",
+    "options": [
+      "5 questions",
+      "10 questions",
+      "15 questions",
+      "20 questions"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the initial time limit given for the combined test?",
+    "correct": "One hour",
+    "options": [
       "45 minutes",
-      "60 minutes",
-      "15 minutes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Instructions",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many XP points are awarded for scoring 45 out of 50 in the main test?",
-    "correct": "200",
-    "options": [
-      "150",
-      "200",
-      "250",
-      "100"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Scoring",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many XP points can be earned from the challenge section?",
-    "correct": "150",
-    "options": [
-      "100",
-      "150",
-      "200",
-      "250"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Scoring",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many questions are in the challenge section?",
-    "correct": "5",
-    "options": [
-      "10",
-      "15",
-      "5",
-      "20"
+      "One hour",
+      "90 minutes",
+      "30 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,227 +42,241 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the time limit for the challenge section?",
-    "correct": "15 minutes",
+    "question": "To get a 'challenge to attempt', how quickly must the 10 main questions be completed?",
+    "correct": "Under 45 minutes",
     "options": [
-      "10 minutes",
-      "15 minutes",
-      "20 minutes",
-      "25 minutes"
+      "Under 60 minutes",
+      "Under 45 minutes",
+      "Exactly 45 minutes",
+      "Under 30 minutes"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Test Rules",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many questions are in the 'challenge' test?",
+    "correct": "15 questions",
+    "options": [
+      "5 questions",
+      "10 questions",
+      "15 questions",
+      "20 questions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Test Instructions",
+    "topic": "Challenge Test",
     "complexity_score": 1
   },
   {
-    "question": "How many marks is each question worth in the main test?",
-    "correct": "5",
+    "question": "What is the time limit for solving the 15 questions in the 'challenge' test?",
+    "correct": "Under 15 minutes",
     "options": [
-      "2",
-      "3",
-      "4",
-      "5"
+      "Under 5 minutes",
+      "Under 10 minutes",
+      "Under 15 minutes",
+      "Under 20 minutes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Scoring",
+    "topic": "Challenge Test",
     "complexity_score": 1
   },
   {
-    "question": "What type of sequence is needed to get the sum of 25 in the mathematics section?",
-    "correct": "Odd number sequence",
+    "question": "Each question in the combined test is worth how many marks?",
+    "correct": "5 marks",
     "options": [
-      "Even number sequence",
+      "2 marks",
+      "5 marks",
+      "10 marks",
+      "1 mark"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Scoring",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the total maximum score for the initial 10-question combined test?",
+    "correct": "50 marks",
+    "options": [
+      "100 marks",
+      "50 marks",
+      "75 marks",
+      "25 marks"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Test Scoring",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many XP points are awarded for scoring 45 out of 50 on the main combined test?",
+    "correct": "200 XP points",
+    "options": [
+      "100 XP points",
+      "150 XP points",
+      "200 XP points",
+      "250 XP points"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Rewards",
+    "complexity_score": 2
+  },
+  {
+    "question": "How many additional XP points can be earned for successfully completing the challenge test?",
+    "correct": "150 points",
+    "options": [
+      "100 points",
+      "150 points",
+      "200 points",
+      "250 points"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Rewards",
+    "complexity_score": 1
+  },
+  {
+    "question": "For the first question in the Mathematics section, what two things are required about the numbers?",
+    "correct": "Write their sequence and their sum",
+    "options": [
+      "Write only their sum",
+      "Write only their sequence",
+      "Write their sequence and their sum",
+      "Write their sequence and product"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics Questions",
+    "complexity_score": 2
+  },
+  {
+    "question": "In addition to sequence and sum, what type of presentation was required for the first Mathematics question?",
+    "correct": "A pictorial presentation",
+    "options": [
+      "A verbal presentation",
+      "A written explanation",
+      "A pictorial presentation",
+      "A video demonstration"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics Questions",
+    "complexity_score": 2
+  },
+  {
+    "question": "The Mathematics test discussed patterns for generating what type of numbers?",
+    "correct": "Square numbers",
+    "options": [
+      "Odd numbers",
+      "Even numbers",
+      "Prime numbers",
+      "Square numbers"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Mathematics Patterns",
+    "complexity_score": 1
+  },
+  {
+    "question": "A specific Mathematics question asked 'How many triangles will be there in the ______ number?' What number was in the blank?",
+    "correct": "Ninth",
+    "options": [
+      "Fifth",
+      "Seventh",
+      "Ninth",
+      "Tenth"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics Specifics",
+    "complexity_score": 2
+  },
+  {
+    "question": "What kind of sequence was required to write the addition pattern that results in the square number 25?",
+    "correct": "Up and down sequence",
+    "options": [
       "Odd number sequence",
-      "Prime number sequence",
-      "Square number sequence"
+      "Even number sequence",
+      "Counting number series",
+      "Up and down sequence"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Mathematics Patterns",
+    "complexity_score": 3
+  },
+  {
+    "question": "The Social Science question about 'unity in India' used an example 'study' where the student was from which region?",
+    "correct": "European Union",
+    "options": [
+      "Asian countries",
+      "African countries",
+      "European Union",
+      "South America"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Social Science Examples",
     "complexity_score": 2
   },
   {
-    "question": "According to the People of India project, how many versions of Mahabharta were found in Tamil Nadu?",
-    "correct": "100",
+    "question": "Which two epic stories were discussed as having influenced the cultural interactions and diversity across India?",
+    "correct": "Ramayana and Mahavarta (Mahabharata)",
     "options": [
-      "50",
-      "75",
-      "100",
-      "125"
+      "Vedas and Puranas",
+      "Jataka Tales and Panchatantra",
+      "Ramayana and Mahavarta (Mahabharata)",
+      "Upanishads and Bhagavad Gita"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Social Science Cultural Influence",
     "complexity_score": 2
   },
   {
-    "question": "What is the total marks possible in the main test?",
-    "correct": "50",
+    "question": "According to K.S. Sing, how many versions of the Mahabharata did he find in Tamil Nadu alone?",
+    "correct": "100 versions",
     "options": [
-      "25",
-      "50",
-      "75",
-      "100"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many questions are there from each subject in the main test?",
-    "correct": "5",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is required in the pictorial presentation section?",
-    "correct": "Drawing the diagram and explaining the pattern",
-    "options": [
-      "Only drawing",
-      "Only pattern",
-      "Drawing the diagram and explaining the pattern",
-      "Writing numbers"
+      "10 versions",
+      "50 versions",
+      "100 versions",
+      "200 versions"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Social Science Research",
     "complexity_score": 2
   },
   {
-    "question": "What aspect of diversity needs to be explained in the social science section?",
-    "correct": "Unity in diversity of India",
+    "question": "What significant finding was mentioned from the 'Survey of People of India project' regarding epic legends like Pandavas or Ramayana?",
+    "correct": "No place in India was found where they did not visit",
     "options": [
-      "Geographic diversity",
-      "Unity in diversity of India",
-      "Cultural diversity",
-      "Religious diversity"
+      "They only visited South India",
+      "Most places had no connection to them",
+      "No place in India was found where they did not visit",
+      "Only tribal communities were influenced by them"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
+    "topic": "Social Science Research",
+    "complexity_score": 3
   },
   {
-    "question": "What is the minimum score needed to get XP points?",
-    "correct": "45 out of 50",
+    "question": "The initial part of the Social Science chapter discussed a topic that involved 'script' and 'language' as examples of 'micro and nature of many things' within India. What broader concept does this refer to?",
+    "correct": "Unity in Diversity of India",
     "options": [
-      "40 out of 50",
-      "45 out of 50",
-      "35 out of 50",
-      "42 out of 50"
+      "Ancient Indian Scripts",
+      "Linguistic Diversity",
+      "Unity in Diversity of India",
+      "Evolution of Writing Systems"
     ],
-    "difficulty": "easy",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Scoring",
-    "complexity_score": 1
-  },
-  {
-    "question": "What type of examples are needed in the cultural interaction answer?",
-    "correct": "Different versions of epics across India",
-    "options": [
-      "Modern culture",
-      "Different versions of epics across India",
-      "Folk tales",
-      "Historical events"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What should be included in the pattern explanation for mathematics?",
-    "correct": "How each new shape is formed in the sequence",
-    "options": [
-      "Just the numbers",
-      "Only the final answer",
-      "How each new shape is formed in the sequence",
-      "Random patterns"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is mentioned about the Pandavas in the social science section?",
-    "correct": "Every place claims they visited there",
-    "options": [
-      "Their kingdom location",
-      "Their family tree",
-      "Every place claims they visited there",
-      "Their war stories"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the time allocation per question in the challenge section?",
-    "correct": "3 minutes",
-    "options": [
-      "2 minutes",
-      "3 minutes",
-      "4 minutes",
-      "5 minutes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Test Instructions",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is required in the answer about cultural adaptations?",
-    "correct": "Different versions across communities",
-    "options": [
-      "Modern interpretations",
-      "Different versions across communities",
-      "Historical facts",
-      "Geographic locations"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "What kind of sequence needs to be identified in the mathematics section?",
-    "correct": "Square number sequence",
-    "options": [
-      "Fibonacci sequence",
-      "Square number sequence",
-      "Prime number sequence",
-      "Arithmetic sequence"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What elements are required for a complete answer in the test?",
-    "correct": "Examples, explanations, and quality content",
-    "options": [
-      "Just the answer",
-      "Only examples",
-      "Examples, explanations, and quality content",
-      "Brief points"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Test Instructions",
-    "complexity_score": 2
+    "topic": "Social Science Core Concepts",
+    "complexity_score": 3
   }
 ]
