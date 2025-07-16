@@ -1,282 +1,282 @@
 [
   {
-    "question": "Translate the following Hindi sentence into English: 'वह रोज़ाना स्कूल जाता है।'",
-    "correct": "He goes to school daily.",
+    "question": "What is the 'brain' of the cell that controls all its activities and holds the DNA?",
+    "correct": "Nucleus",
     "options": [
-      "He is going to school daily.",
-      "He goes to school daily.",
-      "He went to school daily.",
-      "He will go to school daily."
+      "Mitochondria",
+      "Nucleus",
+      "Cytoplasm",
+      "Cell Membrane"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "Translate the following Hindi sentence into English: 'मैं अभी क्रिकेट खेल रहा हूँ।'",
-    "correct": "I am playing cricket now.",
+    "question": "Which organelle is known as the 'powerhouse' of the cell because it generates most of the cell's supply of energy?",
+    "correct": "Mitochondria",
     "options": [
-      "I play cricket now.",
-      "I was playing cricket now.",
-      "I have played cricket now.",
-      "I am playing cricket now."
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria",
+      "Nucleus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'उसने अपना काम पूरा कर लिया है।'",
-    "correct": "He has completed his work.",
-    "options": [
-      "He completed his work.",
-      "He has completed his work.",
-      "He is completing his work.",
-      "He had completed his work."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 3
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'कल मैंने एक फिल्म देखी।'",
-    "correct": "I watched a movie yesterday.",
-    "options": [
-      "I have watched a movie yesterday.",
-      "I watch a movie yesterday.",
-      "I watched a movie yesterday.",
-      "I was watching a movie yesterday."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'जब तुम आए, मैं सो रहा था।'",
-    "correct": "When you came, I was sleeping.",
-    "options": [
-      "When you come, I was sleeping.",
-      "When you came, I am sleeping.",
-      "When you came, I had been sleeping.",
-      "When you came, I was sleeping."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 4
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'हम कल दिल्ली जाएँगे।'",
-    "correct": "We will go to Delhi tomorrow.",
-    "options": [
-      "We go to Delhi tomorrow.",
-      "We will go to Delhi tomorrow.",
-      "We are going to Delhi tomorrow.",
-      "We went to Delhi tomorrow."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "Translate the following Hindi sentence into English: 'वे सुबह से पढ़ रहे हैं।'",
-    "correct": "They have been studying since morning.",
+    "question": "What is the jelly-like substance that fills the cell and holds all the organelles in place?",
+    "correct": "Cytoplasm",
     "options": [
-      "They are studying since morning.",
-      "They have been studying since morning.",
-      "They were studying since morning.",
-      "They study since morning."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 4
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'हमारे स्टेशन पहुँचने से पहले ट्रेन जा चुकी थी।'",
-    "correct": "The train had left before we reached the station.",
-    "options": [
-      "The train left before we reached the station.",
-      "The train had left before we reached the station.",
-      "The train was leaving before we reached the station.",
-      "The train has left before we reached the station."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 5
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'क्या तुम अंग्रेज़ी बोलते हो?'",
-    "correct": "Do you speak English?",
-    "options": [
-      "Are you speak English?",
-      "You speak English?",
-      "Do you speak English?",
-      "Does you speak English?"
+      "Cytoplasm",
+      "Vacuole",
+      "Cell Wall",
+      "Lysosome"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'वह दो घंटे से तुम्हारा इंतज़ार कर रही थी।'",
-    "correct": "She had been waiting for you for two hours.",
-    "options": [
-      "She has been waiting for you for two hours.",
-      "She was waiting for you for two hours.",
-      "She had been waiting for you for two hours.",
-      "She waited for you for two hours."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 5
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'इस समय कल वह परीक्षा दे रहा होगा।'",
-    "correct": "He will be giving the exam at this time tomorrow.",
-    "options": [
-      "He will give the exam at this time tomorrow.",
-      "He will be giving the exam at this time tomorrow.",
-      "He would be giving the exam at this time tomorrow.",
-      "He will has been giving the exam at this time tomorrow."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 4
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'उसने मुझे नहीं बताया।'",
-    "correct": "He did not tell me.",
-    "options": [
-      "He not told me.",
-      "He did not tell me.",
-      "He has not told me.",
-      "He was not telling me."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'शाम तक वे घर पहुँच चुके होंगे।'",
-    "correct": "They will have reached home by evening.",
-    "options": [
-      "They will be reaching home by evening.",
-      "They will reach home by evening.",
-      "They will have reached home by evening.",
-      "They reach home by evening."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 5
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'बच्चे शोर नहीं मचा रहे थे।'",
-    "correct": "The children were not making a noise.",
-    "options": [
-      "The children did not make a noise.",
-      "The children are not making a noise.",
-      "The children had not made a noise.",
-      "The children were not making a noise."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 3
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'सूर्य पूर्व में उगता है।'",
-    "correct": "The Sun rises in the East.",
-    "options": [
-      "The Sun is rising in the East.",
-      "The Sun rises in the East.",
-      "The Sun has risen in the East.",
-      "The Sun rose in the East."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'क्या वह हमारी मदद करेगा?'",
-    "correct": "Will he help us?",
-    "options": [
-      "Does he help us?",
-      "Is he helping us?",
-      "Will he help us?",
-      "Would he help us?"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'मैंने अभी तक खाना नहीं खाया है।'",
-    "correct": "I have not eaten food yet.",
-    "options": [
-      "I did not eat food yet.",
-      "I have not eaten food yet.",
-      "I am not eating food yet.",
-      "I had not eaten food yet."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
-    "complexity_score": 3
-  },
-  {
-    "question": "Translate the following Hindi sentence into English: 'बारिश हो रही है।'",
-    "correct": "It is raining.",
-    "options": [
-      "It rains.",
-      "It has been raining.",
-      "It is raining.",
-      "It was raining."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "Translate the following Hindi sentence into English: 'जब मैं बच्चा था, मैं रोज़ पार्क में खेलता था।'",
-    "correct": "When I was a child, I used to play in the park daily.",
+    "question": "Which part of the cell acts like a gatekeeper, controlling what enters and leaves?",
+    "correct": "Cell Membrane",
     "options": [
-      "When I was a child, I am playing in the park daily.",
-      "When I was a child, I played in the park daily.",
-      "When I was a child, I use to play in the park daily.",
-      "When I was a child, I used to play in the park daily."
+      "Cell Wall",
+      "Nucleolus",
+      "Golgi Apparatus",
+      "Cell Membrane"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of these structures is found in a plant cell but NOT in an animal cell?",
+    "correct": "Cell Wall",
+    "options": [
+      "Nucleus",
+      "Cell Wall",
+      "Mitochondria",
+      "Cell Membrane"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the primary function of chloroplasts in a plant cell?",
+    "correct": "To perform photosynthesis",
+    "options": [
+      "To store water",
+      "To provide energy through respiration",
+      "To perform photosynthesis",
+      "To control cell activities"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "What tiny organelles are responsible for making proteins for the cell?",
+    "correct": "Ribosomes",
+    "options": [
+      "Lysosomes",
+      "Ribosomes",
+      "Vacuoles",
+      "Golgi Apparatus"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which organelle acts like the cell's 'post office,' modifying, sorting, and packaging proteins and lipids for transport?",
+    "correct": "Golgi Apparatus",
+    "options": [
+      "Endoplasmic Reticulum",
+      "Nucleus",
+      "Golgi Apparatus",
+      "Mitochondria"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the main difference between prokaryotic and eukaryotic cells?",
+    "correct": "Eukaryotic cells have a nucleus, while prokaryotic cells do not.",
+    "options": [
+      "Prokaryotic cells have a cell wall, but eukaryotic cells do not.",
+      "Eukaryotic cells are always smaller than prokaryotic cells.",
+      "Eukaryotic cells have a nucleus, while prokaryotic cells do not.",
+      "Prokaryotic cells have mitochondria, but eukaryotic cells do not."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which organelle contains digestive enzymes to break down waste materials and cellular debris?",
+    "correct": "Lysosome",
+    "options": [
+      "Lysosome",
+      "Ribosome",
+      "Vacuole",
+      "Nucleolus"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "Plant cells have a large central one of these for storing water, nutrients, and waste products.",
+    "correct": "Vacuole",
+    "options": [
+      "Mitochondria",
+      "Chloroplast",
+      "Vacuole",
+      "Nucleus"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "The rough endoplasmic reticulum (ER) is described as 'rough' because it is covered with what structures?",
+    "correct": "Ribosomes",
+    "options": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Lysosomes",
+      "Ribosomes"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
+    "topic": "Cellular Biology",
     "complexity_score": 4
   },
   {
-    "question": "Translate the following Hindi sentence into English: 'अगले साल तक, मैं यह किताब लिख चुका होऊँगा।'",
-    "correct": "By next year, I will have written this book.",
+    "question": "What rigid carbohydrate is the main component of a plant cell's wall?",
+    "correct": "Cellulose",
     "options": [
-      "By next year, I will write this book.",
-      "By next year, I will be writing this book.",
-      "By next year, I will have written this book.",
-      "By next year, I would have written this book."
+      "Starch",
+      "Glycogen",
+      "Cellulose",
+      "Chitin"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Hindi to English Translation (Tenses)",
+    "topic": "Cellular Biology",
+    "complexity_score": 4
+  },
+  {
+    "question": "What is the name of the process that occurs in the mitochondria to release energy from food?",
+    "correct": "Cellular Respiration",
+    "options": [
+      "Photosynthesis",
+      "Cellular Respiration",
+      "Fermentation",
+      "Digestion"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 4
+  },
+  {
+    "question": "Which type of Endoplasmic Reticulum is involved in synthesizing lipids and detoxifying harmful substances?",
+    "correct": "Smooth ER",
+    "options": [
+      "Rough ER",
+      "Sarcoplasmic Reticulum",
+      "Smooth ER",
+      "Golgi ER"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
     "complexity_score": 5
+  },
+  {
+    "question": "The cell's genetic material, DNA, is found inside which organelle?",
+    "correct": "Nucleus",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
+  },
+  {
+    "question": "What structure provides rigid support and protection for a plant cell?",
+    "correct": "Cell Wall",
+    "options": [
+      "Cytoskeleton",
+      "Cell Membrane",
+      "Cell Wall",
+      "Vacuole"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Where are ribosomes assembled inside the nucleus of a eukaryotic cell?",
+    "correct": "Nucleolus",
+    "options": [
+      "Nuclear Pore",
+      "Chromatin",
+      "Nucleolus",
+      "Nuclear Envelope"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 5
+  },
+  {
+    "question": "Which of the following is an example of a prokaryotic organism?",
+    "correct": "A bacterium",
+    "options": [
+      "A yeast",
+      "A human",
+      "A mushroom",
+      "A bacterium"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "The network of membranes that functions as a manufacturing and packaging system is the...?",
+    "correct": "Endoplasmic Reticulum",
+    "options": [
+      "Endoplasmic Reticulum",
+      "Cytoskeleton",
+      "Mitochondria",
+      "Vacuole"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
   }
 ]
