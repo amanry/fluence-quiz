@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the basic building block of all living things?",
-    "correct": "Cell",
+    "question": "In the dictation, who are Jo and Meg described as?",
+    "correct": "The March sisters",
     "options": [
-      "Atom",
-      "Water",
-      "Cell",
-      "Molecule"
+      "Two dogs",
+      "Laurie's friends",
+      "The March sisters",
+      "The helpers"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Story Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Which part of the cell is known as the 'control center' or 'brain'?",
-    "correct": "Nucleus",
+    "question": "Who is the character Laurie?",
+    "correct": "The boy in the neighborhood",
     "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Cytoplasm",
-      "Cell Membrane"
+      "The grandfather",
+      "A dog",
+      "Jo's brother",
+      "The boy in the neighborhood"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Story Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Which organelle is called the 'powerhouse' because it generates most of the cell's energy?",
-    "correct": "Mitochondria",
+    "question": "What is the name of Laurie's Grandfather?",
+    "correct": "OLD Mr. Lawrence",
     "options": [
-      "Ribosome",
-      "Vacuole",
-      "Mitochondria",
-      "Chloroplast"
+      "Henry",
+      "Jo",
+      "OLD Mr. Lawrence",
+      "Mr. March"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Story Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "Where is 'Scene 1' set?",
+    "correct": "In a drawing room",
+    "options": [
+      "In a kitchen",
+      "In a drawing room",
+      "Outside in a garden",
+      "In Laurie's house"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Story Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "What is the jelly-like substance that fills the cell and holds all the organelles in place?",
-    "correct": "Cytoplasm",
+    "question": "What is in the fireplace?",
+    "correct": "A small, cheerful fire",
     "options": [
-      "Cytoplasm",
-      "Nucleus",
-      "Cell Wall",
-      "Vacuole"
+      "A large, roaring fire",
+      "Nothing, it's empty",
+      "A small, cheerful fire",
+      "Some old logs"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Story Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "What color are the curtains at the windows?",
+    "correct": "Crimson",
+    "options": [
+      "Blue",
+      "Green",
+      "Crimson",
+      "Yellow"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Story Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "The overall effect of the room is described as 'shabby but...'",
+    "correct": "genteel poverty",
+    "options": [
+      "very comfortable",
+      "brightly lit",
+      "brand new",
+      "genteel poverty"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Vocabulary & Spelling",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the correct spelling for a part of a play?",
+    "correct": "scene",
+    "options": [
+      "seen",
+      "sciene",
+      "scene",
+      "sceen"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Vocabulary & Spelling",
     "complexity_score": 1
   },
   {
-    "question": "Which part of the cell acts like a gatekeeper, controlling what enters and leaves?",
-    "correct": "Cell Membrane",
+    "question": "Which word means 'a fire that is burning brightly'?",
+    "correct": "blazing",
     "options": [
-      "Cell Wall",
-      "Cell Membrane",
-      "Nucleolus",
-      "Golgi Apparatus"
+      "breathing",
+      "glowing",
+      "blazing",
+      "warming"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Vocabulary & Spelling",
     "complexity_score": 2
   },
   {
-    "question": "Which type of cell typically has a large central vacuole, a cell wall, and chloroplasts?",
-    "correct": "Plant cell",
+    "question": "What is the correct spelling for the deep red color mentioned?",
+    "correct": "crimson",
     "options": [
-      "Animal cell",
-      "Bacterial cell",
-      "Fungal cell",
-      "Plant cell"
+      "crimzon",
+      "crimson",
+      "crizmon",
+      "krimson"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Vocabulary & Spelling",
+    "complexity_score": 3
+  },
+  {
+    "question": "Choose the correct spelling for 'old and in poor condition'.",
+    "correct": "shabby",
+    "options": [
+      "shaby",
+      "shabie",
+      "shabby",
+      "chabby"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Vocabulary & Spelling",
     "complexity_score": 2
   },
   {
-    "question": "What is the primary function of chloroplasts in a plant cell?",
-    "correct": "To perform photosynthesis and make food",
+    "question": "Choose the correct spelling for 'polite, respectable, or refined'.",
+    "correct": "genteel",
     "options": [
-      "To store water",
-      "To provide energy",
-      "To perform photosynthesis and make food",
-      "To control the cell"
+      "jenteel",
+      "gentile",
+      "genteal",
+      "genteel"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
+    "topic": "Vocabulary & Spelling",
+    "complexity_score": 3
   },
   {
-    "question": "What is the strong, rigid outer layer found only in plant cells?",
-    "correct": "Cell Wall",
+    "question": "What is the correct way to show that a bag belongs to Anaya?",
+    "correct": "Anaya's bag",
     "options": [
-      "Cell Membrane",
-      "Cytoskeleton",
-      "Cell Wall",
-      "Nuclear Envelope"
+      "Anayas bag",
+      "Anaya bag",
+      "Anayas' bag",
+      "Anaya's bag"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Grammar",
     "complexity_score": 1
   },
   {
-    "question": "Which tiny organelles are the 'protein factories' of the cell?",
-    "correct": "Ribosomes",
+    "question": "How do you show that a room belongs to all the boys (plural)?",
+    "correct": "The boys' room",
     "options": [
-      "Lysosomes",
-      "Ribosomes",
-      "Mitochondria",
-      "Vacuoles"
+      "The boys room",
+      "The boy's room",
+      "The boys' room",
+      "The boyes room"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Grammar",
     "complexity_score": 2
   },
   {
-    "question": "Animal cells lack which of the following structures?",
-    "correct": "Cell Wall",
+    "question": "If a name ends in 's', like Charles, how do you show something belongs to him?",
+    "correct": "Charles' book",
     "options": [
-      "Nucleus",
-      "Mitochondria",
-      "Cell Membrane",
-      "Cell Wall"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "Simple cells, like bacteria, that do NOT have a nucleus are called...",
-    "correct": "Prokaryotic cells",
-    "options": [
-      "Eukaryotic cells",
-      "Plant cells",
-      "Prokaryotic cells",
-      "Animal cells"
+      "Charles's' book",
+      "Charleses book",
+      "Charles' book",
+      "Charles book"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Grammar",
     "complexity_score": 3
   },
   {
-    "question": "Humans, animals, and plants are made of which more complex type of cells?",
-    "correct": "Eukaryotic cells",
+    "question": "What is the correct spelling of the area around your house?",
+    "correct": "neighborhood",
     "options": [
-      "Unicellular cells",
-      "Bacterial cells",
-      "Prokaryotic cells",
-      "Eukaryotic cells"
+      "nieghborhood",
+      "nayborhood",
+      "neighborhood",
+      "neiborhood"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Vocabulary & Spelling",
     "complexity_score": 2
   },
   {
-    "question": "What is the main purpose of the large central vacuole in a plant cell?",
-    "correct": "To store water and maintain pressure",
+    "question": "The sofas were covered with a 'pretty but...' cloth.",
+    "correct": "faded",
     "options": [
-      "To create energy",
-      "To make proteins",
-      "To store water and maintain pressure",
-      "To digest waste"
+      "new",
+      "bright",
+      "faded",
+      "torn"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Story Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "What does 'genteel poverty' suggest about the family?",
+    "correct": "They have little money but high social standing",
+    "options": [
+      "They are very rich and famous",
+      "They are poor and uneducated",
+      "They have little money but high social standing",
+      "They just moved into a new house"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Vocabulary & Spelling",
     "complexity_score": 3
   },
   {
-    "question": "Where is the genetic material (DNA) stored in a eukaryotic cell?",
-    "correct": "In the nucleus",
+    "question": "What is the job of the 'maid' character?",
+    "correct": "The helper in the Lawrence household",
     "options": [
-      "In the cytoplasm",
-      "In the mitochondria",
-      "In the nucleus",
-      "In the ribosomes"
+      "The teacher in the school",
+      "The helper in the Lawrence household",
+      "A sister of Jo and Meg",
+      "The owner of the house"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Story Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is the best example of a prokaryotic organism?",
-    "correct": "A bacterium",
+    "question": "Which of these items was NOT mentioned as being in the drawing room?",
+    "correct": "A television",
     "options": [
-      "A mushroom",
-      "A human",
-      "A bacterium",
-      "An oak tree"
+      "Two sofas",
+      "A cupboard",
+      "A fireplace",
+      "A television"
     ],
-    "difficulty": "hard",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "What process do mitochondria use to convert food into usable energy (ATP)?",
-    "correct": "Cellular Respiration",
-    "options": [
-      "Photosynthesis",
-      "Cellular Respiration",
-      "Digestion",
-      "Osmosis"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which organelle acts like a 'storage tank' for water, food, and waste products?",
-    "correct": "Vacuole",
-    "options": [
-      "Nucleus",
-      "Golgi Apparatus",
-      "Vacuole",
-      "Endoplasmic Reticulum"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organelle acts as the cell's 'post office' by packaging and shipping proteins?",
-    "correct": "Golgi Apparatus",
-    "options": [
-      "Mitochondria",
-      "Golgi Apparatus",
-      "Ribosome",
-      "Lysosome"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "In what way are plant and animal cells similar?",
-    "correct": "They both have a nucleus and mitochondria",
-    "options": [
-      "They both have a cell wall",
-      "They both have chloroplasts",
-      "They both have a nucleus and mitochondria",
-      "They both have a large central vacuole"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organelle is responsible for breaking down waste and old cell parts, acting like a 'recycling center'?",
-    "correct": "Lysosome",
-    "options": [
-      "Nucleolus",
-      "Vacuole",
-      "Lysosome",
-      "Peroxisome"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
+    "topic": "Story Comprehension",
+    "complexity_score": 1
   }
 ]
