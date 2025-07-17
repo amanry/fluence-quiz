@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which part of the cell is known as the 'control center' or 'brain' because it contains the DNA?",
-    "correct": "Nucleus",
+    "question": "What is the name of the star at the center of our Solar System?",
+    "correct": "The Sun",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Nucleus",
-      "Cytoplasm"
+      "The Moon",
+      "Proxima Centauri",
+      "The Sun",
+      "Betelgeuse"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
   },
   {
-    "question": "What is the primary function of the mitochondria?",
-    "correct": "To generate energy (ATP) for the cell",
+    "question": "Which planet is known as the 'Red Planet' because of its rusty color?",
+    "correct": "Mars",
     "options": [
-      "To store water",
-      "To create proteins",
-      "To control cell division",
-      "To generate energy (ATP) for the cell"
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Saturn"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
   },
   {
-    "question": "Which organelle is responsible for making proteins?",
-    "correct": "Ribosome",
+    "question": "What is the largest planet in our Solar System?",
+    "correct": "Jupiter",
     "options": [
-      "Golgi apparatus",
-      "Lysosome",
-      "Ribosome",
-      "Nucleolus"
+      "Earth",
+      "Saturn",
+      "Neptune",
+      "Jupiter"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
   },
   {
-    "question": "The jelly-like substance that fills the cell and surrounds the organelles is called:",
-    "correct": "Cytoplasm",
+    "question": "Which planet is famous for its spectacular rings made of ice and rock?",
+    "correct": "Saturn",
     "options": [
-      "Cell membrane",
-      "Cytoplasm",
-      "Vacuole",
-      "Endoplasmic Reticulum"
+      "Uranus",
+      "Saturn",
+      "Mars",
+      "Earth"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
   },
   {
-    "question": "What is the main difference between a plant cell and an animal cell?",
-    "correct": "Plant cells have a cell wall and chloroplasts, while animal cells do not.",
+    "question": "How many planets are officially recognized in our Solar System?",
+    "correct": "8",
     "options": [
-      "Animal cells have a nucleus, but plant cells do not.",
-      "Plant cells have a cell wall and chloroplasts, while animal cells do not.",
-      "Animal cells are larger than plant cells.",
-      "Plant cells have mitochondria, but animal cells do not."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "In a plant cell, where does photosynthesis take place?",
-    "correct": "Chloroplast",
-    "options": [
-      "Mitochondria",
-      "Central Vacuole",
-      "Chloroplast",
-      "Cell wall"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organelle acts like a 'post office' by modifying, sorting, and packaging proteins and lipids?",
-    "correct": "Golgi apparatus",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Golgi apparatus",
-      "Lysosome"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "The rigid outer layer of a plant cell is the:",
-    "correct": "Cell wall",
-    "options": [
-      "Cell membrane",
-      "Cytoskeleton",
-      "Cell wall",
-      "Capsule"
+      "7",
+      "8",
+      "9",
+      "10"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
   },
   {
-    "question": "What is the function of the cell membrane?",
-    "correct": "To control which substances enter and leave the cell",
+    "question": "What is the name of Earth's only natural satellite?",
+    "correct": "The Moon",
     "options": [
-      "To provide rigid support for the cell",
-      "To produce energy",
-      "To control which substances enter and leave the cell",
-      "To store genetic information"
+      "Phobos",
+      "Europa",
+      "The Moon",
+      "Titan"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
   },
   {
-    "question": "Which organelle is known as the 'recycling center' because it breaks down waste and old cell parts?",
-    "correct": "Lysosome",
+    "question": "Which planet is closest to the Sun?",
+    "correct": "Mercury",
     "options": [
-      "Vacuole",
-      "Lysosome",
-      "Peroxisome",
-      "Ribosome"
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 2
   },
   {
-    "question": "Prokaryotic cells (like bacteria) are different from eukaryotic cells because they lack...",
-    "correct": "A nucleus and other membrane-bound organelles",
+    "question": "What is the giant storm on Jupiter called?",
+    "correct": "The Great Red Spot",
     "options": [
-      "A cell membrane",
-      "Ribosomes",
-      "DNA",
-      "A nucleus and other membrane-bound organelles"
+      "The Big Blue Dot",
+      "The Great Red Spot",
+      "The Eye of Jupiter",
+      "The Perpetual Hurricane"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 2
   },
   {
-    "question": "What does the 'rough' in Rough Endoplasmic Reticulum refer to?",
-    "correct": "The presence of ribosomes on its surface",
+    "question": "Which two planets are known as the 'ice giants'?",
+    "correct": "Uranus and Neptune",
     "options": [
-      "Its bumpy texture from lipids",
-      "The presence of ribosomes on its surface",
-      "Its function in breaking down rough materials",
-      "Its location near the rough side of the cell"
+      "Jupiter and Saturn",
+      "Mars and Venus",
+      "Uranus and Neptune",
+      "Mercury and Earth"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 2
   },
   {
-    "question": "Plant cells have a large central vacuole primarily for...",
-    "correct": "Storing water and maintaining turgor pressure",
+    "question": "What is the main force that keeps the planets in orbit around the Sun?",
+    "correct": "Gravity",
     "options": [
-      "Digesting food",
-      "Synthesizing proteins",
-      "Storing water and maintaining turgor pressure",
-      "Carrying out photosynthesis"
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Solar Wind"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 2
   },
   {
-    "question": "Which of these is NOT part of the Cell Theory?",
-    "correct": "All cells have a nucleus.",
+    "question": "Which planet is the hottest in our solar system, due to a thick, toxic atmosphere?",
+    "correct": "Venus",
     "options": [
-      "All living things are composed of one or more cells.",
-      "The cell is the basic unit of life.",
-      "All cells arise from pre-existing cells.",
-      "All cells have a nucleus."
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 3
   },
   {
-    "question": "The network of protein filaments that provides shape and support to the cell is called the:",
-    "correct": "Cytoskeleton",
+    "question": "The region between Mars and Jupiter is filled with rocky objects and is known as what?",
+    "correct": "The Asteroid Belt",
     "options": [
-      "Cell wall",
-      "Endoplasmic Reticulum",
-      "Cytoskeleton",
-      "Golgi complex"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which process describes the movement of water across a selectively permeable membrane?",
-    "correct": "Osmosis",
-    "options": [
-      "Diffusion",
-      "Active transport",
-      "Osmosis",
-      "Endocytosis"
+      "The Kuiper Belt",
+      "The Oort Cloud",
+      "The Asteroid Belt",
+      "The Planetary Ring"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 2
   },
   {
-    "question": "Smooth Endoplasmic Reticulum is responsible for...",
-    "correct": "Synthesizing lipids and detoxifying substances",
+    "question": "Which planet is tilted and spins on its side?",
+    "correct": "Uranus",
     "options": [
-      "Synthesizing proteins",
-      "Generating ATP",
-      "Synthesizing lipids and detoxifying substances",
-      "Storing DNA"
+      "Neptune",
+      "Saturn",
+      "Pluto",
+      "Uranus"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 3
   },
   {
-    "question": "Which of the following would you find in a bacterial cell?",
-    "correct": "Ribosomes",
+    "question": "What is the name of the galaxy that contains our Solar System?",
+    "correct": "The Milky Way",
     "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Ribosomes",
-      "Golgi apparatus"
+      "Andromeda",
+      "Triangulum",
+      "The Milky Way",
+      "Whirlpool"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 2
   },
   {
-    "question": "Which structures are found in animal cells and are involved in cell division?",
-    "correct": "Centrioles",
+    "question": "Which celestial body was reclassified from a planet to a dwarf planet in 2006?",
+    "correct": "Pluto",
     "options": [
-      "Chloroplasts",
-      "Cell walls",
-      "Centrioles",
-      "Large central vacuoles"
+      "Ceres",
+      "Eris",
+      "Pluto",
+      "Makemake"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "The Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the four planets closest to the sun collectively called?",
+    "correct": "Terrestrial planets",
+    "options": [
+      "Gas giants",
+      "Ice giants",
+      "Dwarf planets",
+      "Terrestrial planets"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 3
   },
   {
-    "question": "The basic structural and functional unit of all known living organisms is the...",
-    "correct": "Cell",
+    "question": "What is a 'shooting star' actually?",
+    "correct": "A meteor burning up in the atmosphere",
     "options": [
-      "Organ",
-      "Tissue",
-      "Molecule",
-      "Cell"
+      "A star falling from the sky",
+      "A small comet",
+      "A meteor burning up in the atmosphere",
+      "A distant airplane"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "The Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which planet is the farthest from the Sun?",
+    "correct": "Neptune",
+    "options": [
+      "Uranus",
+      "Saturn",
+      "Neptune",
+      "Jupiter"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "The Solar System",
     "complexity_score": 1
+  },
+  {
+    "question": "Which planet takes the longest time to orbit the Sun?",
+    "correct": "Neptune",
+    "options": [
+      "Jupiter",
+      "Neptune",
+      "Uranus",
+      "Saturn"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "The Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "About how long does it take for light from the Sun to reach Earth?",
+    "correct": "8 minutes",
+    "options": [
+      "8 seconds",
+      "8 minutes",
+      "8 hours",
+      "8 days"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "The Solar System",
+    "complexity_score": 3
   }
 ]
