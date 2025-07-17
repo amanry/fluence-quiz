@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the name of the star at the center of our Solar System?",
-    "correct": "The Sun",
+    "question": "What is the basic building block of all living things?",
+    "correct": "Cell",
     "options": [
-      "The Moon",
-      "Proxima Centauri",
-      "The Sun",
-      "Betelgeuse"
+      "Atom",
+      "Water",
+      "Cell",
+      "Molecule"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "Which planet is known as the 'Red Planet' because of its rusty color?",
-    "correct": "Mars",
+    "question": "Which part of the cell is known as the 'control center' or 'brain'?",
+    "correct": "Nucleus",
     "options": [
-      "Jupiter",
-      "Mars",
-      "Venus",
-      "Saturn"
+      "Mitochondria",
+      "Nucleus",
+      "Cytoplasm",
+      "Cell Membrane"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "What is the largest planet in our Solar System?",
-    "correct": "Jupiter",
+    "question": "Which organelle is called the 'powerhouse' because it generates most of the cell's energy?",
+    "correct": "Mitochondria",
     "options": [
-      "Earth",
-      "Saturn",
-      "Neptune",
-      "Jupiter"
+      "Ribosome",
+      "Vacuole",
+      "Mitochondria",
+      "Chloroplast"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "Which planet is famous for its spectacular rings made of ice and rock?",
-    "correct": "Saturn",
+    "question": "What is the jelly-like substance that fills the cell and holds all the organelles in place?",
+    "correct": "Cytoplasm",
     "options": [
-      "Uranus",
-      "Saturn",
-      "Mars",
-      "Earth"
+      "Cytoplasm",
+      "Nucleus",
+      "Cell Wall",
+      "Vacuole"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "How many planets are officially recognized in our Solar System?",
-    "correct": "8",
+    "question": "Which part of the cell acts like a gatekeeper, controlling what enters and leaves?",
+    "correct": "Cell Membrane",
     "options": [
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the name of Earth's only natural satellite?",
-    "correct": "The Moon",
-    "options": [
-      "Phobos",
-      "Europa",
-      "The Moon",
-      "Titan"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which planet is closest to the Sun?",
-    "correct": "Mercury",
-    "options": [
-      "Venus",
-      "Earth",
-      "Mercury",
-      "Mars"
+      "Cell Wall",
+      "Cell Membrane",
+      "Nucleolus",
+      "Golgi Apparatus"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "What is the giant storm on Jupiter called?",
-    "correct": "The Great Red Spot",
+    "question": "Which type of cell typically has a large central vacuole, a cell wall, and chloroplasts?",
+    "correct": "Plant cell",
     "options": [
-      "The Big Blue Dot",
-      "The Great Red Spot",
-      "The Eye of Jupiter",
-      "The Perpetual Hurricane"
+      "Animal cell",
+      "Bacterial cell",
+      "Fungal cell",
+      "Plant cell"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "Which two planets are known as the 'ice giants'?",
-    "correct": "Uranus and Neptune",
+    "question": "What is the primary function of chloroplasts in a plant cell?",
+    "correct": "To perform photosynthesis and make food",
     "options": [
-      "Jupiter and Saturn",
-      "Mars and Venus",
-      "Uranus and Neptune",
-      "Mercury and Earth"
+      "To store water",
+      "To provide energy",
+      "To perform photosynthesis and make food",
+      "To control the cell"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "What is the main force that keeps the planets in orbit around the Sun?",
-    "correct": "Gravity",
+    "question": "What is the strong, rigid outer layer found only in plant cells?",
+    "correct": "Cell Wall",
     "options": [
-      "Magnetism",
-      "Gravity",
-      "Friction",
-      "Solar Wind"
+      "Cell Membrane",
+      "Cytoskeleton",
+      "Cell Wall",
+      "Nuclear Envelope"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which tiny organelles are the 'protein factories' of the cell?",
+    "correct": "Ribosomes",
+    "options": [
+      "Lysosomes",
+      "Ribosomes",
+      "Mitochondria",
+      "Vacuoles"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "Which planet is the hottest in our solar system, due to a thick, toxic atmosphere?",
-    "correct": "Venus",
+    "question": "Animal cells lack which of the following structures?",
+    "correct": "Cell Wall",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Jupiter"
+      "Nucleus",
+      "Mitochondria",
+      "Cell Membrane",
+      "Cell Wall"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Simple cells, like bacteria, that do NOT have a nucleus are called...",
+    "correct": "Prokaryotic cells",
+    "options": [
+      "Eukaryotic cells",
+      "Plant cells",
+      "Prokaryotic cells",
+      "Animal cells"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 3
   },
   {
-    "question": "The region between Mars and Jupiter is filled with rocky objects and is known as what?",
-    "correct": "The Asteroid Belt",
+    "question": "Humans, animals, and plants are made of which more complex type of cells?",
+    "correct": "Eukaryotic cells",
     "options": [
-      "The Kuiper Belt",
-      "The Oort Cloud",
-      "The Asteroid Belt",
-      "The Planetary Ring"
+      "Unicellular cells",
+      "Bacterial cells",
+      "Prokaryotic cells",
+      "Eukaryotic cells"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "Which planet is tilted and spins on its side?",
-    "correct": "Uranus",
+    "question": "What is the main purpose of the large central vacuole in a plant cell?",
+    "correct": "To store water and maintain pressure",
     "options": [
-      "Neptune",
-      "Saturn",
-      "Pluto",
-      "Uranus"
+      "To create energy",
+      "To make proteins",
+      "To store water and maintain pressure",
+      "To digest waste"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 3
   },
   {
-    "question": "What is the name of the galaxy that contains our Solar System?",
-    "correct": "The Milky Way",
+    "question": "Where is the genetic material (DNA) stored in a eukaryotic cell?",
+    "correct": "In the nucleus",
     "options": [
-      "Andromeda",
-      "Triangulum",
-      "The Milky Way",
-      "Whirlpool"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which celestial body was reclassified from a planet to a dwarf planet in 2006?",
-    "correct": "Pluto",
-    "options": [
-      "Ceres",
-      "Eris",
-      "Pluto",
-      "Makemake"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the four planets closest to the sun collectively called?",
-    "correct": "Terrestrial planets",
-    "options": [
-      "Gas giants",
-      "Ice giants",
-      "Dwarf planets",
-      "Terrestrial planets"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is a 'shooting star' actually?",
-    "correct": "A meteor burning up in the atmosphere",
-    "options": [
-      "A star falling from the sky",
-      "A small comet",
-      "A meteor burning up in the atmosphere",
-      "A distant airplane"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which planet is the farthest from the Sun?",
-    "correct": "Neptune",
-    "options": [
-      "Uranus",
-      "Saturn",
-      "Neptune",
-      "Jupiter"
+      "In the cytoplasm",
+      "In the mitochondria",
+      "In the nucleus",
+      "In the ribosomes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "Which planet takes the longest time to orbit the Sun?",
-    "correct": "Neptune",
+    "question": "Which of these is the best example of a prokaryotic organism?",
+    "correct": "A bacterium",
     "options": [
-      "Jupiter",
-      "Neptune",
-      "Uranus",
-      "Saturn"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "About how long does it take for light from the Sun to reach Earth?",
-    "correct": "8 minutes",
-    "options": [
-      "8 seconds",
-      "8 minutes",
-      "8 hours",
-      "8 days"
+      "A mushroom",
+      "A human",
+      "A bacterium",
+      "An oak tree"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "What process do mitochondria use to convert food into usable energy (ATP)?",
+    "correct": "Cellular Respiration",
+    "options": [
+      "Photosynthesis",
+      "Cellular Respiration",
+      "Digestion",
+      "Osmosis"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which organelle acts like a 'storage tank' for water, food, and waste products?",
+    "correct": "Vacuole",
+    "options": [
+      "Nucleus",
+      "Golgi Apparatus",
+      "Vacuole",
+      "Endoplasmic Reticulum"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which organelle acts as the cell's 'post office' by packaging and shipping proteins?",
+    "correct": "Golgi Apparatus",
+    "options": [
+      "Mitochondria",
+      "Golgi Apparatus",
+      "Ribosome",
+      "Lysosome"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "In what way are plant and animal cells similar?",
+    "correct": "They both have a nucleus and mitochondria",
+    "options": [
+      "They both have a cell wall",
+      "They both have chloroplasts",
+      "They both have a nucleus and mitochondria",
+      "They both have a large central vacuole"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which organelle is responsible for breaking down waste and old cell parts, acting like a 'recycling center'?",
+    "correct": "Lysosome",
+    "options": [
+      "Nucleolus",
+      "Vacuole",
+      "Lysosome",
+      "Peroxisome"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
     "complexity_score": 3
   }
 ]
