@@ -1,54 +1,12 @@
 [
   {
-    "question": "Which is the largest planet in our Solar System?",
-    "correct": "Jupiter",
-    "options": [
-      "Earth",
-      "Saturn",
-      "Jupiter",
-      "Neptune"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which planet is known as the 'Red Planet'?",
-    "correct": "Mars",
-    "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Jupiter"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the name of the star at the center of our Solar System?",
+    "question": "What giant star is at the center of our solar system?",
     "correct": "The Sun",
     "options": [
-      "Proxima Centauri",
-      "The Sun",
-      "Sirius",
-      "Alpha Centauri"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which planet is famous for its beautiful and prominent rings?",
-    "correct": "Saturn",
-    "options": [
-      "Uranus",
       "Jupiter",
-      "Neptune",
-      "Saturn"
+      "The Moon",
+      "The Sun",
+      "Proxima Centauri"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,7 +14,7 @@
     "complexity_score": 1
   },
   {
-    "question": "How many planets are there in our Solar System?",
+    "question": "How many planets are officially recognized in our solar system?",
     "correct": "8",
     "options": [
       "7",
@@ -70,213 +28,255 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the name of the dwarf planet that used to be considered the ninth planet?",
-    "correct": "Pluto",
+    "question": "Which is the largest planet in our solar system?",
+    "correct": "Jupiter",
     "options": [
-      "Ceres",
-      "Eris",
-      "Pluto",
-      "Makemake"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which is the hottest planet in the Solar System, due to its thick atmosphere?",
-    "correct": "Venus",
-    "options": [
-      "Mercury",
-      "Venus",
+      "Saturn",
       "Earth",
-      "Mars"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the Great Red Spot on Jupiter?",
-    "correct": "A giant storm",
-    "options": [
-      "A large volcano",
-      "A giant storm",
-      "A red-colored ocean",
-      "A massive crater"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which planet is closest to the Sun?",
-    "correct": "Mercury",
-    "options": [
-      "Venus",
-      "Earth",
-      "Mercury",
-      "Mars"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the name of our galaxy?",
-    "correct": "The Milky Way",
-    "options": [
-      "Andromeda",
-      "Triangulum",
-      "The Sombrero Galaxy",
-      "The Milky Way"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which two planets are known as the 'ice giants'?",
-    "correct": "Uranus and Neptune",
-    "options": [
-      "Jupiter and Saturn",
-      "Mars and Venus",
-      "Uranus and Neptune",
-      "Earth and Mars"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 3
-  },
-  {
-    "question": "What large collection of space rocks is found between the orbits of Mars and Jupiter?",
-    "correct": "The Asteroid Belt",
-    "options": [
-      "The Kuiper Belt",
-      "The Oort Cloud",
-      "The Asteroid Belt",
-      "The Rings of Saturn"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which planet is tilted and spins on its side?",
-    "correct": "Uranus",
-    "options": [
       "Neptune",
-      "Uranus",
-      "Pluto",
-      "Saturn"
+      "Jupiter"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 3
+    "topic": "Planets",
+    "complexity_score": 2
   },
   {
-    "question": "How long does it take for Earth to make one full orbit around the Sun?",
-    "correct": "About 365 days",
+    "question": "Which planet is famous for its beautiful and complex ring system?",
+    "correct": "Saturn",
     "options": [
-      "About 24 hours",
-      "About 30 days",
-      "About 365 days",
-      "About 500 days"
+      "Uranus",
+      "Mars",
+      "Saturn",
+      "Venus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
+    "topic": "Planets",
+    "complexity_score": 2
   },
   {
-    "question": "Which is the smallest planet in our Solar System?",
+    "question": "What are the first four planets closest to the Sun (Mercury, Venus, Earth, Mars) called?",
+    "correct": "Terrestrial Planets",
+    "options": [
+      "Gas Giants",
+      "Ice Giants",
+      "Dwarf Planets",
+      "Terrestrial Planets"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Planet Classification",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which planet is the closest to the Sun?",
     "correct": "Mercury",
     "options": [
-      "Mars",
-      "Pluto",
+      "Venus",
       "Mercury",
+      "Mars",
       "Earth"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 2
+    "topic": "Planet Order",
+    "complexity_score": 3
   },
   {
-    "question": "Which planet is the third from the Sun?",
-    "correct": "Earth",
+    "question": "Earth is the third planet from the Sun. Which planet is fourth?",
+    "correct": "Mars",
     "options": [
+      "Jupiter",
       "Venus",
       "Mars",
-      "Earth",
       "Mercury"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 1
+    "topic": "Planet Order",
+    "complexity_score": 2
   },
   {
-    "question": "Jupiter, Saturn, Uranus, and Neptune are known as what type of planets?",
-    "correct": "Gas Giants",
+    "question": "Which planet is unique because it spins on its side?",
+    "correct": "Uranus",
     "options": [
-      "Rocky Planets",
-      "Gas Giants",
-      "Dwarf Planets",
-      "Ice Planets"
+      "Neptune",
+      "Uranus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Planets",
+    "complexity_score": 4
+  },
+  {
+    "question": "In 2006, Pluto was reclassified from a planet to what?",
+    "correct": "A Dwarf Planet",
+    "options": [
+      "A Comet",
+      "An Asteroid",
+      "A Dwarf Planet",
+      "A Moon"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Celestial Bodies",
+    "complexity_score": 3
+  },
+  {
+    "question": "The Asteroid Belt, a region of space rocks, is located between which two planets?",
+    "correct": "Mars and Jupiter",
+    "options": [
+      "Earth and Mars",
+      "Jupiter and Saturn",
+      "Mars and Jupiter",
+      "Saturn and Uranus"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Celestial Bodies",
+    "complexity_score": 4
+  },
+  {
+    "question": "What is the common name for a meteor burning up in Earth's atmosphere?",
+    "correct": "A shooting star",
+    "options": [
+      "A comet",
+      "A shooting star",
+      "An asteroid",
+      "A solar flare"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Celestial Bodies",
     "complexity_score": 2
+  },
+  {
+    "question": "What are Jupiter, Saturn, Uranus, and Neptune collectively known as?",
+    "correct": "Gas Giants",
+    "options": [
+      "Rocky Planets",
+      "Inner Planets",
+      "Gas Giants",
+      "Belt Planets"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Planet Classification",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the special term for the area around a star where a planet is not too hot and not too cold for liquid water to exist?",
+    "correct": "The Goldilocks Zone",
+    "options": [
+      "The Habitable Area",
+      "The Comfort Zone",
+      "The Goldilocks Zone",
+      "The Water Belt"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Astrobiology",
+    "complexity_score": 4
+  },
+  {
+    "question": "What are comets primarily made of?",
+    "correct": "Ice and rock",
+    "options": [
+      "Liquid metal",
+      "Pure gas",
+      "Ice and rock",
+      "Hot plasma"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Celestial Bodies",
+    "complexity_score": 3
   },
   {
     "question": "Which planet is the farthest from the Sun?",
     "correct": "Neptune",
     "options": [
       "Uranus",
-      "Pluto",
       "Saturn",
-      "Neptune"
+      "Neptune",
+      "Jupiter"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Solar System",
+    "topic": "Planet Order",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is a piece of rock from space that survives passing through the atmosphere and lands on Earth's surface?",
+    "correct": "A meteorite",
+    "options": [
+      "A meteor",
+      "An asteroid",
+      "A meteorite",
+      "A comet"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Celestial Bodies",
+    "complexity_score": 4
+  },
+  {
+    "question": "In the mnemonic 'My Very Eager Mother Just Served Us Noodles,' what planet does 'Mother' stand for?",
+    "correct": "Mars",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Moon",
+      "Meteor"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Planet Order",
     "complexity_score": 2
   },
   {
-    "question": "What is the only planet known to support life?",
+    "question": "Which of these planets is NOT a Gas Giant?",
+    "correct": "Earth",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Earth"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Planet Classification",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why are the inner planets called 'terrestrial'?",
+    "correct": "Because they have solid, rocky surfaces",
+    "options": [
+      "Because they are small",
+      "Because they are close to the sun",
+      "Because they have solid, rocky surfaces",
+      "Because they have no moons"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Planet Classification",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which planet is our home?",
     "correct": "Earth",
     "options": [
       "Mars",
       "Venus",
       "Earth",
-      "Europa"
+      "The Sun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
     "topic": "The Solar System",
     "complexity_score": 1
-  },
-  {
-    "question": "What invisible force keeps the planets in orbit around the Sun?",
-    "correct": "Gravity",
-    "options": [
-      "Magnetism",
-      "Friction",
-      "Gravity",
-      "Solar Wind"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "The Solar System",
-    "complexity_score": 3
   }
 ]
