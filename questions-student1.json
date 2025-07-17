@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the giant star at the center of our solar system?",
-    "correct": "The Sun",
+    "question": "Who was the first emperor of the Roman Empire, founding it in 27 BC?",
+    "correct": "Augustus",
     "options": [
-      "Jupiter",
-      "The Moon",
-      "The Sun",
-      "A Black Hole"
+      "Julius Caesar",
+      "Diocletian",
+      "Augustus",
+      "Constantine"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Roman Empire",
     "complexity_score": 1
   },
   {
-    "question": "How many official planets are there in our solar system?",
-    "correct": "8",
+    "question": "What was the 200-year period of peace and stability in the Roman Empire called?",
+    "correct": "Pax Romana",
     "options": [
-      "7",
-      "8",
-      "9",
-      "10"
+      "Roman Renaissance",
+      "Pax Romana",
+      "The Great Stability",
+      "Age of Augustus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Roman Empire",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which emperor divided the Roman Empire into Western and Eastern halves in 285 AD?",
+    "correct": "Diocletian",
+    "options": [
+      "Augustus",
+      "Nero",
+      "Trajan",
+      "Diocletian"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Decline of Rome",
+    "complexity_score": 4
+  },
+  {
+    "question": "In what year did the Western Roman Empire officially fall?",
+    "correct": "476 AD",
+    "options": [
+      "27 BC",
+      "285 AD",
+      "476 AD",
+      "1453 AD"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Decline of Rome",
+    "complexity_score": 4
+  },
+  {
+    "question": "What was the Eastern Roman Empire commonly known as?",
+    "correct": "The Byzantine Empire",
+    "options": [
+      "The Holy Roman Empire",
+      "The Ottoman Empire",
+      "The Byzantine Empire",
+      "The Hellenistic Empire"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Roman Empire",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of these was a major economic reason for the decline of the Roman Empire?",
+    "correct": "High inflation and heavy taxation",
+    "options": [
+      "A surplus of gold",
+      "High inflation and heavy taxation",
+      "The end of the slave trade",
+      "Free food for all citizens"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Decline of Rome",
+    "complexity_score": 6
+  },
+  {
+    "question": "What famous Roman architectural structures were used to transport water over long distances?",
+    "correct": "Aqueducts",
+    "options": [
+      "Colosseums",
+      "Viaducts",
+      "Basilicas",
+      "Aqueducts"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Roman Achievements",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is known as the 'Red Planet'?",
-    "correct": "Mars",
+    "question": "The fall of the Western Roman Empire in 476 AD is often used to mark the beginning of what historical period?",
+    "correct": "The Middle Ages",
     "options": [
-      "Venus",
-      "Jupiter",
-      "Mars",
-      "Saturn"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which planet is the largest in our solar system?",
-    "correct": "Jupiter",
-    "options": [
-      "Neptune",
-      "Saturn",
-      "Earth",
-      "Jupiter"
+      "The Renaissance",
+      "The Ancient period",
+      "The Middle Ages",
+      "The Industrial Revolution"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which planet is famous for its beautiful, icy rings?",
-    "correct": "Saturn",
-    "options": [
-      "Uranus",
-      "Saturn",
-      "Mars",
-      "Earth"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is Pluto now classified as?",
-    "correct": "A dwarf planet",
-    "options": [
-      "A moon",
-      "A regular planet",
-      "A dwarf planet",
-      "An asteroid"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 4
-  },
-  {
-    "question": "The first four planets (Mercury, Venus, Earth, Mars) are known as what?",
-    "correct": "Rocky planets",
-    "options": [
-      "Gas giants",
-      "Ice giants",
-      "Dwarf planets",
-      "Rocky planets"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 4
-  },
-  {
-    "question": "Which planet is the hottest, due to its thick, gassy atmosphere?",
-    "correct": "Venus",
-    "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "The Sun"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Historical Periods",
     "complexity_score": 5
   },
   {
-    "question": "What is the 'Great Red Spot' on Jupiter?",
-    "correct": "A giant storm",
+    "question": "What was the capital of the Eastern Roman (Byzantine) Empire?",
+    "correct": "Constantinople",
     "options": [
-      "A large volcano",
-      "A giant storm",
-      "A red ocean",
-      "A reflection from Mars"
+      "Rome",
+      "Athens",
+      "Constantinople",
+      "Alexandria"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Byzantine Empire",
     "complexity_score": 3
   },
   {
-    "question": "Which planet is unique because it spins on its side?",
-    "correct": "Uranus",
+    "question": "Approximately how long did the Byzantine Empire last after the fall of the Western Roman Empire?",
+    "correct": "1000 years",
     "options": [
-      "Neptune",
-      "Jupiter",
-      "Uranus",
-      "Saturn"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 5
-  },
-  {
-    "question": "Where is the Asteroid Belt primarily located?",
-    "correct": "Between Mars and Jupiter",
-    "options": [
-      "Between Earth and Mars",
-      "Between Jupiter and Saturn",
-      "Beyond Neptune",
-      "Between Mars and Jupiter"
+      "100 years",
+      "500 years",
+      "1000 years",
+      "2000 years"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Byzantine Empire",
     "complexity_score": 4
   },
   {
-    "question": "What are comets often described as?",
-    "correct": "Dirty snowballs",
+    "question": "Which of these is NOT listed in the transcription as a reason for Rome's decline?",
+    "correct": "A major plague",
     "options": [
-      "Fiery rocks",
-      "Lost planets",
-      "Dirty snowballs",
-      "Gas clouds"
+      "Political instability",
+      "Military overspending",
+      "Invasions by barbarian tribes",
+      "A major plague"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Decline of Rome",
+    "complexity_score": 7
+  },
+  {
+    "question": "The Latin language, a legacy of Rome, is the basis for which language family?",
+    "correct": "Romance languages",
+    "options": [
+      "Germanic languages",
+      "Slavic languages",
+      "Romance languages",
+      "Sino-Tibetan languages"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Roman Legacy",
     "complexity_score": 2
   },
   {
-    "question": "Which is the smallest planet in our solar system?",
-    "correct": "Mercury",
+    "question": "According to the transcription, a period of political instability saw how many emperors in just 75 years?",
+    "correct": "Over 20",
     "options": [
-      "Mars",
-      "Mercury",
-      "Venus",
-      "Earth"
+      "Exactly 10",
+      "Over 20",
+      "Less than 5",
+      "Exactly 50"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which planet is farthest from the Sun?",
-    "correct": "Neptune",
-    "options": [
-      "Uranus",
-      "Pluto",
-      "Neptune",
-      "Saturn"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 3
-  },
-  {
-    "question": "The region beyond Neptune where Pluto and many comets live is called what?",
-    "correct": "The Kuiper Belt",
-    "options": [
-      "The Asteroid Belt",
-      "The Oort Cloud",
-      "The Kuiper Belt",
-      "The Milky Way"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Decline of Rome",
     "complexity_score": 5
   },
   {
-    "question": "Which planet is our home?",
-    "correct": "Earth",
+    "question": "The Byzantine Empire finally fell in 1453 to which group?",
+    "correct": "The Ottoman Turks",
     "options": [
-      "Mars",
-      "Earth",
-      "Venus",
-      "Mercury"
+      "The Mongols",
+      "The Vandals",
+      "The Visigoths",
+      "The Ottoman Turks"
     ],
-    "difficulty": "easy",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 1
+    "topic": "Byzantine Empire",
+    "complexity_score": 6
   },
   {
-    "question": "Why is Earth special compared to other planets?",
-    "correct": "It has liquid water and life",
+    "question": "What form of government did the Roman Empire succeed?",
+    "correct": "The Roman Republic",
     "options": [
-      "It is the biggest planet",
-      "It has the most moons",
-      "It has liquid water and life",
-      "It is the reddest planet"
+      "A Monarchy",
+      "The Roman Republic",
+      "A Theocracy",
+      "An Oligarchy"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Roman Empire",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which of the following was a key legacy of the Roman Empire mentioned in the transcription?",
+    "correct": "The spread of Christianity",
+    "options": [
+      "The invention of paper",
+      "The development of democracy",
+      "The spread of Christianity",
+      "The discovery of gunpowder"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solar System",
+    "topic": "Roman Legacy",
     "complexity_score": 2
   },
   {
-    "question": "In what year was Pluto reclassified as a dwarf planet?",
-    "correct": "2006",
+    "question": "The Goths, Vandals, and Huns are examples of what?",
+    "correct": "Barbarian tribes that invaded the empire",
     "options": [
-      "1999",
-      "2006",
-      "2010",
-      "1950"
+      "Roman legions",
+      "Barbarian tribes that invaded the empire",
+      "Provinces within the empire",
+      "Gods worshipped in Rome"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Decline of Rome",
+    "complexity_score": 3
+  },
+  {
+    "question": "What major problem arose from the Roman Empire becoming too large?",
+    "correct": "It became difficult to govern and defend",
+    "options": [
+      "There were not enough citizens",
+      "It ran out of natural resources",
+      "It became difficult to govern and defend",
+      "Taxes became too low to function"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Decline of Rome",
+    "complexity_score": 4
+  },
+  {
+    "question": "For how long, in total, did the Roman civilization (from Empire founding to Byzantine fall) exist?",
+    "correct": "Roughly 1,500 years",
+    "options": [
+      "About 500 years",
+      "Roughly 1,500 years",
+      "Exactly 1,000 years",
+      "Over 2,000 years"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 5
+    "topic": "Roman Empire Timeline",
+    "complexity_score": 7
   },
   {
-    "question": "The four outer planets (Jupiter, Saturn, Uranus, Neptune) are known as what?",
-    "correct": "Gas giants",
+    "question": "What Roman achievement provided the foundation for many modern legal systems?",
+    "correct": "Roman Law",
     "options": [
-      "Rocky planets",
-      "Gas giants",
-      "Small planets",
-      "Inner planets"
+      "The Twelve Tables",
+      "The Senate",
+      "Roman Law",
+      "The Praetorian Guard"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 4
-  },
-  {
-    "question": "What creates the beautiful tail of a comet?",
-    "correct": "Heating up as it gets close to the Sun",
-    "options": [
-      "Moving very fast",
-      "Bumping into asteroids",
-      "Its own internal engine",
-      "Heating up as it gets close to the Sun"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Solar System",
-    "complexity_score": 4
+    "topic": "Roman Legacy",
+    "complexity_score": 2
   }
 ]
