@@ -1,12 +1,12 @@
 [
   {
-    "question": "An object is defined as something that is made of a single, pure substance.",
-    "correct": "The matter of which an object is made",
+    "question": "Based on the science lesson, what is the definition of an 'object'?",
+    "correct": "Anything that can be seen or touched.",
     "options": [
-      "Anything that can be seen or touched",
-      "The matter of which an object is made",
-      "A finished item like a chair or a book",
-      "The raw substance used for building things"
+      "The matter that something is made from.",
+      "Only things made by humans.",
+      "Anything that has a specific color.",
+      "Anything that can be seen or touched."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,13 +14,13 @@
     "complexity_score": 1
   },
   {
-    "question": "Which of the following is the best example of a 'material'?",
+    "question": "What is the 'material' that a wooden chair is made of?",
     "correct": "Wood",
     "options": [
-      "Table",
-      "Pencil Box",
+      "Chair",
+      "Legs",
       "Wood",
-      "Ball"
+      "Plastic"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,13 +28,13 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the pattern used to find the sum of the first 'n' odd numbers?",
-    "correct": "n * n (or n squared)",
+    "question": "In the math problem `71 x 999`, how was `999` rewritten to make the calculation easier?",
+    "correct": "1000 - 1",
     "options": [
-      "n + n",
-      "n * 2",
-      "n * n (or n squared)",
-      "n + 12"
+      "900 + 90 + 9",
+      "1000 - 1",
+      "71 x 1000",
+      "9 x 111"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,41 +42,13 @@
     "complexity_score": 1
   },
   {
-    "question": "Using the method discussed in class, how would you first rewrite the problem `15 x 99`?",
-    "correct": "15 x (100 - 1)",
-    "options": [
-      "15 x 100",
-      "14 x 99",
-      "15 x (100 - 1)",
-      "15 x 9 + 15 x 9"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 1
-  },
-  {
-    "question": "All objects are made of...",
-    "correct": "Materials",
-    "options": [
-      "Plastic",
-      "Glass",
-      "Materials",
-      "Wood"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the sum of the first 12 odd numbers?",
+    "question": "What is the sum of the first 12 odd numbers, based on the pattern discussed?",
     "correct": "144",
     "options": [
       "24",
-      "120",
+      "12",
       "144",
-      "66"
+      "120"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -84,55 +56,41 @@
     "complexity_score": 1
   },
   {
-    "question": "A student correctly solves `71 x 999` by calculating `71000 - 71`. What mathematical property did they use?",
-    "correct": "The distributive property",
+    "question": "Which of the following lists contains only materials, not objects?",
+    "correct": "Wood, plastic, glass, metal",
     "options": [
-      "The commutative property",
-      "The associative property",
-      "The distributive property",
-      "The identity property"
+      "Table, chair, book, pencil",
+      "Wood, plastic, glass, metal",
+      "Bottle, glass, pen, plastic",
+      "Coin, metal, paper, book"
     ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 2
-  },
-  {
-    "question": "A car is an 'object'. Which of these is a 'material' used to make a car?",
-    "correct": "Metal",
-    "options": [
-      "Tire",
-      "Engine",
-      "Steering wheel",
-      "Metal"
-    ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
     "topic": "Science: Objects and Materials",
-    "complexity_score": 2
+    "complexity_score": 1
   },
   {
-    "question": "Based on the class discussion, what is the key difference between an object and a material?",
-    "correct": "An object is a finished item, while a material is what the item is made of.",
+    "question": "Which of the following is an example of an object made from glass?",
+    "correct": "A drinking glass",
     "options": [
-      "Objects can be touched, but materials cannot.",
-      "Materials are natural, but objects are man-made.",
-      "An object is a finished item, while a material is what the item is made of.",
-      "Objects have a fixed shape, while materials do not."
+      "A wooden table",
+      "A plastic toy",
+      "A metal coin",
+      "A drinking glass"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
     "topic": "Science: Objects and Materials",
-    "complexity_score": 2
+    "complexity_score": 1
   },
   {
-    "question": "If the sum of the first 'n' odd numbers is 225, what is 'n'?",
-    "correct": "15",
+    "question": "Using the method from class, how would you start to solve `45 x 99`?",
+    "correct": "45 x (100 - 1)",
     "options": [
-      "25",
-      "50",
-      "15",
-      "22"
+      "45 x 9 x 11",
+      "45 x 100 - 45",
+      "45 x (100 - 1)",
+      "40 x 99 + 5 x 99"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -140,13 +98,13 @@
     "complexity_score": 2
   },
   {
-    "question": "A smartphone can be seen and touched. It is made of glass, plastic, and metal. Which statement is most accurate?",
-    "correct": "The smartphone is the object; glass, plastic, and metal are the materials.",
+    "question": "If an object is 'the matter of which an object is made is called material', which statement is most accurate?",
+    "correct": "A book is an object; paper is its material.",
     "options": [
-      "The smartphone is the material; glass, plastic, and metal are the objects.",
-      "The smartphone, glass, plastic, and metal are all objects.",
-      "The smartphone, glass, plastic, and metal are all materials.",
-      "The smartphone is the object; glass, plastic, and metal are the properties."
+      "A book is a material; paper is an object.",
+      "A book and paper are both objects.",
+      "A book and paper are both materials.",
+      "A book is an object; paper is its material."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -154,41 +112,13 @@
     "complexity_score": 2
   },
   {
-    "question": "Which calculation correctly follows the steps for solving `45 x 9` using the class method?",
-    "correct": "(45 x 10) - (45 x 1)",
+    "question": "What is the sum of the first 20 odd numbers?",
+    "correct": "400",
     "options": [
-      "45 x (10 - 9)",
-      "(45 x 10) - (45 x 1)",
-      "(40 x 9) + (5 x 9)",
-      "45 x 10 - 1"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 2
-  },
-  {
-    "question": "To solve `125 x 8 = 1000`, what is the missing number in the equivalent division problem: `______ ÷ 8 = 125`?",
-    "correct": "1000",
-    "options": [
-      "125",
-      "8",
-      "1000",
-      "15.625"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Inverse Operations",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sum of the first 50 odd numbers is 2500. What would be the sum of the first 51 odd numbers?",
-    "correct": "2601",
-    "options": [
-      "2501",
-      "2551",
-      "2601",
-      "2550"
+      "200",
+      "40",
+      "400",
+      "20"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,13 +126,139 @@
     "complexity_score": 2
   },
   {
-    "question": "A scientist is sorting items. Why is it more useful to group items by 'material' (wood, metal, glass) rather than by 'object' (chair, table, cup)?",
-    "correct": "Grouping by material helps understand shared properties like strength or transparency.",
+    "question": "In the problem `__?__ / 8 = 125`, how can you find the missing number?",
+    "correct": "Multiply 125 by 8",
     "options": [
-      "Because there are fewer materials than objects.",
-      "Because objects can be made of many materials.",
-      "Grouping by material helps understand shared properties like strength or transparency.",
-      "Because materials are more valuable than objects."
+      "Divide 125 by 8",
+      "Add 125 and 8",
+      "Subtract 8 from 125",
+      "Multiply 125 by 8"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math: Equations",
+    "complexity_score": 2
+  },
+  {
+    "question": "The lesson states that objects have different shapes, sizes, and colors. Why is a red car and a blue car considered the same type of object?",
+    "correct": "Because they serve the same function, despite the color difference.",
+    "options": [
+      "Because they are made of the same materials.",
+      "Because 'car' is a material.",
+      "Because they are both colors.",
+      "Because they serve the same function, despite the color difference."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science: Objects and Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "If `71 x 999` is solved as `71000 - 71`, what would be the result of `71 x (1000 - 1)`?",
+    "correct": "71000 - 71",
+    "options": [
+      "71000 - 1",
+      "71 - 1000",
+      "71000 + 71",
+      "71000 - 71"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math: Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of the following best describes the relationship between objects and materials?",
+    "correct": "Materials are the fundamental substances used to create a wide variety of objects.",
+    "options": [
+      "Objects and materials are the same thing.",
+      "Objects can be seen, but materials cannot.",
+      "Every object is made from only one material.",
+      "Materials are the fundamental substances used to create a wide variety of objects."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science: Objects and Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "Can a single material, like plastic, be used to make different kinds of objects?",
+    "correct": "Yes, it can be used for toys, bottles, and boxes.",
+    "options": [
+      "No, each material can only make one type of object.",
+      "Yes, but only if the objects are the same color.",
+      "No, plastic is an object, not a material.",
+      "Yes, it can be used for toys, bottles, and boxes."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science: Objects and Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher mentioned a quote: 'If you will give me one hour to cut a tree, I will spend the first 40 minutes sharpening my axe.' How does this relate to solving the `71 x 999` problem?",
+    "correct": "Understanding the pattern first (`sharpening the axe`) makes solving the problem easier and faster.",
+    "options": [
+      "It's better to start multiplying immediately to save time.",
+      "Using an axe is the best way to solve math problems.",
+      "You should always spend 40 minutes thinking before answering.",
+      "Understanding the pattern first (`sharpening the axe`) makes solving the problem easier and faster."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Math: Problem-Solving Strategy",
+    "complexity_score": 3
+  },
+  {
+    "question": "Based on the logic of solving `71 x 999`, what would be the most efficient first step to calculate `71 x 998`?",
+    "correct": "Rewrite it as 71 x (1000 - 2)",
+    "options": [
+      "Rewrite it as 71 x (999 - 1)",
+      "Multiply 71 by 8, then by 124.75",
+      "Rewrite it as 71 x (1000 - 2)",
+      "Start multiplying 71 by 998 directly on paper."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Math: Number Patterns",
+    "complexity_score": 3
+  },
+  {
+    "question": "A student solves `25 x 99` as `25 x (100 - 1) = 2500 - 1 = 2499`. What is their mistake?",
+    "correct": "They forgot to multiply 25 by 1.",
+    "options": [
+      "They should have added 1 instead of subtracting.",
+      "They calculated 25 x 100 incorrectly.",
+      "They forgot to multiply 25 by 1.",
+      "There is no mistake in the calculation."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Math: Distributive Property",
+    "complexity_score": 3
+  },
+  {
+    "question": "A clay pot is an object. If the pot shatters into a hundred tiny pieces, what are the pieces best described as?",
+    "correct": "Pieces of the material, clay.",
+    "options": [
+      "A hundred new, smaller objects.",
+      "No longer a material because the shape is gone.",
+      "Pieces of the material, clay.",
+      "A different kind of material."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Science: Objects and Materials",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson mentioned 'classification of materials'. Why is it useful to group objects made of the same material (e.g., all wooden items together)?",
+    "correct": "To understand their common properties and potential uses.",
+    "options": [
+      "Because they all have the same shape.",
+      "It is not useful, objects should be grouped by color.",
+      "To count how many objects there are in total.",
+      "To understand their common properties and potential uses."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -210,73 +266,17 @@
     "complexity_score": 3
   },
   {
-    "question": "A problem is written as `(84 x 1000) - (84 x 1)`. What was the original multiplication problem this method is trying to solve efficiently?",
-    "correct": "84 x 999",
+    "question": "The sum of the first 'n' odd numbers is n². If the sum is 225, what is 'n' (how many odd numbers were added)?",
+    "correct": "15",
     "options": [
-      "84 x 1001",
-      "83 x 1000",
-      "84 x 999",
-      "84 x 99"
+      "50",
+      "225",
+      "25",
+      "15"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 3
-  },
-  {
-    "question": "The method of breaking `999` into `1000 - 1` is a mental math shortcut. What is the primary advantage of this 'sharpening the axe' approach?",
-    "correct": "It transforms a complex multiplication into simpler multiplication and subtraction.",
-    "options": [
-      "It avoids using the number 9, which is difficult to multiply.",
-      "It makes the numbers smaller and easier to handle.",
-      "It transforms a complex multiplication into simpler multiplication and subtraction.",
-      "It is the only way to solve multiplication with large numbers."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Math: Problem-Solving Strategy",
-    "complexity_score": 3
-  },
-  {
-    "question": "If you need to make a window, you choose the 'material' glass because of its 'property' of being transparent. If you need to make a hammerhead, what is the most important property of the 'material' you would choose (e.g., steel)?",
-    "correct": "Hardness and strength",
-    "options": [
-      "Shininess",
-      "Light weight",
-      "Flexibility",
-      "Hardness and strength"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Science: Material Properties",
-    "complexity_score": 3
-  },
-  {
-    "question": "How could you apply the same pattern-solving logic from the `n x 999` problem to solve `35 x 101`?",
-    "correct": "Rewrite it as 35 x (100 + 1)",
-    "options": [
-      "Rewrite it as 35 x (100 - 1)",
-      "Rewrite it as 35 x (100 + 1)",
-      "Rewrite it as 30 x 101 + 5",
-      "This pattern only works for numbers ending in 9."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Math: Generalizing Patterns",
-    "complexity_score": 3
-  },
-  {
-    "question": "The quote, 'If I have one hour to cut a tree, I will spend the first 40 minutes sharpening my axe,' was used in the lesson. How does this relate to solving `71 x 999`?",
-    "correct": "It's better to spend time finding an efficient method (`1000-1`) than to start a long, difficult calculation immediately.",
-    "options": [
-      "It means you should always use a calculator for hard problems.",
-      "It's better to spend time finding an efficient method (`1000-1`) than to start a long, difficult calculation immediately.",
-      "It implies that math problems take a very long time to solve correctly.",
-      "It means you should ask for help after 40 minutes of trying."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Math: Problem-Solving Strategy",
+    "topic": "Math: Number Patterns",
     "complexity_score": 3
   }
 ]
