@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the dictation, who are Jo and Meg described as?",
-    "correct": "The March sisters",
+    "question": "Choose the correct verb form for the sentence: 'Ankitah has already ______ her class 12 exams.'",
+    "correct": "completed",
     "options": [
-      "Two dogs",
-      "Laurie's friends",
-      "The March sisters",
-      "The helpers"
+      "completing",
+      "complete",
+      "completed",
+      "completes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Present Perfect Tense",
     "complexity_score": 1
   },
   {
-    "question": "Who is the character Laurie?",
-    "correct": "The boy in the neighborhood",
+    "question": "Which sentence is grammatically correct?",
+    "correct": "What are you reading?",
     "options": [
-      "The grandfather",
-      "A dog",
-      "Jo's brother",
-      "The boy in the neighborhood"
+      "What you are reading?",
+      "What is you reading?",
+      "What you reading?",
+      "What are you reading?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Question Formation",
     "complexity_score": 1
   },
   {
-    "question": "What is the name of Laurie's Grandfather?",
-    "correct": "OLD Mr. Lawrence",
+    "question": "Fill in the blank: 'It ______ continuously since yesterday.'",
+    "correct": "has been snowing",
     "options": [
-      "Henry",
-      "Jo",
-      "OLD Mr. Lawrence",
-      "Mr. March"
+      "is snowing",
+      "snows",
+      "has been snowing",
+      "was snowing"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Present Perfect Continuous",
     "complexity_score": 2
   },
   {
-    "question": "Where is 'Scene 1' set?",
-    "correct": "In a drawing room",
+    "question": "Correct the error in this sentence: 'She and his friends is practicing judo.'",
+    "correct": "She and her friends are practicing judo.",
     "options": [
-      "In a kitchen",
-      "In a drawing room",
-      "Outside in a garden",
-      "In Laurie's house"
+      "She and his friends was practicing judo.",
+      "She and her friends are practicing judo.",
+      "She with his friends is practicing judo.",
+      "She and his friend is practicing judo."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 2
+  },
+  {
+    "question": "Fill in the blank: 'The children are tired because they ______ in the field all morning.'",
+    "correct": "have been playing",
+    "options": [
+      "are playing",
+      "has been playing",
+      "played",
+      "have been playing"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which verb form correctly completes the sentence: 'Moha has ______ for several jobs.'?",
+    "correct": "applied",
+    "options": [
+      "apply",
+      "applied",
+      "applying",
+      "applies"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Present Perfect Tense",
     "complexity_score": 1
   },
   {
-    "question": "What is in the fireplace?",
-    "correct": "A small, cheerful fire",
+    "question": "What is the correct way to say 'I seen some interesting error'?",
+    "correct": "I saw some interesting errors.",
     "options": [
-      "A large, roaring fire",
-      "Nothing, it's empty",
-      "A small, cheerful fire",
-      "Some old logs"
+      "I have seeing some interesting error.",
+      "I was seen some interesting error.",
+      "I saw some interesting errors.",
+      "I am seeing some interesting errors."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Verb Forms",
     "complexity_score": 2
   },
   {
-    "question": "What color are the curtains at the windows?",
-    "correct": "Crimson",
+    "question": "Fill in the blank: 'He ______ the car for three hours.'",
+    "correct": "has been driving",
     "options": [
-      "Blue",
-      "Green",
-      "Crimson",
-      "Yellow"
+      "is driving",
+      "has been driving",
+      "drives",
+      "drove"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Present Perfect Continuous",
     "complexity_score": 2
   },
   {
-    "question": "The overall effect of the room is described as 'shabby but...'",
-    "correct": "genteel poverty",
+    "question": "Correct the sentence: 'What game is those children playing?'",
+    "correct": "What game are those children playing?",
     "options": [
-      "very comfortable",
-      "brightly lit",
-      "brand new",
-      "genteel poverty"
+      "What game was those children playing?",
+      "What game are those children playing?",
+      "What games is that children playing?",
+      "Which game is those children playing?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 2
+  },
+  {
+    "question": "The present perfect continuous tense is used for actions that...",
+    "correct": "have been happening for some time and may still be continuing.",
+    "options": [
+      "happened once in the past.",
+      "are happening right now.",
+      "will happen in the future.",
+      "have been happening for some time and may still be continuing."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
+    "topic": "Tense Usage",
     "complexity_score": 3
   },
   {
-    "question": "What is the correct spelling for a part of a play?",
-    "correct": "scene",
+    "question": "Fill in the blank: 'We ______ to find our way home for the last two hours.'",
+    "correct": "have been trying",
     "options": [
-      "seen",
-      "sciene",
-      "scene",
-      "sceen"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which word means 'a fire that is burning brightly'?",
-    "correct": "blazing",
-    "options": [
-      "breathing",
-      "glowing",
-      "blazing",
-      "warming"
+      "has been trying",
+      "are trying",
+      "have been trying",
+      "tried"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
+    "topic": "Present Perfect Continuous",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct spelling for the deep red color mentioned?",
-    "correct": "crimson",
+    "question": "Choose the correct sentence: The 'Public Health Department' is a singular noun.",
+    "correct": "The Public Health Department has been putting stress on sanitation.",
     "options": [
-      "crimzon",
-      "crimson",
-      "crizmon",
-      "krimson"
+      "The Public Health Department have been putting stress on sanitation.",
+      "The Public Health Department has been putting stress on sanitation.",
+      "The Public Health Departments has been putting stress on sanitation.",
+      "The Public Health Department are putting stress on sanitation."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
+    "topic": "Subject-Verb Agreement",
     "complexity_score": 3
   },
   {
-    "question": "Choose the correct spelling for 'old and in poor condition'.",
-    "correct": "shabby",
+    "question": "The creative writing activity was about an experience in a...",
+    "correct": "jungle safari",
     "options": [
-      "shaby",
-      "shabie",
-      "shabby",
-      "chabby"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
-    "complexity_score": 2
-  },
-  {
-    "question": "Choose the correct spelling for 'polite, respectable, or refined'.",
-    "correct": "genteel",
-    "options": [
-      "jenteel",
-      "gentile",
-      "genteal",
-      "genteel"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the correct way to show that a bag belongs to Anaya?",
-    "correct": "Anaya's bag",
-    "options": [
-      "Anayas bag",
-      "Anaya bag",
-      "Anayas' bag",
-      "Anaya's bag"
+      "city tour",
+      "beach holiday",
+      "mountain trek",
+      "jungle safari"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar",
+    "topic": "Story Writing",
     "complexity_score": 1
   },
   {
-    "question": "How do you show that a room belongs to all the boys (plural)?",
-    "correct": "The boys' room",
+    "question": "Which of these verbs was required for the story writing task?",
+    "correct": "graze",
     "options": [
-      "The boys room",
-      "The boy's room",
-      "The boys' room",
-      "The boyes room"
+      "sleep",
+      "eat",
+      "graze",
+      "run"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar",
+    "topic": "Story Writing Vocabulary",
     "complexity_score": 2
   },
   {
-    "question": "If a name ends in 's', like Charles, how do you show something belongs to him?",
-    "correct": "Charles' book",
+    "question": "Fill in the blank: 'How ______ he ______ after the accident?'",
+    "correct": "is he doing",
     "options": [
-      "Charles's' book",
-      "Charleses book",
-      "Charles' book",
-      "Charles book"
+      "has he doing",
+      "is he doing",
+      "does he do",
+      "did he done"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Continuous Tense",
+    "complexity_score": 2
+  },
+  {
+    "question": "Change 'She is making a life-size painting' to simple present tense.",
+    "correct": "She makes a life-size painting.",
+    "options": [
+      "She made a life-size painting.",
+      "She makes a life-size painting.",
+      "She has been making a life-size painting.",
+      "She will make a life-size painting."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar",
+    "topic": "Tense Conversion",
     "complexity_score": 3
   },
   {
-    "question": "What is the correct spelling of the area around your house?",
-    "correct": "neighborhood",
+    "question": "In the story, what did the deer do?",
+    "correct": "Graze the leaves",
     "options": [
-      "nieghborhood",
-      "nayborhood",
-      "neighborhood",
-      "neiborhood"
+      "Roam near the river",
+      "Spot the tiger",
+      "Graze the leaves",
+      "Enter the cave"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Story Writing",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which word is a key indicator for using the present perfect continuous tense in the sentence 'It has been snowing continuously *since* yesterday'?",
+    "correct": "since",
+    "options": [
+      "continuously",
+      "yesterday",
+      "snowing",
+      "since"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
+    "topic": "Tense Usage",
     "complexity_score": 2
   },
   {
-    "question": "The sofas were covered with a 'pretty but...' cloth.",
-    "correct": "faded",
+    "question": "Fill in the blank: 'My grandmother's back ache ______ since she started doing yoga.'",
+    "correct": "has been improving",
     "options": [
-      "new",
-      "bright",
-      "faded",
-      "torn"
+      "is improving",
+      "improves",
+      "has been improving",
+      "had improved"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Present Perfect Continuous",
     "complexity_score": 2
   },
   {
-    "question": "What does 'genteel poverty' suggest about the family?",
-    "correct": "They have little money but high social standing",
+    "question": "Change the sentence to present perfect tense: 'He was questioned by his father.'",
+    "correct": "He has been questioned by his father.",
     "options": [
-      "They are very rich and famous",
-      "They are poor and uneducated",
-      "They have little money but high social standing",
-      "They just moved into a new house"
+      "He has questioned his father.",
+      "He has been questioning his father.",
+      "He is questioned by his father.",
+      "He has been questioned by his father."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
+    "topic": "Tense Conversion",
     "complexity_score": 3
-  },
-  {
-    "question": "What is the job of the 'maid' character?",
-    "correct": "The helper in the Lawrence household",
-    "options": [
-      "The teacher in the school",
-      "The helper in the Lawrence household",
-      "A sister of Jo and Meg",
-      "The owner of the house"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Story Comprehension",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these items was NOT mentioned as being in the drawing room?",
-    "correct": "A television",
-    "options": [
-      "Two sofas",
-      "A cupboard",
-      "A fireplace",
-      "A television"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Story Comprehension",
-    "complexity_score": 1
   }
 ]
