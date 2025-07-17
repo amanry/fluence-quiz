@@ -1,30 +1,30 @@
 [
   {
-    "question": "According to the lesson, what is the definition of an 'object'?",
-    "correct": "Anything that can be seen or touched",
+    "question": "According to the lesson, anything that can be seen or touched is called a(n) ________.",
+    "correct": "Object",
     "options": [
-      "Anything made of wood",
-      "Only things found in a classroom",
-      "Anything that can be seen or touched",
-      "The matter used to make things"
+      "Material",
+      "Object",
+      "Matter",
+      "Substance"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
+    "topic": "Science - Materials",
     "complexity_score": 1
   },
   {
-    "question": "What is the term for the matter from which an object is made?",
+    "question": "The matter of which an object is made is called a ________.",
     "correct": "Material",
     "options": [
+      "Shape",
+      "Color",
       "Object",
-      "Substance",
-      "Material",
-      "Item"
+      "Material"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
+    "topic": "Science - Materials",
     "complexity_score": 1
   },
   {
@@ -33,250 +33,250 @@
     "options": [
       "Chair",
       "Table",
-      "Pencil Box",
-      "Wood"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
-    "complexity_score": 2
-  },
-  {
-    "question": "A chair is an object. What is the material it is most commonly made from?",
-    "correct": "Wood",
-    "options": [
-      "Glass",
-      "Plastic",
       "Wood",
-      "An object"
+      "Pencil Box"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
+    "topic": "Science - Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "A book is an object. What material is it primarily made of?",
+    "correct": "Paper",
+    "options": [
+      "Plastic",
+      "Paper",
+      "Metal",
+      "Glass"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of the following items mentioned in the class is made of glass?",
+    "correct": "Glass tumbler",
+    "options": [
+      "Pencil",
+      "Mud pot",
+      "Chair",
+      "Glass tumbler"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Materials",
     "complexity_score": 2
   },
   {
-    "question": "Which statement best describes the relationship between objects and materials?",
-    "correct": "Objects are made of materials",
+    "question": "What is the best way to describe the relationship between objects and materials, based on the discussion?",
+    "correct": "Objects are made of materials.",
     "options": [
-      "Materials are made of objects",
-      "Objects and materials are the same thing",
-      "Objects are made of materials",
-      "Objects are always bigger than materials"
+      "Objects and materials are the same thing.",
+      "Materials are made of objects.",
+      "Objects are made of materials.",
+      "Objects and materials are unrelated."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
-    "complexity_score": 3
+    "topic": "Science - Materials",
+    "complexity_score": 2
   },
   {
-    "question": "Some objects mentioned in the lesson, like certain pots, can be made from soil or ____.",
-    "correct": "Mud",
-    "options": [
-      "Metal",
-      "Mud",
-      "Rubber",
-      "Fiber"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these is a list of materials, not objects?",
-    "correct": "Plastic, Leather, Glass, Metal",
-    "options": [
-      "Pencil, Chair, Table, Ball",
-      "Plastic, Leather, Glass, Metal",
-      "Book, Coin, Paper, Box",
-      "Chair, Wood, Table, Plastic"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
-    "complexity_score": 4
-  },
-  {
-    "question": "A drinking glass is an object. What is its material?",
-    "correct": "Glass",
+    "question": "Which material was mentioned as something used to make pots?",
+    "correct": "Soil or mud",
     "options": [
       "Plastic",
-      "Glass",
-      "Water",
-      "Metal"
+      "Rubber",
+      "Soil or mud",
+      "Leather"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
+    "topic": "Science - Materials",
     "complexity_score": 1
   },
   {
-    "question": "The lesson states that objects have different shapes, sizes, and what else?",
+    "question": "Objects have different shapes, sizes, and _______.",
     "correct": "Colors",
     "options": [
       "Weights",
       "Smells",
       "Colors",
-      "Ages"
+      "Materials"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the math challenge, what is the efficient way to calculate 71 x 999?",
+    "correct": "71 x (1000 - 1)",
+    "options": [
+      "71 x 1000 - 71 x 10",
+      "71 x (1000 - 1)",
+      "71 x 9 x 111",
+      "70 x 999 + 1 x 999"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
+    "topic": "Math - Arithmetic Properties",
     "complexity_score": 2
   },
   {
-    "question": "Why is 'wood' considered a material?",
-    "correct": "Because it is used to make objects like chairs and tables",
-    "options": [
-      "Because you can touch it",
-      "Because it comes from trees",
-      "Because it is an object itself",
-      "Because it is used to make objects like chairs and tables"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Science - Kinds of Material",
-    "complexity_score": 4
-  },
-  {
-    "question": "Based on the timed challenge, how can you efficiently calculate 71 x 999?",
-    "correct": "71 x (1000 - 1)",
-    "options": [
-      "71 x 1000 - 1",
-      "71 x (1000 - 1)",
-      "70 x 1000 + 999",
-      "Multiplying it out directly"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Maths - Distributive Property",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the sum of the first 12 odd numbers?",
+    "question": "Based on the pattern discussed, what is the sum of the first 12 odd numbers?",
     "correct": "144",
     "options": [
       "12",
       "24",
-      "144",
-      "132"
+      "132",
+      "144"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Maths - Number Patterns",
-    "complexity_score": 3
-  },
-  {
-    "question": "If a number divided by 8 equals 125, what is that number?",
-    "correct": "1000",
-    "options": [
-      "125",
-      "133",
-      "1000",
-      "875"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Maths - Equations",
+    "topic": "Math - Number Patterns",
     "complexity_score": 2
   },
   {
-    "question": "What is the sum of the first 50 odd numbers?",
+    "question": "What would be the sum of the first 50 odd numbers?",
     "correct": "2500",
     "options": [
       "500",
       "100",
       "2500",
-      "5050"
+      "5000"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Maths - Number Patterns",
+    "topic": "Math - Number Patterns",
     "complexity_score": 3
   },
   {
-    "question": "Using the pattern discussed, how would you solve 18.9 x 9?",
-    "correct": "18.9 x (10 - 1)",
+    "question": "The property used to solve 71 x (1000 - 1) as (71 x 1000) - (71 x 1) is called the ________ property.",
+    "correct": "Distributive",
     "options": [
-      "18.9 x (9 + 0)",
-      "18.9 x 10 - 1",
-      "18 x 9 + 0.9",
-      "18.9 x (10 - 1)"
+      "Commutative",
+      "Associative",
+      "Distributive",
+      "Identity"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Maths - Distributive Property",
-    "complexity_score": 4
+    "topic": "Math - Arithmetic Properties",
+    "complexity_score": 3
   },
   {
-    "question": "What is the final answer to 71 x 999?",
+    "question": "Which of these is NOT an example of a material mentioned in the lesson?",
+    "correct": "Energy",
+    "options": [
+      "Leather",
+      "Plastic",
+      "Fiber",
+      "Energy"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "An object can be made from _______ material(s).",
+    "correct": "One or more",
+    "options": [
+      "Only one",
+      "Only two",
+      "One or more",
+      "Only metal"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "A chair, a table, and a door can all be grouped as objects made of which material?",
+    "correct": "Wood",
+    "options": [
+      "Glass",
+      "Plastic",
+      "Wood",
+      "Metal"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the result of 71000 - 71?",
     "correct": "70929",
     "options": [
-      "71000",
-      "70999",
+      "71071",
       "70929",
-      "71071"
+      "70999",
+      "70029"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Maths - Calculation",
-    "complexity_score": 4
+    "topic": "Math - Arithmetic",
+    "complexity_score": 2
   },
   {
-    "question": "The tutor mentions a quote: 'If you will give me one hour to cut a tree, I will spend first 40 minutes sharpening my...' what?",
-    "correct": "Axe",
+    "question": "Which statement is true based on the lesson?",
+    "correct": "Materials are used to make objects.",
     "options": [
-      "Saw",
-      "Pencil",
-      "Mind",
-      "Axe"
+      "Objects are used to make materials.",
+      "All objects are made of plastic.",
+      "Materials are always soft.",
+      "Materials are used to make objects."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Classroom Analogy",
+    "topic": "Science - Materials",
     "complexity_score": 1
   },
   {
-    "question": "What was the goal of the 15-minute math challenge?",
-    "correct": "To solve at least 5 questions",
+    "question": "Which of the following is an object?",
+    "correct": "Pencil box",
     "options": [
-      "To solve 15 questions",
-      "To get every question right",
-      "To solve at least 5 questions",
-      "To beat the tutor's score"
+      "Paper",
+      "Pencil box",
+      "Plastic",
+      "Wood"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Classroom Activity",
+    "topic": "Science - Materials",
     "complexity_score": 1
   },
   {
-    "question": "What is the rule for finding the sum of the first 'n' odd numbers?",
-    "correct": "n x n (or n²)",
+    "question": "The pattern for the sum of the first 'n' odd numbers is:",
+    "correct": "n²",
     "options": [
       "n + n",
       "n x 2",
-      "n x n (or n²)",
-      "n + 1"
+      "n²",
+      "n / 2"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Maths - Number Patterns",
-    "complexity_score": 5
+    "topic": "Math - Number Patterns",
+    "complexity_score": 3
   },
   {
-    "question": "Which two subjects were discussed for the upcoming exam?",
-    "correct": "Social Science and Science",
+    "question": "The book 'Exploring Science' was used to discuss which chapter?",
+    "correct": "Kinds of Material",
     "options": [
-      "English and Maths",
-      "Social Science and Science",
-      "Maths and Science",
-      "English and Social Science"
+      "Magnets and Fun",
+      "Our Solar System",
+      "Kinds of Material",
+      "Diversity"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Classroom Discussion",
+    "topic": "Science - Materials",
     "complexity_score": 1
   }
 ]
