@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the 'brain' of the cell that controls all its activities and holds the DNA?",
-    "correct": "Nucleus",
+    "question": "Which planet is famously known as the 'Red Planet' because of its rusty-red color?",
+    "correct": "Mars",
     "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Cytoplasm",
-      "Cell Membrane"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
     "complexity_score": 1
   },
   {
-    "question": "Which organelle is known as the 'powerhouse' of the cell because it generates most of the cell's supply of energy?",
-    "correct": "Mitochondria",
+    "question": "What is the name of the giant star at the center of our Solar System?",
+    "correct": "The Sun",
     "options": [
-      "Ribosome",
-      "Chloroplast",
-      "Mitochondria",
-      "Nucleus"
+      "Alpha Centauri",
+      "The Moon",
+      "The Sun",
+      "Proxima Centauri"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
     "complexity_score": 1
   },
   {
-    "question": "What is the jelly-like substance that fills the cell and holds all the organelles in place?",
-    "correct": "Cytoplasm",
+    "question": "Which planet is the largest in our Solar System, known for its Great Red Spot?",
+    "correct": "Jupiter",
     "options": [
-      "Cytoplasm",
-      "Vacuole",
-      "Cell Wall",
-      "Lysosome"
+      "Neptune",
+      "Saturn",
+      "Uranus",
+      "Jupiter"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
     "complexity_score": 1
   },
   {
-    "question": "Which part of the cell acts like a gatekeeper, controlling what enters and leaves?",
-    "correct": "Cell Membrane",
+    "question": "What force keeps the planets in orbit around the Sun?",
+    "correct": "Gravity",
     "options": [
-      "Cell Wall",
-      "Nucleolus",
-      "Golgi Apparatus",
-      "Cell Membrane"
+      "Magnetism",
+      "Friction",
+      "Inertia",
+      "Gravity"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which planet is famous for its beautiful and prominent rings?",
+    "correct": "Saturn",
+    "options": [
+      "Mars",
+      "Earth",
+      "Saturn",
+      "Venus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of these structures is found in a plant cell but NOT in an animal cell?",
-    "correct": "Cell Wall",
-    "options": [
-      "Nucleus",
-      "Cell Wall",
-      "Mitochondria",
-      "Cell Membrane"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the primary function of chloroplasts in a plant cell?",
-    "correct": "To perform photosynthesis",
-    "options": [
-      "To store water",
-      "To provide energy through respiration",
-      "To perform photosynthesis",
-      "To control cell activities"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "What tiny organelles are responsible for making proteins for the cell?",
-    "correct": "Ribosomes",
-    "options": [
-      "Lysosomes",
-      "Ribosomes",
-      "Vacuoles",
-      "Golgi Apparatus"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which organelle acts like the cell's 'post office,' modifying, sorting, and packaging proteins and lipids for transport?",
-    "correct": "Golgi Apparatus",
-    "options": [
-      "Endoplasmic Reticulum",
-      "Nucleus",
-      "Golgi Apparatus",
-      "Mitochondria"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the main difference between prokaryotic and eukaryotic cells?",
-    "correct": "Eukaryotic cells have a nucleus, while prokaryotic cells do not.",
-    "options": [
-      "Prokaryotic cells have a cell wall, but eukaryotic cells do not.",
-      "Eukaryotic cells are always smaller than prokaryotic cells.",
-      "Eukaryotic cells have a nucleus, while prokaryotic cells do not.",
-      "Prokaryotic cells have mitochondria, but eukaryotic cells do not."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which organelle contains digestive enzymes to break down waste materials and cellular debris?",
-    "correct": "Lysosome",
-    "options": [
-      "Lysosome",
-      "Ribosome",
-      "Vacuole",
-      "Nucleolus"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 3
-  },
-  {
-    "question": "Plant cells have a large central one of these for storing water, nutrients, and waste products.",
-    "correct": "Vacuole",
-    "options": [
-      "Mitochondria",
-      "Chloroplast",
-      "Vacuole",
-      "Nucleus"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 2
-  },
-  {
-    "question": "The rough endoplasmic reticulum (ER) is described as 'rough' because it is covered with what structures?",
-    "correct": "Ribosomes",
-    "options": [
-      "Mitochondria",
-      "Chloroplasts",
-      "Lysosomes",
-      "Ribosomes"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 4
-  },
-  {
-    "question": "What rigid carbohydrate is the main component of a plant cell's wall?",
-    "correct": "Cellulose",
-    "options": [
-      "Starch",
-      "Glycogen",
-      "Cellulose",
-      "Chitin"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 4
-  },
-  {
-    "question": "What is the name of the process that occurs in the mitochondria to release energy from food?",
-    "correct": "Cellular Respiration",
-    "options": [
-      "Photosynthesis",
-      "Cellular Respiration",
-      "Fermentation",
-      "Digestion"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 4
-  },
-  {
-    "question": "Which type of Endoplasmic Reticulum is involved in synthesizing lipids and detoxifying harmful substances?",
-    "correct": "Smooth ER",
-    "options": [
-      "Rough ER",
-      "Sarcoplasmic Reticulum",
-      "Smooth ER",
-      "Golgi ER"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 5
-  },
-  {
-    "question": "The cell's genetic material, DNA, is found inside which organelle?",
-    "correct": "Nucleus",
-    "options": [
-      "Ribosome",
-      "Nucleus",
-      "Cytoplasm",
-      "Mitochondria"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
     "complexity_score": 1
   },
   {
-    "question": "What structure provides rigid support and protection for a plant cell?",
-    "correct": "Cell Wall",
+    "question": "Which planet is closest to the Sun?",
+    "correct": "Mercury",
     "options": [
-      "Cytoskeleton",
-      "Cell Membrane",
-      "Cell Wall",
-      "Vacuole"
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
     "complexity_score": 2
   },
   {
-    "question": "Where are ribosomes assembled inside the nucleus of a eukaryotic cell?",
-    "correct": "Nucleolus",
+    "question": "What is the name of Earth's only natural satellite?",
+    "correct": "The Moon",
     "options": [
-      "Nuclear Pore",
-      "Chromatin",
-      "Nucleolus",
-      "Nuclear Envelope"
+      "Titan",
+      "Phobos",
+      "The Moon",
+      "Europa"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which two planets are known as the 'ice giants'?",
+    "correct": "Uranus and Neptune",
+    "options": [
+      "Jupiter and Saturn",
+      "Mars and Venus",
+      "Uranus and Neptune",
+      "Mercury and Earth"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
-    "complexity_score": 5
-  },
-  {
-    "question": "Which of the following is an example of a prokaryotic organism?",
-    "correct": "A bacterium",
-    "options": [
-      "A yeast",
-      "A human",
-      "A mushroom",
-      "A bacterium"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
     "complexity_score": 3
   },
   {
-    "question": "The network of membranes that functions as a manufacturing and packaging system is the...?",
-    "correct": "Endoplasmic Reticulum",
+    "question": "Where is the main asteroid belt located in our Solar System?",
+    "correct": "Between Mars and Jupiter",
     "options": [
-      "Endoplasmic Reticulum",
-      "Cytoskeleton",
-      "Mitochondria",
-      "Vacuole"
+      "Between Earth and Mars",
+      "Between Jupiter and Saturn",
+      "Beyond Neptune",
+      "Between Mars and Jupiter"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "Although it's not the closest planet to the Sun, which is the hottest planet due to its thick atmosphere?",
+    "correct": "Venus",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Solar System",
     "complexity_score": 3
+  },
+  {
+    "question": "How many planets are in our Solar System?",
+    "correct": "8",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which planet is known for rotating on its side?",
+    "correct": "Uranus",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Saturn"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is Jupiter's 'Great Red Spot'?",
+    "correct": "A giant, long-lasting storm",
+    "options": [
+      "A large volcano",
+      "A red-colored moon",
+      "A giant, long-lasting storm",
+      "A desert made of red sand"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are comets primarily made of?",
+    "correct": "Ice, rock, and dust",
+    "options": [
+      "Liquid metal and fire",
+      "Hot gas",
+      "Ice, rock, and dust",
+      "Solid rock"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "Approximately how long does it take for Earth to make one full orbit around the Sun?",
+    "correct": "365 days",
+    "options": [
+      "30 days",
+      "100 days",
+      "365 days",
+      "500 days"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which celestial body was reclassified as a 'dwarf planet' in 2006?",
+    "correct": "Pluto",
+    "options": [
+      "Ceres",
+      "Eris",
+      "Pluto",
+      "Makemake"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "correct": "The Milky Way",
+    "options": [
+      "Andromeda",
+      "The Solar Galaxy",
+      "The Milky Way",
+      "Triangulum"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which planet is the smallest in our Solar System?",
+    "correct": "Mercury",
+    "options": [
+      "Mars",
+      "Pluto (dwarf planet)",
+      "Earth",
+      "Mercury"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 2
+  },
+  {
+    "question": "What gives Mars its characteristic red color?",
+    "correct": "Iron oxide (rust) on its surface",
+    "options": [
+      "Red plants",
+      "Red oceans",
+      "Iron oxide (rust) on its surface",
+      "Atmospheric haze"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which planet is furthest from the Sun?",
+    "correct": "Neptune",
+    "options": [
+      "Uranus",
+      "Saturn",
+      "Neptune",
+      "Jupiter"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solar System",
+    "complexity_score": 1
   }
 ]
