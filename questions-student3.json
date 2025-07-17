@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the transcription, the tutor mentions solving a problem like `_ / 8 = 125`. What is the missing number?",
-    "correct": "1000",
+    "question": "According to the lesson, what is the definition of an 'object'?",
+    "correct": "Anything that can be seen or touched",
     "options": [
-      "100",
-      "1250",
-      "1000",
-      "800"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the key trick discussed for solving `71 * 999` efficiently?",
-    "correct": "Rewrite 999 as (1000 - 1)",
-    "options": [
-      "Multiply 71 by 9, then by 9 again, then by 9 again",
-      "Rewrite 999 as (1000 - 1)",
-      "Round 71 to 70",
-      "Use a calculator"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the sum of the first 12 odd numbers, as mentioned in the lesson?",
-    "correct": "144",
-    "options": [
-      "120",
-      "144",
-      "24",
-      "132"
+      "Anything made of wood",
+      "Only things found in a classroom",
+      "Anything that can be seen or touched",
+      "The matter used to make things"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Science - Kinds of Material",
     "complexity_score": 1
   },
   {
-    "question": "Based on the pattern discussed, what is the sum of the first 50 odd numbers?",
+    "question": "What is the term for the matter from which an object is made?",
+    "correct": "Material",
+    "options": [
+      "Object",
+      "Substance",
+      "Material",
+      "Item"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of the following is an example of a material?",
+    "correct": "Wood",
+    "options": [
+      "Chair",
+      "Table",
+      "Pencil Box",
+      "Wood"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 2
+  },
+  {
+    "question": "A chair is an object. What is the material it is most commonly made from?",
+    "correct": "Wood",
+    "options": [
+      "Glass",
+      "Plastic",
+      "Wood",
+      "An object"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which statement best describes the relationship between objects and materials?",
+    "correct": "Objects are made of materials",
+    "options": [
+      "Materials are made of objects",
+      "Objects and materials are the same thing",
+      "Objects are made of materials",
+      "Objects are always bigger than materials"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 3
+  },
+  {
+    "question": "Some objects mentioned in the lesson, like certain pots, can be made from soil or ____.",
+    "correct": "Mud",
+    "options": [
+      "Metal",
+      "Mud",
+      "Rubber",
+      "Fiber"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these is a list of materials, not objects?",
+    "correct": "Plastic, Leather, Glass, Metal",
+    "options": [
+      "Pencil, Chair, Table, Ball",
+      "Plastic, Leather, Glass, Metal",
+      "Book, Coin, Paper, Box",
+      "Chair, Wood, Table, Plastic"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 4
+  },
+  {
+    "question": "A drinking glass is an object. What is its material?",
+    "correct": "Glass",
+    "options": [
+      "Plastic",
+      "Glass",
+      "Water",
+      "Metal"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "The lesson states that objects have different shapes, sizes, and what else?",
+    "correct": "Colors",
+    "options": [
+      "Weights",
+      "Smells",
+      "Colors",
+      "Ages"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is 'wood' considered a material?",
+    "correct": "Because it is used to make objects like chairs and tables",
+    "options": [
+      "Because you can touch it",
+      "Because it comes from trees",
+      "Because it is an object itself",
+      "Because it is used to make objects like chairs and tables"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 4
+  },
+  {
+    "question": "Based on the timed challenge, how can you efficiently calculate 71 x 999?",
+    "correct": "71 x (1000 - 1)",
+    "options": [
+      "71 x 1000 - 1",
+      "71 x (1000 - 1)",
+      "70 x 1000 + 999",
+      "Multiplying it out directly"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Maths - Distributive Property",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the sum of the first 12 odd numbers?",
+    "correct": "144",
+    "options": [
+      "12",
+      "24",
+      "144",
+      "132"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Maths - Number Patterns",
+    "complexity_score": 3
+  },
+  {
+    "question": "If a number divided by 8 equals 125, what is that number?",
+    "correct": "1000",
+    "options": [
+      "125",
+      "133",
+      "1000",
+      "875"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Maths - Equations",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the sum of the first 50 odd numbers?",
     "correct": "2500",
     "options": [
       "500",
       "100",
       "2500",
-      "5000"
+      "5050"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "According to the science chapter, what is the definition of an 'object'?",
-    "correct": "Anything that can be seen or touched",
-    "options": [
-      "The matter that something is made of",
-      "Only things made of wood",
-      "Anything that can be seen or touched",
-      "Something that has a specific color"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the definition of a 'material'?",
-    "correct": "The matter of which an object is made",
-    "options": [
-      "Anything that can be seen or touched",
-      "A type of tool",
-      "An item you can buy in a store",
-      "The matter of which an object is made"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of the following is an example of an object?",
-    "correct": "Chair",
-    "options": [
-      "Wood",
-      "Plastic",
-      "Chair",
-      "Glass"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of the following is an example of a material?",
-    "correct": "Leather",
-    "options": [
-      "Pencil Box",
-      "Book",
-      "Coin",
-      "Leather"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "A table is an object. What is the material it is typically made from, as discussed in the class?",
-    "correct": "Wood",
-    "options": [
-      "Plastic",
-      "Metal",
-      "Wood",
-      "Glass"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "Using the distributive property trick, how would you solve `25 * 99`?",
-    "correct": "25 * (100 - 1)",
-    "options": [
-      "25 * 9 + 25 * 9",
-      "25 * (100 - 1)",
-      "20 * 99 + 5 * 99",
-      "25 * 100 - 1"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the sum of the first 20 odd numbers?",
-    "correct": "400",
-    "options": [
-      "200",
-      "40",
-      "400",
-      "220"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "According to the text, which of these is NOT listed as a material?",
-    "correct": "Ball",
-    "options": [
-      "Soil",
-      "Rubber",
-      "Ball",
-      "Fiber"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "The book mentions some objects are made of 'soil or mud'. Which is the best example of this?",
-    "correct": "A clay pot",
-    "options": [
-      "A plastic toy",
-      "A glass window",
-      "A clay pot",
-      "A wooden door"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "What completes the relationship: 'Objects are made of ___.'?",
-    "correct": "Materials",
-    "options": [
-      "Shapes",
-      "Colors",
-      "Materials",
-      "Sizes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "If you solve `71 * (1000 - 1)`, what are the two numbers you subtract?",
-    "correct": "71000 and 71",
-    "options": [
-      "7100 and 71",
-      "71000 and 71",
-      "1000 and 71",
-      "71000 and 1"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Maths - Number Patterns",
     "complexity_score": 3
   },
   {
-    "question": "The number sequence in the transcript started `29, 36, ...`. What number comes next in this pattern?",
-    "correct": "43",
+    "question": "Using the pattern discussed, how would you solve 18.9 x 9?",
+    "correct": "18.9 x (10 - 1)",
     "options": [
-      "41",
-      "42",
-      "43",
-      "45"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these pairs correctly links an object to its material?",
-    "correct": "Book and Paper",
-    "options": [
-      "Window and Wood",
-      "Book and Paper",
-      "Tire and Glass",
-      "Table and Plastic"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is `15 * 15`?",
-    "correct": "225",
-    "options": [
-      "215",
-      "225",
-      "150",
-      "30"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the best way to describe the relationship between a 'pencil' and 'wood'?",
-    "correct": "Pencil is the object, wood is the material.",
-    "options": [
-      "Pencil is the material, wood is the object.",
-      "They are both objects.",
-      "They are both materials.",
-      "They are unrelated."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "If the sum of the first 'n' odd numbers is 81, what is 'n'?",
-    "correct": "9",
-    "options": [
-      "81",
-      "8",
-      "9",
-      "10"
+      "18.9 x (9 + 0)",
+      "18.9 x 10 - 1",
+      "18 x 9 + 0.9",
+      "18.9 x (10 - 1)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 3
+    "topic": "Maths - Distributive Property",
+    "complexity_score": 4
+  },
+  {
+    "question": "What is the final answer to 71 x 999?",
+    "correct": "70929",
+    "options": [
+      "71000",
+      "70999",
+      "70929",
+      "71071"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Maths - Calculation",
+    "complexity_score": 4
+  },
+  {
+    "question": "The tutor mentions a quote: 'If you will give me one hour to cut a tree, I will spend first 40 minutes sharpening my...' what?",
+    "correct": "Axe",
+    "options": [
+      "Saw",
+      "Pencil",
+      "Mind",
+      "Axe"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Classroom Analogy",
+    "complexity_score": 1
+  },
+  {
+    "question": "What was the goal of the 15-minute math challenge?",
+    "correct": "To solve at least 5 questions",
+    "options": [
+      "To solve 15 questions",
+      "To get every question right",
+      "To solve at least 5 questions",
+      "To beat the tutor's score"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Classroom Activity",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the rule for finding the sum of the first 'n' odd numbers?",
+    "correct": "n x n (or n²)",
+    "options": [
+      "n + n",
+      "n x 2",
+      "n x n (or n²)",
+      "n + 1"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Maths - Number Patterns",
+    "complexity_score": 5
+  },
+  {
+    "question": "Which two subjects were discussed for the upcoming exam?",
+    "correct": "Social Science and Science",
+    "options": [
+      "English and Maths",
+      "Social Science and Science",
+      "Maths and Science",
+      "English and Social Science"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Classroom Discussion",
+    "complexity_score": 1
   }
 ]
