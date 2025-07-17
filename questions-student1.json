@@ -1,282 +1,282 @@
 [
   {
-    "question": "Who was the first emperor of the Roman Empire, founding it in 27 BC?",
-    "correct": "Augustus",
+    "question": "Which part of the cell is known as the 'control center' or 'brain' because it contains the DNA?",
+    "correct": "Nucleus",
     "options": [
-      "Julius Caesar",
-      "Diocletian",
-      "Augustus",
-      "Constantine"
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Cytoplasm"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roman Empire",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "What was the 200-year period of peace and stability in the Roman Empire called?",
-    "correct": "Pax Romana",
+    "question": "What is the primary function of the mitochondria?",
+    "correct": "To generate energy (ATP) for the cell",
     "options": [
-      "Roman Renaissance",
-      "Pax Romana",
-      "The Great Stability",
-      "Age of Augustus"
+      "To store water",
+      "To create proteins",
+      "To control cell division",
+      "To generate energy (ATP) for the cell"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roman Empire",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which emperor divided the Roman Empire into Western and Eastern halves in 285 AD?",
-    "correct": "Diocletian",
-    "options": [
-      "Augustus",
-      "Nero",
-      "Trajan",
-      "Diocletian"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 4
-  },
-  {
-    "question": "In what year did the Western Roman Empire officially fall?",
-    "correct": "476 AD",
-    "options": [
-      "27 BC",
-      "285 AD",
-      "476 AD",
-      "1453 AD"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 4
-  },
-  {
-    "question": "What was the Eastern Roman Empire commonly known as?",
-    "correct": "The Byzantine Empire",
-    "options": [
-      "The Holy Roman Empire",
-      "The Ottoman Empire",
-      "The Byzantine Empire",
-      "The Hellenistic Empire"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Roman Empire",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of these was a major economic reason for the decline of the Roman Empire?",
-    "correct": "High inflation and heavy taxation",
-    "options": [
-      "A surplus of gold",
-      "High inflation and heavy taxation",
-      "The end of the slave trade",
-      "Free food for all citizens"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 6
-  },
-  {
-    "question": "What famous Roman architectural structures were used to transport water over long distances?",
-    "correct": "Aqueducts",
-    "options": [
-      "Colosseums",
-      "Viaducts",
-      "Basilicas",
-      "Aqueducts"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Roman Achievements",
+    "topic": "Cellular Biology",
     "complexity_score": 1
   },
   {
-    "question": "The fall of the Western Roman Empire in 476 AD is often used to mark the beginning of what historical period?",
-    "correct": "The Middle Ages",
+    "question": "Which organelle is responsible for making proteins?",
+    "correct": "Ribosome",
     "options": [
-      "The Renaissance",
-      "The Ancient period",
-      "The Middle Ages",
-      "The Industrial Revolution"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Periods",
-    "complexity_score": 5
-  },
-  {
-    "question": "What was the capital of the Eastern Roman (Byzantine) Empire?",
-    "correct": "Constantinople",
-    "options": [
-      "Rome",
-      "Athens",
-      "Constantinople",
-      "Alexandria"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Byzantine Empire",
-    "complexity_score": 3
-  },
-  {
-    "question": "Approximately how long did the Byzantine Empire last after the fall of the Western Roman Empire?",
-    "correct": "1000 years",
-    "options": [
-      "100 years",
-      "500 years",
-      "1000 years",
-      "2000 years"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Byzantine Empire",
-    "complexity_score": 4
-  },
-  {
-    "question": "Which of these is NOT listed in the transcription as a reason for Rome's decline?",
-    "correct": "A major plague",
-    "options": [
-      "Political instability",
-      "Military overspending",
-      "Invasions by barbarian tribes",
-      "A major plague"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 7
-  },
-  {
-    "question": "The Latin language, a legacy of Rome, is the basis for which language family?",
-    "correct": "Romance languages",
-    "options": [
-      "Germanic languages",
-      "Slavic languages",
-      "Romance languages",
-      "Sino-Tibetan languages"
+      "Golgi apparatus",
+      "Lysosome",
+      "Ribosome",
+      "Nucleolus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roman Legacy",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
+  },
+  {
+    "question": "The jelly-like substance that fills the cell and surrounds the organelles is called:",
+    "correct": "Cytoplasm",
+    "options": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Vacuole",
+      "Endoplasmic Reticulum"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the main difference between a plant cell and an animal cell?",
+    "correct": "Plant cells have a cell wall and chloroplasts, while animal cells do not.",
+    "options": [
+      "Animal cells have a nucleus, but plant cells do not.",
+      "Plant cells have a cell wall and chloroplasts, while animal cells do not.",
+      "Animal cells are larger than plant cells.",
+      "Plant cells have mitochondria, but animal cells do not."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "According to the transcription, a period of political instability saw how many emperors in just 75 years?",
-    "correct": "Over 20",
+    "question": "In a plant cell, where does photosynthesis take place?",
+    "correct": "Chloroplast",
     "options": [
-      "Exactly 10",
-      "Over 20",
-      "Less than 5",
-      "Exactly 50"
+      "Mitochondria",
+      "Central Vacuole",
+      "Chloroplast",
+      "Cell wall"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 5
-  },
-  {
-    "question": "The Byzantine Empire finally fell in 1453 to which group?",
-    "correct": "The Ottoman Turks",
-    "options": [
-      "The Mongols",
-      "The Vandals",
-      "The Visigoths",
-      "The Ottoman Turks"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Byzantine Empire",
-    "complexity_score": 6
-  },
-  {
-    "question": "What form of government did the Roman Empire succeed?",
-    "correct": "The Roman Republic",
-    "options": [
-      "A Monarchy",
-      "The Roman Republic",
-      "A Theocracy",
-      "An Oligarchy"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Roman Empire",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which of the following was a key legacy of the Roman Empire mentioned in the transcription?",
-    "correct": "The spread of Christianity",
-    "options": [
-      "The invention of paper",
-      "The development of democracy",
-      "The spread of Christianity",
-      "The discovery of gunpowder"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Roman Legacy",
+    "topic": "Cellular Biology",
     "complexity_score": 2
   },
   {
-    "question": "The Goths, Vandals, and Huns are examples of what?",
-    "correct": "Barbarian tribes that invaded the empire",
+    "question": "Which organelle acts like a 'post office' by modifying, sorting, and packaging proteins and lipids?",
+    "correct": "Golgi apparatus",
     "options": [
-      "Roman legions",
-      "Barbarian tribes that invaded the empire",
-      "Provinces within the empire",
-      "Gods worshipped in Rome"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 3
-  },
-  {
-    "question": "What major problem arose from the Roman Empire becoming too large?",
-    "correct": "It became difficult to govern and defend",
-    "options": [
-      "There were not enough citizens",
-      "It ran out of natural resources",
-      "It became difficult to govern and defend",
-      "Taxes became too low to function"
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Decline of Rome",
-    "complexity_score": 4
+    "topic": "Cellular Biology",
+    "complexity_score": 2
   },
   {
-    "question": "For how long, in total, did the Roman civilization (from Empire founding to Byzantine fall) exist?",
-    "correct": "Roughly 1,500 years",
+    "question": "The rigid outer layer of a plant cell is the:",
+    "correct": "Cell wall",
     "options": [
-      "About 500 years",
-      "Roughly 1,500 years",
-      "Exactly 1,000 years",
-      "Over 2,000 years"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Roman Empire Timeline",
-    "complexity_score": 7
-  },
-  {
-    "question": "What Roman achievement provided the foundation for many modern legal systems?",
-    "correct": "Roman Law",
-    "options": [
-      "The Twelve Tables",
-      "The Senate",
-      "Roman Law",
-      "The Praetorian Guard"
+      "Cell membrane",
+      "Cytoskeleton",
+      "Cell wall",
+      "Capsule"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roman Legacy",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the function of the cell membrane?",
+    "correct": "To control which substances enter and leave the cell",
+    "options": [
+      "To provide rigid support for the cell",
+      "To produce energy",
+      "To control which substances enter and leave the cell",
+      "To store genetic information"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which organelle is known as the 'recycling center' because it breaks down waste and old cell parts?",
+    "correct": "Lysosome",
+    "options": [
+      "Vacuole",
+      "Lysosome",
+      "Peroxisome",
+      "Ribosome"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
     "complexity_score": 2
+  },
+  {
+    "question": "Prokaryotic cells (like bacteria) are different from eukaryotic cells because they lack...",
+    "correct": "A nucleus and other membrane-bound organelles",
+    "options": [
+      "A cell membrane",
+      "Ribosomes",
+      "DNA",
+      "A nucleus and other membrane-bound organelles"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "What does the 'rough' in Rough Endoplasmic Reticulum refer to?",
+    "correct": "The presence of ribosomes on its surface",
+    "options": [
+      "Its bumpy texture from lipids",
+      "The presence of ribosomes on its surface",
+      "Its function in breaking down rough materials",
+      "Its location near the rough side of the cell"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Plant cells have a large central vacuole primarily for...",
+    "correct": "Storing water and maintaining turgor pressure",
+    "options": [
+      "Digesting food",
+      "Synthesizing proteins",
+      "Storing water and maintaining turgor pressure",
+      "Carrying out photosynthesis"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of these is NOT part of the Cell Theory?",
+    "correct": "All cells have a nucleus.",
+    "options": [
+      "All living things are composed of one or more cells.",
+      "The cell is the basic unit of life.",
+      "All cells arise from pre-existing cells.",
+      "All cells have a nucleus."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "The network of protein filaments that provides shape and support to the cell is called the:",
+    "correct": "Cytoskeleton",
+    "options": [
+      "Cell wall",
+      "Endoplasmic Reticulum",
+      "Cytoskeleton",
+      "Golgi complex"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which process describes the movement of water across a selectively permeable membrane?",
+    "correct": "Osmosis",
+    "options": [
+      "Diffusion",
+      "Active transport",
+      "Osmosis",
+      "Endocytosis"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Smooth Endoplasmic Reticulum is responsible for...",
+    "correct": "Synthesizing lipids and detoxifying substances",
+    "options": [
+      "Synthesizing proteins",
+      "Generating ATP",
+      "Synthesizing lipids and detoxifying substances",
+      "Storing DNA"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which of the following would you find in a bacterial cell?",
+    "correct": "Ribosomes",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosomes",
+      "Golgi apparatus"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which structures are found in animal cells and are involved in cell division?",
+    "correct": "Centrioles",
+    "options": [
+      "Chloroplasts",
+      "Cell walls",
+      "Centrioles",
+      "Large central vacuoles"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 3
+  },
+  {
+    "question": "The basic structural and functional unit of all known living organisms is the...",
+    "correct": "Cell",
+    "options": [
+      "Organ",
+      "Tissue",
+      "Molecule",
+      "Cell"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cellular Biology",
+    "complexity_score": 1
   }
 ]
