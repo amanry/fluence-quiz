@@ -1,282 +1,280 @@
 [
   {
-    "question": "According to the lesson, what kind of number sequence can be added up to get a square number like 25?",
-    "correct": "A sequence of odd numbers (1+3+5+7+9)",
+    "question": "In the lesson, what is the correct way to think about solving 71 × 999?",
+    "correct": "71 × (1000 - 1)",
     "options": [
-      "A sequence of even numbers",
-      "A sequence of prime numbers",
-      "A sequence of odd numbers (1+3+5+7+9)",
-      "A sequence of multiples of 5"
+      "71 × 9 + 71 × 90 + 71 × 900",
+      "71 × 1000 - 1",
+      "71 × (1000 - 1)",
+      "70 × 999 + 1 × 999"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Maths - Number Properties",
     "complexity_score": 2
   },
   {
-    "question": "The People of India Project, led by K.S. Singh, found how many versions of the Mahabharata in Tamil Nadu alone?",
-    "correct": "100",
+    "question": "What is the final answer to 71 × 999?",
+    "correct": "70929",
     "options": [
-      "10",
-      "50",
+      "71000",
+      "70929",
+      "71999",
+      "70999"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Maths - Calculation",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the pattern discussed, what is the sum of the first 12 odd numbers?",
+    "correct": "144",
+    "options": [
+      "120",
+      "24",
+      "144",
+      "132"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Maths - Number Patterns",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the sum of the first 50 odd numbers?",
+    "correct": "2500",
+    "options": [
+      "500",
       "100",
-      "1000"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the rule for generating a square number sequence, as described in the session?",
-    "correct": "Multiply the position in the series by itself",
-    "options": [
-      "Add the position to itself",
-      "Multiply the position in the series by two",
-      "Multiply the position in the series by itself",
-      "Add consecutive numbers"
+      "5050",
+      "2500"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Maths - Number Patterns",
     "complexity_score": 2
   },
   {
-    "question": "Which two epics were mentioned as creating a 'dense web of cultural interactions' across India?",
-    "correct": "Ramayana and Mahabharata",
-    "options": [
-      "The Vedas and Upanishads",
-      "Ramayana and Mahabharata",
-      "The Panchatantra and Jataka Tales",
-      "The Puranas and the Gita"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "If a pattern of triangles follows the rule of square numbers, how many triangles will be in the ninth shape in the sequence?",
-    "correct": "81",
-    "options": [
-      "9",
-      "18",
-      "81",
-      "100"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "What key element did the instructor say was missing from a student's answer, for which they would only get 2.5 out of 5 marks?",
-    "correct": "Examples",
-    "options": [
-      "A good title",
-      "Correct spelling",
-      "A longer conclusion",
-      "Examples"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "The 'up and down' sequence for generating square numbers involves adding counting numbers up to a peak and then back down. What is the sum of the sequence 1+2+3+2+1?",
-    "correct": "9",
-    "options": [
-      "6",
-      "7",
-      "9",
-      "10"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 1
-  },
-  {
-    "question": "The concept that people in different parts of India wear a sari in unique ways, yet it's still a sari, illustrates what?",
-    "correct": "Unity in diversity",
-    "options": [
-      "Cultural conflict",
-      "Regional isolation",
-      "A lack of tradition",
-      "Unity in diversity"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "A student's first answer was marked as 'not quite right' because they only showed the sum. What were they supposed to show as well?",
-    "correct": "The sequence of numbers",
-    "options": [
-      "A pictorial presentation",
-      "The average of the numbers",
-      "The sequence of numbers",
-      "The formula used"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 2
-  },
-  {
-    "question": "According to the People of India Project, there is no place in India where local stories don't claim a visit from whom?",
-    "correct": "The Pandavas or legends from Ramayana",
-    "options": [
-      "Ancient Greek travelers",
-      "Mughal emperors",
-      "British officials",
-      "The Pandavas or legends from Ramayana"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the 5th number in a sequence of square numbers?",
-    "correct": "25",
-    "options": [
-      "5",
-      "10",
-      "20",
-      "25"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 1
-  },
-  {
-    "question": "The instructor mentions that different communities, including tribal ones, have created their own versions of epics. This is an example of what process?",
-    "correct": "Adaptation and cultural interaction",
-    "options": [
-      "Forgetting history",
-      "Direct copying",
-      "Adaptation and cultural interaction",
-      "Rejecting tradition"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "To get the square number 36 using the 'up and down' pattern, what would be the peak number in the sequence?",
-    "correct": "6",
-    "options": [
-      "5",
-      "6",
-      "18",
-      "36"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Mathematics",
-    "complexity_score": 3
-  },
-  {
-    "question": "What was the best way suggested in the session to prepare for the social science exam?",
-    "correct": "Read the chapter from the book",
-    "options": [
-      "Watch a movie about it",
-      "Only answer the quiz questions",
-      "Ask a friend for notes",
-      "Read the chapter from the book"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 1
-  },
-  {
-    "question": "The sum of the first 'n' odd numbers is equal to what?",
-    "correct": "n squared (n²)",
+    "question": "The rule for finding the sum of the first 'n' odd numbers is:",
+    "correct": "n × n (or n²)",
     "options": [
       "n + n",
-      "n multiplied by 2",
-      "n squared (n²)",
-      "n plus the next odd number"
+      "n × 2",
+      "n × 10",
+      "n × n (or n²)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Maths - Number Properties",
     "complexity_score": 3
   },
   {
-    "question": "The way stories from epics are used in daily conversations and examples across India shows their deep cultural ____.",
-    "correct": "Influence",
+    "question": "In the problem where a number divided by 8 equals 125, what is that number?",
+    "correct": "1000",
     "options": [
-      "Complexity",
-      "Influence",
-      "Age",
-      "Irrelevance"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Social Science",
-    "complexity_score": 2
-  },
-  {
-    "question": "A key task in one of the math questions was to not only write the sequence and sum, but also to provide a ____.",
-    "correct": "Pictorial presentation",
-    "options": [
-      "Historical context",
-      "Written essay",
-      "Verbal explanation",
-      "Pictorial presentation"
+      "133",
+      "1000",
+      "900",
+      "1258"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mathematics",
+    "topic": "Maths - Division/Multiplication",
     "complexity_score": 1
   },
   {
-    "question": "The term 'dense web of cultural interactions' was used to describe what?",
-    "correct": "How different versions of epics connect diverse cultures in India",
+    "question": "What is the sum of the first 20 odd numbers?",
+    "correct": "400",
     "options": [
-      "The complexity of the internet",
-      "A spider's web found in a temple",
-      "How different versions of epics connect diverse cultures in India",
-      "The trading routes in ancient India"
+      "40",
+      "200",
+      "400",
+      "220"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Maths - Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the science lesson, which of the following best defines an 'object'?",
+    "correct": "Anything that can be seen or touched.",
+    "options": [
+      "The substance something is made from.",
+      "Anything that has a specific color.",
+      "Anything that can be seen or touched.",
+      "Only man-made things."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is a 'material'?",
+    "correct": "The matter of which an object is made.",
+    "options": [
+      "Another word for a large object.",
+      "Anything that is shiny.",
+      "The matter of which an object is made.",
+      "Something that can only be found in nature."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "A chair is an example of an...",
+    "correct": "Object",
+    "options": [
+      "Object",
+      "Material",
+      "Element",
+      "Substance"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "Wood is an example of a...",
+    "correct": "Material",
+    "options": [
+      "Object",
+      "Material",
+      "Product",
+      "Shape"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of the following is a list of materials?",
+    "correct": "Plastic, Glass, Metal, Rubber",
+    "options": [
+      "Table, Chair, Book, Pen",
+      "Plastic, Glass, Metal, Rubber",
+      "Round, Square, Heavy, Light",
+      "Pencil, Pencil Box, Coin, Ball"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which sentence best describes the relationship between objects and materials?",
+    "correct": "Objects are made of materials.",
+    "options": [
+      "Materials are made of objects.",
+      "Objects and materials are the same thing.",
+      "Objects are always bigger than materials.",
+      "Objects are made of materials."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 2
+  },
+  {
+    "question": "A book is an object. What is a likely material it is made of?",
+    "correct": "Paper",
+    "options": [
+      "Glass",
+      "Metal",
+      "Paper",
+      "Rubber"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "A coin is an object. What material is it most likely made of?",
+    "correct": "Metal",
+    "options": [
+      "Wood",
+      "Plastic",
+      "Metal",
+      "Fiber"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the science discussion, what improved understanding was reached about materials?",
+    "correct": "Materials can also be seen and touched, but they are what objects are made of.",
+    "options": [
+      "Materials cannot be touched.",
+      "Materials are invisible.",
+      "Materials can also be seen and touched, but they are what objects are made of.",
+      "Materials are a type of object."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Science - Kinds of Material",
     "complexity_score": 3
   },
   {
-    "question": "The test described in the transcript was a combined test of which two subjects?",
-    "correct": "Mathematics and Social Science",
+    "question": "Which of these items is made from the material 'glass'?",
+    "correct": "A drinking cup",
     "options": [
-      "Science and History",
-      "Mathematics and Social Science",
-      "English and Mathematics",
-      "Art and Social Science"
+      "A tire",
+      "A t-shirt",
+      "A drinking cup",
+      "A notebook"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General",
+    "topic": "Science - Kinds of Material",
     "complexity_score": 1
   },
   {
-    "question": "Who was the scholar mentioned in the context of the 'People of India Project'?",
-    "correct": "K.S. Singh",
+    "question": "True or False: An object can only be made from one type of material.",
+    "correct": "False",
     "options": [
-      "Amartya Sen",
-      "C.V. Raman",
-      "K.S. Singh",
-      "Romila Thapar"
+      "True",
+      "False"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science",
+    "topic": "Science - Kinds of Material",
     "complexity_score": 2
+  },
+  {
+    "question": "Based on the maths challenge, what is the best way to write 99 on your copy to make calculations easier?",
+    "correct": "100 - 1",
+    "options": [
+      "90 + 9",
+      "100 - 1",
+      "9 × 11",
+      "33 × 3"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Maths - Number Properties",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of the following is NOT a material mentioned in the lesson?",
+    "correct": "Energy",
+    "options": [
+      "Wood",
+      "Leather",
+      "Soil",
+      "Energy"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science - Kinds of Material",
+    "complexity_score": 1
   }
 ]
