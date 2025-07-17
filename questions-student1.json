@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which sentence correctly uses the simple present tense to state a fact?",
-    "correct": "Monsoons occur in India.",
+    "question": "An object is defined as something that is made of a single, pure substance.",
+    "correct": "The matter of which an object is made",
     "options": [
-      "Monsoons are occurring in India.",
-      "Monsoons have been occurring in India.",
-      "Monsoons occur in India.",
-      "Monsoons was occurring in India."
+      "Anything that can be seen or touched",
+      "The matter of which an object is made",
+      "A finished item like a chair or a book",
+      "The raw substance used for building things"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Simple Present Tense",
+    "topic": "Science: Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct verb form: 'Ankitah has already ______ her exams.'",
-    "correct": "completed",
+    "question": "Which of the following is the best example of a 'material'?",
+    "correct": "Wood",
     "options": [
-      "completing",
-      "complete",
-      "completed",
-      "is completing"
+      "Table",
+      "Pencil Box",
+      "Wood",
+      "Ball"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Science: Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is in the present continuous tense?",
-    "correct": "She is making a life-size painting.",
+    "question": "What is the pattern used to find the sum of the first 'n' odd numbers?",
+    "correct": "n * n (or n squared)",
     "options": [
-      "She makes a life-size painting.",
-      "She has made a life-size painting.",
-      "She is making a life-size painting.",
-      "She has been making a life-size painting."
+      "n + n",
+      "n * 2",
+      "n * n (or n squared)",
+      "n + 12"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Continuous Tense",
+    "topic": "Math: Number Patterns",
     "complexity_score": 1
   },
   {
-    "question": "Complete the sentence: 'He and his friends ______ practicing judo.'",
-    "correct": "are",
+    "question": "Using the method discussed in class, how would you first rewrite the problem `15 x 99`?",
+    "correct": "15 x (100 - 1)",
     "options": [
-      "is",
-      "am",
-      "are",
-      "was"
+      "15 x 100",
+      "14 x 99",
+      "15 x (100 - 1)",
+      "15 x 9 + 15 x 9"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Math: Distributive Property",
     "complexity_score": 1
   },
   {
-    "question": "The present perfect continuous tense is used for actions that started in the past and...",
-    "correct": "are still continuing.",
+    "question": "All objects are made of...",
+    "correct": "Materials",
     "options": [
-      "finished a long time ago.",
-      "will happen in the future.",
-      "are still continuing.",
-      "happened just once."
+      "Plastic",
+      "Glass",
+      "Materials",
+      "Wood"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
+    "topic": "Science: Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "Complete the sentence: 'What ______ you reading?'",
-    "correct": "are",
+    "question": "What is the sum of the first 12 odd numbers?",
+    "correct": "144",
     "options": [
-      "is",
-      "are",
-      "do",
-      "have"
+      "24",
+      "120",
+      "144",
+      "66"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Continuous Tense",
+    "topic": "Math: Number Patterns",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is the best choice? 'It ______ continuously since yesterday.'",
-    "correct": "has been snowing",
+    "question": "A student correctly solves `71 x 999` by calculating `71000 - 71`. What mathematical property did they use?",
+    "correct": "The distributive property",
     "options": [
-      "is snowing",
-      "snows",
-      "has been snowing",
-      "was snowing"
+      "The commutative property",
+      "The associative property",
+      "The distributive property",
+      "The identity property"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous vs. Present Continuous",
+    "topic": "Math: Distributive Property",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'She is meeting him on Sunday' uses the present continuous tense to talk about...",
-    "correct": "a future plan.",
+    "question": "A car is an 'object'. Which of these is a 'material' used to make a car?",
+    "correct": "Metal",
     "options": [
-      "a past event.",
-      "a general truth.",
-      "a future plan.",
-      "an action happening right now."
+      "Tire",
+      "Engine",
+      "Steering wheel",
+      "Metal"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Application",
+    "topic": "Science: Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "Why is 'They have been playing' the correct choice for 'The children are tired because they ______ in the field all morning'?",
-    "correct": "Because 'all morning' indicates a duration of time.",
+    "question": "Based on the class discussion, what is the key difference between an object and a material?",
+    "correct": "An object is a finished item, while a material is what the item is made of.",
     "options": [
-      "Because 'children' is plural.",
-      "Because the action is happening right now.",
-      "Because 'all morning' indicates a duration of time.",
-      "Because the children are tired."
+      "Objects can be touched, but materials cannot.",
+      "Materials are natural, but objects are man-made.",
+      "An object is a finished item, while a material is what the item is made of.",
+      "Objects have a fixed shape, while materials do not."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Application",
+    "topic": "Science: Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct sentence: 'My grandmother's backache ______ since she started doing yoga.'",
-    "correct": "has been improving",
+    "question": "If the sum of the first 'n' odd numbers is 225, what is 'n'?",
+    "correct": "15",
     "options": [
-      "is improving",
-      "improves",
-      "has been improving",
-      "had improved"
+      "25",
+      "50",
+      "15",
+      "22"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
+    "topic": "Math: Number Patterns",
     "complexity_score": 2
   },
   {
-    "question": "How would you change 'He was questioned by his father' to the present perfect tense?",
-    "correct": "He has been questioned by his father.",
+    "question": "A smartphone can be seen and touched. It is made of glass, plastic, and metal. Which statement is most accurate?",
+    "correct": "The smartphone is the object; glass, plastic, and metal are the materials.",
     "options": [
-      "He has questioned his father.",
-      "He is being questioned by his father.",
-      "He has been questioned by his father.",
-      "He is questioning his father."
+      "The smartphone is the material; glass, plastic, and metal are the objects.",
+      "The smartphone, glass, plastic, and metal are all objects.",
+      "The smartphone, glass, plastic, and metal are all materials.",
+      "The smartphone is the object; glass, plastic, and metal are the properties."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Transformation (Passive Voice)",
+    "topic": "Science: Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "Which phrase indicates that the present perfect continuous tense should be used?",
-    "correct": "for the last two hours",
+    "question": "Which calculation correctly follows the steps for solving `45 x 9` using the class method?",
+    "correct": "(45 x 10) - (45 x 1)",
     "options": [
-      "yesterday",
-      "right now",
-      "for the last two hours",
-      "next week"
+      "45 x (10 - 9)",
+      "(45 x 10) - (45 x 1)",
+      "(40 x 9) + (5 x 9)",
+      "45 x 10 - 1"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Identifying Tense Clues",
+    "topic": "Math: Distributive Property",
     "complexity_score": 2
   },
   {
-    "question": "Correct the error: 'What game is those children playing?'",
-    "correct": "What game are those children playing?",
+    "question": "To solve `125 x 8 = 1000`, what is the missing number in the equivalent division problem: `______ ÷ 8 = 125`?",
+    "correct": "1000",
     "options": [
-      "What game was those children playing?",
-      "What game are those children playing?",
-      "What games is that children playing?",
-      "The sentence is already correct."
+      "125",
+      "8",
+      "1000",
+      "15.625"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Math: Inverse Operations",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'I ______ to find my way home for the last two hours,' which verb form fits best?",
-    "correct": "have been trying",
+    "question": "The sum of the first 50 odd numbers is 2500. What would be the sum of the first 51 odd numbers?",
+    "correct": "2601",
     "options": [
-      "am trying",
-      "try",
-      "have been trying",
-      "was trying"
+      "2501",
+      "2551",
+      "2601",
+      "2550"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
+    "topic": "Math: Number Patterns",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence, 'The public health department ______ putting a lot of stress on sanitation,' why is 'has been' correct?",
-    "correct": "'Department' is a singular collective noun.",
+    "question": "A scientist is sorting items. Why is it more useful to group items by 'material' (wood, metal, glass) rather than by 'object' (chair, table, cup)?",
+    "correct": "Grouping by material helps understand shared properties like strength or transparency.",
     "options": [
-      "Because it refers to many people.",
-      "It should be 'have been' because a department has many people.",
-      "'Department' is a singular collective noun.",
-      "Because the action is finished."
+      "Because there are fewer materials than objects.",
+      "Because objects can be made of many materials.",
+      "Grouping by material helps understand shared properties like strength or transparency.",
+      "Because materials are more valuable than objects."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement (Collective Nouns)",
+    "topic": "Science: Classification",
     "complexity_score": 3
   },
   {
-    "question": "A student starts a story with 'Suddenly, a tiger arrives and starts dragging the deer.' Which verb from the provided list best describes what the deer were doing right before?",
-    "correct": "grazing",
+    "question": "A problem is written as `(84 x 1000) - (84 x 1)`. What was the original multiplication problem this method is trying to solve efficiently?",
+    "correct": "84 x 999",
     "options": [
-      "roaming",
-      "watching",
-      "grazing",
-      "arriving"
+      "84 x 1001",
+      "83 x 1000",
+      "84 x 999",
+      "84 x 99"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vocabulary in Context",
+    "topic": "Math: Distributive Property",
     "complexity_score": 3
   },
   {
-    "question": "A story starts with 'I entered the jungle.' To maintain a consistent tense for actions that happened next, which sentence would be incorrect?",
-    "correct": "I see many trees.",
+    "question": "The method of breaking `999` into `1000 - 1` is a mental math shortcut. What is the primary advantage of this 'sharpening the axe' approach?",
+    "correct": "It transforms a complex multiplication into simpler multiplication and subtraction.",
     "options": [
-      "I saw many trees.",
-      "I spotted a deer.",
-      "I see many trees.",
-      "I watched the monkeys."
+      "It avoids using the number 9, which is difficult to multiply.",
+      "It makes the numbers smaller and easier to handle.",
+      "It transforms a complex multiplication into simpler multiplication and subtraction.",
+      "It is the only way to solve multiplication with large numbers."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Consistency in Narrative",
+    "topic": "Math: Problem-Solving Strategy",
     "complexity_score": 3
   },
   {
-    "question": "What is the key difference between 'How is he doing?' and 'How has he been doing?'",
-    "correct": "'How has he been doing?' asks about a period of time, while 'How is he doing?' asks about right now.",
+    "question": "If you need to make a window, you choose the 'material' glass because of its 'property' of being transparent. If you need to make a hammerhead, what is the most important property of the 'material' you would choose (e.g., steel)?",
+    "correct": "Hardness and strength",
     "options": [
-      "There is no difference in meaning.",
-      "'How is he doing?' is more formal.",
-      "'How has he been doing?' asks about a period of time, while 'How is he doing?' asks about right now.",
-      "'How is he doing?' is only used after an accident."
+      "Shininess",
+      "Light weight",
+      "Flexibility",
+      "Hardness and strength"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Nuances of Tense",
+    "topic": "Science: Material Properties",
     "complexity_score": 3
   },
   {
-    "question": "Consider the sentence: 'The people who ______ to the office by foot now must take the bus.' Why would 'are walking' or 'walk' be a better choice than 'have been walking'?",
-    "correct": "Because the sentence states a general habit or current action, not one with a specific duration leading to a result.",
+    "question": "How could you apply the same pattern-solving logic from the `n x 999` problem to solve `35 x 101`?",
+    "correct": "Rewrite it as 35 x (100 + 1)",
     "options": [
-      "Because 'have been walking' is past tense.",
-      "Because there is no time clue like 'since' or 'for'.",
-      "Because the sentence states a general habit or current action, not one with a specific duration leading to a result.",
-      "Because 'people' is plural."
+      "Rewrite it as 35 x (100 - 1)",
+      "Rewrite it as 35 x (100 + 1)",
+      "Rewrite it as 30 x 101 + 5",
+      "This pattern only works for numbers ending in 9."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Tense Analysis",
+    "topic": "Math: Generalizing Patterns",
     "complexity_score": 3
   },
   {
-    "question": "If you are telling a story as if it is happening right now, which opening is most effective for setting the scene?",
-    "correct": "I am entering the jungle safari.",
+    "question": "The quote, 'If I have one hour to cut a tree, I will spend the first 40 minutes sharpening my axe,' was used in the lesson. How does this relate to solving `71 x 999`?",
+    "correct": "It's better to spend time finding an efficient method (`1000-1`) than to start a long, difficult calculation immediately.",
     "options": [
-      "I entered the jungle safari.",
-      "I will enter the jungle safari.",
-      "I enter the jungle safari.",
-      "I am entering the jungle safari."
+      "It means you should always use a calculator for hard problems.",
+      "It's better to spend time finding an efficient method (`1000-1`) than to start a long, difficult calculation immediately.",
+      "It implies that math problems take a very long time to solve correctly.",
+      "It means you should ask for help after 40 minutes of trying."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Narrative Tense",
+    "topic": "Math: Problem-Solving Strategy",
     "complexity_score": 3
   }
 ]
