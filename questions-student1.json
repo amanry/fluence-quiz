@@ -1,282 +1,282 @@
 [
   {
-    "question": "In Science, what is the best definition of an 'object'?",
-    "correct": "Anything that can be seen or touched and has a specific shape and function.",
+    "question": "In the sentence 'Ankitah has already ______ her exams,' which word correctly completes the sentence?",
+    "correct": "completed",
     "options": [
-      "The matter used to create something.",
-      "Only things made of wood or plastic.",
-      "Anything that can be seen or touched and has a specific shape and function.",
-      "A substance like soil or glass."
+      "completing",
+      "complete",
+      "completed",
+      "is completing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
+    "topic": "Present Perfect Tense",
     "complexity_score": 1
   },
   {
-    "question": "A chair is an object. What is the 'material' it is commonly made from?",
-    "correct": "Wood",
+    "question": "Which sentence correctly uses a verb from your jungle safari story activity?",
+    "correct": "I watch the tigers roam in their enclosure.",
     "options": [
-      "Table",
-      "Glass",
-      "Wood",
-      "Pencil"
+      "I am watch the tigers.",
+      "I watch the tigers roam in their enclosure.",
+      "The tigers has roamed.",
+      "The tigers is roaming."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
+    "topic": "Simple Present Tense",
     "complexity_score": 1
   },
   {
-    "question": "What is the fastest way to calculate the sum of the first 12 odd numbers, based on the pattern discussed?",
-    "correct": "Calculate 12 squared (12 x 12)",
+    "question": "The Present Perfect Continuous tense is formed with:",
+    "correct": "has/have + been + verb-ing",
     "options": [
-      "Add 1 + 3 + 5... all the way to the 12th odd number.",
-      "Multiply 12 by 2.",
-      "Calculate 12 squared (12 x 12)",
-      "Divide 12 by 2."
+      "is/are + verb-ing",
+      "has/have + verb",
+      "has/have + been + verb-ing",
+      "was/were + verb-ing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Number Patterns",
+    "topic": "Tense Formation",
     "complexity_score": 1
   },
   {
-    "question": "When solving `71 x 999`, how can `999` be rewritten to make the calculation easier?",
-    "correct": "1000 - 1",
+    "question": "In the sentence, 'What game ___ those children playing?', which word fits in the blank?",
+    "correct": "are",
     "options": [
-      "900 + 90 + 9",
-      "1000 - 1",
-      "71 + 999",
-      "9 x 111"
+      "is",
+      "are",
+      "was",
+      "has"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 1
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 2
   },
   {
-    "question": "Which of the following is an example of a material?",
-    "correct": "Plastic",
+    "question": "Why is 'It has been snowing since yesterday' the correct choice over 'It is snowing since yesterday'?",
+    "correct": "Because 'since yesterday' indicates the action started in the past and is still continuing.",
     "options": [
-      "Book",
-      "Pencil Box",
-      "Coin",
-      "Plastic"
+      "Because 'is snowing' is always wrong.",
+      "Because 'since yesterday' indicates the action started in thepast and is still continuing.",
+      "Because snow is always in the past.",
+      "Because the weather is a perfect event."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous vs. Present Continuous",
+    "complexity_score": 2
+  },
+  {
+    "question": "When we talked about the 'Public Health Department', why did we use 'has been' instead of 'have been'?",
+    "correct": "Because 'Department' is a single group, so it's treated as a singular noun.",
+    "options": [
+      "Because 'Public' is singular.",
+      "Because there are many people in a department, so it's plural.",
+      "Because 'Department' is a single group, so it's treated as a singular noun.",
+      "Because health is more important than people."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Collective Nouns",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the main difference in meaning between 'I am doing my homework' and 'I have been doing my homework for an hour'?",
+    "correct": "The second sentence emphasizes the duration of the activity.",
+    "options": [
+      "There is no difference in meaning.",
+      "The first sentence means the homework is finished.",
+      "The second sentence emphasizes the duration of the activity.",
+      "The first sentence is more formal than the second."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Tense Nuances",
+    "complexity_score": 3
+  },
+  {
+    "question": "Imagine you are explaining your new Ecoscience club to a friend. Which sentence best describes your new interest?",
+    "correct": "I have chosen the Ecoscience club because I love experiments.",
+    "options": [
+      "I am choose the Ecoscience club.",
+      "I have choosing the Ecoscience club.",
+      "I has chosen the Ecoscience club.",
+      "I have chosen the Ecoscience club because I love experiments."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the result of 12 squared (12²)?",
-    "correct": "144",
-    "options": [
-      "24",
-      "120",
-      "144",
-      "12"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Math: Number Patterns",
-    "complexity_score": 1
-  },
-  {
-    "question": "Using the pattern discussed in class, what is the sum of the first 10 odd numbers?",
-    "correct": "100",
-    "options": [
-      "20",
-      "50",
-      "100",
-      "10"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Number Patterns",
+    "topic": "Present Perfect Tense",
     "complexity_score": 2
   },
   {
-    "question": "If you are told to solve `24 x 9` using the efficient method from class, what would be your first step?",
-    "correct": "Rewrite the problem as 24 x (10 - 1)",
+    "question": "Your friend is late. You call them and they say, 'Sorry, I'm running to catch the bus!' What tense are they using?",
+    "correct": "Present Continuous",
     "options": [
-      "Multiply 24 by 10",
-      "Do a standard long multiplication",
-      "Rewrite the problem as 24 x (10 - 1)",
-      "Add 24 and 9"
+      "Simple Present",
+      "Present Perfect",
+      "Present Continuous",
+      "Present Perfect Continuous"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Distributive Property",
+    "topic": "Tense Application",
     "complexity_score": 2
   },
   {
-    "question": "A mud pot is an object. What material is it made from?",
-    "correct": "Soil or mud",
+    "question": "You see your friend who looks exhausted. You ask, 'What have you been doing?' They reply: 'I ______ for the science fair all morning.'",
+    "correct": "have been preparing",
     "options": [
-      "Plastic",
-      "Glass",
-      "Wood",
-      "Soil or mud"
+      "am preparing",
+      "prepare",
+      "have been preparing",
+      "did prepare"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the equation `___ ÷ 8 = 125`, how do you find the missing number?",
-    "correct": "Multiply 125 by 8",
-    "options": [
-      "Divide 125 by 8",
-      "Add 125 and 8",
-      "Subtract 8 from 125",
-      "Multiply 125 by 8"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Inverse Operations",
-    "complexity_score": 2
-  },
-  {
-    "question": "An object is made of glass, and another object is made of rubber. What do 'glass' and 'rubber' represent?",
-    "correct": "Materials",
-    "options": [
-      "Objects",
-      "Materials",
-      "Shapes",
-      "Colors"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "If the sum of the first 'n' odd numbers is 49, what is the value of 'n'?",
-    "correct": "7",
-    "options": [
-      "49",
-      "24.5",
-      "7",
-      "14"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Number Patterns",
-    "complexity_score": 2
-  },
-  {
-    "question": "After writing `71 x (1000 - 1)`, what is the next step to solve the problem?",
-    "correct": "Calculate (71 x 1000) - (71 x 1)",
-    "options": [
-      "Add 71 and 1000",
-      "Multiply 71 by 999 directly",
-      "Calculate (71 x 1000) - (71 x 1)",
-      "Subtract 1 from 71 first"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is it more accurate to say 'materials can also be seen and touched, but they are used to make objects'?",
-    "correct": "It clarifies that materials are not abstract and avoids confusion with the definition of an object.",
-    "options": [
-      "Because materials are always invisible.",
-      "It proves that objects and materials are the same thing.",
-      "It clarifies that materials are not abstract and avoids confusion with the definition of an object.",
-      "Because you can only touch objects, not materials."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "Using the efficient method, what is the final answer to `71 x 999`?",
-    "correct": "70,929",
-    "options": [
-      "71,000",
-      "70,929",
-      "70,999",
-      "71,999"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Math: Distributive Property",
+    "topic": "Present Perfect Continuous",
     "complexity_score": 3
   },
   {
-    "question": "What is the sum of the first 50 odd numbers?",
-    "correct": "2,500",
+    "question": "You want to write a caption for an Instagram post showing a picture of you with your new trophy. Which caption is grammatically strongest?",
+    "correct": "I've been working so hard for this moment!",
     "options": [
-      "100",
-      "500",
-      "2,500",
-      "5,000"
+      "I am working so hard for this moment!",
+      "I work so hard for this moment!",
+      "I been working so hard for this moment!",
+      "I've been working so hard for this moment!"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Number Patterns",
+    "topic": "Tense Application",
     "complexity_score": 3
   },
   {
-    "question": "A single log of wood is a material. If a carpenter carves it into a sculpture of a bird, what has it become?",
-    "correct": "An object made from the material wood",
+    "question": "If you wanted to change 'I watch the bird make its nest every morning' to describe an action that has been happening over time and might still be happening, how would you rewrite it?",
+    "correct": "I have been watching the bird make its nest all week.",
     "options": [
-      "A different type of material",
-      "An object made from the material wood",
-      "It is still just a material",
-      "A new type of tree"
+      "I am watch the bird make its nest.",
+      "I have been watching the bird make its nest all week.",
+      "I has watched the bird make its nest.",
+      "The bird is been making its nest."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
+    "topic": "Tense Transformation",
+    "complexity_score": 4
+  },
+  {
+    "question": "Read this sentence from a story: 'The children are tired because they play in the field all morning.' What is the error?",
+    "correct": "It should be 'have been playing' to show the action happened over the whole morning.",
+    "options": [
+      "It should be 'The childrens are tired'.",
+      "It should be 'they plays in the field'.",
+      "There is no error in the sentence.",
+      "It should be 'have been playing' to show the action happened over the whole morning."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Error Analysis",
     "complexity_score": 3
   },
   {
-    "question": "You see a car. The car is an object. Which statement best describes the relationship between the car and materials?",
-    "correct": "The car is an object made from a combination of many materials like metal, plastic, and glass.",
+    "question": "Analyze this sentence: 'Why is all those people laughing?' What two things need to be corrected for it to be perfect?",
+    "correct": "'is' should be 'are', and 'all those people' is a bit redundant.",
     "options": [
-      "The car is a material used to make other objects.",
-      "The car is made of only one material: car-material.",
-      "The car is an object made from a combination of many materials like metal, plastic, and glass.",
-      "Metal, plastic, and glass are objects that make up the car."
+      "Only 'is' should be 'are'.",
+      "'laughing' should be 'laugh'.",
+      "'is' should be 'are', and 'all those people' is a bit redundant.",
+      "The question mark should be a period."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science: Objects and Materials",
+    "topic": "Complex Error Analysis",
+    "complexity_score": 4
+  },
+  {
+    "question": "A friend writes: 'I am learning guitar since last year.' How could you help them correct this sentence to make it sound more natural?",
+    "correct": "Suggest changing 'am learning' to 'have been learning'.",
+    "options": [
+      "Tell them to remove 'since last year'.",
+      "Suggest changing 'am learning' to 'have been learning'.",
+      "Tell them to use 'was learning' instead.",
+      "The sentence is already perfect."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Peer Correction",
     "complexity_score": 3
   },
   {
-    "question": "The tutor quotes, \"If you will give me one hour to cut a tree, I will spend the first 40 minutes sharpening my axe.\" How does this relate to solving `71 x 999`?",
-    "correct": "It's better to first understand the problem and find an efficient method (sharpening the axe) than to rush into direct calculation.",
+    "question": "You are a movie director. Which sentence would you use in a script to create the most suspense about a character's long, secret activity? A) 'He builds a robot.' B) 'He has been building a robot in his basement for months.'",
+    "correct": "Sentence B, because it implies a long, ongoing secret with a future reveal.",
     "options": [
-      "It means you should always take 40 minutes to solve a math problem.",
-      "It means math problems are like cutting trees.",
-      "It's better to first understand the problem and find an efficient method (sharpening the axe) than to rush into direct calculation.",
-      "It suggests that using an axe is the best way to do math."
+      "Sentence A, because it's short and direct.",
+      "Sentence B, because it implies a long, ongoing secret with a future reveal.",
+      "Both sentences create the same amount of suspense.",
+      "Neither sentence is suspenseful."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math: Problem-Solving Strategy",
-    "complexity_score": 3
+    "topic": "Authorial Choice",
+    "complexity_score": 4
   },
   {
-    "question": "Using the distributive property, what is the result of `18.9 x 9`?",
-    "correct": "170.1",
+    "question": "Your school is launching a new club. Which announcement is more effective at getting students excited? 1) 'The school starts a new drama club.' 2) 'The school is starting a new drama club this fall!'",
+    "correct": "Announcement 2, because 'is starting' creates a sense of immediate, exciting action.",
     "options": [
-      "189",
-      "162.1",
-      "170.1",
-      "180.9"
+      "Announcement 1, because it's more formal.",
+      "Announcement 2, because 'is starting' creates a sense of immediate, exciting action.",
+      "Both are equally effective.",
+      "Neither is effective without more details."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Impact of Tense Choice",
+    "complexity_score": 4
+  },
+  {
+    "question": "Judge the advice: 'You should always use the Present Perfect Continuous when you see the word 'for' in a sentence.' Is this good advice? Why or why not?",
+    "correct": "No, it's not always true; 'for' can be used in other contexts and tenses.",
+    "options": [
+      "Yes, it's a perfect rule that always works.",
+      "Yes, because 'for' always means duration.",
+      "No, it's not always true; 'for' can be used in other contexts and tenses.",
+      "No, because you should never use rules in grammar."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math: Distributive Property",
-    "complexity_score": 3
+    "topic": "Critical Thinking in Grammar",
+    "complexity_score": 5
+  },
+  {
+    "question": "Imagine you get your laptop back. Write one sentence in the Present Perfect Continuous tense to describe what you have been doing with it since you got it back.",
+    "correct": "I have been playing all the quiz games on the website since I got my laptop back!",
+    "options": [
+      "I play games on my laptop.",
+      "I have been playing all the quiz games on the website since I got my laptop back!",
+      "I am playing on my laptop now.",
+      "I will play on my laptop."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Creative Application",
+    "complexity_score": 4
+  },
+  {
+    "question": "Create a two-sentence story about an animal. The first sentence must use the Present Continuous tense, and the second must use the Present Perfect Continuous tense.",
+    "correct": "A small fox is watching the chickens. It has been hiding behind the bush for ten minutes.",
+    "options": [
+      "The fox is hungry. The fox was hiding.",
+      "A small fox is watching the chickens. It has been hiding behind the bush for ten minutes.",
+      "A fox watches chickens. It hides behind a bush.",
+      "A fox has been watching the chickens. It is hiding."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Synthesis of Tenses",
+    "complexity_score": 5
   }
 ]
