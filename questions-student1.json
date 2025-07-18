@@ -1,26 +1,12 @@
 [
   {
-    "question": "In the sentence 'Ankitah has already ______ her exams,' which word correctly completes the sentence?",
-    "correct": "completed",
+    "question": "Which sentence correctly uses the simple present tense to state a general fact?",
+    "correct": "Monsoons occur in India.",
     "options": [
-      "completing",
-      "complete",
-      "completed",
-      "is completing"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Present Perfect Tense",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which sentence correctly uses a verb from your jungle safari story activity?",
-    "correct": "I watch the tigers roam in their enclosure.",
-    "options": [
-      "I am watch the tigers.",
-      "I watch the tigers roam in their enclosure.",
-      "The tigers has roamed.",
-      "The tigers is roaming."
+      "Monsoons is occurring in India.",
+      "Monsoons has occurred in India.",
+      "Monsoons occur in India.",
+      "Monsoons have been occurring in India."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,55 +14,181 @@
     "complexity_score": 1
   },
   {
-    "question": "The Present Perfect Continuous tense is formed with:",
-    "correct": "has/have + been + verb-ing",
+    "question": "Fill in the blank: 'She ___ a life-size painting of the school right now.'",
+    "correct": "is making",
     "options": [
-      "is/are + verb-ing",
-      "has/have + verb",
-      "has/have + been + verb-ing",
-      "was/were + verb-ing"
+      "makes",
+      "has been making",
+      "is making",
+      "make"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Tense Formation",
+    "topic": "Present Continuous Tense",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence, 'What game ___ those children playing?', which word fits in the blank?",
+    "question": "Which word is a key signal to use the present perfect continuous tense?",
+    "correct": "Since",
+    "options": [
+      "Yesterday",
+      "Now",
+      "Since",
+      "Soon"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "Fill in the blank with the correct form of the verb 'apply': 'Moha ___ for several jobs.'",
+    "correct": "has applied",
+    "options": [
+      "is applying",
+      "has applied",
+      "applies",
+      "has been applying"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Perfect Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "Choose the correct subject-verb agreement: 'She and his friends ___ judo.'",
+    "correct": "are practicing",
+    "options": [
+      "is practicing",
+      "are practicing",
+      "has been practicing",
+      "practices"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
+  },
+  {
+    "question": "Fill in the blank: 'What game ___ those children playing?'",
     "correct": "are",
     "options": [
       "is",
       "are",
-      "was",
+      "does",
       "has"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
     "topic": "Subject-Verb Agreement",
-    "complexity_score": 2
+    "complexity_score": 1
   },
   {
-    "question": "Why is 'It has been snowing since yesterday' the correct choice over 'It is snowing since yesterday'?",
-    "correct": "Because 'since yesterday' indicates the action started in the past and is still continuing.",
+    "question": "Which sentence correctly describes an action that started in the past and is still continuing?",
+    "correct": "He has been driving the car for three hours.",
     "options": [
-      "Because 'is snowing' is always wrong.",
-      "Because 'since yesterday' indicates the action started in thepast and is still continuing.",
-      "Because snow is always in the past.",
-      "Because the weather is a perfect event."
+      "He is driving the car for three hours.",
+      "He drives the car for three hours.",
+      "He has been driving the car for three hours.",
+      "He drove the car for three hours."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous vs. Present Continuous",
+    "topic": "Present Perfect Continuous vs. Others",
     "complexity_score": 2
   },
   {
-    "question": "When we talked about the 'Public Health Department', why did we use 'has been' instead of 'have been'?",
-    "correct": "Because 'Department' is a single group, so it's treated as a singular noun.",
+    "question": "The sentence 'The children are tired because they ___ in the field all morning' needs which verb phrase?",
+    "correct": "have been playing",
     "options": [
-      "Because 'Public' is singular.",
-      "Because there are many people in a department, so it's plural.",
-      "Because 'Department' is a single group, so it's treated as a singular noun.",
-      "Because health is more important than people."
+      "are playing",
+      "played",
+      "have been playing",
+      "has been playing"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous Tense",
+    "complexity_score": 2
+  },
+  {
+    "question": "Choose the correct sentence: 'Ankitah has already ___ her exams.'",
+    "correct": "Ankitah has already completed her exams.",
+    "options": [
+      "Ankitah has already completing her exams.",
+      "Ankitah has already completes her exams.",
+      "Ankitah has already completed her exams.",
+      "Ankitah is already completed her exams."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Tense",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is 'It has been snowing' correct for the sentence 'It ___ continuously since yesterday'?",
+    "correct": "Because 'since yesterday' indicates a duration of time that continues to the present.",
+    "options": [
+      "Because 'snowing' is always in the perfect tense.",
+      "Because the action happened only yesterday.",
+      "Because 'it' is a singular subject.",
+      "Because 'since yesterday' indicates a duration of time that continues to the present."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Tense Differentiation",
+    "complexity_score": 3
+  },
+  {
+    "question": "Convert the sentence 'He was questioned by his father' to the present perfect tense (passive voice).",
+    "correct": "He has been questioned by his father.",
+    "options": [
+      "He has questioned his father.",
+      "He is being questioned by his father.",
+      "He has been questioned by his father.",
+      "His father has questioned him."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Passive Voice and Tense Change",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which sentence correctly uses the verb 'graze' in a continuous form?",
+    "correct": "I see the deer grazing on the leaves.",
+    "options": [
+      "The deer have graze the leaves.",
+      "I see the deer grazing on the leaves.",
+      "The deer is graze the leaves.",
+      "The deer grazes on the leaves right now."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms in Context",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the error in the sentence: 'Why is all those people laughing?'",
+    "correct": "The verb 'is' does not agree with the plural subject 'people'.",
+    "options": [
+      "The word 'laughing' should be 'laughed'.",
+      "The verb 'is' does not agree with the plural subject 'people'.",
+      "'All' is not needed in the sentence.",
+      "The question should start with 'How'."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Error Correction - Subject-Verb Agreement",
+    "complexity_score": 3
+  },
+  {
+    "question": "In the sentence 'The public health department ___ putting a lot of stress on sanitation...', why is 'has been' correct?",
+    "correct": "'Department' is a singular collective noun.",
+    "options": [
+      "'Department' is always plural.",
+      "'Department' is a singular collective noun.",
+      "'Public health' is the subject, which is singular.",
+      "Because the action is finished."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -84,83 +196,69 @@
     "complexity_score": 3
   },
   {
-    "question": "What is the main difference in meaning between 'I am doing my homework' and 'I have been doing my homework for an hour'?",
-    "correct": "The second sentence emphasizes the duration of the activity.",
+    "question": "Read the short story opening: 'When I entered the jungle, I see many trees.' What is the main issue with tense consistency?",
+    "correct": "It switches from past tense ('entered') to present tense ('see') without a clear reason.",
+    "options": [
+      "It should use the future tense.",
+      "The verb 'entered' is incorrect.",
+      "It switches from past tense ('entered') to present tense ('see') without a clear reason.",
+      "The verb 'see' should be in a continuous form."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Narrative Tense Consistency",
+    "complexity_score": 4
+  },
+  {
+    "question": "Which of these situations is BEST described using the Present Perfect Continuous tense?",
+    "correct": "Explaining that you are tired because you studied all night.",
+    "options": [
+      "Stating your daily routine of studying.",
+      "Describing the action of opening your book right now.",
+      "Announcing that you have finished your homework.",
+      "Explaining that you are tired because you studied all night."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Tense Application",
+    "complexity_score": 4
+  },
+  {
+    "question": "A friend says, 'I saw that movie.' Another says, 'I have seen that movie.' What is the subtle difference in meaning?",
+    "correct": "'I have seen' implies the experience is part of their life now, while 'I saw' refers to a specific time in the past.",
     "options": [
       "There is no difference in meaning.",
-      "The first sentence means the homework is finished.",
-      "The second sentence emphasizes the duration of the activity.",
-      "The first sentence is more formal than the second."
+      "'I have seen' implies the experience is part of their life now, while 'I saw' refers to a specific time in the past.",
+      "'I saw' means they liked it more.",
+      "'I have seen' is used only for movies you watch multiple times."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Nuances",
-    "complexity_score": 3
+    "topic": "Tense Nuance (Simple Past vs. Present Perfect)",
+    "complexity_score": 5
   },
   {
-    "question": "Imagine you are explaining your new Ecoscience club to a friend. Which sentence best describes your new interest?",
-    "correct": "I have chosen the Ecoscience club because I love experiments.",
+    "question": "Identify the incorrect sentence.",
+    "correct": "We has been trying to find our way home.",
     "options": [
-      "I am choose the Ecoscience club.",
-      "I have choosing the Ecoscience club.",
-      "I has chosen the Ecoscience club.",
-      "I have chosen the Ecoscience club because I love experiments."
+      "How is he doing after the accident?",
+      "We has been trying to find our way home.",
+      "The people who travel to the office by foot should now take the bus.",
+      "Jainth has decided to work in a bank."
     ],
-    "difficulty": "easy",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
-    "complexity_score": 2
+    "topic": "Error Identification",
+    "complexity_score": 4
   },
   {
-    "question": "Your friend is late. You call them and they say, 'Sorry, I'm running to catch the bus!' What tense are they using?",
-    "correct": "Present Continuous",
+    "question": "To make the sentence 'The people ___ to office by foot' a general statement (simple present), what verb form should be used?",
+    "correct": "travel",
     "options": [
-      "Simple Present",
-      "Present Perfect",
-      "Present Continuous",
-      "Present Perfect Continuous"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Tense Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "You see your friend who looks exhausted. You ask, 'What have you been doing?' They reply: 'I ______ for the science fair all morning.'",
-    "correct": "have been preparing",
-    "options": [
-      "am preparing",
-      "prepare",
-      "have been preparing",
-      "did prepare"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Present Perfect Continuous",
-    "complexity_score": 3
-  },
-  {
-    "question": "You want to write a caption for an Instagram post showing a picture of you with your new trophy. Which caption is grammatically strongest?",
-    "correct": "I've been working so hard for this moment!",
-    "options": [
-      "I am working so hard for this moment!",
-      "I work so hard for this moment!",
-      "I been working so hard for this moment!",
-      "I've been working so hard for this moment!"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Tense Application",
-    "complexity_score": 3
-  },
-  {
-    "question": "If you wanted to change 'I watch the bird make its nest every morning' to describe an action that has been happening over time and might still be happening, how would you rewrite it?",
-    "correct": "I have been watching the bird make its nest all week.",
-    "options": [
-      "I am watch the bird make its nest.",
-      "I have been watching the bird make its nest all week.",
-      "I has watched the bird make its nest.",
-      "The bird is been making its nest."
+      "are traveling",
+      "travels",
+      "have been traveling",
+      "travel"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -168,115 +266,17 @@
     "complexity_score": 4
   },
   {
-    "question": "Read this sentence from a story: 'The children are tired because they play in the field all morning.' What is the error?",
-    "correct": "It should be 'have been playing' to show the action happened over the whole morning.",
+    "question": "Your daughter ___ you the same thing since you got here.' Why is 'has been telling' the best fit?",
+    "correct": "The action is repetitive and has continued over a period of time indicated by 'since you got here'.",
     "options": [
-      "It should be 'The childrens are tired'.",
-      "It should be 'they plays in the field'.",
-      "There is no error in the sentence.",
-      "It should be 'have been playing' to show the action happened over the whole morning."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Error Analysis",
-    "complexity_score": 3
-  },
-  {
-    "question": "Analyze this sentence: 'Why is all those people laughing?' What two things need to be corrected for it to be perfect?",
-    "correct": "'is' should be 'are', and 'all those people' is a bit redundant.",
-    "options": [
-      "Only 'is' should be 'are'.",
-      "'laughing' should be 'laugh'.",
-      "'is' should be 'are', and 'all those people' is a bit redundant.",
-      "The question mark should be a period."
+      "Because the daughter is telling a story.",
+      "The action is repetitive and has continued over a period of time indicated by 'since you got here'.",
+      "Because 'daughter' is singular.",
+      "The action is a single, completed event."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Complex Error Analysis",
-    "complexity_score": 4
-  },
-  {
-    "question": "A friend writes: 'I am learning guitar since last year.' How could you help them correct this sentence to make it sound more natural?",
-    "correct": "Suggest changing 'am learning' to 'have been learning'.",
-    "options": [
-      "Tell them to remove 'since last year'.",
-      "Suggest changing 'am learning' to 'have been learning'.",
-      "Tell them to use 'was learning' instead.",
-      "The sentence is already perfect."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Peer Correction",
-    "complexity_score": 3
-  },
-  {
-    "question": "You are a movie director. Which sentence would you use in a script to create the most suspense about a character's long, secret activity? A) 'He builds a robot.' B) 'He has been building a robot in his basement for months.'",
-    "correct": "Sentence B, because it implies a long, ongoing secret with a future reveal.",
-    "options": [
-      "Sentence A, because it's short and direct.",
-      "Sentence B, because it implies a long, ongoing secret with a future reveal.",
-      "Both sentences create the same amount of suspense.",
-      "Neither sentence is suspenseful."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Authorial Choice",
-    "complexity_score": 4
-  },
-  {
-    "question": "Your school is launching a new club. Which announcement is more effective at getting students excited? 1) 'The school starts a new drama club.' 2) 'The school is starting a new drama club this fall!'",
-    "correct": "Announcement 2, because 'is starting' creates a sense of immediate, exciting action.",
-    "options": [
-      "Announcement 1, because it's more formal.",
-      "Announcement 2, because 'is starting' creates a sense of immediate, exciting action.",
-      "Both are equally effective.",
-      "Neither is effective without more details."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Impact of Tense Choice",
-    "complexity_score": 4
-  },
-  {
-    "question": "Judge the advice: 'You should always use the Present Perfect Continuous when you see the word 'for' in a sentence.' Is this good advice? Why or why not?",
-    "correct": "No, it's not always true; 'for' can be used in other contexts and tenses.",
-    "options": [
-      "Yes, it's a perfect rule that always works.",
-      "Yes, because 'for' always means duration.",
-      "No, it's not always true; 'for' can be used in other contexts and tenses.",
-      "No, because you should never use rules in grammar."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Critical Thinking in Grammar",
-    "complexity_score": 5
-  },
-  {
-    "question": "Imagine you get your laptop back. Write one sentence in the Present Perfect Continuous tense to describe what you have been doing with it since you got it back.",
-    "correct": "I have been playing all the quiz games on the website since I got my laptop back!",
-    "options": [
-      "I play games on my laptop.",
-      "I have been playing all the quiz games on the website since I got my laptop back!",
-      "I am playing on my laptop now.",
-      "I will play on my laptop."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Creative Application",
-    "complexity_score": 4
-  },
-  {
-    "question": "Create a two-sentence story about an animal. The first sentence must use the Present Continuous tense, and the second must use the Present Perfect Continuous tense.",
-    "correct": "A small fox is watching the chickens. It has been hiding behind the bush for ten minutes.",
-    "options": [
-      "The fox is hungry. The fox was hiding.",
-      "A small fox is watching the chickens. It has been hiding behind the bush for ten minutes.",
-      "A fox watches chickens. It hides behind a bush.",
-      "A fox has been watching the chickens. It is hiding."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Synthesis of Tenses",
+    "topic": "Tense Analysis",
     "complexity_score": 5
   }
 ]
