@@ -1,12 +1,362 @@
 [
   {
-    "question": "In the lesson, what is the English word the teacher provided for 'pakoda'?",
-    "correct": "Fritters",
+    "question": "What is the correct spelling of 'spread'?",
+    "correct": "SPREAD",
     "options": [
-      "Pakodas",
-      "Fryers",
-      "Fritters",
-      "Fries"
+      "SPRED",
+      "SPRADE",
+      "SPREAD",
+      "SPREED"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Spelling",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which phrase is grammatically correct?",
+    "correct": "The best",
+    "options": [
+      "The most best",
+      "The better",
+      "The very best",
+      "The best"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Superlatives",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the sentence 'We play with water,' why is 'play' used instead of 'plays'?",
+    "correct": "Because 'We' is a plural subject",
+    "options": [
+      "Because it is a past tense",
+      "Because 'We' is a plural subject",
+      "Because it is a present perfect tense",
+      "Because it is a negative sentence"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
+  },
+  {
+    "question": "What tense is used for actions that are completed, as described in the class?",
+    "correct": "Present Perfect",
+    "options": [
+      "Present Simple",
+      "Present Continuous",
+      "Present Perfect",
+      "Future Simple"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Tenses",
+    "complexity_score": 1
+  },
+  {
+    "question": "Correct the sentence: 'She don't like coffee.'",
+    "correct": "She doesn't like coffee.",
+    "options": [
+      "She no like coffee.",
+      "She doesn't like coffee.",
+      "She not like coffee.",
+      "She is not liking coffee."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Sentence Correction",
+    "complexity_score": 1
+  },
+  {
+    "question": "Correct the sentence: 'They is playing in the garden.'",
+    "correct": "They are playing in the garden.",
+    "options": [
+      "They playing in the garden.",
+      "They are playing in the garden.",
+      "They were playing in the garden.",
+      "They has played in the garden."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Sentence Correction",
+    "complexity_score": 1
+  },
+  {
+    "question": "Correct the sentence: 'He runs fast tilly every morning.'",
+    "correct": "He runs fast every morning.",
+    "options": [
+      "He run fast every morning.",
+      "He fast runs every morning.",
+      "He runs fast every morning.",
+      "He fast run every morning."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Sentence Correction",
+    "complexity_score": 1
+  },
+  {
+    "question": "Correct the sentence: 'We will meet him yesterday.'",
+    "correct": "We met him yesterday.",
+    "options": [
+      "We will meet him tomorrow.",
+      "We met him yesterday.",
+      "We meet him yesterday.",
+      "We were meeting him yesterday."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Sentence Correction",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the past participle form of 'Teach'?",
+    "correct": "Taught",
+    "options": [
+      "Teached",
+      "Taught",
+      "Teaching",
+      "To teach"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the past simple form of 'Drive'?",
+    "correct": "Drove",
+    "options": [
+      "Driven",
+      "Drove",
+      "Driving",
+      "Drives"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the past participle form of 'Sing'?",
+    "correct": "Sung",
+    "options": [
+      "Sang",
+      "Sung",
+      "Singing",
+      "Sings"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the past simple form of 'Rise'?",
+    "correct": "Rose",
+    "options": [
+      "Risen",
+      "Rose",
+      "Rising",
+      "Rises"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the past participle form of 'Fly'?",
+    "correct": "Flown",
+    "options": [
+      "Flew",
+      "Flown",
+      "Flying",
+      "Flies"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Cut'?",
+    "correct": "Cut, Cut, Cut",
+    "options": [
+      "Cut, Cuted, Cutting",
+      "Cut, Cut, Cut",
+      "Cut, Cutted, Cut",
+      "Cut, Cut, Cutted"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "What are the three forms of the verb 'Split'?",
+    "correct": "Split, Split, Split",
+    "options": [
+      "Split, Split, Split",
+      "Split, Splitted, Split",
+      "Split, Split, Splitted",
+      "Splitted, Split, Split"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "What are the three forms of the verb 'Speak'?",
+    "correct": "Speak, Spoke, Spoken",
+    "options": [
+      "Speak, Spoke, Spoken",
+      "Speak, Spoke, Speak",
+      "Speak, Spoken, Spoken",
+      "Speak, Speaking, Spoke"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Begin'?",
+    "correct": "Begin, Began, Begun",
+    "options": [
+      "Begin, Begun, Began",
+      "Begin, Began, Begun",
+      "Begin, Beginned, Begun",
+      "Begin, Begin, Begun"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Choose'?",
+    "correct": "Choose, Chose, Chosen",
+    "options": [
+      "Choose, Choosed, Chosen",
+      "Choose, Chose, Chosen",
+      "Choose, Chosen, Chose",
+      "Choose, Choosing, Chose"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Eat'?",
+    "correct": "Eat, Ate, Eaten",
+    "options": [
+      "Eat, Eaten, Ate",
+      "Eat, Ate, Eaten",
+      "Eat, Eating, Eaten",
+      "Eat, Ate, Ate"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Fall'?",
+    "correct": "Fall, Fell, Fallen",
+    "options": [
+      "Fall, Fallen, Fell",
+      "Fall, Fell, Fallen",
+      "Fall, Falling, Fell",
+      "Fall, Fell, Fell"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Give'?",
+    "correct": "Give, Gave, Given",
+    "options": [
+      "Give, Given, Gave",
+      "Give, Gave, Given",
+      "Give, Giving, Gave",
+      "Give, Gave, Gave"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the three forms of the verb 'Rain'?",
+    "correct": "Rain, Rained, Rained",
+    "options": [
+      "Rain, Rained, Rained",
+      "Rain, Raining, Rained",
+      "Rain, Rain, Rained",
+      "Rain, Rained, Raining"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "What are the three forms of the verb 'Fry'?",
+    "correct": "Fry, Fried, Fried",
+    "options": [
+      "Fry, Fried, Fried",
+      "Fry, Frying, Fried",
+      "Fry, Fry, Fried",
+      "Fry, Fryed, Fryed"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "What are the three forms of the verb 'Study'?",
+    "correct": "Study, Studied, Studied",
+    "options": [
+      "Study, Studied, Studied",
+      "Study, Studying, Studied",
+      "Study, Study, Studied",
+      "Study, Studied, Studying"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "What are the three forms of the verb 'Learn'?",
+    "correct": "Learn, Learnt, Learnt",
+    "options": [
+      "Learn, Learnt, Learnt",
+      "Learn, Learning, Learnt",
+      "Learn, Learn, Learnt",
+      "Learn, Learned, Learned"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "What does 'Melodic' mean?",
+    "correct": "Sweet-sounding",
+    "options": [
+      "Noisy",
+      "Sweet-sounding",
+      "Bright",
+      "Dull"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,269 +364,59 @@
     "complexity_score": 1
   },
   {
-    "question": "According to the teacher, which is the correct way to say the sentence about the trees?",
-    "correct": "Trees are covered with greenery.",
+    "question": "What does 'Vibrancy' mean?",
+    "correct": "Energy/Color/Life",
     "options": [
-      "Trees is covered with green flower.",
-      "Trees are covered with greenery.",
-      "Trees become green.",
-      "Trees is get covered in greenery."
+      "Darkness",
+      "Energy/Color/Life",
+      "Quietness",
+      "Stillness"
     ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Grammar: Subject-Verb Agreement",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does the word 'amiable', as suggested for describing a teacher, mean?",
-    "correct": "Friendly",
-    "options": [
-      "Strict",
-      "Intelligent",
-      "Friendly",
-      "Respectful"
-    ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the sample introduction for a speech, what kind of 'chance' does the speaker say they received?",
-    "correct": "A platinum chance",
-    "options": [
-      "A golden chance",
-      "A lucky chance",
-      "A platinum chance",
-      "A majestic chance"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Speech Components",
-    "complexity_score": 1
-  },
-  {
-    "question": "What was Anaya's initial mistake when she first tried to introduce herself for a speech?",
-    "correct": "Listing the names of her family members",
-    "options": [
-      "Forgetting her class name",
-      "Speaking too quietly",
-      "Listing the names of her family members",
-      "Stating her topic first"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Introduction Mistakes",
-    "complexity_score": 1
-  },
-  {
-    "question": "What greeting did the teacher suggest using for a speech happening in the afternoon?",
-    "correct": "Wishing you all a splendid afternoon.",
-    "options": [
-      "Good afternoon to everyone here.",
-      "Wishing you all a splendid morning.",
-      "Wishing you all a splendid afternoon.",
-      "A very good afternoon to my mobile trainer."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Speech Components",
-    "complexity_score": 1
-  },
-  {
-    "question": "If Anaya were giving a speech at an inter-NATIONAL competition in the USA, what would be the most important thing to state after her name?",
-    "correct": "I am representing India.",
-    "options": [
-      "I am from Delhi Public School.",
-      "I am from the Ganga House.",
-      "I am representing India.",
-      "I am from the district of Bilaspur."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Contextual Adaptation",
     "complexity_score": 2
   },
   {
-    "question": "Why did the teacher advise Anaya NOT to mention her school's name when giving a speech at her own school assembly?",
-    "correct": "Because the audience already knows which school they are in.",
+    "question": "What does 'Muffled' mean?",
+    "correct": "Quiet and unclear",
     "options": [
-      "Because it's against the school rules.",
-      "Because the audience already knows which school they are in.",
-      "Because it makes the introduction too long.",
-      "Because she should mention her house name instead."
+      "Loud",
+      "Quiet and unclear",
+      "Clear",
+      "Sharp"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Contextual Adaptation",
+    "topic": "Vocabulary",
     "complexity_score": 2
   },
   {
-    "question": "The teacher corrected Anaya's sentence from 'I am not attempt the quiz' to 'I could not attempt the quiz'. What does 'I could not' imply?",
-    "correct": "That she was unable to do it for a specific reason.",
+    "question": "What does 'Flourish' mean?",
+    "correct": "To grow well and be successful",
     "options": [
-      "That she did not want to do it.",
-      "That she was unable to do it for a specific reason.",
-      "That she forgot to do it.",
-      "That she will do it later."
+      "To decline or wither",
+      "To struggle",
+      "To grow well and be successful",
+      "To remain stagnant"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs",
+    "topic": "Vocabulary",
     "complexity_score": 2
   },
   {
-    "question": "What is the main purpose of practicing a speech while standing up, according to the lesson?",
-    "correct": "To get the proper feel of delivering a real speech.",
+    "question": "What does 'Serenity' mean?",
+    "correct": "Peacefulness",
     "options": [
-      "To make sure the microphone can hear you.",
-      "To get the proper feel of delivering a real speech.",
-      "To show respect to the trainer.",
-      "To make your voice louder."
+      "Loudness",
+      "Peacefulness",
+      "Excitement",
+      "Chaos"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Delivery Technique",
+    "topic": "Vocabulary",
     "complexity_score": 2
-  },
-  {
-    "question": "If Anaya's speech topic is 'The Importance of Friendship', which part of the structured introduction would she need to change?",
-    "correct": "The line that begins with 'I will be expressing my thoughts on...'",
-    "options": [
-      "The part where she pays regards to the trainer.",
-      "The line that begins with 'I will be expressing my thoughts on...'",
-      "The part where she mentions her name and house.",
-      "The part where she wishes everyone a splendid afternoon."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Speech Components",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher suggested using the phrase 'majestic event'. What kind of atmosphere is this phrase intended to create?",
-    "correct": "One of importance and grandeur.",
-    "options": [
-      "One of fun and casualness.",
-      "One of importance and grandeur.",
-      "One of sadness and seriousness.",
-      "One of competition and rivalry."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary and Tone",
-    "complexity_score": 2
-  },
-  {
-    "question": "When Anaya is representing her 'Ganga house' in a competition, the teacher suggests saying 'I am representing the Ganga house.' Why is this phrasing effective?",
-    "correct": "It sounds more active, official, and professional.",
-    "options": [
-      "It is the only grammatically correct way to say it.",
-      "It is shorter and easier for the audience to remember.",
-      "It sounds more active, official, and professional.",
-      "It shows she is not proud of her house."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Language Choice",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher models a personal introduction for an interview which is different from a speech introduction. What is the primary focus of the interview introduction he demonstrated?",
-    "correct": "His personal background, skills, and life philosophy.",
-    "options": [
-      "The topic he is about to discuss.",
-      "Greeting the interviewers formally.",
-      "His personal background, skills, and life philosophy.",
-      "The names of his family members and their professions."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Types of Introductions",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher stressed the importance of avoiding a 'monotonous' tone. What is the main strategic goal of varying your vocal pitch during a speech?",
-    "correct": "To maintain audience engagement and emphasize key ideas.",
-    "options": [
-      "To prove you have a good singing voice.",
-      "To make the speech last longer.",
-      "To maintain audience engagement and emphasize key ideas.",
-      "To confuse the judges so they pay more attention."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Delivery Technique",
-    "complexity_score": 3
-  },
-  {
-    "question": "The line 'I pay my deepest regards to...' is taught as a formal opening. Why is this more effective in a formal setting than a simple 'Hello everyone'?",
-    "correct": "It immediately establishes a tone of respect and formality.",
-    "options": [
-      "It is more modern and sounds cooler.",
-      "It immediately establishes a tone of respect and formality.",
-      "It proves the speaker has a large vocabulary.",
-      "It is a required phrase in all competitions."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Language Choice",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the underlying principle behind changing your introduction for an in-class speech versus an inter-school competition?",
-    "correct": "Effective communication requires adapting your message to the specific audience and context.",
-    "options": [
-      "Different teachers have different rules for introductions.",
-      "Longer speeches require longer introductions.",
-      "Effective communication requires adapting your message to the specific audience and context.",
-      "You should always try to sound as important as possible."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Core Communication Principles",
-    "complexity_score": 3
-  },
-  {
-    "question": "The introduction structure includes the line, 'I am very grateful that I have got a platinum chance to participate.' What is the strategic purpose of including a statement like this?",
-    "correct": "To show humility and build a positive connection with the audience and organizers.",
-    "options": [
-      "To suggest that the speaker is better than other participants.",
-      "To fulfill a mandatory part of the scoring rubric.",
-      "To show humility and build a positive connection with the audience and organizers.",
-      "To make the audience feel sorry for the speaker."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Rhetorical Strategy",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson transitions from grammar correction (e.g., 'Trees are') to public speaking skills. How are these two topics fundamentally connected?",
-    "correct": "Correct grammar provides the foundation for clear, credible, and professional public speaking.",
-    "options": [
-      "They are both parts of the English subject but are not related.",
-      "You must be good at grammar to be allowed to give a speech.",
-      "Correct grammar provides the foundation for clear, credible, and professional public speaking.",
-      "Speaking is more important than grammar."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Connecting Concepts",
-    "complexity_score": 3
-  },
-  {
-    "question": "The teacher distinguishes between a speech introduction (on a topic) and a personal introduction (about yourself). What is the key difference in their GOALS?",
-    "correct": "A speech intro aims to prepare the audience for a topic, while a personal intro aims to present one's own identity and qualifications.",
-    "options": [
-      "A speech intro is for school, and a personal intro is for work.",
-      "A speech intro is always short, and a personal intro is always long.",
-      "A speech intro aims to prepare the audience for a topic, while a personal intro aims to present one's own identity and qualifications.",
-      "There is no real difference; the teacher was just giving two examples."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Analysis of Purpose",
-    "complexity_score": 3
   }
 ]
