@@ -88,7 +88,7 @@ const HindiEnglishQuiz = () => {
     }
   }, []);
 
-  // Simplify question loading - always load 20 questions
+  // Simplify question loading - always load 30 questions
   useEffect(() => {
     const urlParams = new URLSearchParams(window.location.search);
     const student = urlParams.get('student');
@@ -140,12 +140,12 @@ const HindiEnglishQuiz = () => {
       .then(data => {
         if (!isMounted) return;
         
-        // Always process and shuffle 20 questions
+        // Always process and shuffle 30 questions
         const processedQuestions = data.map((question, index) => ({
           ...question,
           id: question.id || index,
         }));
-        const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 20);
+        const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 30);
         setQuestions(shuffledQuestions);
         setQuestionLoadError(null);
       })
